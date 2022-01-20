@@ -694,9 +694,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ に有る印／斑点</definition>
+  <definition>$x_1$ は $x_2$ 上にある材質 $x_3$ の斑点／染み／つぎあて／印</definition>
   <definitionid>39257</definitionid>
-  <notes>［様式を伴うものは ba&apos;armo&apos;a。］「ko catke lo xunre barna／赤い印を押してください」 ・大意： 印 ・読み方： バルナ  ・語呂合わせ： ＜バーない＞, ban(瘢), mark ・関連語： {sinxa}, {pixra}, {se} {ciska}, {se} {prina}</notes>
+  <notes>様式を伴うものは ba&apos;armo&apos;a。「ko catke lo xunre barna／赤い印を押してください」 ・大意： 印 ・読み方： バルナ  ・語呂合わせ： ＜バーない＞, ban(瘢), mark ・関連語： {sinxa}, {pixra}, {se} {ciska}, {se} {prina}</notes>
 </valsi>
 <valsi word="bartu" type="gismu">
   <rafsi>bar</rafsi>
@@ -1301,9 +1301,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （素材）の立体物／塊／ブロック</definition>
+  <definition>$x_1$ は材質 $x_2$ ・表面 $x_3$ （面の数／面の大きさ／面の形）のブロック（3次元の形）</definition>
   <definitionid>39290</definitionid>
-  <notes>・大意： 塊 ・読み方： ブルィク  ・語呂合わせ： ＜ブリ食う＞, ブロック,  block  ・関連語： {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}</notes>
+  <notes>・大意： ブロック ・読み方： ブルィク ・語呂合わせ： ＜ブリ食う＞, ブロック, block ・関連語： {tapla}, {kubli}, {tanbo}, {canlu}, {kojna}, {sefta}, {bolci}, {kurfa}, {tarmi}; {pitybli} （多面体のブロック）, {kubybli} （正多面体のブロック）, {blikubli} （ブロックである正多面体）, {kitybli} （レンガ）</notes>
 </valsi>
 <valsi word="bloti" type="gismu">
   <rafsi>lot</rafsi>
@@ -1890,9 +1890,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （所／視界）から消える</definition>
+  <definition>x1 は地点 $x_2$ において感覚器／センサー $x_3$ の視界から消える</definition>
   <definitionid>40395</definitionid>
-  <notes>眼やカメラ等の視覚媒体としてx3の追加も。「現れる」は「to&apos;e/tol-」で対義化。 ・大意： 消える ・読み方： シャンシ  ・語呂合わせ： ＜シャンとしないと＞消失,cian(潜), vanish ・関連語： {cliva}, {ganse}, {zgana}, {lebna}, {vimcu}</notes>
+  <notes>「現れる」は「to&apos;e/tol-」で対義化。 ・大意： 消える ・読み方： シャンシ  ・語呂合わせ： ＜シャンとしないと＞消失,cian(潜), vanish ・関連語： {cliva}, {ganse}, {zgana}, {lebna}, {vimcu}</notes>
 </valsi>
 <valsi word="cando" type="gismu">
   <rafsi>cad</rafsi>
@@ -2011,9 +2011,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （軸）・ $x_3$ （指向）で回る／回転／周回／旋回する</definition>
+  <definition>$x_1$ は $x_2$ を軸として $x_3$ の向きに回る／回転する／周回する／旋回する</definition>
   <definitionid>39326</definitionid>
-  <notes>・大意： 回る ・読み方： シャルナ  ・語呂合わせ： おっしゃるな, cuan(旋), turn, tornar ・関連語： {gunro}, {jendu}</notes>
+  <notes>$x_2$ にベクトルを入れると $x_3$ を表現しやすい。とある地点から見た回転の角距離 (angular distance) $x_4$ を追加する定義案が、2012年までに出されている。その一方、回転角 (angle of rotation)・角速度 (angular velocity) などを追加する定義案は出されていない。 ・大意： 回る ・読み方： シャルナ ・語呂合わせ： おっしゃるな, cuan(旋), turn, tornar ・関連語： {gunro}, {jendu}; {jincarna} （環状に回る／回転する）</notes>
 </valsi>
 <valsi word="cartu" type="gismu">
   <rafsi>cat</rafsi>
@@ -2328,9 +2328,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は角柱／くさび形</definition>
+  <definition>$x_1$ は材質 $x_2$ でできている楔／楔形</definition>
   <definitionid>39346</definitionid>
-  <notes>・大意： 角柱 ・読み方： シフィネ  ・関連語： {tutci}</notes>
+  <notes>・大意： 楔 ・読み方： シフィネ  ・関連語： {tutci}</notes>
 </valsi>
 <valsi word="cfipu" type="gismu">
   <rafsi>fi&apos;u</rafsi>
@@ -2583,9 +2583,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （次元／性質）に関して無限</definition>
+  <definition>$x_1$ は $x_2$ （次元／性質）に関して $x_3$ の程度に無限</definition>
   <definitionid>39362</definitionid>
-  <notes>・大意： 無限 ・読み方： シムニ  ・語呂合わせ： 死無に ・関連語： {vitno}, {renvi}, {munje}, {fanmo}, {sisti}</notes>
+  <notes>$x_3$ は無限集合の濃度など。・大意： 無限 ・読み方： シムニ  ・語呂合わせ： 死無に ・関連語： {vitno}, {renvi}, {munje}, {fanmo}, {sisti}</notes>
 </valsi>
 <valsi word="cinba" type="gismu">
   <user>
@@ -2601,9 +2601,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ はブナ科（樫／オーク）</definition>
+  <definition>  x1 は $x_2$ （種類）のオーク／樫／楢</definition>
   <definitionid>39364</definitionid>
-  <notes>・大意： ブナ科 ・読み方： シンドゥ  ・語呂合わせ： cian（橡） ・関連語： {tricu}</notes>
+  <notes>ブナ科コナラ属の植物。・大意： ブナ科 ・読み方： シンドゥ  ・語呂合わせ： cian（橡） ・関連語： {tricu}</notes>
 </valsi>
 <valsi word="cinfo" type="gismu">
   <user>
@@ -3124,9 +3124,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は回路／循環系／ループ</definition>
+  <definition>$x_1$ は材質 $x_2$ のループ／回路／循環系</definition>
   <definitionid>39400</definitionid>
-  <notes>・大意： 回路 ・読み方： シルゥパ  ・関連語： {djine}</notes>
+  <notes>・大意： 回路 ・読み方： シルゥパ  ・関連語： {djine}; {skoclupa} （縄のループ）, {saljgeclupa} （滑る結び目のついたループ）, {cuptai} （ループ形）</notes>
 </valsi>
 <valsi word="cmaci" type="gismu">
   <user>
@@ -3582,7 +3582,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （年）・（所）の夏季</definition>
+  <definition>$x_1$ は $x_2$ （年）・ $x_3$ （所）の夏季</definition>
   <definitionid>39428</definitionid>
   <notes>・大意： 夏 ・読み方： シリサ  ・語呂合わせ： 知り去る夏, cia(夏),summer ・関連語： {citsi}, {critu}, {dunra}, {vensa}</notes>
 </valsi>
@@ -3610,9 +3610,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （本体）の唇</definition>
+  <definition>$x_1$ は開口部 $x_2$ を縁取る $x_3$（本体）の唇／ふち</definition>
   <definitionid>39431</definitionid>
-  <notes>比喩的に「窓枠」なども。 ・大意： 唇 ・読み方： シテビ  ・語呂合わせ： してビンタ, cuen(唇), labio ・関連語： {moklu}, {korbi}, {cinba}</notes>
+  <notes>「窓枠」なども。 ・大意： 唇 ・読み方： シテビ  ・語呂合わせ： してビンタ, cuen(唇), labio ・関連語： {moklu}, {korbi}, {cinba}</notes>
 </valsi>
 <valsi word="cteki" type="gismu">
   <rafsi>tek</rafsi>
@@ -4149,9 +4149,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （特性）の島／環礁；  $x_1$ は島国的</definition>
+  <definition>  $x_1$ は材質／性質 $x_2$ で形成され $x_3$ に囲まれた島／環礁； x1 は島的</definition>
   <definitionid>39463</definitionid>
-  <notes>「環状珊瑚礁」も。 ・大意： 島 ・読み方： ダプルゥ  ・関連語： {lalxu}, {rirxe}, {xamsi}, {dirgo}</notes>
+  <notes>・大意： 島 ・読み方： ダプルゥ  ・関連語： {lalxu}, {rirxe}, {xamsi}, {dirgo}</notes>
 </valsi>
 <valsi word="dapma" type="gismu">
   <rafsi>dap</rafsi>
@@ -4210,9 +4210,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （対象本体）・ $x_3$ （対象箇所）を $x_4$ で打つ／叩く</definition>
+  <definition>$x_1$ は $x_2$ を、 $x_3$ (道具など) が $x_4$ にぶつかる形で打つ／叩く</definition>
   <definitionid>40405</definitionid>
-  <notes>x3は「手」「指」「足」などの肉体部分も。 ・大意： 叩く ・読み方： ダルクィ  ・関連語： {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}</notes>
+  <notes>x3 は x1 の一部、 x4 は x2 の一部であり、それぞれ武器や防具なども挙げられる。 ・大意： 叩く ・読み方： ダルクィ  ・関連語： {bikla}, {gunta}, {jenca}, {tunta}, {tikpa}, {janli}, {jgari}, {pencu}</notes>
 </valsi>
 <valsi word="daski" type="gismu">
   <user>
@@ -4455,9 +4455,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （性質）に関して濃厚／高密度</definition>
+  <definition>$x_1$ は性質 $x_2$ に関して地点 $x_3$ において濃厚／高密度／密集</definition>
   <definitionid>40408</definitionid>
-  <notes>「密集」も。その場合、箇所としてx3の追加も。また、「晦渋」も。 ・大意： 濃厚 ・読み方： デンミ  ・関連語： {carmi}, {midju}, {viknu}</notes>
+  <notes>・大意： 濃厚 ・読み方： デンミ  ・関連語： {carmi}, {midju}, {viknu}</notes>
 </valsi>
 <valsi word="denpa" type="gismu">
   <rafsi>dep</rafsi>
@@ -4743,7 +4743,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ を放射する</definition>
+  <definition>$x_1$ は $x_2$ を $x_3$ の条件下で放射する</definition>
   <definitionid>39490</definitionid>
   <notes>・大意： 放射 ・読み方： ディルシェ  ・関連語： {gusni}</notes>
 </valsi>
@@ -4765,9 +4765,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （物質）の雫／滴</definition>
+  <definition>$x_1$ は物質 $x_2$ （液体／湯気）でできた環境物質 $x_3$ 内の雫／滴</definition>
   <definitionid>40412</definitionid>
-  <notes>x1を包む物質としてx3の追加も。 ・大意： 雫 ・読み方： ディルゴ  ・関連語： {daplu}, {bidju}</notes>
+  <notes>小さく結合力のある液体の粒。 ・大意： 雫 ・読み方： ディルゴ  ・関連語： {daplu}, {bidju}</notes>
 </valsi>
 <valsi unofficial="true" word="ditcu" type="experimental gismu">
   <user>
@@ -4850,7 +4850,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （内直径）・ $x_3$ （外直径）の環／輪／円；  $x_1$ は環状／円環面状</definition>
+  <definition>$x_1$ は材質 $x_2$ ・内径  $x_3$ ・外径 $x_4$ の環／輪／トーラス／ドーナツ形</definition>
   <definitionid>39496</definitionid>
   <notes>・大意： 環 ・読み方： ヂネ  ・関連語： {clupa}, {cukla}, {dasri}, {karli}, {sovda}, {sruri}, {konju}</notes>
 </valsi>
@@ -6284,9 +6284,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （成分）の泡</definition>
+  <definition>$x_1$ は 物質 $x_2$ の膜によって物質 $x_3$ を取り込んだ構造の泡／フォーム</definition>
   <definitionid>39546</definitionid>
-  <notes>口から吹く「泡つばき」も。 ・大意： 泡 ・読み方： フォンモ  ・語呂合わせ： form ・関連語： {zbabu}</notes>
+  <notes>生物細胞内の「液胞 (vacuole)」も。 ・大意： 泡 ・読み方： フォンモ  ・語呂合わせ： form ・関連語： {zbabu}</notes>
 </valsi>
 <valsi word="fonpli" type="lujvo">
   <user>
@@ -9341,7 +9341,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （本体）の先端／先っぽ</definition>
+  <definition>$x_1$ は本体 $x_2$ の部位 $x_3$ に位置する先端／先っぽ</definition>
   <definitionid>39675</definitionid>
   <notes>・大意： 先端 ・読み方： ジプノ  ・関連語： {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}</notes>
 </valsi>
@@ -11164,9 +11164,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （次元）・ $x_3$ （面）の立方体／多面体／多角形／多辺形／ポリゴン</definition>
+  <definition>$x_1$ は $x_2$ （次元）、 $x_3$ （面の数）の立方体／正多面体</definition>
   <definitionid>40440</definitionid>
-  <notes>通常は三次元（ x2 ）・六面（ x3 ）。 ・大意： 立方体 ・読み方： クブルィ  ・語呂合わせ： キューブリック ・関連語： {kurfa}, {bliku}; {tanbo}, {tapla}, {tarmi}</notes>
+  <notes>デフォルトで $x_2$ は {li} {ci} （3次元）、 $x_3$ は {li} {xa} （6面）。 ・大意： 立方体 ・読み方： クブルィ ・語呂合わせ： キューブリック ・関連語： {kurfa}, {bliku}; {tanbo}, {tapla}, {tarmi}</notes>
 </valsi>
 <valsi word="kucli" type="gismu">
   <user>
@@ -15767,9 +15767,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （対象本体）・ $x_3$ （対象箇所）を $x_4$ で触る</definition>
+  <definition>$x_1$ は $x_2$ に、 $x_3$ が $x_4$ に接する形で触る</definition>
   <definitionid>39957</definitionid>
-  <notes>・大意： 触る ・読み方： ペンシュ  ・関連語： {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}</notes>
+  <notes>x3 は x1 の一部、 x4 は x2 の一部であり、それぞれ道具や衣服なども挙げられる。・大意： 触る ・読み方： ペンシュ  ・関連語： {ganse}, {darxi}, {jgari}, {penmi}, {jorne}, {satre}, {mosra}, {zgana}</notes>
 </valsi>
 <valsi word="pendo" type="gismu">
   <rafsi>ped</rafsi>
