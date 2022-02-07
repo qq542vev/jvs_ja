@@ -1871,7 +1871,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （種類）のチョコレート／ココア</definition>
+  <definition>$x_1$ はチョコレート／ココア</definition>
   <definitionid>39314</definitionid>
   <notes>・大意： チョコレート ・読み方： シャクルゥア  ・語呂合わせ： ＜しゃくなランチ＞, ショコラ ・関連語： {ckafi}</notes>
 </valsi>
@@ -3787,7 +3787,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>確率selbri ： 数詞を確率selbriに変換する； １（事）は２（条件）において n の確率で起こる</definition>
+  <definition>確率 selbri : 数を確率 selbri に変換; 事象 $x_1$ は $x_2$ の条件下で確率 n で起こる</definition>
   <definitionid>40918</definitionid>
   <notes>・読み方： シュホ</notes>
 </valsi>
@@ -6324,7 +6324,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （目的）・ $x_3$ （分岐物／歯）のフォーク／くま手／またぐわ</definition>
+  <definition>$x_1$ は $x_2$ （目的）・ $x_3$ （歯／枝）・ $x_4$ （持ち手／幹／支持部）のフォーク／くま手／フォーク形の道具</definition>
   <definitionid>39548</definitionid>
   <notes>・大意： フォーク ・読み方： フォルシャ  ・関連語： {dakfu}, {smuci}, {komcu}, {tutci}</notes>
 </valsi>
@@ -6364,9 +6364,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （動作／行為）によって $x_3$ （刺激／要因）に反応する／呼応する</definition>
+  <definition>$x_1$ は $x_2$ （動作／行為）という形で $x_3$ （刺激／要因）に対し $x_4$ の条件下で反応する／呼応する</definition>
   <definitionid>39550</definitionid>
-  <notes>・大意： 反応 ・読み方： フゥラティ  ・関連語： {preti}, {danfu}, {spuda}, {cpedu}, {tarti}</notes>
+  <notes>$x_3$ が $x_1$ を刺激して反応 $x_2$ が起こる。 ・大意： 反応 ・読み方： フゥラティ  ・関連語： {preti}, {danfu}, {spuda}, {cpedu}, {tarti}; {terfra} （刺激） ; {terfratoi}, {tunterfratoi} （刺激しようとする）</notes>
 </valsi>
 <valsi word="fraxu" type="gismu">
   <rafsi>fax</rafsi>
@@ -6443,9 +6443,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （者／事）に対してしかめつらをする／まゆを寄せる／難色を示す；  $x_1$ はしかめつら</definition>
+  <definition>$x_1$ は顔をしかめる</definition>
   <definitionid>39556</definitionid>
-  <notes>・大意： しかめつら ・読み方： フゥルム ・関連語： {cmila}, {cisma}</notes>
+  <notes>{frufra} （難色を示す） ・大意： しかめつら ・読み方： フゥルム ・関連語： {cmila}, {cisma}</notes>
 </valsi>
 <valsi word="fu" type="cmavo">
   <selmaho>FA</selmaho>
@@ -7239,9 +7239,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は手袋／グローブ／ミトン</definition>
+  <definition>$x_1$ は材質 $x_2$ の手袋／グローブ／ミトン</definition>
   <definitionid>39585</definitionid>
-  <notes>・大意： 手袋 ・読み方： グルゥタ  ・関連語： {taxfu}</notes>
+  <notes>・大意： 手袋 ・読み方： グルゥタ  ・関連語： {taxfu}; {degycauglu} （ミトン）</notes>
 </valsi>
 <valsi word="go" type="cmavo">
   <selmaho>GA</selmaho>
@@ -9341,9 +9341,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は本体 $x_2$ の部位 $x_3$ に位置する先端／先っぽ</definition>
+  <definition>$x_1$ は $x_2$ （本体）の部位 $x_3$ にある先端／先っぽ／頂点</definition>
   <definitionid>39675</definitionid>
-  <notes>・大意： 先端 ・読み方： ジプノ  ・関連語： {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}</notes>
+  <notes>0次元の形状。 ・大意： 先端 ・読み方： ジプノ  ・関連語： {mokca}, {jesni}, {fanmo}, {kojna}, {krasi}</notes>
 </valsi>
 <valsi word="jirna" type="gismu">
   <user>
@@ -10240,9 +10240,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ （者）は $x_2$ と $x_3$ を $x_4$ （性質）について比較する</definition>
+  <definition>$x_1$ （観察者）は $x_2$ と $x_3$ を性質 $x_4$ に関して比較し、 $x_5$ （状態）であることを明らかにする</definition>
   <definitionid>40435</definitionid>
-  <notes>比較の結果／結論をx5として追加してもよい。 ・大意： 比較 ・読み方： カルビ  ・語呂合わせ： カルビ比較 ・関連語： {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}</notes>
+  <notes>・大意： 比較 ・読み方： カルビ  ・語呂合わせ： カルビ比較 ・関連語： {klani}, {mapti}, {sarxe}, {zmadu}, {mleca}, {dunli}</notes>
 </valsi>
 <valsi word="karce" type="gismu">
   <user>
@@ -10823,9 +10823,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （目的）のためのねじ／ボルト</definition>
+  <definition>$x_1$ は $x_2$ のための、ねじ山 $x_3$ （ねじ山の間隔・材質）・ねじ穴 $x_4$ （サイズ・材質）のねじ／ボルト</definition>
   <definitionid>39746</definitionid>
-  <notes>回転を要する留め具全般 ・大意： ねじ ・読み方： クルゥペ  ・語呂合わせ： ねじくるくるぺっ ・関連語： {korcu}, {sarlu}, {tutci}</notes>
+  <notes>・大意： ねじ ・読み方： クルゥペ  ・語呂合わせ： ねじくるくるぺっ ・関連語： {korcu}, {sarlu}, {tutci}</notes>
 </valsi>
 <valsi word="kluza" type="gismu">
   <rafsi>luz</rafsi>
@@ -10905,9 +10905,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ の角／隅</definition>
+  <definition>$x_1$ は $x_2$ （本体）の $x_3$ （材質）の角／隅</definition>
   <definitionid>39749</definitionid>
-  <notes>・大意： 角（かど） ・読み方： コジナ  ・語呂合わせ： 角に足の指をぶつけたのは故事なこと ・関連語： {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi}</notes>
+  <notes>最低3次元の形状。ある方向の傾きが不連続なところ。複数の平面の交わり。 ・大意： 角（かど） ・読み方： コジナ  ・語呂合わせ： 角に足の指をぶつけたのは故事なこと ・関連語： {jipno}, {konju}, {bliku}, {fanmo}, {jganu}, {krasi}</notes>
 </valsi>
 <valsi word="kolme" type="gismu">
   <rafsi>kol</rafsi>
@@ -10937,9 +10937,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ を頂点とする錐／円錐</definition>
+  <definition>$x_1$ は 材質 $x_2$ の $x_3$ を頂点とする円錐</definition>
   <definitionid>39752</definitionid>
-  <notes>・大意： 錐（すい） ・読み方： コンジュ  ・関連語： {jesni}, {djine}, {sovda}, {kojna}, {jganu}</notes>
+  <notes>楕円体（2次曲面）も。・大意： 錐（すい） ・読み方： コンジュ  ・関連語： {jesni}, {djine}, {sovda}, {kojna}, {jganu}; {konclupa}</notes>
 </valsi>
 <valsi word="ko'o" type="cmavo">
   <selmaho>KOhA4</selmaho>
@@ -11606,9 +11606,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （種類）のたんぱく質／アルブミン</definition>
+  <definition>$x_1$ は $x_2$ （種類）の $x_3$ （アミノ酸配列）で構成されるたんぱく質</definition>
   <definitionid>39784</definitionid>
-  <notes>アミノ配列は「jo&apos;u」による項の連続で表す。 ・大意： たんぱく質 ・読み方： ルァンビ  ・関連語： {ladru}, {sovda}</notes>
+  <notes>アミノ酸配列は {jo&apos;u} による項の連結で表す。 ・大意： たんぱく質 ・読み方： ルァンビ  ・関連語： {ladru}, {sovda}</notes>
 </valsi>
 <valsi word="lanci" type="gismu">
   <user>
@@ -11742,9 +11742,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （種類）のハス属植物</definition>
+  <definition>$x_1$ は $x_2$ （種類）の、また社会的に $x_3$ （象徴対象）・ $x_4$ （文化／宗教）の蓮／睡蓮</definition>
   <definitionid>40444</definitionid>
-  <notes>「スイレン属」も。仏教、ギリシア神話、古代エジプトなどで広く象徴的であることから、文化をx3、象徴内容をx4とする方法も。 ・大意： 蓮 ・読み方： ルァトナ  ・語呂合わせ： lotus, lian（蓮） ・関連語： {budjo}, {censa}, {lijda}, {spati}</notes>
+  <notes>・大意： 蓮 ・読み方： ルァトナ  ・語呂合わせ： lotus, lian（蓮） ・関連語： {budjo}, {censa}, {lijda}, {spati}</notes>
 </valsi>
 <valsi word="la'u" type="cmavo">
   <selmaho>BAI</selmaho>
@@ -11875,9 +11875,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （光／音／電波）を $x_3$ （焦点）に合わせるレンズ／収束器</definition>
+  <definition>$x_1$ は波 $x_2$ を焦点 $x_3$ に集めるための、 $x_4$ （手段／材質）によるレンズ／メガネ</definition>
   <definitionid>39796</definitionid>
-  <notes>光学的／視覚的な集光に限らない。 ・大意： レンズ ・読み方： ルェンジョ  ・語呂合わせ： lenzu ・関連語： {kacma}, {minra}</notes>
+  <notes>$x_2$ は電磁波（光）や音なども。・大意： レンズ ・読み方： ルェンジョ  ・語呂合わせ： lenzu ・関連語： {kacma}, {minra}</notes>
   <glossword word="レンズ" />
 </valsi>
 <valsi word="lenku" type="gismu">
@@ -12530,7 +12530,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ （事）は $x_2$ （機能）に関して手動／マニュアル</definition>
+  <definition>$x_1$ （事象）は機能 $x_2$ に関して $x_3$ の条件下で手動（自動ではない）</definition>
   <definitionid>39822</definitionid>
   <notes>・大意： 手動 ・読み方： マシヌ  ・語呂合わせ： マニュアル　手動 ・関連語： {zmiku}, {jitro}</notes>
 </valsi>
@@ -12979,9 +12979,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>濃度 selbri ： 数量詞nの右に付いて、それを「$x_1$ はn個」という濃度を表す brivla にする</definition>
+  <definition>基数 selbri : 数を基数 selbri に変換 ; $x_1$ は集合 $x_2$ から形成される群れであり、その集合の n 個の要素は $x_3$ である</definition>
   <definitionid>41203</definitionid>
-  <notes>「lo ci mei nanmu／３人組の男達」「so&apos;i mei sanga／大勢で歌う」「pa mei cusku (pavmeisku)／ひとりごとを言う」 ・大意： 濃度 selbri ・読み方： メイ</notes>
+  <notes>この定義は「The Complete Lojban Language」の 18.26 節にある以下の定義と矛盾する: 「$x_1$ は基数 n に対等な集合 $x_2$ が形成する群れであり、その集合の元の1個以上が $x_3$ である [集合 $x_4$ との対応によって／基準 $x_4$ に基づいて測定される]。」 また、以下のように定義し直す案もある: 「 $x_1$ （群れ）は n 個の $x_2$ （群れ）」「 ti ci mei lo gerku （これらは犬3匹）」 ・大意： 基数 selbri ・読み方： メイ</notes>
 </valsi>
 <valsi word="mekso" type="gismu">
   <rafsi>mek</rafsi>
@@ -13425,9 +13425,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ の脇／側（がわ）（にある／いる）</definition>
+  <definition>$x_1$ は $x_2$ の脇／横に位置する（ $x_3$ を正面に見る $x_4$ から見たとき）</definition>
   <definitionid>39873</definitionid>
-  <notes>・大意： 側（がわ） ・読み方： ムルァナ  ・語呂合わせ： 村な側 ・関連語： {crane}, {trixe}, {pritu}, {zunle}, {mlana}, {korbi}</notes>
+  <notes>$x_4$ は $x_2$ にとって前や後ろに位置していても良い。・大意： 側（がわ） ・読み方： ムルァナ  ・語呂合わせ： 村な側 ・関連語： {crane}, {trixe}, {pritu}, {zunle}, {mlana}, {korbi}</notes>
 </valsi>
 <valsi word="mlatu" type="gismu">
   <rafsi>lat</rafsi>
@@ -13698,7 +13698,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （対象）を叩くための、 $x_3$ （頭部）の槌／ハンマー</definition>
+  <definition>$x_1$ は $x_2$ を叩くための、 $x_3$ （錘／頭部）を持ち $x_4$ で駆動される槌／ハンマー</definition>
   <definitionid>39887</definitionid>
   <notes>・大意： 槌 ・読み方： ムルルィ  ・関連語： {tutci}</notes>
 </valsi>
@@ -14311,9 +14311,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ （命題）は $x_2$ （命題）と矛盾する／を否定する</definition>
+  <definition>$x_1$ （命題）は $x_2$ （命題）と $x_3$ （規則／論理）の下で矛盾する／を否定する</definition>
   <definitionid>39908</definitionid>
-  <notes>人そのものによる意識的否定ではなく、或る命題が別な命題とかみ合わないこと。拡張すれば「例外」も。 ・大意： 否定 ・読み方： ナトフェ  ・関連語： {nibli}, {tugni}, {zanru}, {xusra}</notes>
+  <notes>・大意： 否定 ・読み方： ナトフェ  ・関連語： {nibli}, {tugni}, {zanru}, {xusra}; {nafmupli} （例外）; {nafxu&apos;a}, {tolxu&apos;a} （否定的意見を持つ）</notes>
 </valsi>
 <valsi word="natmi" type="gismu">
   <rafsi>nat</rafsi>
@@ -14577,7 +14577,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （場所）に備え付く家具／調度品／備品／設置物</definition>
+  <definition>$x_1$ は $x_2$ （場所）に設置される $x_3$ （目的／機能）のための家具／調度品／備品</definition>
   <definitionid>39918</definitionid>
   <notes>・大意： 家具 ・読み方： ニルゥシェ  ・関連語： {ckana}, {jubme}, {sfofa}, {stizu}, {dacru}</notes>
 </valsi>
@@ -15549,9 +15549,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は（素材）のローブ／チュニック／ガウン／ドレス</definition>
+  <definition>$x_1$ は $x_2$（素材）のガウン／長衣</definition>
   <definitionid>39949</definitionid>
-  <notes>長い、もしくは全身を覆う衣服。 ・大意： ローブ ・読み方： パストゥ  ・関連語： {kosta}, {taxfu}, {palku}</notes>
+  <notes>長い、もしくは全身を覆う衣服。 ・大意： 長衣 ・読み方： パストゥ  ・関連語： {kosta}, {taxfu}, {palku}; {paspalku} （つなぎの服）</notes>
 </valsi>
 <valsi word="patfu" type="gismu">
   <rafsi>paf</rafsi>
@@ -16086,9 +16086,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （素材）の鉛筆／クレヨン</definition>
+  <definition>$x_1$ は芯／先端 $x_2$ （材質）・支持部 $x_2$ （材質）の鉛筆／クレヨン／筆</definition>
   <definitionid>40584</definitionid>
-  <notes>使っていて削れてくる筆記具全般 ・大意： 鉛筆 ・読み方： ピンスィ  ・語呂合わせ： ペンスィル ・関連語： {ciska}, {penbi} (unlike the English equivalents}, {pinsi is the more general term over penbi}, {burcu}, {bakri}</notes>
+  <notes>{penbi} よりも広義の筆記具。 ・大意： 筆 ・読み方： ピンスィ  ・語呂合わせ： ペンスィル ・関連語： {ciska}, {penbi}, {burcu}, {bakri}</notes>
 </valsi>
 <valsi word="pinta" type="gismu">
   <rafsi>pin</rafsi>
@@ -16237,7 +16237,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ （者）は $x_2$ を $x_3$ （道具）で耕す／すき込む</definition>
+  <definition>$x_1$ （者）は $x_2$ を $x_3$ （道具）・ $x_4$ （動力）で耕す／すき込む</definition>
   <definitionid>39987</definitionid>
   <notes>農作における耕しに限らない。 ・大意： 耕す ・読み方： プルィクァ  ・語呂合わせ： 耕しっぷりかぁ？ ・関連語： {kakpa}, {sraku}, {katna}, {skuro}</notes>
 </valsi>
@@ -16975,9 +16975,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （内容）・ $x_3$ （価値観／文化）の神話／伝説</definition>
+  <definition>$x_1$ は $x_2$ についての・ $x_3$ （神話世界）・ $x_4$ （文化）における神話／伝説／おとぎ話</definition>
   <definitionid>40028</definitionid>
-  <notes>・大意： 神話 ・読み方： ランミ  ・関連語： {lijda}, {lisri}, {crida}</notes>
+  <notes>・大意： 神話 ・読み方： ランミ  ・関連語： {lijda}, {lisri}, {crida}; {ramda&apos;u} （人間の形でないキャラクター／ドラゴンなど）; {veryranmi} （おとぎ話）</notes>
   <glossword word="伝説" />
   <glossword word="神話" />
 </valsi>
@@ -18062,7 +18062,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は人工物；  $x_1$ は人為的</definition>
+  <definition>$x_1$ は民族 $x_2$ が作った／生み出した人工物／人為的な物</definition>
   <definitionid>40064</definitionid>
   <notes>・大意： 人工 ・読み方： ルトニ  ・語呂合わせ： 人工ルートに ・関連語： {rarna}, {se} {zbasu}, {gundi}, {slasi}</notes>
 </valsi>
@@ -19534,9 +19534,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は雨</definition>
+  <definition>$x_1$ は $x_2$ （含有物）の雨</definition>
   <definitionid>40108</definitionid>
-  <notes>・大意： 雨 ・読み方： スィシピ ・関連語： {carvi} (上位概念)</notes>
+  <notes>・大意： 雨 ・読み方： スィシピ ・関連語： {bratu}, {snime}, {carvi}</notes>
 </valsi>
 <valsi word="sicybi'e" type="lujvo">
   <user>
@@ -19575,9 +19575,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>分量 selbri ： 数量詞の右に付いて、分量を表す selbri となる；</definition>
+  <definition>分量 selbri: $x_1$ は群れ $x_2$ の n 倍の分量</definition>
   <definitionid>41241</definitionid>
-  <notes>「pi re si&apos;e nanba／２割分のパン」 ・読み方： スィヘ</notes>
+  <notes>英語の公式定義は「an (n)th portion」なので、文字通りに訳すと「n 分の1」だが、実際には（公式にも） n si&apos;e が「n 分の1」と言う意味で使われることはない。一般には n 自体を1より小さい数として文が作られる。従って明らかに英語の公式定義の記述にミスがある。 pi re si&apos;e lo nanba （パン２割分） ・読み方： スィヘ ・関連語： {gunma}</notes>
 </valsi>
 <valsi unofficial="true" word="si'e'ai" type="experimental cmavo">
   <user>
@@ -19604,7 +19604,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （葉／物質）の巻きタバコ／葉巻／シガー</definition>
+  <definition>$x_1$ は $x_2$ （葉／物質）・ $x_3$ （製造者）の巻きタバコ／葉巻／シガー</definition>
   <definitionid>40109</definitionid>
   <notes>・大意： 葉巻 ・読み方： スィグジャ  ・関連語： {danmo}, {jelca}, {tanko}, {marna}</notes>
 </valsi>
@@ -19624,7 +19624,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は絹／シルク</definition>
+  <definition>$x_1$ は $x_2$ が生み出す絹／シルク</definition>
   <definitionid>40110</definitionid>
   <notes>・大意： 絹 ・読み方： スィルゥカ  ・語呂合わせ： 知るか、シルク, silk ・関連語： {curnu}, {bukpu}, {cilta}</notes>
 </valsi>
@@ -20355,9 +20355,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （惑星）の太陽／恒星／日</definition>
+  <definition>$x_1$ は $x_2$ （惑星）・ $x_3$ （惑星に住む種族）の太陽</definition>
   <definitionid>40162</definitionid>
-  <notes>・大意： 太陽 ・読み方： ソルゥリ  ・関連語： {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci}</notes>
+  <notes>$x_2$ は $x_3$ の移住先でも良い。 ・大意： 太陽 ・読み方： ソルゥリ  ・関連語： {gusni}, {lunra}, {mluni}, {plini}, {santa}, {terdi}, {tarci}</notes>
 </valsi>
 <valsi word="sombo" type="gismu">
   <rafsi>som</rafsi>
@@ -20669,9 +20669,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （種類）の食用野菜</definition>
+  <definition>$x_1$ は可食部 $x_2$ （部位）・植物 $x_3$ の野菜</definition>
   <definitionid>40181</definitionid>
-  <notes>厳密には果物と堅果も含まれる。 ・大意： 野菜 ・読み方： スタギ  ・関連語： {grute}, {kobli}, {narge}, {sluni}, {spati}, {sunga}, {tamca}</notes>
+  <notes>果物や堅果も。 ・大意： 野菜 ・読み方： スタギ  ・関連語： {grute}, {kobli}, {narge}, {sluni}, {spati}, {sunga}, {tamca}; {nalrutstagi} （果実以外を可食部とする野菜）</notes>
 </valsi>
 <valsi word="staku" type="gismu">
   <rafsi>tak</rafsi>
@@ -20679,9 +20679,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （成分）・ $x_3$ （形状）のセラミックス／陶磁器</definition>
+  <definition>$x_1$ は $x_2$ （製造者）・ $x_3$ （成分）・ $x_4$ （形状）の陶器</definition>
   <definitionid>40182</definitionid>
-  <notes>・大意： セラミックス ・読み方： スタク  ・関連語： {kliti}</notes>
+  <notes>非金属の粘土などを窯で焼いて作られる焼き物。磁器も。 $x_3$ ですべての成分を列挙しなくても良い。 ・大意： セラミックス ・読み方： スタク  ・関連語： {kliti}</notes>
 </valsi>
 <valsi word="stali" type="gismu">
   <rafsi>sta</rafsi>
@@ -21191,9 +21191,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （対象本体）・ $x_3$ （対象箇所）にたいして、かっちり／ぴったり／しっかりしている；  $x_1$ は $x_2$ から外れない／離れない</definition>
+  <definition>$x_1$ は $x_2$ （対象本体）の $x_3$ （次元／方向）に対して $x_4$ （対象部位）でぴったりはまっている</definition>
   <definitionid>40212</definitionid>
-  <notes>・大意： かっちり ・読み方： タグジ  ・関連語： {trati}, {jarki}, {kluza}, {rinju}</notes>
+  <notes>・大意： ぴったり ・読み方： タグジ  ・関連語： {trati}, {jarki}, {kluza}, {rinju}</notes>
 </valsi>
 <valsi word="ta'i" type="cmavo">
   <selmaho>BAI</selmaho>
@@ -22375,7 +22375,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （命令／規則）に服従する／従う；  $x_1$ は従順</definition>
+  <definition>$x_1$ は $x_2$ （命令／規則）・ $x_3$ （発令者）に服従する／従う／従順</definition>
   <definitionid>40246</definitionid>
   <notes>・大意： 服従 ・読み方： ティンベ  ・関連語： {minde}, {lacri}, {javni}, {flalu}, {zekri}</notes>
 </valsi>
@@ -22994,9 +22994,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ を飲み込む／飲み下す</definition>
+  <definition>$x_1$ は飲み込む／飲み下す</definition>
   <definitionid>40276</definitionid>
-  <notes>比喩的に（概念／意見を）「取り入れる」「消化する」も ・大意： 飲み込む ・読み方： トゥンルォ  ・関連語： {citka}, {pinxe}, {galxe}</notes>
+  <notes>比喩的に（概念／意見を）「取り入れる」「消化する」も ・大意： 飲み込む ・読み方： トゥンルォ  ・関連語： {citka}, {pinxe}, {galxe}; {tulpinxe} （液体を飲み込む）, {tulcti} （飲み込むように飲食する）, {ctitu&apos;o} （飲食し飲み込む）; {galxycti} （喉を経由する形で飲食する）, {galxynerbi&apos;o} （喉に入る）, {galxygre} （喉を通過する）</notes>
 </valsi>
 <valsi word="tunta" type="gismu">
   <rafsi>tun</rafsi>
@@ -23918,7 +23918,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は画面／映像モニター／スクリーン</definition>
+  <definition>$x_1$ は機能 $x_2$ の画面／映像モニター／スクリーン</definition>
   <definitionid>40294</definitionid>
   <notes>・大意： 画面 ・読み方： ヴィドニ ・関連語： {skina}, {ve} {tivni}</notes>
 </valsi>
@@ -24323,7 +24323,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （機能）・ $x_3$ （支点／台）のてこ／レバー／バール</definition>
+  <definition>$x_1$ は機能 $x_2$ ・支点 $x_3$ ・アーム $x_4$ のてこ／レバー／バール</definition>
   <definitionid>40311</definitionid>
   <notes>・大意： てこ ・読み方： ヴラガ  ・関連語： {tutci}, {pulni}</notes>
 </valsi>
@@ -24702,9 +24702,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （事）について緊張／心配する；  $x_1$ は $x_2$ が不安</definition>
+  <definition>$x_1$ は $x_2$ について $x_3$ の条件下で心配する／不安</definition>
   <definitionid>40497</definitionid>
-  <notes>心配という心理の条件としてx3の追加も。 ・大意： 緊張 ・読み方： クァンカ  ・語呂合わせ： ＜半分隠す＞, xaraxara,ハラハラ ・関連語： {xalni}, {terpa}, {raktu}</notes>
+  <notes>$x_2$ は NU類で抽象化。 ・大意： 緊張 ・読み方： クァンカ  ・語呂合わせ： ＜半分隠す＞, xaraxara,ハラハラ ・関連語： {xalni}, {terpa}, {raktu}</notes>
 </valsi>
 <valsi word="xanri" type="gismu">
   <rafsi>xar</rafsi>
@@ -25288,9 +25288,9 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （性質）に関して滑らか／すべすべ／つるうるしている</definition>
+  <definition>$x_1$ は滑らか／すべすべ／つるうるしている</definition>
   <definitionid>40501</definitionid>
-  <notes>x2 は布地表面や起伏特性など。 ・大意： 滑らか ・読み方： クゥトルァ ・関連語： {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}</notes>
+  <notes>・大意： 滑らか ・読み方： クゥトルァ ・関連語： {plita}, {rufsu}, {tengu}, {dikni}, {pinta}, {sakli}, {spali}</notes>
 </valsi>
 <valsi word="xy" type="cmavo">
   <selmaho>BY2</selmaho>
