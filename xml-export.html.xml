@@ -478,14 +478,14 @@
   </user>
   <definition>$x_1$ は $x_2$ よりも未来／後発；  $x_1$ は後者；  $x_2$ は前者</definition>
   <definitionid>40389</definitionid>
-  <notes>「続編」「後継者」も。時間的な順序のみ。さもなくば「lidne」を。x1が x2 に重複しうる点でアオリスト的。非アオリスト的未来は 「cfabalvi」。「le nu mi nelci do cu balvi le nu do nelci mi／私があなたを好きになる前に、あなたが私を好きになる」 ・大意： 未来 ・読み方： バルゥヴィ  ・語呂合わせ： lai（来） ・関連語： {lidne}, {cabna}, {purci}, {farna}</notes>
+  <notes>「続編」「後継者」も。時間的な順序のみ。さもなくば「lidne」を。x1 が x2 に重複しうる点でアオリスト的。非アオリスト的未来は 「cfabalvi」。「le nu mi nelci do cu balvi le nu do nelci mi／私があなたを好きになる前に、あなたが私を好きになる」 ・大意： 未来 ・読み方： バルゥヴィ  ・語呂合わせ： lai（来） ・関連語： {lidne}, {cabna}, {purci}, {farna}</notes>
 </valsi>
 <valsi word="balzai" type="lujvo">
   <user>
     <username>junpen</username>
     <realname>okaujunpen</realname>
   </user>
-  <definition>$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のスーパー（量販店）／デパート </definition>
+  <definition>$z_1$ は $z_2$ （品物）を売る $z_3$ （経営者）のスーパー（量販店）／デパート</definition>
   <definitionid>19705</definitionid>
   <notes>{banli} {zarci}</notes>
   <glossword word="ショッピングセンター" />
@@ -2414,7 +2414,7 @@
     <username>tirsemulta</username>
     <realname>tirse multa</realname>
   </user>
-  <definition>$x1$ は弁当(食べ物)</definition>
+  <definition>$x_1$ は弁当(食べ物)</definition>
   <definitionid>35307</definitionid>
   <glossword word="弁当" sense="食品" />
 </valsi>
@@ -2601,7 +2601,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>  x1 は $x_2$ （種類）のオーク／樫／楢</definition>
+  <definition>$x_1$ は $x_2$ （種類）のオーク／樫／楢</definition>
   <definitionid>39364</definitionid>
   <notes>ブナ科コナラ属の植物。・大意： ブナ科 ・読み方： シンドゥ  ・語呂合わせ： cian（橡） ・関連語： {tricu}</notes>
 </valsi>
@@ -4149,7 +4149,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>  $x_1$ は材質／性質 $x_2$ で形成され $x_3$ に囲まれた島／環礁； x1 は島的</definition>
+  <definition>$x_1$ は材質／性質 $x_2$ で形成され $x_3$ に囲まれた島／環礁； $x_1$ は島的</definition>
   <definitionid>39463</definitionid>
   <notes>・大意： 島 ・読み方： ダプルゥ  ・関連語： {lalxu}, {rirxe}, {xamsi}, {dirgo}</notes>
 </valsi>
@@ -4411,7 +4411,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ の、 $x_3$ （性質）におけるデカ／十 ［1 x1 0**1］</definition>
+  <definition>$x_1$ は $x_2$ の、 $x_3$ （性質）におけるデカ／十 ［1 $x_1$ 0**1］</definition>
   <definitionid>39476</definitionid>
   <notes>・大意： デカ／十 ・読み方： デクト  ・関連語： {grake}, {mitre}, {snidu}, {stero}, {delno}, {molro}, {kelvo}, {xampo}, {gradu}, {litce}, {merli}, {centi}, {decti}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}</notes>
   <glossword word="デカ" sense="10の指数" />
@@ -6754,7 +6754,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （到達されないもの／所）にたいして $x_3$ （通過を妨げられているもの）にとって閉まっている； $x_1$ は $x_3$ が $x_2$ へ達することを妨げる </definition>
+  <definition>$x_1$ は $x_2$ （到達されないもの／所）にたいして $x_3$ （通過を妨げられているもの）にとって閉まっている； $x_1$ は $x_3$ が $x_2$ へ達することを妨げる</definition>
   <definitionid>39566</definitionid>
   <notes>$x_1$ はドアなどのほか、半透膜も。 ・大意： 閉鎖 ・読み方： ガンルォ  ・関連語： {kalri}, {pagre}, {canko}, {vorme}, {zunti}</notes>
   <glossword word="閉鎖" />
@@ -10021,7 +10021,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$  （壁／ x1 を含む家具など）に支えられた $x_3$ （目的）のための棚／カウンター</definition>
+  <definition>$x_1$ は $x_2$  （壁／ $x_1$ を含む家具など）に支えられた $x_3$ （目的）のための棚／カウンター</definition>
   <definitionid>39704</definitionid>
   <notes>棚状の物全般。 ・大意： 棚 ・読み方： カジナ  ・語呂合わせ： 火事な棚 ・関連語： {balni}</notes>
 </valsi>
@@ -10307,7 +10307,7 @@
   </user>
   <definition>文化的知識</definition>
   <definitionid>42096</definitionid>
-  <notes>心態詞（認識系）； 社会の慣習・伝承・常識に基づいて知っている；「ka&apos;u lo nu lo cticinza gau sanli ne&apos;i lo risykabri cu na se curmi／お茶碗にお箸を立てるのはいけないことよ」 ・読み方： カフ ・関連語： {kluju&apos;o} </notes>
+  <notes>心態詞（認識系）； 社会の慣習・伝承・常識に基づいて知っている；「ka&apos;u lo nu lo cticinza gau sanli ne&apos;i lo risykabri cu na se curmi／お茶碗にお箸を立てるのはいけないことよ」 ・読み方： カフ ・関連語： {kluju&apos;o}</notes>
   <glossword word="常識" />
   <glossword word="文化的知識" />
 </valsi>
@@ -10959,7 +10959,7 @@
   </user>
   <definition>談話系：命令</definition>
   <definitionid>37903</definitionid>
-  <notes>``{ko}&apos;&apos; は &apos;&apos;{do} {ko&apos;oi}&apos;&apos; の短縮形。{au}, {a&apos;o}, {e&apos;o}, {e&apos;u}, {e&apos;a}, {ei} の上位語。 「do .onai ko&apos;oi lo mi speni co&apos;a morsi／あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ」（芥川龍之介『藪の中』） 「ra ko&apos;oi citka lo brioco／（パンが無ければ）ブリオッシュを食べるが良い（Jean-Jacques Rousseau: Les Confessions, Livre VI） 「lo ko&apos;oi se platu be do ku te snada／あなたの計画がうまく行きますように」 「mi ko&apos;oi dandu janai jifsku／俺の言うことが嘘だったら、首を吊ってやるさ」 ・読み方： コホイ  ・関連語：{minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga} </notes>
+  <notes>``{ko}&apos;&apos; は &apos;&apos;{do} {ko&apos;oi}&apos;&apos; の短縮形。{au}, {a&apos;o}, {e&apos;o}, {e&apos;u}, {e&apos;a}, {ei} の上位語。 「do .onai ko&apos;oi lo mi speni co&apos;a morsi／あなたが死ぬか夫が死ぬか、どちらか一人死んでくれ」（芥川龍之介『藪の中』） 「ra ko&apos;oi citka lo brioco／（パンが無ければ）ブリオッシュを食べるが良い（Jean-Jacques Rousseau: Les Confessions, Livre VI） 「lo ko&apos;oi se platu be do ku te snada／あなたの計画がうまく行きますように」 「mi ko&apos;oi dandu janai jifsku／俺の言うことが嘘だったら、首を吊ってやるさ」 ・読み方： コホイ  ・関連語：{minde}, {cpedu}, {curmi}, {pacna}, {stidi}, {djica}, {bilga}</notes>
   <glossword word="命令" />
 </valsi>
 <valsi word="korbi" type="gismu">
@@ -13945,7 +13945,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （性質）に関して、 $x_3$ （極性）に対して凄い；  $x_1$ はとても $x_2$ </definition>
+  <definition>$x_1$ は $x_2$ （性質）に関して、 $x_3$ （極性）に対して凄い；  $x_1$ はとても $x_2$</definition>
   <definitionid>40455</definitionid>
   <notes>x3はプラス／マイナスなど。 ・大意： とても ・読み方： ムチェ ・語呂合わせ： むちぇむちぇ（めちゃめちゃ）凄い, mucho ・関連語： {milxe}, {traji}, {banli}, {carmi}, {nutli}, {traji}</notes>
   <glossword word="すごい" />
@@ -14771,7 +14771,7 @@
     <username>sidas</username>
     <realname>Shimada Taku</realname>
   </user>
-  <definition>$x1$ は $x3$ を統治する $x2$ (王/女王) の娘、王女</definition>
+  <definition>$x_1$ は $x_3$ を統治する $x_2$ (王/女王) の娘、王女</definition>
   <definitionid>67872</definitionid>
   <notes>{nobli} {turni} {tixnu}</notes>
   <glossword word="姫" sense="王家の娘" />
@@ -15996,7 +15996,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ ・ $x_3$ を乗算したもの；  $x_2$ かける $x_3$ は $x_1$ </definition>
+  <definition>$x_1$ は $x_2$ ・ $x_3$ を乗算したもの；  $x_2$ かける $x_3$ は $x_1$</definition>
   <definitionid>39968</definitionid>
   <notes>・大意： 乗算 ・読み方： ピルゥジ ・語呂合わせ： multiply, ji（積） ・関連語： {mekso}, {sumji}, {rapli}, {jalge}</notes>
 </valsi>
@@ -16086,7 +16086,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は芯／先端 $x_2$ （材質）・支持部 $x_2$ （材質）の鉛筆／クレヨン／筆</definition>
+  <definition>$x_1$ は芯／先端 $x_2$ （材質）・支持部 $x_3$ （材質）の鉛筆／クレヨン／筆</definition>
   <definitionid>40584</definitionid>
   <notes>{penbi} よりも広義の筆記具。 ・大意： 筆 ・読み方： ピンスィ  ・語呂合わせ： ペンスィル ・関連語： {ciska}, {penbi}, {burcu}, {bakri}</notes>
 </valsi>
@@ -19059,7 +19059,7 @@
   </user>
   <definition>$x_1$ は $x_2$ （性質面）に関してセム系（言語／文化／民族）</definition>
   <definitionid>40592</definitionid>
-  <notes>アラビア／ヘブライ／アラム／エチオピア等 ・大意： セム ・読み方： セムト  ・関連語： {xrabo/xebro} (下位概念)</notes>
+  <notes>アラビア／ヘブライ／アラム／エチオピア等 ・大意： セム ・読み方： セムト  ・関連語： {xrabo} (下位概念), {xebro} (下位概念)</notes>
 </valsi>
 <valsi word="semu'i" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
@@ -21008,7 +21008,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>$x_1$ は $x_2$ （述語／関数）の場所 $x_3$ （種類／番号）を占める項 </definition>
+  <definition>$x_1$ は $x_2$ （述語／関数）の場所 $x_3$ （種類／番号）を占める項</definition>
   <definitionid>40204</definitionid>
   <notes>・大意： 項 ・読み方： スムティ  ・関連語： {bridi}, {gismu}</notes>
 </valsi>
@@ -21355,7 +21355,7 @@
     <username>tirsemulta</username>
     <realname>tirse multa</realname>
   </user>
-  <definition>$x1$は弁当箱</definition>
+  <definition>$x_1$ は弁当箱</definition>
   <definitionid>35308</definitionid>
   <glossword word="弁当" sense="容器" />
 </valsi>
@@ -26565,6 +26565,7 @@
 <nlword word="保つ" sense="熱" valsi="kamglara&apos;e" />
 <nlword word="保温する" sense="熱" valsi="kamglara&apos;e" />
 <nlword word="保熱する" sense="熱" valsi="kamglara&apos;e" />
+<nlword word="常識" valsi="ka&apos;u" />
 <nlword word="文化的知識" valsi="ka&apos;u" />
 <nlword word="ケーキ" sense="焼き菓子" valsi="kenka" place="1" />
 <nlword word="ケーキの作り方" valsi="kenka" place="3" />
@@ -26735,6 +26736,8 @@
 <nlword word="家内" sense="女性配偶者" valsi="nimspe" />
 <nlword word="Ne" sense="ネオン" valsi="ninynavni" />
 <nlword word="ネオン" valsi="ninynavni" place="1" />
+<nlword word="姫" sense="王家の娘" valsi="noltruti&apos;u" />
+<nlword word="王女" valsi="noltruti&apos;u" />
 <nlword word="メッセージ" valsi="notci" />
 <nlword word="メモ" valsi="notci" />
 <nlword word="覚え書き" valsi="notci" />
