@@ -203,12 +203,12 @@ tmpDir=$(mktemp -d)
 cookie="${tmpDir}/cookie"
 
 if [ -z "${JBOVLASTE_USERNAME:-}" ]; then
-	printf 'username: ' >&2
+	printf 'Username: ' >&2
 	read -r 'JBOVLASTE_USERNAME'
 fi
 
 if [ -z "${JBOVLASTE_PASSWORD:-}" ]; then
-	printf 'password: ' >&2
+	printf 'Password: ' >&2
 	read -r 'JBOVLASTE_PASSWORD'
 fi
 
