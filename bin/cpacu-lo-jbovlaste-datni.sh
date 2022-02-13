@@ -28,8 +28,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.0
-##   date - 2022-02-11
+##   version - 0.1.1
+##   date - 2022-02-14
 ##   since - 2020-02-08
 ##   license - CC-0 <https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -203,12 +203,12 @@ tmpDir=$(mktemp -d)
 cookie="${tmpDir}/cookie"
 
 if [ -z "${JBOVLASTE_USERNAME:-}" ]; then
-	printf 'username: '
+	printf 'username: ' >&2
 	read -r 'JBOVLASTE_USERNAME'
 fi
 
 if [ -z "${JBOVLASTE_PASSWORD:-}" ]; then
-	printf 'password: '
+	printf 'password: ' >&2
 	read -r 'JBOVLASTE_PASSWORD'
 fi
 
