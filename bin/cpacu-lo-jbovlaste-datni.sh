@@ -42,6 +42,9 @@
 ##   * Bag report - <https://github.com/qq542vev/jvs_ja/issues>
 
 set -efu
+umask '0022'
+IFS=$(printf ' \t\n$'); IFS="${IFS%$}"
+export 'IFS'
 
 # See also </usr/include/sysexits.h>
 EX_USAGE='64'
@@ -55,7 +58,7 @@ trap 'endCall 130' 2 # SIGINT
 trap 'endCall 131' 3 # SIGQUIT
 trap 'endCall 143' 15 # SIGTERM
 
-endCall () {
+endCall() {
 	trap '' 0 # EXIT
 	rm -fr -- ${tmpDir+"${tmpDir}"}
 	exit "${1:-0}"
@@ -81,7 +84,7 @@ version() {
 }
 
 error() {
-	echo "${1}" >&2
+	printf '%s\n' "${1}" >&2
 	endCall "${EX_USAGE}"
 }
 
