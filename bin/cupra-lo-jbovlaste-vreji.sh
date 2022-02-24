@@ -216,7 +216,7 @@ fi
 
 diff -- "${downloadFile}" "${currentFile}" >'/dev/null' || case "${?}" in
 	'1')
-		mv -f -- "${downloadFile}" "${currentFile}"
+		cat -- "${downloadFile}" >"${currentFile}"
 		endCall 0
 		;;
 	*)
