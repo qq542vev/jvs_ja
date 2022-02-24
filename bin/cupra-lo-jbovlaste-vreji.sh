@@ -48,6 +48,7 @@ export 'IFS'
 # See also </usr/include/sysexits.h>
 EX_USAGE='64'
 EX_SOFTWARE='68'
+EX_CANTCREAT='73'
 
 trap 'endCall $(case "${?}" in [!0]*) echo "${EX_SOFTWARE}";; esac)' 0 # EXIT
 trap 'endCall 129' 1 # SIGHUP
@@ -201,8 +202,8 @@ lang="${1}"
 currentFile="${2}"
 
 if [ -d "${2}" ]; then
-	echo "'${2}' is directory."
-	endCall "${EX_USAGE}"
+	printf "'%s' is directory.\\n" "${2}" >&2
+	endCall "${EX_CANTCREAT}"
 fi
 
 cpacu-lo-jbovlaste-datni.sh --curl "${curlOption}" "${lang}" >"${downloadFile}" || endCall "${?}"
