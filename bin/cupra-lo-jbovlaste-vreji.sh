@@ -29,8 +29,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.0
-##   date - 2022-02-24
+##   version - 0.1.1
+##   date - 2022-03-05
 ##   since - 2022-02-08
 ##   license - CC-0 <https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -206,7 +206,15 @@ if [ -d "${2}" ]; then
 	endCall "${EX_CANTCREAT}"
 fi
 
-cpacu-lo-jbovlaste-datni.sh --curl "${curlOption}" "${lang}" >"${downloadFile}" || endCall "${?}"
+command='cpacu-lo-jbovlaste-datni.sh'
+
+if command -v "${command}" >'/dev/null' 2>&1; then :; else
+	if [ -x "$(dirname "${0}")/${command}" ]; then
+		command="$(dirname "${0}")/${command}"
+	fi
+fi
+
+"${command}" --curl "${curlOption}" "${lang}" >"${downloadFile}" || endCall "${?}"
 
 xmllint --noout "${downloadFile}"
 
