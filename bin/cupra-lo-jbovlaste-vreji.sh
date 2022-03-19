@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-## File: cupra-lo-jbovlaste-vreji.sh
+## Script: cupra-lo-jbovlaste-vreji.sh
 ##
 ## .i zmiku cupra lo vreji be fi lo datni be la jbovlaste
 ##
@@ -28,17 +28,17 @@
 ##
 ## Metadata:
 ##
-##   author - qq542vev <https://purl.org/meta/me/>
+##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 0.1.1
 ##   date - 2022-03-05
 ##   since - 2022-02-08
-##   license - CC-0 <https://creativecommons.org/publicdomain/zero/1.0/>
+##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
 ##
 ## See Also:
 ##
-##   * Project homepage - <https://github.com/qq542vev/jvs_ja>
-##   * Bag report - <https://github.com/qq542vev/jvs_ja/issues>
+##   * <Project homepage at https://github.com/qq542vev/jvs_ja>
+##   * <Bag report at https://github.com/qq542vev/jvs_ja/issues>
 
 set -efu
 umask '0022'

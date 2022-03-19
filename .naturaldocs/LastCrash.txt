@@ -1,0 +1,18 @@
+Crash Message:
+
+   The first content line in /home/qq542vev/work/jvs_ja/ndocs/Languages.txt must be the Format: line.
+
+Natural Docs version 1.51
+Perl version 5.28.1 on linux
+
+Command Line:
+
+   -i bin/ -o HTML doc/ -p ndocs/
+
+Stack Trace:
+
+   NaturalDocs::Error::CatchDeath, called from
+   NaturalDocs::ConfigFile::Open, line 173, called from
+   NaturalDocs::Languages::LoadFile, line 336, called from
+   NaturalDocs::Languages::Load, line 274, called from
+   (eval), line 283 of /usr/share/perl5/naturaldocs/NaturalDocs

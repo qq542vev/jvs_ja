@@ -1,8 +1,8 @@
 #!/usr/bin/env sh
 
-## File: cpacu-lo-jbovlaste-datni.sh
+## Script: cpacu-lo-jbovlaste-datni.sh
 ##
-## cpacu lo datni be la jbovlaste
+## .i cpacu lo datni be la jbovlaste
 ##
 ## Usage:
 ##
@@ -27,19 +27,19 @@
 ##
 ## Metadata:
 ##
-##   author - qq542vev <https://purl.org/meta/me/>
+##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 0.1.1
 ##   date - 2022-02-24
 ##   since - 2022-02-08
-##   license - CC-0 <https://creativecommons.org/publicdomain/zero/1.0/>
+##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
-##   source - ninpikta.sh <https://gist.github.com/niftg/f93327c98d090ecea61cf1ce9c6351e2#file-ninpikta-sh>
-##   source - print-jbovlaste-dict <https://github.com/lojbanistan/jbovlaste-dicts/blob/master/print-jbovlaste-dict>
+##   source - <ninpikta.sh at https://gist.github.com/niftg/f93327c98d090ecea61cf1ce9c6351e2#file-ninpikta-sh>
+##   source - <print-jbovlaste-dict at https://github.com/lojbanistan/jbovlaste-dicts/blob/master/print-jbovlaste-dict>
 ##
 ## See Also:
 ##
-##   * Project homepage - <https://github.com/qq542vev/jvs_ja>
-##   * Bag report - <https://github.com/qq542vev/jvs_ja/issues>
+##   * <Project homepage at https://github.com/qq542vev/jvs_ja>
+##   * <Bag report at https://github.com/qq542vev/jvs_ja/issues>
 
 set -efu
 umask '0022'
