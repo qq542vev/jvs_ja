@@ -29,8 +29,8 @@
 ## Metadata:
 ##
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.1.1
-##   date - 2022-03-05
+##   version - 0.1.2
+##   date - 2022-04-05
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -43,11 +43,14 @@
 set -efu
 umask '0022'
 IFS=$(printf ' \t\n$'); IFS="${IFS%$}"
-export 'IFS'
+LC_ALL='C'
+PATH="${PATH-}${PATH:+:}$(command -p getconf 'PATH')"
+export 'IFS' 'PATH' 'LC_ALL'
 
 # See also </usr/include/sysexits.h>
 EX_USAGE='64'
-EX_SOFTWARE='68'
+EX_UNAVAILABLE='69'
+EX_SOFTWARE='70'
 EX_CANTCREAT='73'
 
 trap 'endCall $(case "${?}" in [!0]*) echo "${EX_SOFTWARE}";; esac)' 0 # EXIT
@@ -209,8 +212,12 @@ fi
 command='cpacu-lo-jbovlaste-datni.sh'
 
 if command -v "${command}" >'/dev/null' 2>&1; then :; else
-	if [ -x "$(dirname "${0}")/${command}" ]; then
-		command="$(dirname "${0}")/${command}"
+	current="$(dirname "${0}")/${command}"
+	if [ -x "${current}" ]; then
+		command="${current}"
+	else
+		printf "'%s' not found.\\n" "${command}" >&2
+		endCall "${EX_UNAVAILABLE}"
 	fi
 fi
 

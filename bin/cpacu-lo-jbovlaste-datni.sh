@@ -28,8 +28,8 @@
 ## Metadata:
 ##
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.1.1
-##   date - 2022-02-24
+##   version - 0.1.2
+##   date - 2022-04-05
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -44,11 +44,13 @@
 set -efu
 umask '0022'
 IFS=$(printf ' \t\n$'); IFS="${IFS%$}"
-export 'IFS'
+LC_ALL='C'
+PATH="${PATH-}${PATH:+:}$(command -p getconf 'PATH')"
+export 'IFS' 'PATH' 'LC_ALL'
 
 # See also </usr/include/sysexits.h>
 EX_USAGE='64'
-EX_SOFTWARE='68'
+EX_SOFTWARE='70'
 EX_TEMPFAIL='75'
 EX_PROTOCOL='76'
 
@@ -205,12 +207,12 @@ lang="${1}"
 tmpDir=$(mktemp -d)
 cookie="${tmpDir}/cookie"
 
-if [ -z "${JBOVLASTE_USERNAME:-}" ]; then
+if [ -z "${JBOVLASTE_USERNAME-}" ]; then
 	printf 'Username: ' >&2
 	read -r 'JBOVLASTE_USERNAME'
 fi
 
-if [ -z "${JBOVLASTE_PASSWORD:-}" ]; then
+if [ -z "${JBOVLASTE_PASSWORD-}" ]; then
 	printf 'Password: ' >&2
 	read -r 'JBOVLASTE_PASSWORD'
 fi
