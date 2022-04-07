@@ -29,8 +29,8 @@
 ## Metadata:
 ##
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.1.2
-##   date - 2022-04-05
+##   version - 0.1.3
+##   date - 2022-04-08
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -45,13 +45,18 @@ umask '0022'
 IFS=$(printf ' \t\n$'); IFS="${IFS%$}"
 LC_ALL='C'
 PATH="${PATH-}${PATH:+:}$(command -p getconf 'PATH')"
-export 'IFS' 'PATH' 'LC_ALL'
+UNIX_STD='2003' # HP-UX POSIX mode
+XPG_SUS_ENV='ON' # AIX POSIX mode
+XPG_UNIX98='OFF' # AIX UNIX 03 mode
+POSIXLY_CORRECT='1' # GNU Coreutils POSIX mode
+COMMAND_MODE='unix2003' # macOS UNIX 03 mode
+export 'IFS' 'LC_ALL' 'PATH' 'UNIX_STD' 'XPG_SUS_ENV' 'XPG_UNIX98' 'POSIXLY_CORRECT' 'COMMAND_MODE'
 
 # See also </usr/include/sysexits.h>
-EX_USAGE='64'
-EX_UNAVAILABLE='69'
-EX_SOFTWARE='70'
-EX_CANTCREAT='73'
+readonly 'EX_USAGE=64'       # command line usage error
+readonly 'EX_UNAVAILABLE=69' # service unavailable
+readonly 'EX_SOFTWARE=70'    # internal software error
+readonly 'EX_CANTCREAT=73'   # can't create (user) output file
 
 trap 'endCall $(case "${?}" in [!0]*) echo "${EX_SOFTWARE}";; esac)' 0 # EXIT
 trap 'endCall 129' 1 # SIGHUP
