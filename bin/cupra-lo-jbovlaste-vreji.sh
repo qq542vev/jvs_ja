@@ -29,8 +29,8 @@
 ## Metadata:
 ##
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.1.3
-##   date - 2022-04-08
+##   version - 0.1.4
+##   date - 2022-04-12
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -209,8 +209,8 @@ downloadFile="${tmpDir}/data"
 lang="${1}"
 currentFile="${2}"
 
-if [ -d "${2}" ]; then
-	printf "'%s' is directory.\\n" "${2}" >&2
+if [ -d "${currentFile}" ]; then
+	printf "'%s' is directory.\\n" "${currentFile}" >&2
 	endCall "${EX_CANTCREAT}"
 fi
 
@@ -218,6 +218,7 @@ command='cpacu-lo-jbovlaste-datni.sh'
 
 if command -v "${command}" >'/dev/null' 2>&1; then :; else
 	current="$(dirname "${0}")/${command}"
+
 	if [ -x "${current}" ]; then
 		command="${current}"
 	else
@@ -230,7 +231,10 @@ fi
 
 xmllint --noout "${downloadFile}"
 
-if [ ! -e "${currentFile}" ]; then
+if [ '!' -e "${currentFile}" ]; then
+	currentFileDir=$(dirname -- "${currentFile}"; printf '$')
+	mkdir -p -- "${currentFileDir%?$}"
+
 	: >"${currentFile}"
 fi
 
