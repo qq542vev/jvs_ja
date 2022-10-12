@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("reg",["Function"],[["regex_match",,[[,,,,0,"File:cpacu-lo-jbovlaste-datni.sh:regex_match"]]]]);

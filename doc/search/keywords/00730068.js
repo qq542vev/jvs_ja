@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sh",["File"],[["sh",,[[,"cpacu-lo-jbovlaste-datni.sh",,,0,"File:cpacu-lo-jbovlaste-datni.sh:cpacu-lo-jbovlaste-datni.sh"],[,"cupra-lo-jbovlaste-vreji.sh",,,0,"File:cupra-lo-jbovlaste-vreji.sh:cupra-lo-jbovlaste-vreji.sh"]]]]);

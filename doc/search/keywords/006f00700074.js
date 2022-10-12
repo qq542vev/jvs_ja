@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("opt",["Function"],[["option_error",,[[,,,,0,"File:cpacu-lo-jbovlaste-datni.sh:option_error"]]]]);
