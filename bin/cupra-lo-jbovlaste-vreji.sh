@@ -1,36 +1,15 @@
 #!/usr/bin/env sh
 
-## Script: cupra-lo-jbovlaste-vreji.sh
+### Script: cupra-lo-jbovlaste-vreji.sh
 ##
-## .i zmiku cupra lo vreji be fi lo datni be la jbovlaste
-##
-## Usage:
-##
-##   (start code)
-##   cupra-lo-jbovlaste-vreji.sh [OPTION]... LANG FILE
-##   (end)
-##
-## Options:
-##
-##   -c, --curl=OPTIONS - curl options.
-##   -h, --help         - display this help and exit.
-##   -v, --version      - output version information and exit.
-##
-## Exit Status:
-##
-##   0 - Program terminated normally.
-##   1 - FILE was not updated.
-##   64<= to <=78 - Program terminated abnormally. See </usr/include/sysexits.h> for the returned value.
-##   129 - SIGHUP
-##   130 - SIGINT
-##   131 - SIGQUIT
-##   143 - SIGTERM
+## .i zmiku cupra lo vreji be fi lo datni be la jbovlastes
 ##
 ## Metadata:
 ##
+##   id - 1ef1d1bd-2670-450c-8d5b-42e2e20542f9
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.1.4
-##   date - 2022-04-12
+##   version - 0.2.0
+##   date - 2022-10-12
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -39,11 +18,50 @@
 ##
 ##   * <Project homepage at https://github.com/qq542vev/jvs_ja>
 ##   * <Bag report at https://github.com/qq542vev/jvs_ja/issues>
+##
+## Help Output:
+##
+## ------ Text ------
+## Usage:
+##   cupra-lo-jbovlaste-vreji.sh [OPTION]... LANG_TAG FILE
+##
+## Options:
+##   -c,     --curl-option NAME[=VALUE] 
+##                               curl option
+##           --no-curl-option    reset --curl-option
+##   -h,     --help              display this help and exit
+##   -v,     --version           output version information and exit
+##
+## Exit Status:
+##     0 - successful termination
+##     1 - FILE was not updated
+##    64 - command line usage error
+##    65 - data format error
+##    66 - cannot open input
+##    67 - addressee unknown
+##    68 - host name unknown
+##    69 - service unavailable
+##    70 - internal software error
+##    71 - system error (e.g., can't fork)
+##    72 - critical OS file missing
+##    73 - can't create (user) output file
+##    74 - input/output error
+##    75 - temp failure; user is invited to retry
+##    76 - remote error in protocol
+##    77 - permission denied
+##    78 - configuration error
+##   129 - received SIGHUP
+##   130 - received SIGINT
+##   131 - received SIGQUIT
+##   143 - received SIGTERM
+## ## ------------------
+
+readonly 'VERSION=cupra-lo-jbovlaste-vreji.sh 0.2.0'
 
 set -efu
 umask '0022'
-IFS=$(printf ' \t\n$'); IFS="${IFS%$}"
 LC_ALL='C'
+IFS=$(printf ' \t\n_'); IFS="${IFS%_}"
 PATH="${PATH-}${PATH:+:}$(command -p getconf 'PATH')"
 UNIX_STD='2003' # HP-UX POSIX mode
 XPG_SUS_ENV='ON' # AIX POSIX mode
@@ -52,61 +70,146 @@ POSIXLY_CORRECT='1' # GNU Coreutils POSIX mode
 COMMAND_MODE='unix2003' # macOS UNIX 03 mode
 export 'IFS' 'LC_ALL' 'PATH' 'UNIX_STD' 'XPG_SUS_ENV' 'XPG_UNIX98' 'POSIXLY_CORRECT' 'COMMAND_MODE'
 
-# See also </usr/include/sysexits.h>
+readonly 'EX_OK=0'           # successful termination
+readonly 'EX__BASE=64'       # base value for error messages
+
 readonly 'EX_USAGE=64'       # command line usage error
+readonly 'EX_DATAERR=65'     # data format error
+readonly 'EX_NOINPUT=66'     # cannot open input
+readonly 'EX_NOUSER=67'      # addressee unknown
+readonly 'EX_NOHOST=68'      # host name unknown
 readonly 'EX_UNAVAILABLE=69' # service unavailable
 readonly 'EX_SOFTWARE=70'    # internal software error
+readonly 'EX_OSERR=71'       # system error (e.g., can't fork)
+readonly 'EX_OSFILE=72'      # critical OS file missing
 readonly 'EX_CANTCREAT=73'   # can't create (user) output file
+readonly 'EX_IOERR=74'       # input/output error
+readonly 'EX_TEMPFAIL=75'    # temp failure; user is invited to retry
+readonly 'EX_PROTOCOL=76'    # remote error in protocol
+readonly 'EX_NOPERM=77'      # permission denied
+readonly 'EX_CONFIG=78'      # configuration error
 
-trap 'endCall $(case "${?}" in [!0]*) echo "${EX_SOFTWARE}";; esac)' 0 # EXIT
-trap 'endCall 129' 1 # SIGHUP
-trap 'endCall 130' 2 # SIGINT
-trap 'endCall 131' 3 # SIGQUIT
-trap 'endCall 143' 15 # SIGTERM
+readonly 'EX__MAX=78'        # maximum listed value
 
-endCall() {
+trap 'case "${?}" in 0) end_call;; *) end_call "${EX_SOFTWARE}";; esac' 0 # EXIT
+trap 'end_call 129' 1  # SIGHUP
+trap 'end_call 130' 2  # SIGINT
+trap 'end_call 131' 3  # SIGQUIT
+trap 'end_call 143' 15 # SIGTERM
+
+### Function: end_call
+##
+## 一時ディレクトリを削除しスクリプトを終了する。
+##
+## Parameters:
+##
+##   $1 - 終了ステータス。
+##
+## Returns:
+##
+##   $1 の終了ステータス。
+
+end_call() {
 	trap '' 0 # EXIT
-	rm -fr -- ${tmpDir+"${tmpDir}"}
+	rm -fr -- ${tmpDir:+"${tmpDir}"}
 	exit "${1:-0}"
 }
 
-usage() {
-	sed -e '/^## *(start code)/,/^## *(end)/!d' -- "${0}" | sed -e '1d; $d; s/^## */Usage: /'
-	sed -e '/^## File:/,/^## .*:$/!d' -- "${0}" | sed -e '1d; $d; s/^## *//'
+### Function: option_error
+##
+## エラーメッセージを出力する。
+##
+## Parameters:
+##
+##   $1 - エラーメッセージ。
+##
+## Returns:
+##
+##   終了コード64。
 
-	printf 'Options:\n'
-	sed -n -e '/^## *-.* - /s/^## *//p' -- "${0}" | awk -F ' - ' '{print "  " $1 "  " $2}'
+option_error() {
+	printf '%s: %s\n' "${0##*/}" "${1}" >&2
+	printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
 
-	printf '\nExit status:\n'
-	sed -n -e '/^## *[0-9]\{1,\}.* - /s/^## */  /p' -- "${0}"
+	end_call "${EX_USAGE}"
 }
 
-version() {
-	cat <<-EOF
-		$(sed -n -e 's/^## File: //p' -- "${0}") ($(sed -n -e 's/^## *package - //p' -- "${0}")) $(sed -n -e 's/^## *version - //p' -- "${0}") (Last update: $(sed -n -e 's/^## *date - //p' -- "${0}"))
-		License: $(sed -n -e 's/^## *license - //p' -- "${0}")
-		Author: $(sed -n -e 's/^## *author - //p' -- "${0}")
-	EOF
+### Function: append_array_posix
+##
+## 配列風文字列に要素を追加する。
+##
+## Parameters:
+##
+##   $1 - 結果を代入する変数名。
+##   $@ - 追加する要素。
+
+append_array_posix() {
+	while [ 2 -le "${#}" ]; do
+		__append_array_posix "${1}" "${2}"
+
+		eval "shift 2; set -- '${1}'" '${@+"${@}"}'
+	done
 }
 
-error() {
-	printf '%s\n' "${1}" >&2
-	endCall "${EX_USAGE}"
+### Function: __append_array_posix
+##
+## 配列風文字列に要素を追加する。
+##
+## Parameters:
+##
+##   $1 - 結果を代入する変数名。
+##   $2 - 追加する要素。
+
+__append_array_posix() {
+	set "${1}" "${2-}" ''
+
+	until [ "${2#*\'}" '=' "${2}" ]; do
+		set -- "${1}" "${2#*\'}" "${3}${2%%\'*}'\"'\"'"
+	done
+
+	eval "${1}=\"\${${1}-}\${${1}:+ }'\${3}\${2}'\""
 }
 
 # @getoptions
 parser_definition() {
-	setup REST plus:true abbr:true error:error
-	param curlOption -c --curl init:=''
-	disp  :usage     -h --help
-	disp  :version   -v --version
+	setup REST abbr:true error:option_error plus:true no:0 help:usage \
+		-- 'Usage:' "  ${2##*/} [OPTION]... LANG_TAG FILE" \
+		'' 'Options:'
+
+	param :'append_array_posix "curlOptions" "--curl-option" "${OPTARG}"' -c --curl-option var:"NAME[=VALUE]" -- 'curl option'
+	flag  curlOptions --no-curl-option init:@no on: no: -- 'reset --curl-option'
+	disp  :usage      -h --help        -- 'display this help and exit'
+	disp  VERSION     -v --version     -- 'output version information and exit'
+
+	msg -- '' 'Exit Status:' \
+		'    0 - successful termination' \
+		'    1 - FILE was not updated' \
+		'   64 - command line usage error' \
+		'   65 - data format error' \
+		'   66 - cannot open input' \
+		'   67 - addressee unknown' \
+		'   68 - host name unknown' \
+		'   69 - service unavailable' \
+		'   70 - internal software error' \
+		"   71 - system error (e.g., can't fork)" \
+		'   72 - critical OS file missing' \
+		"   73 - can't create (user) output file" \
+		'   74 - input/output error' \
+		'   75 - temp failure; user is invited to retry' \
+		'   76 - remote error in protocol' \
+		'   77 - permission denied' \
+		'   78 - configuration error' \
+		'  129 - received SIGHUP' \
+		'  130 - received SIGINT' \
+		'  131 - received SIGQUIT' \
+		'  143 - received SIGTERM'
 }
 # @end
 
-# @gengetoptions parser -i parser_definition parse
+# @gengetoptions parser -i parser_definition parse "${1}"
 # Generated by getoptions (BEGIN)
 # URL: https://github.com/ko1nksm/getoptions (v3.3.0)
-curlOption=''
+curlOptions=''
 REST=''
 parse() {
   OPTIND=$(($#+1))
@@ -114,9 +217,13 @@ parse() {
     set -- "${1%%\=*}" "${1#*\=}" "$@"
     while [ ${#1} -gt 2 ]; do
       case $1 in (*[!a-zA-Z0-9_-]*) break; esac
-      case '--curl' in
+      case '--curl-option' in
         "$1") OPTARG=; break ;;
-        $1*) OPTARG="$OPTARG --curl"
+        $1*) OPTARG="$OPTARG --curl-option"
+      esac
+      case '--no-curl-option' in
+        "$1") OPTARG=; break ;;
+        $1*) OPTARG="$OPTARG --no-curl-option"
       esac
       case '--help' in
         "$1") OPTARG=; break ;;
@@ -134,7 +241,7 @@ parse() {
         OPTIND=$((($#+1)/2)) OPTARG=$1; shift
         while [ $# -gt "$OPTIND" ]; do OPTARG="$OPTARG, $1"; shift; done
         set "Ambiguous option: $1 (could be $OPTARG)" ambiguous "$@"
-        error "$@" >&2 || exit $?
+        option_error "$@" >&2 || exit $?
         echo "$1" >&2
         exit 1 ;;
       ?*)
@@ -156,16 +263,21 @@ parse() {
       +*) unset OPTARG ;;
     esac
     case $1 in
-      '-c'|'--curl')
+      '-c'|'--curl-option')
         [ $# -le 1 ] && set "required" "$1" && break
         OPTARG=$2
-        curlOption="$OPTARG"
+        append_array_posix "curlOptions" "--curl-option" "${OPTARG}"
         shift ;;
+      '--no-curl-option')
+        [ "${OPTARG:-}" ] && OPTARG=${OPTARG#*\=} && set "noarg" "$1" && break
+        eval '[ ${OPTARG+x} ] &&:' && OPTARG='' || OPTARG=''
+        curlOptions="$OPTARG"
+        ;;
       '-h'|'--help')
         usage
         exit 0 ;;
       '-v'|'--version')
-        version
+        echo "${VERSION}"
         exit 0 ;;
       --)
         shift
@@ -189,9 +301,45 @@ parse() {
     notcmd) set "Not a command: $2" "$@" ;;
     *) set "Validation error ($1): $2" "$@"
   esac
-  error "$@" >&2 || exit $?
+  option_error "$@" >&2 || exit $?
   echo "$1" >&2
   exit 1
+}
+usage() {
+cat<<'GETOPTIONSHERE'
+Usage:
+  cupra-lo-jbovlaste-vreji.sh [OPTION]... LANG_TAG FILE
+
+Options:
+  -c,     --curl-option NAME[=VALUE] 
+                              curl option
+          --no-curl-option    reset --curl-option
+  -h,     --help              display this help and exit
+  -v,     --version           output version information and exit
+
+Exit Status:
+    0 - successful termination
+    1 - FILE was not updated
+   64 - command line usage error
+   65 - data format error
+   66 - cannot open input
+   67 - addressee unknown
+   68 - host name unknown
+   69 - service unavailable
+   70 - internal software error
+   71 - system error (e.g., can't fork)
+   72 - critical OS file missing
+   73 - can't create (user) output file
+   74 - input/output error
+   75 - temp failure; user is invited to retry
+   76 - remote error in protocol
+   77 - permission denied
+   78 - configuration error
+  129 - received SIGHUP
+  130 - received SIGINT
+  131 - received SIGQUIT
+  143 - received SIGTERM
+GETOPTIONSHERE
 }
 # Generated by getoptions (END)
 # @end
@@ -200,40 +348,53 @@ parse ${@+"${@}"}
 eval "set -- ${REST}"
 
 case "${#}" in
-	'0') error 'Requires an argument: LANG and FILE';;
-	'1') error 'Requires an argument: FILE';;
+	'0')
+		printf '%s: Requires an argument: LANG_TAG and FILE\n' "${0##*/}" >&2
+		printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
+
+		end_call "${EX_USAGE}"
+		;;
+	'1')
+		printf '%s: Requires an argument: FILE\n' "${0##*/}" >&2
+		printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
+
+		end_call "${EX_USAGE}"
+		;;
 esac
 
-tmpDir=$(mktemp -d)
-downloadFile="${tmpDir}/data"
 lang="${1}"
 currentFile="${2}"
-
-if [ -d "${currentFile}" ]; then
-	printf "'%s' is directory.\\n" "${currentFile}" >&2
-	endCall "${EX_CANTCREAT}"
-fi
-
+tmpDir=$(mktemp -d)
+downloadFile="${tmpDir}/data"
 command='cpacu-lo-jbovlaste-datni.sh'
 
-if command -v "${command}" >'/dev/null' 2>&1; then :; else
+if [ -d "${currentFile}" ]; then
+	printf "%s: '%s' is directory.\\n" "${0##*/}" "${currentFile}" >&2
+	printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
+
+	end_call "${EX_CANTCREAT}"
+fi
+
+if command -v "${command}" >'/dev/null'; then :; else
 	current="$(dirname "${0}")/${command}"
 
-	if [ -x "${current}" ]; then
+	if [ -f "${current}" ] && [ -x "${current}" ]; then
 		command="${current}"
 	else
-		printf "'%s' not found.\\n" "${command}" >&2
-		endCall "${EX_UNAVAILABLE}"
+		printf "%s: '%s' not found.\\n" "${0##*/}" "${command}" >&2
+		printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
+
+		end_call "${EX_UNAVAILABLE}"
 	fi
 fi
 
-"${command}" --curl "${curlOption}" "${lang}" >"${downloadFile}" || endCall "${?}"
+eval '"${command}"' "${curlOptions}" '"${lang}"' >"${downloadFile}" || end_call "${?}"
 
 xmllint --noout "${downloadFile}"
 
 if [ '!' -e "${currentFile}" ]; then
-	currentFileDir=$(dirname -- "${currentFile}"; printf '$')
-	mkdir -p -- "${currentFileDir%?$}"
+	currentFileDir=$(dirname -- "${currentFile}"; printf '_')
+	mkdir -p -- "${currentFileDir%?_}"
 
 	: >"${currentFile}"
 fi
@@ -241,11 +402,11 @@ fi
 diff -- "${downloadFile}" "${currentFile}" >'/dev/null' || case "${?}" in
 	'1')
 		cat -- "${downloadFile}" >"${currentFile}"
-		endCall 0
+		end_call
 		;;
 	*)
-		endCall "${EX_USAGE}"
+		end_call "${EX_USAGE}"
 		;;
 esac
 
-endCall 1
+end_call 1
