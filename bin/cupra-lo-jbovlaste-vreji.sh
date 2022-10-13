@@ -18,6 +18,8 @@
 ##
 ##   * <Project homepage at https://github.com/qq542vev/jvs_ja>
 ##   * <Bag report at https://github.com/qq542vev/jvs_ja/issues>
+##   * <jbovlaste: Supported language listings at https://jbovlaste.lojban.org/languages.html>
+##   * <jbovlaste: Word Listings: magic user at https://jbovlaste.lojban.org/export/xml.html>
 ##
 ## Help Output:
 ##
