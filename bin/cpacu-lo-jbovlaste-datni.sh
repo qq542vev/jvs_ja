@@ -8,8 +8,8 @@
 ##
 ##   id - 0cbe9e57-e958-436f-a6e7-947516f7c478
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.2.0
-##   date - 2022-10-12
+##   version - 0.2.1
+##   date - 2022-10-19
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -59,7 +59,7 @@
 ##   143 - received SIGTERM
 ## ------------------
 
-readonly 'VERSION=cpacu-lo-jbovlaste-datni.sh 0.2.0'
+readonly 'VERSION=cpacu-lo-jbovlaste-datni.sh 0.2.1'
 
 set -efu
 umask '0022'
@@ -411,14 +411,14 @@ tmpDir=$(mktemp -d)
 cookie="${tmpDir}/cookie"
 
 case "${JBOVLASTE_USERNAME-}" in '')
-	printf 'Username: ' >&2
-	read -r 'JBOVLASTE_USERNAME'
+	printf 'Username: ' >'/dev/tty'
+	read -r 'JBOVLASTE_USERNAME' <'/dev/tty'
 	;;
 esac
 
 case "${JBOVLASTE_PASSWORD-}" in '')
-	printf 'Password: ' >&2
-	read -r 'JBOVLASTE_PASSWORD'
+	printf 'Password: ' >'/dev/tty'
+	read -r 'JBOVLASTE_PASSWORD' <'/dev/tty'
 	;;
 esac
 
