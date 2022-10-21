@@ -8,8 +8,8 @@
 ##
 ##   id - 1ef1d1bd-2670-450c-8d5b-42e2e20542f9
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.2.0
-##   date - 2022-10-12
+##   version - 0.2.1
+##   date - 2022-10-21
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -30,7 +30,7 @@
 ## Options:
 ##   -c,     --curl-option NAME[=VALUE] 
 ##                               curl option
-##           --no-curl-option    reset --curl-option
+##           --no-curl-option    reset -c, --curl-option
 ##   -h,     --help              display this help and exit
 ##   -v,     --version           output version information and exit
 ##
@@ -56,9 +56,9 @@
 ##   130 - received SIGINT
 ##   131 - received SIGQUIT
 ##   143 - received SIGTERM
-## ## ------------------
+## ------------------
 
-readonly 'VERSION=cupra-lo-jbovlaste-vreji.sh 0.2.0'
+readonly 'VERSION=cupra-lo-jbovlaste-vreji.sh 0.2.1'
 
 set -efu
 umask '0022'
@@ -179,7 +179,7 @@ parser_definition() {
 		'' 'Options:'
 
 	param :'append_array_posix "curlOptions" "--curl-option" "${OPTARG}"' -c --curl-option var:"NAME[=VALUE]" -- 'curl option'
-	flag  curlOptions --no-curl-option init:@no on: no: -- 'reset --curl-option'
+	flag  curlOptions --no-curl-option init:@no on: no: -- 'reset -c, --curl-option'
 	disp  :usage      -h --help        -- 'display this help and exit'
 	disp  VERSION     -v --version     -- 'output version information and exit'
 
@@ -315,7 +315,7 @@ Usage:
 Options:
   -c,     --curl-option NAME[=VALUE] 
                               curl option
-          --no-curl-option    reset --curl-option
+          --no-curl-option    reset -c, --curl-option
   -h,     --help              display this help and exit
   -v,     --version           output version information and exit
 

@@ -8,8 +8,8 @@
 ##
 ##   id - 0cbe9e57-e958-436f-a6e7-947516f7c478
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.2.1
-##   date - 2022-10-19
+##   version - 0.2.2
+##   date - 2022-10-21
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -32,7 +32,7 @@
 ## Options:
 ##   -c,     --curl-option NAME[=VALUE] 
 ##                               curl option
-##           --no-curl-option    reset --curl-option
+##           --no-curl-option    reset -c, --curl-option
 ##   -h,     --help              display this help and exit
 ##   -v,     --version           output version information and exit
 ##
@@ -59,7 +59,7 @@
 ##   143 - received SIGTERM
 ## ------------------
 
-readonly 'VERSION=cpacu-lo-jbovlaste-datni.sh 0.2.1'
+readonly 'VERSION=cpacu-lo-jbovlaste-datni.sh 0.2.2'
 
 set -efu
 umask '0022'
@@ -225,7 +225,7 @@ parser_definition() {
 		'' 'Options:'
 
 	param :'add_option "curlOptions" "${OPTARG}"' -c --curl-option validate:'regex_match "${OPTARG}" "^--?[0-9A-Za-z]([0-9A-Za-z-]*[0-9A-Za-z])?(=.*)?$"' var:"NAME[=VALUE]" -- 'curl option'
-	flag  curlOptions --no-curl-option init:@no on: no: -- 'reset --curl-option'
+	flag  curlOptions --no-curl-option init:@no on: no: -- 'reset -c, --curl-option'
 	disp  :usage      -h --help        -- 'display this help and exit'
 	disp  VERSION     -v --version     -- 'output version information and exit'
 
@@ -361,7 +361,7 @@ Usage:
 Options:
   -c,     --curl-option NAME[=VALUE] 
                               curl option
-          --no-curl-option    reset --curl-option
+          --no-curl-option    reset -c, --curl-option
   -h,     --help              display this help and exit
   -v,     --version           output version information and exit
 
