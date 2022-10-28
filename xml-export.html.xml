@@ -17145,7 +17145,7 @@
     <username>glekizmiku</username>
     <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-  <definition>転置行列 ： 数理演算子（単一項）； ある行列の列と行を交換することで生ずる行列； [A*]</definition>
+  <definition>転置行列 ： 数理演算子（単一項）； ある行列の列と行を交換することで生ずる行列； [$A^T$]</definition>
   <definitionid>40856</definitionid>
   <notes>・読み方： レハ</notes>
 </valsi>
