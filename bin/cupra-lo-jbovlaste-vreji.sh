@@ -8,8 +8,8 @@
 ##
 ##   id - 1ef1d1bd-2670-450c-8d5b-42e2e20542f9
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.2.1
-##   date - 2022-10-21
+##   version - 0.2.2
+##   date - 2022-10-29
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -58,7 +58,7 @@
 ##   143 - received SIGTERM
 ## ------------------
 
-readonly 'VERSION=cupra-lo-jbovlaste-vreji.sh 0.2.1'
+readonly 'VERSION=cupra-lo-jbovlaste-vreji.sh 0.2.2'
 
 set -efu
 umask '0022'
@@ -370,13 +370,6 @@ tmpDir=$(mktemp -d)
 downloadFile="${tmpDir}/data"
 command='cpacu-lo-jbovlaste-datni.sh'
 
-if [ -d "${currentFile}" ]; then
-	printf "%s: '%s' is directory.\\n" "${0##*/}" "${currentFile}" >&2
-	printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
-
-	end_call "${EX_CANTCREAT}"
-fi
-
 if command -v "${command}" >'/dev/null'; then :; else
 	current="$(dirname "${0}")/${command}"
 
@@ -390,16 +383,21 @@ if command -v "${command}" >'/dev/null'; then :; else
 	fi
 fi
 
-eval '"${command}"' "${curlOptions}" '"${lang}"' >"${downloadFile}" || end_call "${?}"
-
-xmllint --noout "${downloadFile}"
-
 if [ '!' -e "${currentFile}" ]; then
 	currentFileDir=$(dirname -- "${currentFile}"; printf '_')
 	mkdir -p -- "${currentFileDir%?_}"
 
 	: >"${currentFile}"
+elif [ '!' -f "${currentFile}" ]; then
+	printf "%s: '%s' is not a regular file.\\n" "${0##*/}" "${currentFile}" >&2
+	printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
+
+	end_call "${EX_DATAERR}"
 fi
+
+eval '"${command}"' "${curlOptions}" '"${lang}"' >"${downloadFile}" || end_call "${?}"
+
+xmllint --noout "${downloadFile}"
 
 diff -- "${downloadFile}" "${currentFile}" >'/dev/null' || case "${?}" in
 	'1')
@@ -407,7 +405,7 @@ diff -- "${downloadFile}" "${currentFile}" >'/dev/null' || case "${?}" in
 		end_call
 		;;
 	*)
-		end_call "${EX_USAGE}"
+		end_call "${EX_SOFTWARE}"
 		;;
 esac
 
