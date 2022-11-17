@@ -11735,6 +11735,17 @@
   <definitionid>39792</definitionid>
   <notes>・大意： 真鍮 ・読み方： ルァストゥ  ・関連語： {jinme}, {ransu}, {tunka}</notes>
 </valsi>
+<valsi word="latkerlo" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ は $x_2$ （本体）の猫耳</definition>
+  <definitionid>73033</definitionid>
+  <notes>{mlatu}, {kerlo}</notes>
+  <glossword word="猫耳" />
+  <keyword word="猫耳" place="1" />
+</valsi>
 <valsi word="latmo" type="gismu">
   <rafsi>la&apos;o</rafsi>
   <user>
@@ -26616,6 +26627,7 @@
 <nlword word="沼" valsi="lalxu" />
 <nlword word="湖" valsi="lalxu" />
 <nlword word="アートギャラリー" valsi="larmuzga" />
+<nlword word="猫耳" valsi="latkerlo" place="1" />
 <nlword word="Ar" sense="アルゴン" valsi="laznynavni" />
 <nlword word="アルゴン" valsi="laznynavni" place="1" />
 <nlword word="ままごと" sense="遊び" valsi="lazyzukykei" />
