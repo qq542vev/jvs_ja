@@ -11066,6 +11066,16 @@
   <definition>$x_1$ sumka&apos;i $x_2$ gi&apos;a virtu&apos;ale lo sumka&apos;i be $x_2$ .i va&apos;o lo nu da goi ko&apos;a goilka&apos;i kei lu «la&apos;e ko&apos;a» li&apos;u cu sinxa le se goilka&apos;i be ko&apos;a</definition>
   <definitionid>67242</definitionid>
 </valsi>
+<valsi word="gokti" type="gismu">
+  <user>
+    <username>krtisfranks</username>
+    <realname>Curtis W Franks</realname>
+  </user>
+  <definition>$x_1$ gocti $x_2$ $x_3$</definition>
+  <definitionid>73043</definitionid>
+  <notes>zo &quot;gokti&quot; {smumi&apos;u} zo &quot;gocti&quot;</notes>
+  <glossword word="gocti" />
+</valsi>
 <valsi word="go'o" type="cmavo">
   <selmaho>GOhA</selmaho>
   <user>
@@ -37590,6 +37600,16 @@
   <notes>{skari}; {kolme}</notes>
   <glossword word="xekri" />
 </valsi>
+<valsi word="xekto" type="gismu">
+  <user>
+    <username>krtisfranks</username>
+    <realname>Curtis W Franks</realname>
+  </user>
+  <definition>$x_1$ xecto $x_2$ $x_3$</definition>
+  <definitionid>73042</definitionid>
+  <notes>zo &quot;xekto&quot; {smumi&apos;u} zo &quot;{xecto}&quot; .i ra&apos;oi &quot;-xet-&quot; rafsi ti</notes>
+  <glossword word="xecto" />
+</valsi>
 <valsi word="xelso" type="gismu">
   <rafsi>xes</rafsi>
   <user>
@@ -40421,6 +40441,7 @@
 <nlword word="go&apos;e" valsi="go&apos;e" />
 <nlword word="go&apos;i" valsi="go&apos;i" />
 <nlword word="goi" valsi="goi" />
+<nlword word="gocti" valsi="gokti" />
 <nlword word="go&apos;o" valsi="go&apos;o" />
 <nlword word="go&apos;u" valsi="go&apos;u" />
 <nlword word="gradu" valsi="gradu" />
@@ -41501,6 +41522,7 @@
 <nlword word="xei" valsi="xei" />
 <nlword word="xeka&apos;a" valsi="xeka&apos;a" />
 <nlword word="xekri" valsi="xekri" />
+<nlword word="xecto" valsi="xekto" />
 <nlword word="xendo" valsi="xendo" />
 <nlword word="xi" valsi="xi" />
 <nlword word="xo" valsi="xo" />
