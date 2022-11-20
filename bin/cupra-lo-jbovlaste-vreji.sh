@@ -370,7 +370,7 @@ tmpDir=$(mktemp -d)
 downloadFile="${tmpDir}/data"
 command='cpacu-lo-jbovlaste-datni.sh'
 
-if command -v "${command}" >'/dev/null'; then :; else
+if ! command -v "${command}" >'/dev/null'; then
 	current="$(dirname "${0}")/${command}"
 
 	if [ -f "${current}" ] && [ -x "${current}" ]; then

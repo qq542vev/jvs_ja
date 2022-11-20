@@ -445,7 +445,7 @@ eval curl \
 	-- '"${LOGIN_URL}"' >'/dev/null' \
 || end_call "${EX_PROTOCOL}"
 
-if grep -Fq -e "${SESSION_ID}" -- "${cookie}"; then :; else
+if ! grep -Fq -e "${SESSION_ID}" -- "${cookie}"; then
 	printf ".o'i na plixau pikta .i .e'e za'ure'u troci\\n" >&2
 
 	end_call "${EX_TEMPFAIL}"
