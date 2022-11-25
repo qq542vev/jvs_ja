@@ -22234,6 +22234,14 @@
   <definitionid>64310</definitionid>
   <notes>{pluka} .i {melbi} .i {kukte}</notes>
 </valsi>
+<valsi word="nelrai" type="lujvo">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+  <definition>$x_2$ traji le ka ce&apos;u selnei $x_1$ kei $x_4$ $x_3$</definition>
+  <definitionid>73047</definitionid>
+</valsi>
 <valsi word="nemdu'a" type="lujvo">
   <user>
     <username>lalxu</username>
