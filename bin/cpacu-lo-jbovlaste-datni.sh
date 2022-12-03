@@ -9,7 +9,7 @@
 ##   id - 0cbe9e57-e958-436f-a6e7-947516f7c478
 ##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 0.2.3
-##   date - 2022-10-22
+##   date - 2022-12-03
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -67,6 +67,7 @@ readonly 'VERSION=cpacu-lo-jbovlaste-datni.sh 0.2.3'
 
 set -efu
 umask '0022'
+readonly "LC_ALL_ORG=${LC_ALL-}"
 LC_ALL='C'
 IFS=$(printf ' \t\n_'); IFS="${IFS%_}"
 PATH="${PATH-}${PATH:+:}$(command -p getconf 'PATH')"
@@ -75,7 +76,7 @@ XPG_SUS_ENV='ON' # AIX POSIX mode
 XPG_UNIX98='OFF' # AIX UNIX 03 mode
 POSIXLY_CORRECT='1' # GNU Coreutils POSIX mode
 COMMAND_MODE='unix2003' # macOS UNIX 03 mode
-export 'IFS' 'LC_ALL' 'PATH' 'UNIX_STD' 'XPG_SUS_ENV' 'XPG_UNIX98' 'POSIXLY_CORRECT' 'COMMAND_MODE'
+export 'LC_ALL' 'IFS' 'PATH' 'UNIX_STD' 'XPG_SUS_ENV' 'XPG_UNIX98' 'POSIXLY_CORRECT' 'COMMAND_MODE'
 
 readonly 'EX_OK=0'           # successful termination
 readonly 'EX__BASE=64'       # base value for error messages
@@ -425,13 +426,11 @@ cookie="${tmpDir}/cookie"
 case "${JBOVLASTE_USERNAME-}" in '')
 	printf 'Username: ' >'/dev/tty'
 	read -r 'JBOVLASTE_USERNAME' <'/dev/tty'
-	;;
 esac
 
 case "${JBOVLASTE_PASSWORD-}" in '')
 	printf 'Password: ' >'/dev/tty'
 	read -r 'JBOVLASTE_PASSWORD' <'/dev/tty'
-	;;
 esac
 
 eval curl \

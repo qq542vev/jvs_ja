@@ -9,7 +9,7 @@
 ##   id - 1ef1d1bd-2670-450c-8d5b-42e2e20542f9
 ##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 0.2.2
-##   date - 2022-10-29
+##   date - 2022-12-03
 ##   since - 2022-02-08
 ##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
@@ -62,6 +62,7 @@ readonly 'VERSION=cupra-lo-jbovlaste-vreji.sh 0.2.2'
 
 set -efu
 umask '0022'
+readonly "LC_ALL_ORG=${LC_ALL-}"
 LC_ALL='C'
 IFS=$(printf ' \t\n_'); IFS="${IFS%_}"
 PATH="${PATH-}${PATH:+:}$(command -p getconf 'PATH')"
@@ -70,7 +71,7 @@ XPG_SUS_ENV='ON' # AIX POSIX mode
 XPG_UNIX98='OFF' # AIX UNIX 03 mode
 POSIXLY_CORRECT='1' # GNU Coreutils POSIX mode
 COMMAND_MODE='unix2003' # macOS UNIX 03 mode
-export 'IFS' 'LC_ALL' 'PATH' 'UNIX_STD' 'XPG_SUS_ENV' 'XPG_UNIX98' 'POSIXLY_CORRECT' 'COMMAND_MODE'
+export 'LC_ALL' 'IFS' 'PATH' 'UNIX_STD' 'XPG_SUS_ENV' 'XPG_UNIX98' 'POSIXLY_CORRECT' 'COMMAND_MODE'
 
 readonly 'EX_OK=0'           # successful termination
 readonly 'EX__BASE=64'       # base value for error messages
@@ -395,7 +396,7 @@ elif [ '!' -f "${currentFile}" ]; then
 	end_call "${EX_DATAERR}"
 fi
 
-eval '"${command}"' "${curlOptions}" '"${lang}"' >"${downloadFile}" || end_call "${?}"
+LC_ALL="${LC_ALL_ORG}" eval '"${command}"' "${curlOptions}" '"${lang}"' >"${downloadFile}" || end_call "${?}"
 
 xmllint --noout "${downloadFile}"
 
@@ -404,9 +405,7 @@ diff -- "${downloadFile}" "${currentFile}" >'/dev/null' || case "${?}" in
 		cat -- "${downloadFile}" >"${currentFile}"
 		end_call
 		;;
-	*)
-		end_call "${EX_SOFTWARE}"
-		;;
+	*) end_call "${EX_SOFTWARE}";;
 esac
 
 end_call 1
