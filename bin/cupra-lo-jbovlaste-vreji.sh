@@ -403,9 +403,10 @@ xmllint --noout "${downloadFile}"
 diff -- "${downloadFile}" "${currentFile}" >'/dev/null' || case "${?}" in
 	'1')
 		cat -- "${downloadFile}" >"${currentFile}"
-		end_call
+
+		exit
 		;;
 	*) end_call "${EX_SOFTWARE}";;
 esac
 
-end_call 1
+end_call '1'
