@@ -24665,6 +24665,15 @@
   <notes>{doi}; {cpedu}</notes>
   <glossword word="pe&apos;u" />
 </valsi>
+<valsi word="pevzifrokpre" type="lujvo">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+  <definition>$x_1$ me&apos;oi .Freemason. je cu se bende $x_2$ poi me&apos;oi .lodge. je cu se me&apos;oi .endorse. $x_3$ poi mu&apos;oi glibau. grand lodge .glibau</definition>
+  <definitionid>72969</definitionid>
+  <glossword word="Freemason" />
+</valsi>
 <valsi word="pi" type="cmavo">
   <rafsi>piz</rafsi>
   <selmaho>PA3</selmaho>
@@ -41009,6 +41018,7 @@
 <nlword word="pelxu" valsi="pelxu" />
 <nlword word="pe&apos;o" valsi="pe&apos;o" />
 <nlword word="pe&apos;u" valsi="pe&apos;u" />
+<nlword word="Freemason" valsi="pevzifrokpre" />
 <nlword word="pi" valsi="pi" />
 <nlword word="pi&apos;a" valsi="pi&apos;a" />
 <nlword word="pi&apos;e" valsi="pi&apos;e" />
