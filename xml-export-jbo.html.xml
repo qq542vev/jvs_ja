@@ -1957,6 +1957,15 @@
   <definitionid>65880</definitionid>
   <notes>{xalka}; {selpinxe}; {krasi}; {fusra}; {gurni}; {bavmi}; {jikru}; {vanju}; {barja}</notes>
 </valsi>
+<valsi word="birjunla" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ junla $x_2$ $x_3$ $x_4$ gi&apos;e se dasni ru&apos;u lo xancidni</definition>
+  <definitionid>73152</definitionid>
+  <notes>{birka}, {junla}, {kanjunla}</notes>
+</valsi>
 <valsi word="birjybarja" type="lujvo">
   <user>
     <username>Wuzzy</username>
