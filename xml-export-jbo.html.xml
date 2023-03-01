@@ -10540,6 +10540,14 @@
   <definition>$x_1$ pilno $x_2$ lo ka gasnu $x_3$</definition>
   <definitionid>63765</definitionid>
 </valsi>
+<valsi word="gaurbasyvla" type="lujvo">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+  <definition>ga je $x_1$ basyvla $x_2$ $x_3$ $x_4$ gi $x_5$ snigau $x_1$ $x_2$ $x_6$</definition>
+  <definitionid>73155</definitionid>
+</valsi>
 <valsi word="gaxykafke" type="lujvo">
   <user>
     <username>durka42</username>
@@ -21940,6 +21948,14 @@
   </user>
   <definition>lo nu $x_1$ narfau cu narcu&apos;i $x_2$</definition>
   <definitionid>57208</definitionid>
+</valsi>
+<valsi word="nargaubasyvla" type="lujvo">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+  <definition>ga je x1 basyvla x2 x3 x4 gi $x_5$ na frili lo nu snigau $x_1$ $x_2$</definition>
+  <definitionid>73156</definitionid>
 </valsi>
 <valsi word="narge" type="gismu">
   <rafsi>nag</rafsi>
