@@ -25823,6 +25823,20 @@
   <definitionid>44273</definitionid>
   <notes>.e&apos;o ko tcidu tu&apos;a zo {zulbirka}</notes>
 </valsi>
+<valsi word="proji" type="gismu">
+  <user>
+    <username>Suskeyhose</username>
+    <realname>Joshua Suskalo</realname>
+  </user>
+  <definition>$x_1$ finti $x_2$ .ije $x_2$ cu te bangu fi $x_3$ .ije $x_2$ cu sazri $x_4$ $x_5$</definition>
+  <definitionid>73164</definitionid>
+  <glossword word="proga finti" />
+  <keyword word="finti" place="1" />
+  <keyword word="proga se finti" place="2" />
+  <keyword word="proga bangu" place="3" />
+  <keyword word="skami" place="4" />
+  <keyword word="proga te pilno" place="5" />
+</valsi>
 <valsi word="prosa" type="gismu">
   <rafsi>ros</rafsi>
   <rafsi>ro&apos;a</rafsi>
@@ -41098,6 +41112,12 @@
 <nlword word="prejumydu&apos;a&apos;y&apos;utka" valsi="prejumydundy&apos;utka" />
 <nlword word="lo se kelci je prenu" valsi="preselkei" place="1" />
 <nlword word="prevrici" valsi="prevrici" />
+<nlword word="finti" valsi="proji" place="1" />
+<nlword word="proga bangu" valsi="proji" place="3" />
+<nlword word="proga finti" valsi="proji" />
+<nlword word="proga se finti" valsi="proji" place="2" />
+<nlword word="proga te pilno" valsi="proji" place="5" />
+<nlword word="skami" valsi="proji" place="4" />
 <nlword word="prubi&apos;o" valsi="prubi&apos;o" />
 <nlword word="prujbi" valsi="prujbi" />
 <nlword word="pu" valsi="pu" />
