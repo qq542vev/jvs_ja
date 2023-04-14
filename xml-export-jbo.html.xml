@@ -25163,6 +25163,15 @@
   <definitionid>65124</definitionid>
   <notes>{ganra}; {rotsu}; {ricfu}; {rectu}; {grasu}</notes>
 </valsi>
+<valsi word="plankexe" type="fu'ivla">
+  <user>
+    <username>krtisfranks</username>
+    <realname>Curtis W Franks</realname>
+  </user>
+  <definition>$x_1 x_2 x_3$ plankexu</definition>
+  <definitionid>73185</definitionid>
+  <notes>{plankexu}</notes>
+</valsi>
 <valsi word="platana" type="fu'ivla">
   <user>
     <username>selpahi</username>
