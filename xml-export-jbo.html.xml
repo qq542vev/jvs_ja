@@ -11091,7 +11091,7 @@
   <definition>$x_1$ sumka&apos;i $x_2$ gi&apos;a virtu&apos;ale lo sumka&apos;i be $x_2$ .i va&apos;o lo nu da goi ko&apos;a goilka&apos;i kei lu «la&apos;e ko&apos;a» li&apos;u cu sinxa le se goilka&apos;i be ko&apos;a</definition>
   <definitionid>67242</definitionid>
 </valsi>
-<valsi word="gokti" type="gismu">
+<valsi unofficial="true" word="gokti" type="experimental gismu">
   <user>
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
@@ -25840,7 +25840,7 @@
   <definitionid>44273</definitionid>
   <notes>.e&apos;o ko tcidu tu&apos;a zo {zulbirka}</notes>
 </valsi>
-<valsi word="proji" type="gismu">
+<valsi unofficial="true" word="proji" type="experimental gismu">
   <user>
     <username>Suskeyhose</username>
     <realname>Joshua Suskalo</realname>
@@ -37672,7 +37672,7 @@
   <notes>{skari}; {kolme}</notes>
   <glossword word="xekri" />
 </valsi>
-<valsi word="xekto" type="gismu">
+<valsi unofficial="true" word="xekto" type="experimental gismu">
   <user>
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
