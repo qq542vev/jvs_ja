@@ -34387,6 +34387,16 @@
   <score>1</score>
   <notes>{frati}; {zukte}</notes>
 </valsi>
+<valsi unofficial="true" word="spupi" type="experimental gismu">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+  <definition>$x_1$ mu&apos;oi gy. spoopy .gy. lo ka me $x_2$ ku ki&apos;e la .skeltal. sei .dut. .dut.</definition>
+  <definitionid>73343</definitionid>
+  <score>2</score>
+  <notes>fi&apos;e la .lucil. .e la janbe</notes>
+</valsi>
 <valsi word="spusku" type="lujvo">
   <user>
     <username>selpahi</username>
