@@ -6983,9 +6983,9 @@
     <username>xorxes</username>
     <realname>Jorge Llambias</realname>
   </user>
-  <definition>$x1$ nalcadgau lo xadni fi&apos;o rilti lo rilti be $x_2$</definition>
+  <definition>$x_1$ nalcadgau lo xadni fi&apos;o rilti lo rilti be $x_2$</definition>
   <definitionid>64513</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>{nalcadgau}; {xadni}; {rilti}; {zgike}</notes>
 </valsi>
 <valsi word="da'o" type="cmavo">
