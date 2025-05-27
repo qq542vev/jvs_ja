@@ -14,12 +14,12 @@
 ##
 ##   id - 02afb1e6-527b-451a-b5e2-f29646322122
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 1.0.0
+##   version - 1.1.0
 ##   created - 2025-05-26
-##   modified - 2025-05-26
+##   modified - 2025-05-27
 ##   copyright - Copyright (C) 2025-2025 qq542vev. All rights reserved.
 ##   license - <GNU GPLv3 at https://www.gnu.org/licenses/gpl-3.0.txt>
-##   depends - echo, rm
+##   depends - echo, git, rm
 ##
 ## See Also:
 ##
@@ -31,7 +31,7 @@
 
 .POSIX:
 
-.PHONY: all clean rebuild help version
+.PHONY: all git-commit clean rebuild help version
 
 .SILENT: help version
 
@@ -39,8 +39,9 @@
 # =====
 
 FILES = xml-export-en.html.xml xml-export-jbo.html.xml xml-export.html.xml
-COMMAND = . './jbovlaste-auth' && bin/cupra-lo-jbovlaste-vreji.sh --curl-option '--silent' --curl-option '--show-error' 
-VERSION = 1.0.0
+CMD = . './auth' && bin/cupra-lo-jbovlaste-vreji.sh --curl-option '--silent' --curl-option '--show-error'
+COMMIT_MSG = .i de'i li %Y-%m-%d ti'u li %H:%M:%SZ cu cpacu le datni
+VERSION = 1.1.0
 
 # Build
 # =====
@@ -48,13 +49,20 @@ VERSION = 1.0.0
 all: $(FILES)
 
 xml-export-en.html.xml:
-	 $(COMMAND) en $(@)
+	 $(CMD) en $(@)
 
 xml-export-jbo.html.xml:
-	 $(COMMAND) jbo $(@)
+	 $(CMD) jbo $(@)
 
 xml-export.html.xml:
-	 $(COMMAND) ja $(@)
+	 $(CMD) ja $(@)
+
+# Git
+# ===
+
+git-commit: $(FILES)
+	git add $(FILES)
+	git commit -m"$$(date -u "+${COMMIT_MSG}")" $(FILES)
 
 # Clean
 # =====
@@ -73,10 +81,16 @@ help:
 	echo 'USAGE:'
 	echo '  make [OPTION...] [MACRO=VALUE...] [TARGET...]'
 	echo
+	echo 'MACRO:'
+	echo '  FILES      allを実効した際に作成するファイル。'
+	echo '  COMMIT_MSG git-commit実行時のコミットメッセージ。'
+	echo
 	echo 'TARGET:'
 	echo '  all     全てのファイルを作成する。'
+	echo '  git-commit'
+	echo '          allを実行後にgit commitを実行する。'
 	echo '  clean   作成したファイルを削除する。'
-	echo '  rebuild cleanの後にallを実行する。'
+	echo '  rebuild clean実行後にallを実行する。'
 	echo '  help    このヘルプを表示して終了する。'
 	echo '  version バージョン情報を表示して終了する。'
 
