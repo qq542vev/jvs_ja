@@ -25,6 +25,6 @@
 PATH='/usr/local/bin:/usr/bin:/bin'
 
 # jvs_ja
-16 3 * * * cd 'work/jvs_ja'; git ja-commit >>'log/ja-log.txt' 2>&1
-34 3 * * * cd 'work/jvs_ja'; git en-commit >>'log/en-log.txt' 2>&1
-58 3 * * * cd 'work/jvs_ja'; git jbo-commit >>'log/jbo-log.txt' 2>&1
+16 3 * * * cd 'work/jvs_ja'; make FILE=xml-export.html.xml git-recommit 2>>'log/ja.txt'
+34 3 * * * cd 'work/jvs_ja'; make FILE=xml-export-en.html.xml git-recommit 2>>'log/en.txt'
+58 3 * * * cd 'work/jvs_ja'; make FILE=xml-export-jbo.html.xml git-recommit 2>>'log/jbo.txt'
