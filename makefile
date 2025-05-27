@@ -14,12 +14,12 @@
 ##
 ##   id - 02afb1e6-527b-451a-b5e2-f29646322122
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 1.2.1
+##   version - 1.3.0
 ##   created - 2025-05-26
 ##   modified - 2025-05-27
 ##   copyright - Copyright (C) 2025-2025 qq542vev. All rights reserved.
 ##   license - <GNU GPLv3 at https://www.gnu.org/licenses/gpl-3.0.txt>
-##   depends - echo, git, rm
+##   depends - curl, echo, git, rm
 ##
 ## See Also:
 ##
@@ -41,7 +41,7 @@
 FILE = xml-export-en.html.xml xml-export-jbo.html.xml xml-export.html.xml
 CMD = . './auth' && bin/cupra-lo-jbovlaste-vreji.sh --curl-option '--silent' --curl-option '--show-error'
 COMMIT_MSG = .i de'i li %Y-%m-%d ti'u li %H:%M:%SZ cu cpacu le datni
-VERSION = 1.2.1
+VERSION = 1.3.0
 
 # Build
 # =====
@@ -67,6 +67,12 @@ git-commit: all
 	fi
 
 git-recommit: clean git-commit
+
+# Docs
+# ====
+
+LICENSE.txt:
+	curl -sS -f -L -o '$(@)' -- 'https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt'
 
 # Clean
 # =====
