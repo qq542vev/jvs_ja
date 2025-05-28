@@ -9,9 +9,9 @@
 ##   id - 1ef1d1bd-2670-450c-8d5b-42e2e20542f9
 ##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 0.2.2
-##   date - 2022-12-03
-##   since - 2022-02-08
-##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
+##   created - 2022-02-08
+##   modified - 2025-05-28
+##   license - <CC0-1.0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
 ##
 ## See Also:
@@ -384,12 +384,12 @@ if ! command -v "${command}" >'/dev/null'; then
 	fi
 fi
 
-if [ '!' -e "${currentFile}" ]; then
+if ! [ -e "${currentFile}" ]; then
 	currentFileDir=$(dirname -- "${currentFile}"; printf '_')
 	mkdir -p -- "${currentFileDir%?_}"
 
 	: >"${currentFile}"
-elif [ '!' -f "${currentFile}" ]; then
+elif ! [ -f "${currentFile}" ]; then
 	printf "%s: '%s' is not a regular file.\\n" "${0##*/}" "${currentFile}" >&2
 	printf "Try '%s' for more information.\\n" "${0##*/} --help" >&2
 

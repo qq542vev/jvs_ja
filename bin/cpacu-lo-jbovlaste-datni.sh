@@ -9,9 +9,9 @@
 ##   id - 0cbe9e57-e958-436f-a6e7-947516f7c478
 ##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 0.2.3
-##   date - 2022-12-03
-##   since - 2022-02-08
-##   license - <CC-0 at https://creativecommons.org/publicdomain/zero/1.0/>
+##   created - 2022-02-08
+##   modified - 2025-05-28
+##   license - <CC0-1.0 at https://creativecommons.org/publicdomain/zero/1.0/>
 ##   package - jvs_ja
 ##   source - <ninpikta.sh at https://gist.github.com/niftg/f93327c98d090ecea61cf1ce9c6351e2#file-ninpikta-sh>
 ##   source - <print-jbovlaste-dict at https://github.com/lojbanistan/jbovlaste-dicts/blob/master/print-jbovlaste-dict>
@@ -213,7 +213,7 @@ regex_match() {
 ##
 ## Parameters:
 ##
-##   $1 - Debian パッケージ
+##   $1 - 結果を代入する変数名。
 ##   $2 - オプションの名前と値
 
 add_option() {
