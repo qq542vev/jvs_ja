@@ -25,7 +25,8 @@
 PATH='/usr/local/bin:/usr/bin:/bin'
 
 # jvs_ja
-16 3 * * * cd 'work/jvs_ja' && make FILE=xml-export.html.xml git-recommit 2>>'log/ja.txt'
-34 3 * * * cd 'work/jvs_ja' && make FILE=xml-export-en.html.xml git-recommit 2>>'log/en.txt'
-58 3 * * * cd 'work/jvs_ja' && make FILE=xml-export-jbo.html.xml git-recommit 2>>'log/jbo.txt'
-30 4 * * * cd 'work/jvs_ja' && git push origin zmiku'
+JVS_JA_HOME='work/jvs_ja'
+16 3 * * * cd -- "${JVS_JA_HOME}" && make FILE=xml-export.html.xml git-recommit 2>>'log/ja.txt'
+34 3 * * * cd -- "${JVS_JA_HOME}" && make FILE=xml-export-en.html.xml git-recommit 2>>'log/en.txt'
+58 3 * * * cd -- "${JVS_JA_HOME}" && make FILE=xml-export-jbo.html.xml git-recommit 2>>'log/jbo.txt'
+30 4 * * * cd -- "${JVS_JA_HOME}" && git push --quiet origin zmiku'
