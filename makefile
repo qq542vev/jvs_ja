@@ -14,9 +14,9 @@
 ##
 ##   id - 02afb1e6-527b-451a-b5e2-f29646322122
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 1.3.0
+##   version - 2.0.0
 ##   created - 2025-05-26
-##   modified - 2025-05-27
+##   modified - 2025-06-04
 ##   copyright - Copyright (C) 2025-2025 qq542vev. All rights reserved.
 ##   license - <GNU GPLv3 at https://www.gnu.org/licenses/gpl-3.0.txt>
 ##   depends - curl, echo, git, rm
@@ -31,7 +31,7 @@
 
 .POSIX:
 
-.PHONY: all git-commit git-recommit clean rebuild help version
+.PHONY: all FORCE git-commit clean rebuild help version
 
 .SILENT: help version
 
@@ -41,21 +41,32 @@
 FILE = xml-export-en.html.xml xml-export-jbo.html.xml xml-export.html.xml
 CMD = . './auth' && bin/cupra-lo-jbovlaste-vreji.sh --curl-option '--silent' --curl-option '--show-error'
 COMMIT_MSG = .i de'i li %Y-%m-%d ti'u li %H:%M:%SZ cu cpacu le datni
-VERSION = 1.3.0
+VERSION = 2.0.0
 
 # Build
 # =====
 
 all: $(FILE)
 
-xml-export-en.html.xml:
-	 $(CMD) en $(@)
+xml-export-en.html.xml: FORCE
+	$(CMD) en $(@) || case "${?}" in \
+		1) :;; \
+		*) exit "${?}";; \
+	esac
 
-xml-export-jbo.html.xml:
-	 $(CMD) jbo $(@)
+xml-export-jbo.html.xml: FORCE
+	$(CMD) jbo $(@) || case "${?}" in \
+		1) :;; \
+		*) exit "${?}";; \
+	esac
 
-xml-export.html.xml:
-	 $(CMD) ja $(@)
+xml-export.html.xml: FORCE
+	$(CMD) ja $(@) || case "${?}" in \
+		1) :;; \
+		*) exit "${?}";; \
+	esac
+
+FORCE:
 
 # Git
 # ===
@@ -65,8 +76,6 @@ git-commit: all
 	if ! git diff --cached --quiet -- $(FILE); then \
 		git commit -m"$$(date -u "+${COMMIT_MSG}")" -- $(FILE); \
 	fi
-
-git-recommit: clean git-commit
 
 # Docs
 # ====
@@ -99,8 +108,6 @@ help:
 	echo '  all     全てのファイルを作成する。'
 	echo '  git-commit'
 	echo '          allを実行後にgit commitを実行する。'
-	echo '  git-recommit'
-	echo '          cleanを実行後にgit-commitを実行する。'
 	echo '  clean   作成したファイルを削除する。'
 	echo '  rebuild clean実行後にallを実行する。'
 	echo '  help    このヘルプを表示して終了する。'
