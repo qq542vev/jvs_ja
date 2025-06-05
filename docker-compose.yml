@@ -1,0 +1,15 @@
+#!/usr/bin/docker-compose -f
+
+name: jvs_ja
+services:
+  cron:
+    build: .
+    volumes:
+      - .:/work
+    entrypoint: ["/bin/sh", "-c"]
+    command: "'crontab crontab && cron -f'"
+  make:
+    build: .
+    volumes:
+      - .:/work
+    entrypoint: "make"
