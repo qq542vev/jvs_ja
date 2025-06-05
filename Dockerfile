@@ -14,7 +14,7 @@
 ##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 1.0.0
 ##   created - 2025-06-03
-##   modified - 2025-06-03
+##   modified - 2025-06-05
 ##   copyright - Copyright (C) 2025-2025 qq542vev. All rights reserved.
 ##   license - <GNU GPLv3 at https://www.gnu.org/licenses/gpl-3.0.txt>
 ##
@@ -29,7 +29,7 @@ FROM ${BASE}
 
 ARG BASE
 ARG TITLE="jvs_ja"
-ARG VERSION="1.0.0"
+ARG VERSION="1.0.1"
 ARG WORKDIR="/work"
 
 LABEL org.opencontainers.image.title="${TITLE}"
@@ -49,5 +49,6 @@ WORKDIR ${WORKDIR}
 RUN \
 	apt-get update && \
 	apt-get install -y --no-install-recommends \
-		cron git make libxml2-utils && \
+		cron curl git make libxml2-utils && \
+	apt-get clean && \
 	rm -rf /var/lib/apt-get/lists/*
