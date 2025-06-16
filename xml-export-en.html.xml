@@ -79585,6 +79585,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   <notes>See also {tricu}, {calku}, {skapi}, {stagi}.</notes>
   <glossword word="cork" />
 </valsi>
+<valsi unofficial="true" word="korle" type="experimental gismu">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is a coral of type/species $x_2$</definition>
+  <definitionid>74111</definitionid>
+  <score>1</score>
+  <notes>see also {korlma}.</notes>
+</valsi>
 <valsi word="korliiande" type="fu'ivla">
   <user>
     <username>Qimar</username>
@@ -116925,6 +116935,16 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   <notes>Cf. {pinta}, {sinma}.</notes>
   <glossword word="prostrate" sense="to show veneration" />
 </valsi>
+<valsi word="pinspi" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$s_1$ is a flake / chip of substance $s_2$</definition>
+  <definitionid>74113</definitionid>
+  <score>1</score>
+  <notes>cf. {pinta} {spisa}</notes>
+</valsi>
 <valsi word="pinta" type="gismu">
   <rafsi>pin</rafsi>
   <user>
@@ -117771,6 +117791,16 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   <glossword word="angular momentum quantum" sense="half of Planck&apos;s reduced constant; hbar/2" />
   <glossword word="electron spin" sense="magnetic quantum number; hbar/2" />
   <glossword word="hbar" sense="Planck&apos;s reduced constant; actually, hbar/2" />
+</valsi>
+<valsi word="plankona" type="fu'ivla">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is a plankton of type/species $x_2$</definition>
+  <definitionid>74112</definitionid>
+  <score>1</score>
+  <notes>see also {jurme} {alga} {mledi}</notes>
 </valsi>
 <valsi word="plantago" type="fu'ivla">
   <user>
