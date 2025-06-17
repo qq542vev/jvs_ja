@@ -8366,7 +8366,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ uses language $x_2$ for purpose $x_3$.</definition>
   <definitionid>16005</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Cf. {bangu}, {pilno}.</notes>
   <glossword word="say" sense="to speak a language" />
   <glossword word="speak" sense="to speak a language" />
@@ -9462,6 +9462,16 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   <definitionid>73768</definitionid>
   <score>1</score>
   <notes>cf. {bevri} {cteki}</notes>
+</valsi>
+<valsi word="beirsai" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$s_1$ is a takeout/takeaway/carryout meal consisting of $s_2$</definition>
+  <definitionid>74115</definitionid>
+  <score>1</score>
+  <notes>cf. {bevri} {sanmi}</notes>
 </valsi>
 <valsi word="beitlaxum" type="cmevla">
   <user>
@@ -75415,6 +75425,18 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   <score>1</score>
   <notes>Synonymous to {slinkui}.</notes>
   <glossword word="slinky" sense="toy" />
+</valsi>
+<valsi word="kelskami" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is a video game console for playing game $x_2$</definition>
+  <definitionid>74114</definitionid>
+  <score>2</score>
+  <notes>See {kelci}, {skami}, {samyzilkeica&apos;a}.</notes>
+  <glossword word="console" sense="video games" />
+  <glossword word="video game console" />
 </valsi>
 <valsi unofficial="true" word="kelto" type="experimental gismu">
   <user>
