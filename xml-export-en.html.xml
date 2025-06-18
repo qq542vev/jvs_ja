@@ -3163,6 +3163,16 @@
   <score>100000</score>
   <glossword word="will be going to" />
 </valsi>
+<valsi unofficial="true" word="babda" type="experimental gismu">
+  <user>
+    <username>lamisotanis</username>
+    <realname>misotanni</realname>
+  </user>
+  <definition>$x_1$ is the first word in the dictionary of language $x_2$ ordered by rule $x_3$.</definition>
+  <definitionid>71475</definitionid>
+  <score>1</score>
+  <notes>See also {zvuzu}.</notes>
+</valsi>
 <valsi word="babilon" type="cmevla">
   <user>
     <username>arj</username>
@@ -10144,7 +10154,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ dons metaphorical asbestos suit $x_2$ to guard against flames $x_3$ on topic $x_4$ from $x_5$, who disagrees with post $x_6$ for reason $x_7$, not realizing that the post was meant to be sent to $x_8$ rather than all of mailing list $x_9$ (default jboste) where it was posted in response to email  $x_{10}$, whose author wishes selma&apos;o  $x_{11}$ (default SE) were extended to concisely express place  $x_{12}$ of brivla  $x_{13}$ (default besto) which has place structure  $x_{14}$ and too many places because of sadistic whim  $x_{15}$ of brivla-maker  $x_{16}$, who also created brivla  $x_{17}$ which has place structure  $x_{18}$, and so winds up using too many of cmavo  $x_{19}$ (default zi&apos;o) in order to make the brivla ( $x_{13}$) more usable by standard  $x_{20}$ and wishes they had never heard of the word besto for reason  $x_{21}$, not realizing for reason  $x_{22}$ that it was suggested sarcastically due to boredom  $x_{23}$ of person  $x_{24}$, who is proposing it against better judgement  $x_{25}$ because it is fun by standard  $x_{26}$, but still wishes it had as many places as  $x_{27}$ (default du) for reason  $x_{28}$, and feels like throwing in epistemology sumti  $x_{29}$, because he/she knows both that gismu  $x_{30}$ (default besto) has its place structure defined by run-on sentence  $x_{31}$ and that epistemology sumti are used in gismu  $x_{32}$ by epistemology  $x_{33}$, notwithstanding the fact that  $x_{34}$ actually has a use for besto places  $x_{35}$ (default 1) through  $x_{36}$ (default $x_7$) and wishes this weren&apos;t an extremely long and stupid joke, longer than joke  $x_{37}$ and stupider than joke  $x_{38}$ but still appreciated by  $x_{39}$ - a fact which says  $x_{40}$ about them in the opinion of  $x_{41}$ - but not seen as even remotely amusing by  $x_{42}$, who is aware that  $x_{43}$ has a use for the gismu besto because of  $x_{45}$</definition>
   <definitionid>20404</definitionid>
-  <score>6</score>
+  <score>5</score>
   <notes>A joke gismu from http://mw.lojban.org/papri/besto . Place $x_{44}$ is absent for some reason.</notes>
 </valsi>
 <valsi word="betfu" type="gismu">
@@ -19491,7 +19501,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a group of people who love each other in a sexual or non-sexual way, which includes the individuals $x_2$, $x_3$, $x_4$, $x_5$, etc., etc., etc.</definition>
   <definitionid>72388</definitionid>
-  <score>4</score>
+  <score>3</score>
   <notes>The most common {celdi} is a couple, but the word also covers polyamorous collectives, polygyny, polyandry, etc. Could even cover {lanzu}. Proposed rafsi is -cle-.</notes>
   <glossword word="group" />
   <glossword word="love" />
@@ -39911,7 +39921,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
   <definition>$c_1$ is a second person pronoun in language $c_4$.</definition>
   <definitionid>15623</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Cf. {do}, {do&apos;o}, {cmavo}, {mibma&apos;o}.</notes>
   <glossword word="2nd person pronoun" />
   <glossword word="pronoun for second person" />
@@ -94760,7 +94770,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
   <definition>$c_1$ is a first person pronoun in language $c_4$.</definition>
   <definitionid>15651</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Cf. {mi}, {mi&apos;a}, {ma&apos;a}, {mi&apos;e}, {cmavo}, {donma&apos;o}, {sevzi}, {se&apos;a}, {se&apos;i}, {se&apos;o}.</notes>
   <glossword word="1st person pronoun" />
   <glossword word="first person pronoun" />
@@ -100303,7 +100313,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
   <definition>$x_1$ is a positive integer</definition>
   <definitionid>67494</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Or &quot;natural number&quot;, but unlike {kacna&apos;u}, doesn&apos;t include zero. See {mulna&apos;u}, {nonmau}</notes>
   <glossword word="natural number" sense="positive integer" />
   <glossword word="positive integer" />
@@ -116964,7 +116974,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
   <definition>$s_1$ is a flake / chip of substance $s_2$</definition>
   <definitionid>74113</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>cf. {pinta} {spisa}</notes>
 </valsi>
 <valsi word="pinta" type="gismu">
@@ -117821,7 +117831,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
   <definition>$x_1$ is a plankton of type/species $x_2$</definition>
   <definitionid>74112</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>see also {jurme} {alga} {mledi}</notes>
 </valsi>
 <valsi word="plantago" type="fu'ivla">
@@ -192260,6 +192270,16 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
   <notes>Contains no positive or negative connotations, can refer both to &apos;cool/elegant hacks&apos; ({se} {mlezvi}) and &apos;kludge/ugly hacks&apos; ({se} {feglyzvi}). Hack as in &apos;gain unauthorized or unexpected access to&apos; = {zvijonse}, &apos;White-hat&apos; hacking = {vudzvi}/{vudzvijonse}, &apos;black-hat&apos; hacking = {pacyzvi}/{pacyzvijonse}, &apos;grey-hat&apos; hacking = {norvudzvi}/{norvudzvijonse}. Proposed rafsi: -zvi-. See {kosmu}, {finti}, {jonse}</notes>
   <glossword word="hack" sense="invent an emergent solution/use" />
   <keyword word="hack" place="2" sense="emergent solution/use for a system/tool" />
+</valsi>
+<valsi unofficial="true" word="zvuzu" type="experimental gismu">
+  <user>
+    <username>lamisotanis</username>
+    <realname>misotanni</realname>
+  </user>
+  <definition>$x_1$ is the last word in the dictionary of language $x_2$ ordered by rule $x_3$.</definition>
+  <definitionid>71476</definitionid>
+  <score>1</score>
+  <notes>See also {babda}.</notes>
 </valsi>
 <valsi word="zy" type="cmavo">
   <selmaho>BY2</selmaho>
