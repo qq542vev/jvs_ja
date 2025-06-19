@@ -1166,6 +1166,18 @@
   <notes>$x_1$ is an emergency vehicle that transports sick or injured people to a hospital. See {bilma}, {spita}</notes>
   <glossword word="ambulance" sense="vehicle" />
 </valsi>
+<valsi word="amfeta" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is (a quantity of) amphetamine (salts)</definition>
+  <definitionid>74117</definitionid>
+  <score>1</score>
+  <notes>e.g. adderall (dextroamphetamine)</notes>
+  <glossword word="amphetamine" sense="drug" />
+  <keyword word="amphetamine" place="1" sense="drug" />
+</valsi>
 <valsi word="amfite'atro" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -39453,6 +39465,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <score>1</score>
   <notes>cf. {gleki} and {sidju}</notes>
   <glossword word="happy" sense="to help" />
+</valsi>
+<valsi word="djugri" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$g_1$ is a charity / aid organization helping $s_2$ with event/activity $s_3$</definition>
+  <definitionid>74116</definitionid>
+  <score>1</score>
+  <notes>cf. {sidju} {girzu}</notes>
 </valsi>
 <valsi word="djukemdatygu'e" type="lujvo">
   <user>
@@ -192447,6 +192469,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="tailless whip scorpion" valsi="amblipigi" />
 <nlword word="whip spider" valsi="amblipigi" />
 <nlword word="ambulance" sense="vehicle" valsi="ambulance" />
+<nlword word="amphetamine" sense="drug" valsi="amfeta" place="1" />
 <nlword word="amphitheater" sense="around central arena" valsi="amfite&apos;atro" />
 <nlword word="amphora" valsi="amfora" />
 <nlword word="amygdala" sense="brain part" valsi="amgidala" />
