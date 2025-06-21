@@ -10716,6 +10716,17 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   <score>1</score>
   <glossword word="obligate" />
 </valsi>
+<valsi word="bigysoi" type="lujvo">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>$x_1$ is conscripted into the armed forces / undergoes compulsory military service for nation/organization $x_2$, for duration $x_3$, in military role/unit $x_4$</definition>
+  <definitionid>74118</definitionid>
+  <score>1</score>
+  <glossword word="conscripted" />
+  <glossword word="conscription" />
+</valsi>
 <valsi word="bi'i" type="cmavo">
   <rafsi>biz</rafsi>
   <selmaho>BIhI</selmaho>
@@ -77202,6 +77213,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   <notes>See {ki&apos;orbi}, {bitni}, {ki&apos;orbitni}, {kirbibaitni}. // Series: {kirbibitni} {merbibitni} {girbibitni} {terbibitni} {perbibitni} {xerbibitni} {zerbibitni} {gorbibitni}</notes>
   <glossword word="kibibit" />
 </valsi>
+<valsi word="kirbosu" type="fu'ivla">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>$x_1$ reflects the Cyprus island culture/nationality/language in aspect $x_2$</definition>
+  <definitionid>74122</definitionid>
+  <score>1</score>
+  <glossword word="Cyprus" sense="island" />
+</valsi>
 <valsi word="kircaiu" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -79713,6 +79734,17 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   <score>1</score>
   <notes>x2 may be an organ, a cell, a plant, or a rock. Cf. {skapi}, {pilka}, {sefta}.</notes>
   <glossword word="cortex" sense="outermost layer" />
+</valsi>
+<valsi word="korsova" type="fu'ivla">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>$x_1$ reflects Kosovar/Kosovan culture/nationality/language in aspect $x_2$.</definition>
+  <definitionid>74119</definitionid>
+  <score>1</score>
+  <glossword word="Kosova" />
+  <glossword word="Kosovo" />
 </valsi>
 <valsi unofficial="true" word="korvo" type="experimental gismu">
   <user>
@@ -89271,6 +89303,18 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   <notes>x1 is a soft-bodied invertebrate of the phylum Mollusca, typically with a hard shell of one or more pieces.</notes>
   <glossword word="mollusc" />
   <glossword word="mollusk" />
+</valsi>
+<valsi unofficial="true" word="lusto" type="experimental gismu">
+  <user>
+    <username>krtisfranks</username>
+    <realname>Curtis W Franks</realname>
+  </user>
+  <definition>$x_1$ is/reflects/pertain to Middle Eastern/Near Eastern culture/geography/region/language/society/religion in aspect $x_2$</definition>
+  <definitionid>57053</definitionid>
+  <score>1</score>
+  <notes>For race: {lustytutle}. See also {xrabo}, {alcamacrike}</notes>
+  <glossword word="Middle East" />
+  <glossword word="Near East" />
 </valsi>
 <valsi word="lutfa'o" type="lujvo">
   <user>
@@ -132207,6 +132251,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <glossword word="doraemon" />
   <glossword word="Doraemon" />
 </valsi>
+<valsi unofficial="true" word="samlu" type="experimental gismu">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>$x_1$ reflects (ex-)Ottoman culture/empire/language in aspect $x_2$</definition>
+  <definitionid>74121</definitionid>
+  <score>1</score>
+  <notes>The region of what used to be Ottomans has a ton of shared and exchanged culture. See also {turko}, {xelso}, {bolgaro}, {gugdemuku}, {ckiptare}, {korsova}, {gugdebu&apos;a}, {tsirnagova}, {kulnlromana}, {gugdemudu}, {magdaro}, {xrvatsk}, {slovino}, {balkano}, {sirxo}, {rakso}, {filso}, {xebro}, {jordo}, {sadjo}, {gugdeje&apos;e}, {kruuaiti}, {gugdeke&apos;a}, {gugdebuxe}, {gugde&apos;a&apos;e}, {misro}, {libjo}, {gugdetunu}, {jerxo}, {aitco}, {kafkaso}, {kartuli}, {zarbaija}, {krimtauri}, {slovo}, {semto}, {lusto}, {andolu}, {kirbosu}, {turkrkirbo}, {osmanlu}.</notes>
+  <glossword word="Ottoman" sense="reflecting Ottoman culture/nationality/language" />
+</valsi>
 <valsi word="samnarca'igau" type="lujvo">
   <user>
     <username>eyeonus</username>
@@ -168982,6 +169037,17 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   <notes>See also nutmeg tree (={ricrmiristika}), mace (={grutrmiristika}).</notes>
   <glossword word="nutmeg seed" sense="genus Myristica" />
 </valsi>
+<valsi word="tsirnagova" type="fu'ivla">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>$x_1$ reflects Montenegro/Montenegrin culture/nationality/language in aspect $x_2$.</definition>
+  <definitionid>74120</definitionid>
+  <score>1</score>
+  <glossword word="Montenegrin" sense="culture" />
+  <glossword word="Montenegro" sense="country" />
+</valsi>
 <valsi word="tsirvanila" type="fu'ivla">
   <user>
     <username>jongausib</username>
@@ -169837,6 +169903,16 @@ ni&apos;o Synonym: {fu&apos;e}.</notes>
   <definitionid>20699</definitionid>
   <score>3</score>
   <glossword word="turkish" />
+</valsi>
+<valsi word="turkrkirbo" type="fu'ivla">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>$x_1$ reflects the Turkish Cypriot culture/nationality/language in aspect $x_2$</definition>
+  <definitionid>74123</definitionid>
+  <score>1</score>
+  <glossword word="Turkish Cyprus" />
 </valsi>
 <valsi word="turne'i" type="lujvo">
   <user>
@@ -193467,6 +193543,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="wind chime" valsi="bifyjanbe" />
 <nlword word="deontic logic" valsi="biglogji" />
 <nlword word="obligate" valsi="bigygau" />
+<nlword word="conscripted" valsi="bigysoi" />
+<nlword word="conscription" valsi="bigysoi" />
 <nlword word="unordered interval" valsi="bi&apos;i" />
 <nlword word="organization" sense="office, business" valsi="bijgri" />
 <nlword word="counter" sense="office desk" valsi="bijyjbu" />
@@ -200945,6 +201023,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="raise" sense="of livestock" valsi="kipsi" />
 <nlword word="kibibyte" valsi="kirbibaitni" />
 <nlword word="kibibit" valsi="kirbibitni" />
+<nlword word="Cyprus" sense="island" valsi="kirbosu" />
 <nlword word="Thanksgiving" valsi="kirdei" />
 <nlword word="Cyrillic alphabetic order" valsi="kirilits" />
 <nlword word="thank" valsi="kirsku" />
@@ -201161,6 +201240,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="corpus" valsi="korpora" />
 <nlword word="corsair" valsi="korsari" />
 <nlword word="cortex" sense="outermost layer" valsi="korsenta" />
+<nlword word="Kosova" valsi="korsova" />
+<nlword word="Kosovo" valsi="korsova" />
 <nlword word="crow" valsi="korvo" />
 <nlword word="raven" valsi="korvo" />
 <nlword word="corzetti" valsi="korzeti" place="1" />
@@ -202215,6 +202296,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Earth-Moon distance" valsi="lurminli" />
 <nlword word="otter" valsi="lurtina" />
 <nlword word="mollusc" valsi="luska" />
+<nlword word="Middle East" valsi="lusto" />
+<nlword word="Near East" valsi="lusto" />
 <nlword word="dead end" sense="street" valsi="lutfa&apos;o" />
 <nlword word="distance" sense="by a route" valsi="lutnilcla" />
 <nlword word="course" sense="pathed sequence" valsi="lutpoi" place="1" />
@@ -211808,6 +211891,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="pappi" valsi="tsipi&apos;u" />
 <nlword word="circus" valsi="tsirkuso" />
 <nlword word="nutmeg seed" sense="genus Myristica" valsi="tsirmiristika" />
+<nlword word="Montenegrin" sense="culture" valsi="tsirnagova" />
 <nlword word="vanilla seed" valsi="tsirvanila" />
 <nlword word="semen" valsi="tsiselcigla" />
 <nlword word="Sisyphean" valsi="tsisifo" />
@@ -211894,6 +211978,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Turdidae" sense="bird" valsi="turdida" />
 <nlword word="Turing machine" valsi="turing zei sucyskami" place="1" />
 <nlword word="turkish" valsi="turko" />
+<nlword word="Turkish Cyprus" valsi="turkrkirbo" />
 <nlword word="govern" valsi="turni" />
 <nlword word="instrument" sense="tool" valsi="tutci" />
 <nlword word="tool" valsi="tutci" />
