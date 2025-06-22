@@ -1173,7 +1173,7 @@
   </user>
   <definition>$x_1$ is (a quantity of) amphetamine (salts)</definition>
   <definitionid>74117</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>e.g. adderall (dextroamphetamine)</notes>
   <glossword word="amphetamine" sense="drug" />
   <keyword word="amphetamine" place="1" sense="drug" />
@@ -41551,6 +41551,16 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   <keyword word="prejudger" place="1" />
   <keyword word="prejudgment subject" place="2" />
 </valsi>
+<valsi word="duspei" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$p_1$ is obsessed with $p_2$</definition>
+  <definitionid>74124</definitionid>
+  <score>1</score>
+  <notes>cf. {dukse} {pensi}</notes>
+</valsi>
 <valsi word="dusroi" type="lujvo">
   <user>
     <username>selpahi</username>
@@ -41775,16 +41785,6 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   <definitionid>1500</definitionid>
   <score>100000</score>
   <glossword word="d" />
-</valsi>
-<valsi unofficial="true" word="dy'ei" type="experimental cmavo">
-  <selmaho>PA</selmaho>
-  <user>
-    <username>Ilmen</username>
-    <realname>Ilmen</realname>
-  </user>
-  <definition>digit/number: twenty (decimal 20).</definition>
-  <definitionid>72088</definitionid>
-  <score>1</score>
 </valsi>
 <valsi word="dylez" type="cmevla">
   <user>
@@ -62622,6 +62622,16 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <notes>from {djacu} {sabji} {patxu} c.f. {jaursabji}</notes>
   <glossword word="watering can" />
 </valsi>
+<valsi word="jaursanra" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$s_1$ splashes/produces a splash in medium $s_2$ from starting point $s_3$</definition>
+  <definitionid>74125</definitionid>
+  <score>1</score>
+  <notes>cf. {djacu} {sanra}</notes>
+</valsi>
 <valsi word="jaursfeblo" type="lujvo">
   <user>
     <username>krtisfranks</username>
@@ -74574,16 +74584,6 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   <definition>$x_1$ performs surgery, operates on $x_2$.</definition>
   <definitionid>73322</definitionid>
   <score>1</score>
-</valsi>
-<valsi unofficial="true" word="katso" type="experimental gismu">
-  <user>
-    <username>viktor</username>
-    <realname>Viktor Medrano</realname>
-  </user>
-  <definition>$x_1$ is a/the penis [body-part] of $x_2$</definition>
-  <definitionid>72857</definitionid>
-  <score>1</score>
-  <notes>Italian &quot;cazzo&quot;; cf. {pinji}, {nakpinji}</notes>
 </valsi>
 <valsi word="katxodi" type="fu'ivla">
   <user>
@@ -110101,7 +110101,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
   <definition>digit/number: twenty (decimal 20).</definition>
   <definitionid>72289</definitionid>
-  <score>1</score>
+  <score>2</score>
 </valsi>
 <valsi word="ny zei sance" type="zei-lujvo">
   <user>
@@ -169901,7 +169901,7 @@ ni&apos;o Synonym: {fu&apos;e}.</notes>
   </user>
   <definition>$x_1$ reflects Turkish culture/nationality/language in aspect $x_2$</definition>
   <definitionid>20699</definitionid>
-  <score>3</score>
+  <score>4</score>
   <glossword word="turkish" />
 </valsi>
 <valsi word="turkrkirbo" type="fu'ivla">
