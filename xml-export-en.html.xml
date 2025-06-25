@@ -8016,7 +8016,7 @@
   </user>
   <definition>$x_1$ is an omnibus for carrying $x_2$ in medium $x_3$ propelled by $x_4$.</definition>
   <definitionid>18201</definitionid>
-  <score>3</score>
+  <score>2</score>
   <notes>Cf. {sorprekarce}; {pavloibasfa} for single-decker, {relyloibasfa} for double-decker {jonbasfa} for articulated, {clajonbasfa} for bi-articulated, {dizbasfa} for low-floor, {drucaubasfa} for open top, {kumbasfa} for coach, {dicybasfa} for trolleybus.</notes>
   <glossword word="bus" sense="vehicle" />
   <glossword word="omnibus" sense="vehicle" />
@@ -10723,7 +10723,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ is conscripted into the armed forces / undergoes compulsory military service for nation/organization $x_2$, for duration $x_3$, in military role/unit $x_4$</definition>
   <definitionid>74118</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="conscripted" />
   <glossword word="conscription" />
 </valsi>
@@ -102968,6 +102968,16 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   <notes>This is unconsciousness wrt a specific thing ($x_2$); widen for generalized unconsciousness. This may more or less include (some aspects of) sleep, but sleep is a very specific and complex process, and most forms of unconsciousness - let alone a simple and narrowly-specified lack of awareness - do not function in a manner which is even remotely similar to sleep. For generalized unconsciousness, use &quot;{sojnalsanji}&quot;. This is NOT &quot;subconscious&quot; in many meanings or contexts. See also: {sipna}.</notes>
   <glossword word="unconscious" />
 </valsi>
+<valsi word="nalsa'u" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$s_1$ is optional / not necessary for process $s_2$ under conditions $s_3$</definition>
+  <definitionid>74126</definitionid>
+  <score>1</score>
+  <notes>cf. {na&apos;e} {sarcu}</notes>
+</valsi>
 <valsi word="nalsa'uslakyskute'a" type="lujvo">
   <user>
     <username>selckiku</username>
@@ -135269,21 +135279,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="master" place="2" sense="owner of slave" />
   <keyword word="service" place="3" />
 </valsi>
-<valsi word="selbajra" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_2=b_1$ runs on surface $x_1=b_2$ using limbs $x_3=b_3$ with gait $x_4=b_4$.</definition>
-  <definitionid>14627</definitionid>
-  <score>1</score>
-  <notes>{se} {bajra}</notes>
-  <glossword word="running surface" />
-  <keyword word="running surface" place="1" />
-  <keyword word="runner" place="2" sense="fast mover supported by legs" />
-  <keyword word="running limbs" place="3" />
-  <keyword word="running gait" place="4" />
-</valsi>
 <valsi word="selbakfu" type="lujvo">
   <user>
     <username>brtais</username>
@@ -135921,22 +135916,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="boat cargo" place="1" />
   <keyword word="boat" place="2" />
   <keyword word="boat propulsion" place="3" />
-</valsi>
-<valsi word="selbo'a" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_2=b_1$ is a wave/periodic pattern in medium $x_1=b_2$, with wave-form $x_3=b_3$, wave-length $x_4=b_4$ and frequency $x_5=b_5$.</definition>
-  <definitionid>14824</definitionid>
-  <score>1</score>
-  <notes>{se} {boxna}</notes>
-  <glossword word="wavy" />
-  <keyword word="wavy" place="1" />
-  <keyword word="wave" place="2" />
-  <keyword word="wave-form" place="3" />
-  <keyword word="wave-length" place="4" />
-  <keyword word="wave frequency" place="5" />
 </valsi>
 <valsi word="selbo'i" type="lujvo">
   <user>
@@ -160803,21 +160782,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="greatness property" place="2" />
   <keyword word="great" place="3" />
 </valsi>
-<valsi word="terbajra" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_3=b_1$ runs on surface $x_2=b_2$ using limbs $x_1=b_3$ with gait $x_4=b_4$.</definition>
-  <definitionid>14626</definitionid>
-  <score>1</score>
-  <notes>{te} {bajra}</notes>
-  <glossword word="running limbs" />
-  <keyword word="running limbs" place="1" />
-  <keyword word="running surface" place="2" />
-  <keyword word="runner" place="3" sense="fast mover supported by legs" />
-  <keyword word="running gait" place="4" />
-</valsi>
 <valsi word="terbakfu" type="lujvo">
   <user>
     <username>brtais</username>
@@ -161220,22 +161184,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="boat propulsion" place="1" />
   <keyword word="boat cargo" place="2" />
   <keyword word="boat" place="3" />
-</valsi>
-<valsi word="terbo'a" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_3=b_1$ is a wave/periodic pattern in medium $x_2=b_2$, with wave-form $x_1=b_3$, wave-length $x_4=b_4$ and frequency $x_5=b_5$.</definition>
-  <definitionid>14823</definitionid>
-  <score>1</score>
-  <notes>{te} {boxna}</notes>
-  <glossword word="wave-form" />
-  <keyword word="wave-form" place="1" />
-  <keyword word="wavy" place="2" />
-  <keyword word="wave" place="3" />
-  <keyword word="wave-length" place="4" />
-  <keyword word="wave frequency" place="5" />
 </valsi>
 <valsi word="terbo'i" type="lujvo">
   <user>
@@ -174057,21 +174005,6 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <notes>This definition refers to the object, not the representation. A given vektori is not changed by a change of basis no matter how its appearance does, and two vektori may not be the same even if they are represented in equivalent forms in some bases (or even the same one). The object need only satisfy the vector axioms. A vector is not really a list. Since this word does not really concern itself with dual spaces, its scope probably includes many bras and/or kets (although the context/meaning of the bra/ket matters). It is possible, when x2 is not explicitly filled, for the vektori to have no meaning - it might just be a mathematical object with no further content.</notes>
   <glossword word="vector" sense="general" />
 </valsi>
-<valsi word="velbajra" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_4=b_1$ runs on surface $x_2=b_2$ using limbs $x_3=b_3$ with gait $x_1=b_4$.</definition>
-  <definitionid>14625</definitionid>
-  <score>1</score>
-  <notes>{ve} {bajra}</notes>
-  <glossword word="running gait" />
-  <keyword word="running gait" place="1" />
-  <keyword word="running surface" place="2" />
-  <keyword word="running limbs" place="3" />
-  <keyword word="runner" place="4" sense="fast mover supported by legs" />
-</valsi>
 <valsi word="velbancu" type="lujvo">
   <user>
     <username>brtais</username>
@@ -174175,22 +174108,6 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <keyword word="walled off" place="2" />
   <keyword word="walled from" place="3" />
   <keyword word="wall" place="4" />
-</valsi>
-<valsi word="velbo'a" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_4=b_1$ is a wave/periodic pattern in medium $x_2=b_2$, with wave-form $x_3=b_3$, wave-length $x_1=b_4$ and frequency $x_5=b_5$.</definition>
-  <definitionid>14822</definitionid>
-  <score>1</score>
-  <notes>{ve} {boxna}</notes>
-  <glossword word="wave-length" />
-  <keyword word="wave-length" place="1" />
-  <keyword word="wavy" place="2" />
-  <keyword word="wave-form" place="3" />
-  <keyword word="wave" place="4" />
-  <keyword word="wave frequency" place="5" />
 </valsi>
 <valsi word="velcange" type="lujvo">
   <user>
@@ -182413,22 +182330,6 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <keyword word="cargo destination" place="3" />
   <keyword word="cargo origin" place="4" />
   <keyword word="carrier" place="5" sense="mover of an object" />
-</valsi>
-<valsi word="xelbo'a" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_5=b_1$ is a wave/periodic pattern in medium $x_2=b_2$, with wave-form $x_3=b_3$, wave-length $x_4=b_4$ and frequency $x_1=b_5$.</definition>
-  <definitionid>14821</definitionid>
-  <score>1</score>
-  <notes>{xe} {boxna}</notes>
-  <glossword word="wave frequency" />
-  <keyword word="wave frequency" place="1" />
-  <keyword word="wavy" place="2" />
-  <keyword word="wave-form" place="3" />
-  <keyword word="wave-length" place="4" />
-  <keyword word="wave" place="5" />
 </valsi>
 <valsi word="xelbonseljimte" type="lujvo">
   <user>
