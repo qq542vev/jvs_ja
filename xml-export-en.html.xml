@@ -36751,7 +36751,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
   <definition>$k_1$ is a waiting room/break room in structure $x_2$ surrounded by partitions/walls/ceiling/floor $x_3$ (mass/jo&apos;u).</definition>
   <definitionid>2618</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Cf. {depypoi}, {depstu}.</notes>
   <glossword word="break room" />
   <glossword word="waiting room" />
@@ -62606,7 +62606,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>$s_1$ irrigates/waters $s_3$</definition>
   <definitionid>16412</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>c.f. {djacu} {sabji} c.f. {jaursabypatxu}</notes>
   <glossword word="irrigate" />
   <glossword word="water" />
@@ -123020,6 +123020,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="something Sasanian" place="1" />
   <keyword word="aspect" place="2" sense="aspect of being Sasanian" />
 </valsi>
+<valsi unofficial="true" word="rance" type="experimental gismu">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ diffracts $x_2$ into $x_3$ (waveform)</definition>
+  <definitionid>74127</definitionid>
+  <score>1</score>
+  <notes>For refraction see {lenjo}. Other related words: {minra} {dirce} {cokcu}</notes>
+</valsi>
 <valsi word="randa" type="gismu">
   <rafsi>rad</rafsi>
   <user>
@@ -135461,20 +135471,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="slave" place="1" sense="forced servant" />
   <keyword word="master" place="2" sense="owner of slave" />
   <keyword word="service" place="3" />
-</valsi>
-<valsi word="selbargu" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_2=b_1$ arches/curves over/around $x_1=b_2$ and is made of $x_3=b_3$; $x_2=b_1$ is an arch over/around $x_1=b_2$ of material $x_3=b_3$.</definition>
-  <definitionid>14704</definitionid>
-  <score>1</score>
-  <notes>{se} {bargu}</notes>
-  <glossword word="arched over" />
-  <keyword word="arched over" place="1" />
-  <keyword word="arch" place="2" sense="curved structure" />
-  <keyword word="arch material" place="3" />
 </valsi>
 <valsi word="selbarja" type="lujvo">
   <user>
@@ -160894,20 +160890,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="grown from" place="1" />
   <keyword word="grown" place="2" />
   <keyword word="growing" place="3" sense="not agent" />
-</valsi>
-<valsi word="terbargu" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_3=b_1$ arches/curves over/around $x_2=b_2$ and is made of $x_1=b_3$; $x_3=b_1$ is an arch over/around $x_2=b_2$ of material $x_1=b_3$.</definition>
-  <definitionid>14703</definitionid>
-  <score>1</score>
-  <notes>{te} {bargu}</notes>
-  <glossword word="arch material" />
-  <keyword word="arch material" place="1" />
-  <keyword word="arched over" place="2" />
-  <keyword word="arch" place="3" sense="curved structure" />
 </valsi>
 <valsi word="terbarja" type="lujvo">
   <user>
