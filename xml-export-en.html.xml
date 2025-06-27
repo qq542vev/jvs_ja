@@ -28815,7 +28815,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
   <definition>$x_1$ is a plum/member of subgenus Prunus of genus Prunus of species/variety $x_2$</definition>
   <definitionid>69638</definitionid>
-  <score>2</score>
+  <score>1</score>
   <notes>Nahuatl &quot;xocotetl&quot;</notes>
 </valsi>
 <valsi word="comco'e" type="lujvo">
@@ -53403,6 +53403,16 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   <glossword word="Chihuahua" sense="dog" />
   <keyword word="Chihuahua" place="1" sense="dog" />
 </valsi>
+<valsi word="gerkrxaski" type="fu'ivla">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is a husky of breed/variety $x_2$</definition>
+  <definitionid>74129</definitionid>
+  <score>1</score>
+  <notes>see {gerku}</notes>
+</valsi>
 <valsi word="gerku" type="gismu">
   <rafsi>ger</rafsi>
   <rafsi>ge&apos;u</rafsi>
@@ -58032,6 +58042,16 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   <notes>Cf. {gusni}, {carmi}, {gusminra}.</notes>
   <glossword word="gleam" />
   <glossword word="shine" />
+</valsi>
+<valsi word="gusycfine" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is a prism (transparent shape that refracts or disperses light) of shape/type $x_2$</definition>
+  <definitionid>74128</definitionid>
+  <score>1</score>
+  <notes>cf. {gusni} {cfine}</notes>
 </valsi>
 <valsi word="gusycinki" type="lujvo">
   <user>
@@ -142180,6 +142200,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <score>1</score>
   <glossword word="seigniorage" />
 </valsi>
+<valsi word="sijge'u" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$g_1$ is a sled dog of breed/variety $g_2$ supporting $s_3$</definition>
+  <definitionid>74130</definitionid>
+  <score>1</score>
+  <notes>cf. {skiji} {gerku}</notes>
+</valsi>
 <valsi word="sijypi'e" type="lujvo">
   <user>
     <username>Wuzzy</username>
@@ -145022,7 +145052,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
   <definition>$x_1$ is a plum/peach/cherry/apricot/almond/sloe [fruit] (genus Prunus) of species/variety $x_2$</definition>
   <definitionid>18968</definitionid>
-  <score>5</score>
+  <score>6</score>
   <notes>{zirsmela} for plum, {xunsmela} for cherry, {najysmela} for peach, {pelsmela} for apricot, {ri&apos;orsmela} for almond, {blasmela} for sloe. Cf. {rutrprunu}, {ricrprunu}, {flaume}, {persika}, {rutrceraso}, {birkoku}, {frambesi}, {fragari}, {plise}, {perli}, {rozgu}</notes>
   <glossword word="almond" />
   <glossword word="apricot" />
@@ -182126,7 +182156,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>$x_1$ acts Lojbanically cruel/pedantic toward $x_2$ in manner $x_3$ (ka)</definition>
   <definitionid>72572</definitionid>
-  <score>5</score>
+  <score>6</score>
   <notes>Refers to a particular, infamous cultural phenomenon in the Lojban community wherein many conversations between speakers in or tangential to Lojban tend to very quickly devolve into an argument over grammar, semantics, or usage, with the result that it becomes difficult if not impossible to hold an ordinary conversation in the language on any subject in forums where this behavior is not explicitly discouraged. Originally a clipping of {xekcedipasopa}, i.e. &quot;XKCD #191,&quot; in which R. Munroe observes that Lojban&apos;s utility as a means of expression is severely hampered by the fact that speaking it requires you to interact with &quot;the kind of people who learn Lojban.&quot; Proposed rafsi -xec- and -xe&apos;e-</notes>
   <glossword word="xekce" sense="Lojbanic pedant" />
 </valsi>
@@ -183773,7 +183803,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>auto-terminating adverbial: takes a brivla &amp; preceding terms and produces a free adverbial phrase modifying the main predicate</definition>
   <definitionid>56726</definitionid>
-  <score>5</score>
+  <score>6</score>
   <notes>[note by janbe] Definition revised to account for a new use of {xoi} after the old one was declared obsolete. Terminator: {se&apos;u}</notes>
   <glossword word="auto-terminating adverbial" />
 </valsi>
