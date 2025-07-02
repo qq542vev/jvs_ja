@@ -14,9 +14,9 @@
 ##
 ##   id - 02afb1e6-527b-451a-b5e2-f29646322122
 ##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 2.0.1
+##   version - 2.0.2
 ##   created - 2025-05-26
-##   modified - 2025-06-05
+##   modified - 2025-07-02
 ##   copyright - Copyright (C) 2025-2025 qq542vev. All rights reserved.
 ##   license - <GNU GPLv3 at https://www.gnu.org/licenses/gpl-3.0.txt>
 ##   depends - curl, echo, git, rm
@@ -31,7 +31,7 @@
 
 .POSIX:
 
-.PHONY: all FORCE git-commit clean rebuild help version
+.PHONY: all __force git-commit clean rebuild help version
 
 .SILENT: help version
 
@@ -41,32 +41,32 @@
 FILE = xml-export-en.html.xml xml-export-jbo.html.xml xml-export.html.xml
 CMD = . './auth' && bin/cupra-lo-jbovlaste-vreji.sh --curl-option '--silent' --curl-option '--show-error'
 COMMIT_MSG = .i de'i li %Y-%m-%d ti'u li %H:%M:%SZ cu cpacu le datni
-VERSION = 2.0.1
+VERSION = 2.0.2
 
 # Build
 # =====
 
 all: $(FILE)
 
-xml-export-en.html.xml: FORCE
+xml-export-en.html.xml: __force
 	$(CMD) en $(@) || case "$${?}" in \
 		1) :;; \
 		*) exit "$${?}";; \
 	esac
 
-xml-export-jbo.html.xml: FORCE
+xml-export-jbo.html.xml: __force
 	$(CMD) jbo $(@) || case "$${?}" in \
 		1) :;; \
 		*) exit "$${?}";; \
 	esac
 
-xml-export.html.xml: FORCE
+xml-export.html.xml: __force
 	$(CMD) ja $(@) || case "$${?}" in \
 		1) :;; \
 		*) exit "$${?}";; \
 	esac
 
-FORCE:
+__force:
 
 # Git
 # ===
