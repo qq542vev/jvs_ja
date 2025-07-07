@@ -58050,7 +58050,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
   <definition>$x_1$ is a prism (transparent shape that refracts or disperses light) of shape/type $x_2$</definition>
   <definitionid>74128</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>cf. {gusni} {cfine}</notes>
 </valsi>
 <valsi word="gusycinki" type="lujvo">
@@ -79114,17 +79114,6 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   <score>100001</score>
   <notes>See also {tabno}, {tarla}.</notes>
   <glossword word="coal" />
-</valsi>
-<valsi word="kolon bu" type="bu-letteral">
-  <selmaho>BY*</selmaho>
-  <user>
-    <username>lakanro</username>
-    <realname>Wang Jian</realname>
-  </user>
-  <definition>letteral: colon (letteral).</definition>
-  <definitionid>69905</definitionid>
-  <score>1</score>
-  <glossword word="colon" />
 </valsi>
 <valsi word="kolonel" type="cmevla">
   <user>
@@ -173034,7 +173023,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>$x_1$ is some vanilla, the extract of the fruit of the vanilla plant</definition>
   <definitionid>68060</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="vanilla" sense="extract" />
 </valsi>
 <valsi word="vanxox" type="cmevla">
@@ -201120,7 +201109,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="pigeon" sense="bird" valsi="kolmba" />
 <nlword word="pigeon" valsi="kolmba" />
 <nlword word="coal" valsi="kolme" />
-<nlword word="colon" valsi="kolon bu" />
 <nlword word="whataboutism" valsi="kolsupare" />
 <nlword word="comb" valsi="komcu" />
 <nlword word="README" sense="document" valsi="komitcidus" />
