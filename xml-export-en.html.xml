@@ -135381,19 +135381,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <keyword word="bulbous" place="1" sense="having bulb" />
   <keyword word="bulb" place="2" />
 </valsi>
-<valsi word="selbalni" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-  <definition>$x_2=b_1$ is a balcony/overhang/ledge/shelf of building/structure $x_1=b_2$.</definition>
-  <definitionid>14652</definitionid>
-  <score>1</score>
-  <notes>{se} {balni}</notes>
-  <glossword word="balconied" />
-  <keyword word="balconied" place="1" />
-  <keyword word="balcony" place="2" />
-</valsi>
 <valsi word="selbalvi" type="lujvo">
   <user>
     <username>brtais</username>
