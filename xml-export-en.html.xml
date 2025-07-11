@@ -17520,6 +17520,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also {pilka}, {skapi}, {gacri}, {bartu}.</notes>
   <glossword word="shell" />
 </valsi>
+<valsi word="calsamxra" type="lujvo">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+  <definition>$x_1$ is a 3D model and &quot;depicts&quot; $x_2$.</definition>
+  <definitionid>74132</definitionid>
+  <score>3</score>
+  <glossword word="3D model" />
+</valsi>
 <valsi word="calsle" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -194183,6 +194193,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="cubic decimetre" valsi="caldectre" />
 <nlword word="space-time" valsi="caljvetei" place="1" />
 <nlword word="shell" valsi="calku" />
+<nlword word="3D model" valsi="calsamxra" />
 <nlword word="voxel" valsi="calsle" />
 <nlword word="shape" sense="geometric" valsi="caltai" />
 <nlword word="ellipsoid" sense="geometric shape" valsi="caltaiboi" />
