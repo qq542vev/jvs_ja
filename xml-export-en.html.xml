@@ -2016,6 +2016,16 @@
   <glossword word="easy come, easy go" />
   <glossword word="fickle" sense="easily gained and lost" />
 </valsi>
+<valsi word="arkasa" type="fu'ivla">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+  <definition>$x_1$ is the result of applying to $x_2$ $x_3$, which is a hash function.</definition>
+  <definitionid>74133</definitionid>
+  <score>1</score>
+  <glossword word="hash" sense="many-to-one mapping" />
+</valsi>
 <valsi word="arkeke" type="fu'ivla">
   <user>
     <username>phma</username>
@@ -192513,6 +192523,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="arcade" sense="series of arches" valsi="arkada" />
 <nlword word="easy come, easy go" valsi="arkadi&apos;u" />
 <nlword word="fickle" sense="easily gained and lost" valsi="arkadi&apos;u" />
+<nlword word="hash" sense="many-to-one mapping" valsi="arkasa" />
 <nlword word="flax" sense="New Zealand" valsi="arkeke" />
 <nlword word="New Zealand flax" sense="plant/fiber" valsi="arkeke" />
 <nlword word="Arctic Ocean" valsi="arktik" />
