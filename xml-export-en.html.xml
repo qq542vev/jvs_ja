@@ -14476,7 +14476,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ is a turnip of species/variety $x_2$</definition>
   <definitionid>73780</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>see also {srafanu}, {kobli}</notes>
   <glossword word="turnip" sense="vegetable" />
   <keyword word="turnip" place="1" sense="vegetable" />
@@ -75493,7 +75493,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
   <definition>$x_1$ is a video game / computer game</definition>
   <definitionid>69988</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Synonymous to {samselkei}.</notes>
   <glossword word="computer game" />
   <glossword word="video game" />
@@ -76899,7 +76899,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
   <definition>$x_1$ is a sting/stinger of $x_2$</definition>
   <definitionid>44104</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="sting" sense="stinger" />
   <glossword word="stinger" />
 </valsi>
@@ -120496,7 +120496,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
   <definition>$x_1$ is a fossil, a mineralized remain of $x_2$ (not necessarily of a living being)</definition>
   <definitionid>69468</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="fossil" sense="mineralized remain" />
 </valsi>
 <valsi word="pritu" type="gismu">
@@ -123848,6 +123848,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <definitionid>2022</definitionid>
   <score>100000</score>
   <glossword word="equally" />
+</valsi>
+<valsi unofficial="true" word="rau'e" type="experimental cmavo">
+  <selmaho>FAhA3</selmaho>
+  <user>
+    <username>lalxu</username>
+    <realname>Lake</realname>
+  </user>
+  <definition>location tense relation/direction; across from...</definition>
+  <definitionid>74136</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="raumei" type="cmavo-compound">
   <selmaho>MOI*</selmaho>
@@ -128469,6 +128479,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <definitionid>2066</definitionid>
   <score>100000</score>
   <glossword word="quantified tense" />
+</valsi>
+<valsi unofficial="true" word="roi'e" type="experimental cmavo">
+  <selmaho>FAhA3</selmaho>
+  <user>
+    <username>lalxu</username>
+    <realname>Lake</realname>
+  </user>
+  <definition>location tense relation/direction; on the same side as...</definition>
+  <definitionid>74137</definitionid>
+  <score>1</score>
 </valsi>
 <valsi unofficial="true" word="roi'i" type="experimental cmavo">
   <selmaho>UI4</selmaho>
@@ -138323,6 +138343,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <notes>See {se}, {trene}, {matryselre&apos;e}</notes>
   <glossword word="train car" />
   <glossword word="unit" sense="element of a train consist" />
+</valsi>
+<valsi word="selreli" type="fu'ivla">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is celery of variety/species $x_2$</definition>
+  <definitionid>74135</definitionid>
+  <score>2</score>
+  <notes>see also {stagi}.</notes>
 </valsi>
 <valsi word="selrespa" type="lujvo">
   <user>
@@ -152345,7 +152375,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
   <definition>$x_1$ is a radish-turnip hybrid of species/variety $x_2$</definition>
   <definitionid>73779</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Okay, yeah, let&apos;s be real, I was trying to type &quot;brarapa&quot; and somehow got a couple of wires crossed in the old noggin. Move along, nothing to see here...</notes>
   <glossword word="radish-turnip hybrid" />
   <glossword word="turnip-radish hybrid" />
@@ -190219,6 +190249,15 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   <score>2</score>
   <notes>Cf. {tanru}, {zi&apos;o}, {seltau}, {tertau}, {selbrisle}.</notes>
   <glossword word="tanru component" />
+</valsi>
+<valsi word="zilterju'o" type="lujvo">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+  <definition>$x_1$ knows (du&apos;u) $x_2$</definition>
+  <definitionid>74134</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="zilterle'u" type="lujvo">
   <user>
