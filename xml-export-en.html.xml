@@ -33350,6 +33350,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <score>2</score>
   <glossword word="veterinarian" />
 </valsi>
+<valsi word="dalmra" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is an animal shelter for creatures $x_2$</definition>
+  <definitionid>74139</definitionid>
+  <score>1</score>
+  <notes>cf. {danlu} {marbi}</notes>
+</valsi>
 <valsi word="dalmustela" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -33448,6 +33458,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <score>2</score>
   <notes>See also {ratcu}.</notes>
   <glossword word="guinea pig" sense="animal" />
+</valsi>
+<valsi word="dalselxa'u" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is an animal sanctuary / artificial habitat for animal(s) $x_2$</definition>
+  <definitionid>74138</definitionid>
+  <score>1</score>
+  <notes>for pound / animal shelter see {dalmra}</notes>
 </valsi>
 <valsi word="dalske" type="lujvo">
   <user>
@@ -105534,7 +105554,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
   <definition>attitudinal: &apos;how do you do?&apos;</definition>
   <definitionid>57080</definitionid>
-  <score>2</score>
+  <score>1</score>
   <notes>Chinese style greeting. See also {pei}, {coi}, {a&apos;oi}</notes>
   <glossword word="How do you do?" />
   <glossword word="howdy" sense="greeting" />
