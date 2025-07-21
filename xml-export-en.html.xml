@@ -17129,6 +17129,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Cf. {jdima}, {catni}, {selfu}, {pleji}.</notes>
   <glossword word="charge" sense="amount of money levied for a service" />
 </valsi>
+<valsi word="ca'irfanta" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$f_1$ censors/suppresses event $f_2$ from occurring.</definition>
+  <definitionid>74142</definitionid>
+  <score>1</score>
+  <notes>cf. {catni} {fanta}</notes>
+</valsi>
 <valsi word="ca'irpai" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -51877,7 +51887,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
   <definition>$x_1$ is a galaxy, of contents $x_2$ and other characteristics/parameters $x_3$; $x_1$ is galactic.</definition>
   <definitionid>71916</definitionid>
-  <score>3</score>
+  <score>4</score>
   <glossword word="galaxy" />
 </valsi>
 <valsi word="galmu'u" type="lujvo">
@@ -66343,6 +66353,16 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <definitionid>52808</definitionid>
   <score>1</score>
   <notes>Cf. {gunbre}</notes>
+</valsi>
+<valsi word="jibycatra" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$c_1$ is an assassin, that kills $c_2$ by action/method $c_3$</definition>
+  <definitionid>74141</definitionid>
+  <score>1</score>
+  <notes>cf. {jibri} {catra}</notes>
 </valsi>
 <valsi word="jibycu'e" type="lujvo">
   <user>
@@ -162829,7 +162849,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
   <definition>$x_1$ has its $x_2$ taken away by $x_3$, and thereby becomes $x_4$. </definition>
   <definitionid>72425</definitionid>
-  <score>2</score>
+  <score>3</score>
   <glossword word="have something taken away" />
 </valsi>
 <valsi word="tervra" type="lujvo">
@@ -164780,7 +164800,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
   <definition>$x_1=s_1=t_1$ gives up / abandons / stops trying to do / attain $x_2=s_2=t_2$ by means / actions / method $x_3=t_3$.</definition>
   <definitionid>74008</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="abandon" sense="stop trying" />
   <glossword word="give up" sense="stop trying" />
 </valsi>
