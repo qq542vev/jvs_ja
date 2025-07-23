@@ -187156,6 +187156,16 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   <keyword word="crafting result" place="2" />
   <keyword word="crafting material" place="3" />
 </valsi>
+<valsi word="zbazai" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is a hardware store selling $x_2$ operated by $x_3$</definition>
+  <definitionid>74143</definitionid>
+  <score>1</score>
+  <notes>cf. {zbasu} {zarci}</notes>
+</valsi>
 <valsi word="zbepi" type="gismu">
   <rafsi>zbe</rafsi>
   <user>
