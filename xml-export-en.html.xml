@@ -1352,6 +1352,15 @@
   <score>2</score>
   <glossword word="Anishinaabe" />
 </valsi>
+<valsi word="ancovi" type="fu'ivla">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+  <definition>$x_1$ is an anchovy</definition>
+  <definitionid>74145</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="andiroba" type="fu'ivla">
   <user>
     <username>phma</username>
@@ -4432,9 +4441,9 @@
     <username>arj</username>
     <realname>Arnt Richard Johansen</realname>
   </user>
-  <definition>$ba_1=be_1$ is an orchestra, consisting of performers $be_2$, and conducted by $be_3$, performing music $z_1=be_4$.</definition>
+  <definition>$x_1$ is an orchestra, consisting of performers $x_2$</definition>
   <definitionid>15555</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Cf. {cibjgataidamri}, {bikydamri}, {jgita}.</notes>
   <glossword word="orchestra" />
   <keyword word="orchestra" place="1" />
@@ -10270,6 +10279,16 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   <glossword word="transportation industry" />
   <glossword word="transportation sector" />
 </valsi>
+<valsi word="bevjai" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ carries $x_2$ by holding with $x_3$</definition>
+  <definitionid>74148</definitionid>
+  <score>1</score>
+  <glossword word="carry" sense="hold with body" />
+</valsi>
 <valsi word="bevma'e" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -13371,6 +13390,17 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   <score>1</score>
   <notes>Cf. {bolci}, {binxo}, {krosa&apos;i}, {krobi&apos;o}.</notes>
   <glossword word="roll up" sense="intransitive" />
+</valsi>
+<valsi word="bolboba" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is/are boba pearl(s)/tea bubbles made of $x_2$</definition>
+  <definitionid>74144</definitionid>
+  <score>1</score>
+  <glossword word="boba" sense="edible balls served in tea" />
+  <keyword word="boba" place="1" sense="edible balls served in tea" />
 </valsi>
 <valsi word="bolcartu" type="lujvo">
   <user>
@@ -61615,6 +61645,16 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <score>100000</score>
   <glossword word="time conversion" />
 </valsi>
+<valsi word="jaicpa" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ picks up $x_2$ from $x_3$</definition>
+  <definitionid>74149</definitionid>
+  <score>1</score>
+  <glossword word="pick up" sense="take and hold" />
+</valsi>
 <valsi word="jaicpu" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -78641,6 +78681,17 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   <score>100000</score>
   <notes>Also bolt.  See also {korcu}, {sarlu}, {tutci}.</notes>
   <glossword word="screw" />
+</valsi>
+<valsi word="klupefo" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is an anchovy/sardine (family Clupeiformes) of species/variety $x_2$</definition>
+  <definitionid>74147</definitionid>
+  <score>1</score>
+  <glossword word="Clupeiformes" sense="taxonomic family" />
+  <keyword word="Clupeiformes" place="1" sense="taxonomic family" />
 </valsi>
 <valsi word="klura'a" type="lujvo">
   <user>
@@ -97203,6 +97254,15 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   <notes>from {melbi} {trina} {tarti}</notes>
   <glossword word="coquettish" />
   <glossword word="flirtatious" />
+</valsi>
+<valsi word="mlibato" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a stingray of species/variety $x_2$</definition>
+  <definitionid>74146</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="mliba'u" type="lujvo">
   <user>
@@ -189016,15 +189076,11 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
     <username>Wuzzy</username>
     <realname>Wuzzy</realname>
   </user>
-  <definition>$b_1$ is an orchestra, consisting of performers $b_2$, and conducted by $b_3$, performing music $z_1$.</definition>
+  <definition>$b_1$ is a band consisting of performers $b_2$</definition>
   <definitionid>42291</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>See also {balzgibe&apos;e}.</notes>
-  <glossword word="orchestra" />
-  <keyword word="orchestra" place="1" />
-  <keyword word="musician in orchestra" place="2" />
-  <keyword word="conductor" place="3" sense="orchestral music" />
-  <keyword word="orchestral music" place="4" />
+  <glossword word="band" sense="group of musicians" />
 </valsi>
 <valsi word="zgibite" type="fu'ivla">
   <user>
@@ -192868,7 +192924,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="supermarket" valsi="balzai" />
 <nlword word="conductor" sense="orchestral music" valsi="balzgibe&apos;e" place="3" />
 <nlword word="musician in orchestra" valsi="balzgibe&apos;e" place="2" />
-<nlword word="orchestra" valsi="balzgibe&apos;e" />
+<nlword word="orchestra" valsi="balzgibe&apos;e" place="1" />
+<nlword word="orchestral music" valsi="balzgibe&apos;e" place="4" />
 <nlword word="doll" valsi="bambola" />
 <nlword word="bamboo" valsi="bambu" />
 <nlword word="dynamite" sense="explosive device" valsi="bamrdinamite" place="1" />
@@ -193513,6 +193570,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="transportation" sense="as an industry category" valsi="bevgundi" />
 <nlword word="transportation industry" valsi="bevgundi" />
 <nlword word="transportation sector" valsi="bevgundi" />
+<nlword word="carry" sense="hold with body" valsi="bevjai" />
 <nlword word="cart" sense="transport vehicle" valsi="bevma&apos;e" />
 <nlword word="sled" sense="transport vehicle" valsi="bevma&apos;e" />
 <nlword word="truck" sense="transport vehicle" valsi="bevma&apos;e" />
@@ -193849,6 +193907,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="pillbug" valsi="boirlokra" />
 <nlword word="region between nested spheres" valsi="bolbi&apos;i" />
 <nlword word="roll up" sense="intransitive" valsi="bolbi&apos;o" />
+<nlword word="boba" sense="edible balls served in tea" valsi="bolboba" place="1" />
 <nlword word="globe" sense="spherical model of the Earth, a planet, a celestial body, etc." valsi="bolcartu" />
 <nlword word="ball" valsi="bolci" />
 <nlword word="cupola" valsi="boldi&apos;u" />
@@ -199290,6 +199349,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="by rule" valsi="ja&apos;i" />
 <nlword word="modal conversion" valsi="jai" />
 <nlword word="time conversion" valsi="jaica" />
+<nlword word="pick up" sense="take and hold" valsi="jaicpa" />
 <nlword word="pick" sense="grasp and pull" valsi="jaicpu" />
 <nlword word="agent conversion" valsi="jaigau" />
 <nlword word="NU-type clarifier" valsi="jai&apos;i" />
@@ -201167,6 +201227,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="ukulele tuning" valsi="klulele" place="2" />
 <nlword word="common sense" sense="necessitate under" valsi="kluni&apos;i" />
 <nlword word="screw" valsi="klupe" />
+<nlword word="Clupeiformes" sense="taxonomic family" valsi="klupefo" place="1" />
 <nlword word="of culture" sense="x is of culture y" valsi="klura&apos;a" />
 <nlword word="anthropology" sense="social anthropology" valsi="kluske" />
 <nlword word="ethnology" valsi="kluske" />
@@ -207110,7 +207171,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="classical music" sense="European" valsi="ronri&apos;izgi" />
 <nlword word="classical music" sense="orchestral music" valsi="ronri&apos;izgi" />
 <nlword word="orchestral music" sense="European" valsi="ronri&apos;izgi" place="1" />
-<nlword word="orchestral music" valsi="ronri&apos;izgi" />
 <nlword word="orchestral performance" sense="European classical music" valsi="ronri&apos;izgi" place="2" />
 <nlword word="orchestral performance" valsi="ronri&apos;izgi" place="2" />
 <nlword word="1E27" valsi="ronro" />
@@ -214070,6 +214130,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="arc" sense="electrical phenomenon" valsi="zgavevu" />
 <nlword word="lightning" sense="visible natural electricity" valsi="zgavevu" />
 <nlword word="surveillance aircraft" valsi="zgavinji" />
+<nlword word="band" sense="group of musicians" valsi="zgibe&apos;e" />
+<nlword word="orchestraband" sense="group of musicians" valsi="zgibe&apos;e" />
 <nlword word="beat" sense="regular musical pattern" valsi="zgibite" />
 <nlword word="musical instrument" valsi="zgica&apos;a" place="1" />
 <nlword word="musician" sense="instrumentalist" valsi="zgica&apos;a" place="2" />
