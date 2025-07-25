@@ -25547,6 +25547,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <notes>Also: $x_1$ leaves behind/takes leave of $x_2$.  See also {litru}, {canci}, {vimcu}, {lebna}, {muvdu}.</notes>
   <glossword word="leave" />
 </valsi>
+<valsi word="clizu'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ learns how to do $x_2$</definition>
+  <definitionid>74150</definitionid>
+  <score>1</score>
+  <glossword word="learn how" sense="learn the methods of doing" />
+</valsi>
 <valsi word="clugau" type="lujvo">
   <user>
     <username>arj</username>
@@ -128578,6 +128588,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <score>100000</score>
   <glossword word="quantified tense" />
 </valsi>
+<valsi unofficial="true" word="roi'a" type="experimental cmavo">
+  <selmaho>PA4</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>number: as much as possible.</definition>
+  <definitionid>74151</definitionid>
+  <score>1</score>
+  <glossword word="as much as possible" />
+</valsi>
 <valsi unofficial="true" word="roi'e" type="experimental cmavo">
   <selmaho>FAhA3</selmaho>
   <user>
@@ -168168,6 +168189,18 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   <glossword word="trochee" sense="poetry" />
   <keyword word="trochee" place="1" sense="poetry" />
 </valsi>
+<valsi word="troxili" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a hummingbird of species/variety $x_2$</definition>
+  <definitionid>74152</definitionid>
+  <score>1</score>
+  <notes>shortening of {troxilidai}</notes>
+  <glossword word="hummingbird" sense="Trochilidae" />
+  <keyword word="hummingbird" place="1" sense="Trochilidae" />
+</valsi>
 <valsi word="troxilidai" type="fu'ivla">
   <user>
     <username>krtisfranks</username>
@@ -195292,6 +195325,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="early" valsi="clira" />
 <nlword word="polite" valsi="clite" />
 <nlword word="leave" valsi="cliva" />
+<nlword word="learn how" sense="learn the methods of doing" valsi="clizu&apos;e" />
 <nlword word="fill" sense="agentive" valsi="clugau" place="1" />
 <nlword word="loop" valsi="clupa" />
 <nlword word="diatom" sense="microalgae" valsi="cma&apos;alge" />
@@ -211822,6 +211856,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="ceremonial monarch" valsi="trovlicauja&apos;a" />
 <nlword word="figurehead" valsi="trovlicauja&apos;a" />
 <nlword word="trochee" sense="poetry" valsi="troxeii" place="1" />
+<nlword word="hummingbird" sense="Trochilidae" valsi="troxili" place="1" />
 <nlword word="hummingbird" valsi="troxilidai" />
 <nlword word="power" sense="authority" valsi="trubasti" />
 <nlword word="power" sense="capacity to exercise authority" valsi="trubasti" />
