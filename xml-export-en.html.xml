@@ -1352,15 +1352,6 @@
   <score>2</score>
   <glossword word="Anishinaabe" />
 </valsi>
-<valsi word="ancovi" type="fu'ivla">
-  <user>
-    <username>merrybot</username>
-    <realname>evie</realname>
-  </user>
-  <definition>$x_1$ is an anchovy</definition>
-  <definitionid>74145</definitionid>
-  <score>1</score>
-</valsi>
 <valsi word="andiroba" type="fu'ivla">
   <user>
     <username>phma</username>
@@ -4443,7 +4434,7 @@
   </user>
   <definition>$x_1$ is an orchestra, consisting of performers $x_2$</definition>
   <definitionid>15555</definitionid>
-  <score>4</score>
+  <score>5</score>
   <notes>Cf. {cibjgataidamri}, {bikydamri}, {jgita}.</notes>
   <glossword word="orchestra" />
   <keyword word="orchestra" place="1" />
@@ -10286,7 +10277,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ carries $x_2$ by holding with $x_3$</definition>
   <definitionid>74148</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="carry" sense="hold with body" />
 </valsi>
 <valsi word="bevma'e" type="lujvo">
@@ -13398,7 +13389,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ is/are boba pearl(s)/tea bubbles made of $x_2$</definition>
   <definitionid>74144</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="boba" sense="edible balls served in tea" />
   <keyword word="boba" place="1" sense="edible balls served in tea" />
 </valsi>
@@ -25554,7 +25545,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
   <definition>$x_1$ learns how to do $x_2$</definition>
   <definitionid>74150</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="learn how" sense="learn the methods of doing" />
 </valsi>
 <valsi word="clugau" type="lujvo">
@@ -61662,7 +61653,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>$x_1$ picks up $x_2$ from $x_3$</definition>
   <definitionid>74149</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="pick up" sense="take and hold" />
 </valsi>
 <valsi word="jaicpu" type="lujvo">
@@ -78699,7 +78690,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
   <definition>$x_1$ is an anchovy/sardine (family Clupeiformes) of species/variety $x_2$</definition>
   <definitionid>74147</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="Clupeiformes" sense="taxonomic family" />
   <keyword word="Clupeiformes" place="1" sense="taxonomic family" />
 </valsi>
@@ -94326,6 +94317,16 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   <definitionid>71479</definitionid>
   <score>3</score>
   <notes>Place structure based on {gentufa} and other -tufa words.</notes>
+</valsi>
+<valsi word="menxai" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ psychologically harms/traumatizes $x_2$ in aspect/property $x_3$ resulting in trauma $x_4$</definition>
+  <definitionid>74153</definitionid>
+  <score>1</score>
+  <notes>cf. {menli} {xrani}</notes>
 </valsi>
 <valsi word="menynunda'a" type="lujvo">
   <user>
@@ -168196,7 +168197,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
   <definition>$x_1$ is a hummingbird of species/variety $x_2$</definition>
   <definitionid>74152</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>shortening of {troxilidai}</notes>
   <glossword word="hummingbird" sense="Trochilidae" />
   <keyword word="hummingbird" place="1" sense="Trochilidae" />
