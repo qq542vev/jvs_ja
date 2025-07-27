@@ -3607,6 +3607,16 @@
   <keyword word="sideboards" place="1" sense="tuft of hair" />
   <keyword word="wearing sideboards" place="2" sense="tuft of hair" />
 </valsi>
+<valsi word="bagDAD" type="cmevla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>Baghdad</definition>
+  <definitionid>74157</definitionid>
+  <score>1</score>
+  <notes>See also: {rakso}, {gugde&apos;ike} and {raksygu&apos;e} for Iraq; {xrabo}, {mespo}, {bangacumu}, {rancara}.</notes>
+</valsi>
 <valsi word="bagyce'a" type="lujvo">
   <user>
     <username>arj</username>
@@ -5878,6 +5888,18 @@
   <glossword word="Swedish" sense="language" />
   <glossword word="Swedish speaker" />
 </valsi>
+<valsi word="bangrsomali" type="fu'ivla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>$x_1$ is the Somali language.</definition>
+  <definitionid>74164</definitionid>
+  <score>1</score>
+  <notes>Synonym: {bansu&apos;omu}. See also {kulnrsomali} for Somali culture, {gugdesu&apos;o} or {soMAliias} for the Federal Republic of Somalia; {mugdico} or {mugdicos} for its capital city. Linguists place Somali within the Cushitic branch ({bangrkuciti}) of the Afroasiatic language family ({bangrfrixazo}) (see also {frikoxazdo} &apos;Afro-Asiatic&apos;). See also {frikojirna} &apos;Horn of Africa&apos;.</notes>
+  <glossword word="Somali" sense="language" />
+  <glossword word="Somali language" />
+</valsi>
 <valsi word="bangrsu'omi" type="fu'ivla">
   <user>
     <username>jongausib</username>
@@ -7017,6 +7039,17 @@
   <glossword word="Creole" sense="Haitian Creole language" />
   <glossword word="Haitian" sense="Haitian language" />
 </valsi>
+<valsi word="banxe'a'u" type="fu'ivla">
+  <user>
+    <username>glekizmiku</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
+  </user>
+  <definition>$x_1$ is the language with ISO 639-3 code &apos;&apos;hau&apos;&apos; (Hausa).</definition>
+  <definitionid>46966</definitionid>
+  <score>1</score>
+  <notes>See also {bangu}</notes>
+  <glossword word="Hausa" sense="Hausa language" />
+</valsi>
 <valsi word="banxe'inu" type="fu'ivla">
   <user>
     <username>totus</username>
@@ -7039,6 +7072,17 @@
   <notes>See also {bangu}</notes>
   <glossword word="Hmong Njua" sense="Hmong Njua language" />
   <glossword word="Mong Njua" sense="Mong Njua language" />
+</valsi>
+<valsi word="banxesulu" type="fu'ivla">
+  <user>
+    <username>glekizmiku</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
+  </user>
+  <definition>$x_1$ is the language with ISO 639-3 code &apos;&apos;hsl&apos;&apos; (Hausa Sign Language).</definition>
+  <definitionid>47111</definitionid>
+  <score>1</score>
+  <notes>See also {bangu}</notes>
+  <glossword word="Hausa Sign Language" sense="Hausa Sign Language language" />
 </valsi>
 <valsi word="banxe'ucu" type="fu'ivla">
   <user>
@@ -26117,6 +26161,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <definitionid>69067</definitionid>
   <score>1</score>
   <glossword word="snack" sense="small meal" />
+</valsi>
+<valsi word="cmaselpre" type="lujvo">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+  <definition>According to $x_4$, in personality metric system $x_3$, $x_1$ is the personality type of $x_2$.</definition>
+  <definitionid>74154</definitionid>
+  <score>1</score>
+  <glossword word="personality type" />
 </valsi>
 <valsi word="cmastani" type="lujvo">
   <user>
@@ -50533,6 +50587,32 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   <notes>See also {ropno}, {xazdo}.</notes>
   <glossword word="African" />
 </valsi>
+<valsi word="frikojirna" type="fu'ivla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>$x_1$ reflects the culture/nationality/geography of the Horn of Africa in aspect $x_2$.</definition>
+  <definitionid>74161</definitionid>
+  <score>1</score>
+  <notes>Derived from {friko} &apos;African&apos; and {jirna} &apos;horn.&apos; For constituent countries of the Horn of Africa: see {gugdesu&apos;o}/{soMAliias} for Somalia, {gugde&apos;etu}/{itiiopiias} for Ethiopia, {gugde&apos;eru}/{erytras} for Eritrea, {gugdeduju}/{djibutis} for Djibouti, {soMAliland}. See also {semto}, {frikoxazdo}.</notes>
+  <glossword word="Horn of Africa" />
+  <glossword word="the Horn of Africa" />
+</valsi>
+<valsi word="frikoxazdo" type="fu'ivla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>$x_1$ reflects Afroasiatic language/culture/nationality in aspect $x_2$.</definition>
+  <definitionid>74162</definitionid>
+  <score>1</score>
+  <notes>The Afroasiatic languages are a macrofamily including the Semitic languages as well as others, such as Hausa and Somali. See also {friko}, {xazdo}, {semto}, {xrabo}, {xebro}, {frikojirna}, {bansomali}, {bansu&apos;omu}, {banxe&apos;a&apos;u}, {banxesulu}.</notes>
+  <glossword word="Afrasian" />
+  <glossword word="Afroasiatic" />
+  <glossword word="Afro-Asiatic" />
+  <glossword word="Hamito-Semitic" sense="language family" />
+</valsi>
 <valsi word="frikytu'a" type="lujvo">
   <user>
     <username>totus</username>
@@ -56799,6 +56879,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   <notes>Cf. {dotygu&apos;e}.</notes>
   <glossword word="Germany" />
 </valsi>
+<valsi word="gugdeduju" type="fu'ivla">
+  <user>
+    <username>glekizmiku</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
+  </user>
+  <definition>$x_1$ is the country with the code ISO-3166 &apos;&apos;DJ&apos;&apos; (Djibouti) for people $x_2$.</definition>
+  <definitionid>44481</definitionid>
+  <score>1</score>
+  <notes>See also {gugde}</notes>
+  <glossword word="Djibouti" sense="country" />
+</valsi>
 <valsi word="gugde'egu" type="fu'ivla">
   <user>
     <username>glekizmiku</username>
@@ -56820,6 +56911,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   <score>2</score>
   <notes>See also {gugde}</notes>
   <glossword word="Spain" sense="country" />
+</valsi>
+<valsi word="gugde'etu" type="fu'ivla">
+  <user>
+    <username>glekizmiku</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
+  </user>
+  <definition>$x_1$ is the country with the code ISO-3166 &apos;&apos;ET&apos;&apos; (Ethiopia) for people $x_2$.</definition>
+  <definitionid>44490</definitionid>
+  <score>1</score>
+  <notes>See also {gugde}</notes>
+  <glossword word="Ethiopia" sense="country" />
 </valsi>
 <valsi word="gugde'e'u" type="fu'ivla">
   <user>
@@ -57088,6 +57190,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   <score>1</score>
   <notes>See also {gugde}</notes>
   <glossword word="Slovakia" sense="country" />
+</valsi>
+<valsi word="gugdesu'o" type="fu'ivla">
+  <user>
+    <username>glekizmiku</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
+  </user>
+  <definition>$x_1$ is the country with the code ISO-3166 &apos;&apos;SO&apos;&apos; (Somalia) for people $x_2$.</definition>
+  <definitionid>44624</definitionid>
+  <score>1</score>
+  <notes>See also {gugde}</notes>
+  <glossword word="Somalia" sense="country" />
 </valsi>
 <valsi word="gugdesu'u" type="fu'ivla">
   <user>
@@ -60692,6 +60805,17 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <score>4</score>
   <notes>Synonym of {ca&apos;abna}. See also {izva}.</notes>
   <glossword word="now" />
+</valsi>
+<valsi word="itiiopiias" type="cmevla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>Ethiopia</definition>
+  <definitionid>74163</definitionid>
+  <score>1</score>
+  <notes>Variants: {itiiopiIAS} and {itiIOpiias}. Equivalent to {gugde&apos;etu}. See also {bangamuxe}, {bangorumu}, {bantu&apos;iru}, {bangetuxe}, among others.</notes>
+  <glossword word="Ethiopia" sense="country" />
 </valsi>
 <valsi word="itka" type="fu'ivla">
   <user>
@@ -100233,6 +100357,16 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   <notes>Probably a misnomer for {nunspe}</notes>
   <glossword word="marriage" />
 </valsi>
+<valsi word="mugdicos" type="cmevla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>Mogadishu</definition>
+  <definitionid>74160</definitionid>
+  <score>1</score>
+  <notes>Capital city of Somalia ({soMAliias} or {gugdesu&apos;o}) and largest city therein. Natively spelled &quot;Muqdisho&quot;. See also: {kulnrsomali}, {bansomali}, {bansu&apos;omu}.</notes>
+</valsi>
 <valsi word="mu'i" type="cmavo">
   <selmaho>BAI</selmaho>
   <user>
@@ -121302,6 +121436,35 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <notes>{mapra} is an experimental gismu. x2 arguably includes p2 and p1. x3 includes hairs, etc.</notes>
   <glossword word="dust bunny" />
   <glossword word="dustbunny" />
+</valsi>
+<valsi word="pudlu'a" type="lujvo">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>$pl_1$ is a garden path to $pl_2$ from $pl_3$ through garden $pu_1$.</definition>
+  <definitionid>74155</definitionid>
+  <score>1</score>
+  <notes>A &apos;garden path&apos; in the sense of a path, typically unpaved, that winds circuitously through a garden. There is typically a variety of scenery along the path.</notes>
+  <glossword word="garden path" sense="winding, usually unpaved path" />
+  <keyword word="garden parth" place="1" />
+  <keyword word="destination" place="2" sense="place gone to" />
+  <keyword word="origin" place="3" sense="place starting from" />
+</valsi>
+<valsi word="pudlu'avalsi'ipo'ato" type="fu'ivla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>$x_1$ is a garden-path word meaning/causing $x_2$ in language $x_3$.</definition>
+  <definitionid>74156</definitionid>
+  <score>1</score>
+  <notes>This is a morphologically well-formed word which parses one way right up until the end, at which point it parses another way. The listener or reader of the word realizes after hearing/seeing it that they have been &quot;led down a garden path&quot; (an English idiom meaning something like &quot;to be bamboozled&quot;). There is a corresponding term in linguistics: a &quot;garden-path sentence.&quot; {Lojban} is unusual in having the ability to form garden-path *words* as well as sentences. This word itself is an example. It parses as a {lujvo} (compound) of {purdi} &apos;garden&apos; + {pluta} &apos;path&apos; + {valsi} &apos;word&apos; + {sicni} &apos;coin&apos; + {spoja} &apos;explosion&apos; up until about the last syllable. At that point, it ceases to parse as a {lujvo} and becomes a {fu&apos;ivla} with a meaning that is totally unclear. See also {pudlu&apos;avalsipatlu}.</notes>
+  <glossword word="garden path word" />
+  <glossword word="garden-path word" />
+  <keyword word="garden-path word" place="1" />
+  <keyword word="meaning" place="2" />
+  <keyword word="language" place="3" />
 </valsi>
 <valsi word="pudydi'u" type="lujvo">
   <user>
@@ -146961,6 +147124,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <definitionid>14494</definitionid>
   <score>1</score>
   <keyword word="sunflower" place="1" />
+</valsi>
+<valsi word="soMAliias" type="cmevla">
+  <user>
+    <username>Xabju</username>
+    <realname>J S G</realname>
+  </user>
+  <definition>Somalia</definition>
+  <definitionid>74159</definitionid>
+  <score>1</score>
+  <notes>Capital city: {mugdicos}. Synonym: {gugdesu&apos;o}. Natively spelled &quot;Soomaaliya.&quot; See also: {kulnrsomali}, {bansomali}, {bansu&apos;omu}.</notes>
+  <glossword word="Somalia" sense="country" />
 </valsi>
 <valsi word="sombo" type="gismu">
   <rafsi>som</rafsi>
@@ -193108,6 +193282,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Polish" sense="language" valsi="bangrpolska" />
 <nlword word="Swedish" sense="language" valsi="bangrsfe&apos;enska" />
 <nlword word="Swedish speaker" valsi="bangrsfe&apos;enska" />
+<nlword word="Somali" sense="language" valsi="bangrsomali" />
+<nlword word="Somali language" valsi="bangrsomali" />
 <nlword word="Finnish" sense="language" valsi="bangrsu&apos;omi" />
 <nlword word="Central Thai" sense="language" valsi="bangrtai" />
 <nlword word="Siamese" sense="language" valsi="bangrtai" />
@@ -193217,7 +193393,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Votic" sense="Votic language" valsi="banvu&apos;otu" />
 <nlword word="bank" valsi="banxa" />
 <nlword word="Haitian" sense="Haitian language" valsi="banxe&apos;atu" />
+<nlword word="Hausa" sense="Hausa language" valsi="banxe&apos;a&apos;u" />
 <nlword word="Mong Njua" sense="Mong Njua language" valsi="banxenuju" />
+<nlword word="Hausa Sign Language" sense="Hausa Sign Language language" valsi="banxesulu" />
 <nlword word="=/Hua" valsi="banxe&apos;ucu" />
 <nlword word="Huave" sense="San Francisco Del Mar Huave language" valsi="banxe&apos;u&apos;e" />
 <nlword word="code switch" sense="mixture of languages" valsi="banxre" />
@@ -195401,6 +195579,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="stream" sense="body of water" valsi="cmari&apos;e" />
 <nlword word="gravel" valsi="cmaro&apos;i" />
 <nlword word="snack" sense="small meal" valsi="cmasai" />
+<nlword word="personality type" valsi="cmaselpre" />
 <nlword word="smartphone" sense="small tablet computer" valsi="cmata&apos;orskami" />
 <nlword word="village" valsi="cmatca" />
 <nlword word="tiny" sense="extremely small" valsi="cmatce" />
@@ -198187,6 +198366,11 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="miss" sense="fail to attend an event" valsi="fricau" />
 <nlword word="FOMO" sense="fear of missing out" valsi="fricaute&apos;a" />
 <nlword word="African" valsi="friko" />
+<nlword word="Horn of Africa" valsi="frikojirna" />
+<nlword word="the Horn of Africa" valsi="frikojirna" />
+<nlword word="Afrasian" valsi="frikoxazdo" />
+<nlword word="Afroasiatic" valsi="frikoxazdo" />
+<nlword word="Hamito-Semitic" sense="language family" valsi="frikoxazdo" />
 <nlword word="Africa" valsi="frikytu&apos;a" />
 <nlword word="African wild ass" sense="donkey (Equus africanus)" valsi="frikyxasli" />
 <nlword word="facile" valsi="frili" />
@@ -198947,8 +199131,10 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="China" sense="country" valsi="gugdecunu" />
 <nlword word="Switzerland" sense="country" valsi="gugdecuxe" />
 <nlword word="Ten Kingdoms" valsi="gugdedau" />
+<nlword word="Djibouti" sense="country" valsi="gugdeduju" />
 <nlword word="Egypt" sense="country" valsi="gugde&apos;egu" />
 <nlword word="Spain" sense="country" valsi="gugde&apos;esu" />
+<nlword word="Ethiopia" sense="country" valsi="gugde&apos;etu" />
 <nlword word="France" sense="country" valsi="gugdefuru" />
 <nlword word="United Kingdom" sense="country" valsi="gugdegubu" />
 <nlword word="Greece" sense="country" valsi="gugdeguru" />
@@ -198976,6 +199162,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Philippines" valsi="gugdepuxe" />
 <nlword word="Russian Federation" valsi="gugderu&apos;u" />
 <nlword word="Slovakia" sense="country" valsi="gugdesuku" />
+<nlword word="Somalia" sense="country" valsi="gugdesu&apos;o" />
 <nlword word="eSwatini" sense="country" valsi="gugdesuzu" />
 <nlword word="Swaziland" sense="country" valsi="gugdesuzu" />
 <nlword word="Taiwan, Province Of China" sense="country" valsi="gugdetuve" />
@@ -206303,6 +206490,11 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="was then" valsi="puca&apos;o" />
 <nlword word="dust bunny" valsi="pucymapra" />
 <nlword word="dustbunny" valsi="pucymapra" />
+<nlword word="garden parth" valsi="pudlu&apos;a" place="1" />
+<nlword word="garden path" sense="winding, usually unpaved path" valsi="pudlu&apos;a" />
+<nlword word="origin" sense="place starting from" valsi="pudlu&apos;a" place="3" />
+<nlword word="garden path word" valsi="pudlu&apos;avalsi&apos;ipo&apos;ato" />
+<nlword word="garden-path word" valsi="pudlu&apos;avalsi&apos;ipo&apos;ato" place="1" />
 <nlword word="cabana" valsi="pudydi&apos;u" />
 <nlword word="gazebo" valsi="pudydi&apos;u" />
 <nlword word="purpose" sense="building" valsi="pudydi&apos;u" place="2" />
