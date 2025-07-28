@@ -3614,7 +3614,7 @@
   </user>
   <definition>Baghdad</definition>
   <definitionid>74157</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>See also: {rakso}, {gugde&apos;ike} and {raksygu&apos;e} for Iraq; {xrabo}, {mespo}, {bangacumu}, {rancara}.</notes>
 </valsi>
 <valsi word="bagyce'a" type="lujvo">
@@ -5895,7 +5895,7 @@
   </user>
   <definition>$x_1$ is the Somali language.</definition>
   <definitionid>74164</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Synonym: {bansu&apos;omu}. See also {kulnrsomali} for Somali culture, {gugdesu&apos;o} or {soMAliias} for the Federal Republic of Somalia; {mugdico} or {mugdicos} for its capital city. Linguists place Somali within the Cushitic branch ({bangrkuciti}) of the Afroasiatic language family ({bangrfrixazo}) (see also {frikoxazdo} &apos;Afro-Asiatic&apos;). See also {frikojirna} &apos;Horn of Africa&apos;.</notes>
   <glossword word="Somali" sense="language" />
   <glossword word="Somali language" />
@@ -10321,7 +10321,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ carries $x_2$ by holding with $x_3$</definition>
   <definitionid>74148</definitionid>
-  <score>2</score>
+  <score>3</score>
   <glossword word="carry" sense="hold with body" />
 </valsi>
 <valsi word="bevma'e" type="lujvo">
@@ -49370,7 +49370,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
   <definition>$x_1$ is excited/feels excitement about $x_2$ (event/property); $x_2$ excites $x_1$</definition>
   <definitionid>66503</definitionid>
-  <score>8</score>
+  <score>9</score>
   <notes>See {ue&apos;i}, {entuzi}</notes>
   <glossword word="excite" sense="feel excitement (emotion)" />
   <glossword word="excited" sense="feels excitement" />
@@ -60813,7 +60813,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>Ethiopia</definition>
   <definitionid>74163</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Variants: {itiiopiIAS} and {itiIOpiias}. Equivalent to {gugde&apos;etu}. See also {bangamuxe}, {bangorumu}, {bantu&apos;iru}, {bangetuxe}, among others.</notes>
   <glossword word="Ethiopia" sense="country" />
 </valsi>
@@ -84285,7 +84285,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
   <definition>$x_1$ is old/aged [relatively long in elapsed duration] by standard $x_2$</definition>
   <definitionid>16195</definitionid>
-  <score>8</score>
+  <score>9</score>
   <notes>(= {tolci&apos;o}) See {citno}, {slabu}</notes>
   <glossword word="antique" />
   <glossword word="elderly" />
@@ -100364,7 +100364,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
   <definition>Mogadishu</definition>
   <definitionid>74160</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Capital city of Somalia ({soMAliias} or {gugdesu&apos;o}) and largest city therein. Natively spelled &quot;Muqdisho&quot;. See also: {kulnrsomali}, {bansomali}, {bansu&apos;omu}.</notes>
 </valsi>
 <valsi word="mu'i" type="cmavo">
@@ -121444,7 +121444,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
   <definition>$pl_1$ is a garden path to $pl_2$ from $pl_3$ through garden $pu_1$.</definition>
   <definitionid>74155</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>A &apos;garden path&apos; in the sense of a path, typically unpaved, that winds circuitously through a garden. There is typically a variety of scenery along the path.</notes>
   <glossword word="garden path" sense="winding, usually unpaved path" />
   <keyword word="garden parth" place="1" />
@@ -121458,7 +121458,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
   <definition>$x_1$ is a garden-path word meaning/causing $x_2$ in language $x_3$.</definition>
   <definitionid>74156</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>This is a morphologically well-formed word which parses one way right up until the end, at which point it parses another way. The listener or reader of the word realizes after hearing/seeing it that they have been &quot;led down a garden path&quot; (an English idiom meaning something like &quot;to be bamboozled&quot;). There is a corresponding term in linguistics: a &quot;garden-path sentence.&quot; {Lojban} is unusual in having the ability to form garden-path *words* as well as sentences. This word itself is an example. It parses as a {lujvo} (compound) of {purdi} &apos;garden&apos; + {pluta} &apos;path&apos; + {valsi} &apos;word&apos; + {sicni} &apos;coin&apos; + {spoja} &apos;explosion&apos; up until about the last syllable. At that point, it ceases to parse as a {lujvo} and becomes a {fu&apos;ivla} with a meaning that is totally unclear. See also {pudlu&apos;avalsipatlu}.</notes>
   <glossword word="garden path word" />
   <glossword word="garden-path word" />
