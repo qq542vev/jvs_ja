@@ -61777,7 +61777,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>$x_1$ picks up $x_2$ from $x_3$</definition>
   <definitionid>74149</definitionid>
-  <score>2</score>
+  <score>3</score>
   <glossword word="pick up" sense="take and hold" />
 </valsi>
 <valsi word="jaicpu" type="lujvo">
@@ -121444,7 +121444,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
   <definition>$pl_1$ is a garden path to $pl_2$ from $pl_3$ through garden $pu_1$.</definition>
   <definitionid>74155</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>A &apos;garden path&apos; in the sense of a path, typically unpaved, that winds circuitously through a garden. There is typically a variety of scenery along the path.</notes>
   <glossword word="garden path" sense="winding, usually unpaved path" />
   <keyword word="garden parth" place="1" />
