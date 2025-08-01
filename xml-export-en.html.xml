@@ -355,6 +355,17 @@
   <notes>See also {sanji}, {cikna}, {tatpi}.</notes>
   <glossword word="alertness" />
 </valsi>
+<valsi word="a'ebu" type="bu-letteral">
+  <selmaho>BY*</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>letteral for ash (æ) </definition>
+  <definitionid>74168</definitionid>
+  <score>1</score>
+  <glossword word="æ" sense="letter" />
+</valsi>
 <valsi unofficial="true" word="a'e'i'o'u" type="experimental cmavo">
   <selmaho>UI7</selmaho>
   <user>
@@ -4442,9 +4453,9 @@
     <username>arj</username>
     <realname>Arnt Richard Johansen</realname>
   </user>
-  <definition>$x_1$ is an orchestra, consisting of performers $x_2$</definition>
+  <definition>$ba_1=be_1$ is an orchestra, consisting of performers $be_2$, and conducted by $be_3$, performing music $z_1=be_4$.</definition>
   <definitionid>15555</definitionid>
-  <score>5</score>
+  <score>6</score>
   <notes>Cf. {cibjgataidamri}, {bikydamri}, {jgita}.</notes>
   <glossword word="orchestra" />
   <keyword word="orchestra" place="1" />
@@ -49738,6 +49749,18 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   <notes>[$x_1$ is a stream of $x_2$; $x_2$ is a fluid Gas or liquid. (= {selfle} for reordered places); $x_1$ flushes toward $x_3$; flush (= {caifle}, {sukfle})]; See also {rirxe}, {senta} where no directionality is implied, {rinci}, {xampo}, {dikca}, {sakci}, {gapci}, {litki}, {ciblu}.</notes>
   <glossword word="flow" />
 </valsi>
+<valsi word="flefalgau" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ (agent) pours/spills $x_2$ on/to $x_3$ from $x_4$</definition>
+  <definitionid>74165</definitionid>
+  <score>1</score>
+  <notes>see also {flefa&apos;u}</notes>
+  <glossword word="pour" sense="cause to flow out" />
+  <glossword word="spill" sense="cause to flow out" />
+</valsi>
 <valsi word="flefamtu'u" type="lujvo">
   <user>
     <username>Qimar</username>
@@ -49753,9 +49776,12 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>Ilmen</username>
     <realname>Ilmen</realname>
   </user>
-  <definition>$x_1$ is a fluid or fluid-like pouring to $x_2$ from $x_3$.</definition>
+  <definition>$x_1$ pours/spills to $x_2$ from $x_3$</definition>
   <definitionid>72777</definitionid>
-  <score>1</score>
+  <score>2</score>
+  <notes>see also {flefalgau}</notes>
+  <glossword word="pour" sense="flow out" />
+  <glossword word="spill" sense="flow out" />
 </valsi>
 <valsi unofficial="true" word="flese" type="experimental gismu">
   <user>
@@ -192744,6 +192770,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="adverb" sense="word class" valsi="adverbivla" />
 <nlword word="upvote or downvote" valsi="adzau" />
 <nlword word="alertness" valsi="a&apos;e" />
+<nlword word="æ" sense="letter" valsi="a&apos;ebu" />
 <nlword word="aeiou" sense="esoteric utterance" valsi="a&apos;e&apos;i&apos;o&apos;u" place="1" />
 <nlword word="exhaustion" valsi="a&apos;enai" />
 <nlword word="Afghan" valsi="afxano" />
@@ -198294,6 +198321,10 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="wash away" valsi="fleca&apos;e" place="1" />
 <nlword word="washed away" valsi="fleca&apos;e" place="2" />
 <nlword word="flow" valsi="flecu" />
+<nlword word="pour" sense="cause to flow out" valsi="flefalgau" />
+<nlword word="spill" sense="cause to flow out" valsi="flefalgau" />
+<nlword word="pour" sense="flow out" valsi="flefa&apos;u" />
+<nlword word="spill" sense="flow out" valsi="flefa&apos;u" />
 <nlword word="grammar of elidible constructs" valsi="fletola" />
 <nlword word="traffic light" valsi="fletrogusmi&apos;i" />
 <nlword word="hose" sense="flexible tube" valsi="fletu&apos;u" />
