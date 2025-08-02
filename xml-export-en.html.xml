@@ -101466,6 +101466,19 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   <notes>{muvdu} {zvati}</notes>
   <glossword word="wander" />
 </valsi>
+<valsi unofficial="true" word="muxne" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is slime/mucus/ooze produced by $x_2$</definition>
+  <definitionid>74169</definitionid>
+  <score>1</score>
+  <notes>see also {nazbi}, {sakli}, {jduli}</notes>
+  <glossword word="mucus" sense="slimy secretion" />
+  <glossword word="ooze" sense="slimy secretion" />
+  <glossword word="slime" sense="slippery substance" />
+</valsi>
 <valsi word="mu zei sumtika" type="zei-lujvo">
   <user>
     <username>glekizmiku</username>
@@ -120861,6 +120874,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <definitionid>44320</definitionid>
   <score>2</score>
   <glossword word="uncontended" />
+</valsi>
+<valsi word="proda'a" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ struggles against $x_2$</definition>
+  <definitionid>74171</definitionid>
+  <score>1</score>
+  <glossword word="struggle" sense="fight back" />
 </valsi>
 <valsi word="pro'estanti" type="fu'ivla">
   <user>
@@ -188041,6 +188064,18 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   <notes>See also {margosa}.</notes>
   <glossword word="chinaberry" />
 </valsi>
+<valsi word="zdire'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a roller coaster</definition>
+  <definitionid>74170</definitionid>
+  <score>1</score>
+  <notes>shortening of {zdima&apos;ateryre&apos;e}</notes>
+  <glossword word="coaster" sense="roller coaster" />
+  <glossword word="roller coaster" sense="amusement ride" />
+</valsi>
 <valsi word="zditeitortei" type="lujvo">
   <user>
     <username>lalxu</username>
@@ -204184,6 +204219,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="animation" valsi="muvyxra" />
 <nlword word="cartoon" sense="animated piece of film" valsi="muvyxra" />
 <nlword word="wander" valsi="muvzva" />
+<nlword word="mucus" sense="slimy secretion" valsi="muxne" />
+<nlword word="ooze" sense="slimy secretion" valsi="muxne" />
+<nlword word="slime" sense="slippery substance" valsi="muxne" />
 <nlword word="museum" valsi="muzga" />
 <nlword word="exhibition hall" valsi="muzyku&apos;a" />
 <nlword word="exhibition room" valsi="muzyku&apos;a" />
@@ -206447,6 +206485,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="curling angular-direction to vectorial cross-product" valsi="prixaja" />
 <nlword word="right-hand rule" valsi="prixaja" />
 <nlword word="uncontended" valsi="procau" />
+<nlword word="struggle" sense="fight back" valsi="proda&apos;a" />
 <nlword word="professor" sense="higher ranking member" valsi="profesore" />
 <nlword word="program" sense="computer application" valsi="proga" />
 <nlword word="use case" sense="intended situation to use the program" valsi="proji" place="5" />
@@ -214264,6 +214303,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="park" sense="for recreation" valsi="zdipanka" />
 <nlword word="merry-go-round" sense="amusement ride" valsi="zdipincarcukla" place="1" />
 <nlword word="chinaberry" valsi="zdiraxa" />
+<nlword word="coaster" sense="roller coaster" valsi="zdire&apos;e" />
+<nlword word="roller coaster" sense="amusement ride" valsi="zdire&apos;e" />
 <nlword word="time flies when you&apos;re having fun" valsi="zditeitortei" />
 <nlword word="play" sense="undergo an activity for entertainment" valsi="zdizu&apos;e" />
 <nlword word="asiatic lion" valsi="zdocinfo" />
