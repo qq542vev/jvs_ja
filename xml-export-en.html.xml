@@ -40072,6 +40072,18 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   <score>3</score>
   <notes>A useful alternative to {di&apos;u} {de&apos;u} etc. that doesn&apos;t make you count utterances.</notes>
 </valsi>
+<valsi unofficial="true" word="dokcu" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a document containing text (quote/du&apos;u) $x_2$</definition>
+  <definitionid>74174</definitionid>
+  <score>1</score>
+  <notes>Could be physical or electronic record. See also {cukta}, {ciska}, {uencu}.  Proposed rafsi -do&apos;u-</notes>
+  <glossword word="document" sense="written record" />
+  <glossword word="file" sense="electronic record" />
+</valsi>
 <valsi word="dolmeni" type="fu'ivla">
   <user>
     <username>glekizmiku</username>
@@ -76171,7 +76183,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
   <definition>$x_1$ (state/event/fact) is fair/just/righteous to $x_2$ according to $x_3$</definition>
   <definitionid>70957</definitionid>
-  <score>4</score>
+  <score>5</score>
   <notes>According to $x_3$, the way $x_2$ is treated in $x_1$ is just (it is &quot;as things should be&quot;). See also {pajni}, {sarxe}, {vrude}, {vudypai}, {nutli}, {pairnu&apos;i}. (Many of those words deal with some judge acting &quot;fairly&quot; or &quot;justly&quot; in some matter, which kerni does not. In fact, a &quot;to&apos;e kerni&quot; (unfair) situation is not necessarily the result of evil, may be considered unfair to all parties, and may be nobody&apos;s fault.)</notes>
   <glossword word="fair" sense="of a state or event" />
   <glossword word="just" sense="fair, of a state or event" />
@@ -132507,6 +132519,19 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <notes>Does not specify the type of device used to select $x_2$. See {kli&apos;iki} and others.</notes>
   <glossword word="click" sense="computer" />
 </valsi>
+<valsi word="samdo'u" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a file (electronic document) containing $x_2$</definition>
+  <definitionid>74175</definitionid>
+  <score>1</score>
+  <notes>see also {skami}, {dokcu}</notes>
+  <glossword word="file" sense="electronic document" />
+  <keyword word="file" place="1" sense="electronic document" />
+  <keyword word="file contents" place="2" sense="contents of electronic document" />
+</valsi>
 <valsi word="samfli" type="lujvo">
   <user>
     <username>BenLubar</username>
@@ -182410,7 +182435,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>discourse pronoun: the current situation</definition>
   <definitionid>73763</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>By extension. See also {xi&apos;o}, {xa&apos;u}</notes>
   <glossword word="this" sense="the current situation" />
 </valsi>
@@ -197284,6 +197309,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="anti-vocative" valsi="doinai" />
 <nlword word="CC" sense="carbon-copy" valsi="doi&apos;oi" />
 <nlword word="to the attention of" valsi="doi&apos;oi" />
+<nlword word="document" sense="written record" valsi="dokcu" />
+<nlword word="file" sense="electronic record" valsi="dokcu" />
 <nlword word="hole" sense="topological hole" valsi="dolna" place="1" />
 <nlword word="2nd person pronoun" valsi="donma&apos;o" />
 <nlword word="pronoun for second person" valsi="donma&apos;o" />
@@ -207856,6 +207883,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="cacomitl" sense="edible root (genus Tigridia)" valsi="samcrtigridia" />
 <nlword word="salsify" sense="edible root (genus Tragopogon)" valsi="samcrtragopogo" />
 <nlword word="cassava" valsi="samcu" />
+<nlword word="file" sense="electronic document" valsi="samdo&apos;u" place="1" />
+<nlword word="file contents" sense="contents of electronic document" valsi="samdo&apos;u" place="2" />
 <nlword word="crash" sense="computer failure" valsi="samfli" />
 <nlword word="smartphone" sense="phone with computing capabilities" valsi="samfonxa" />
 <nlword word="gibi" sense="unit prefix" valsi="samgi&apos;o" />
