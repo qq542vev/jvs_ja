@@ -87030,6 +87030,19 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   <score>1</score>
   <glossword word="dinar" sense="major-money unit (Libyan currency)" />
 </valsi>
+<valsi unofficial="true" word="licne" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a/the clitoris of $x_2$</definition>
+  <definitionid>74131</definitionid>
+  <score>1</score>
+  <notes>devised by la velmifra circa 2020</notes>
+  <glossword word="clit" sense="clitoris" />
+  <glossword word="clitoris" sense="organ" />
+  <keyword word="clitoris" place="1" sense="organ" />
+</valsi>
 <valsi word="lidgusyjinme" type="lujvo">
   <user>
     <username>lakanro</username>
@@ -102916,7 +102929,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
     <username>janbe</username>
     <realname>Rachel Isabel Gardener</realname>
   </user>
-  <definition>$x_1$ is a faucet/spigot/tap of $x_2$ (object/structure)</definition>
+  <definition>$x_1$ is a faucet/spigot/tap made of $x_2$</definition>
   <definitionid>73719</definitionid>
   <score>3</score>
 </valsi>
@@ -188096,7 +188109,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
   <definition>$x_1$ is a roller coaster</definition>
   <definitionid>74170</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>shortening of {zdima&apos;ateryre&apos;e}</notes>
   <glossword word="coaster" sense="roller coaster" />
   <glossword word="roller coaster" sense="amusement ride" />
@@ -202408,6 +202421,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="way out" valsi="li&apos;avro" />
 <nlword word="Libyan" valsi="libjo" />
 <nlword word="dinar" sense="major-money unit (Libyan currency)" valsi="libru&apos;u" />
+<nlword word="clit" sense="clitoris" valsi="licne" />
+<nlword word="clitoris" sense="organ" valsi="licne" place="1" />
 <nlword word="Mg" sense="magnesium" valsi="lidgusyjinme" />
 <nlword word="lead" sense="precede" valsi="lidne" />
 <nlword word="precede" sense="in sequence" valsi="lidne" />
