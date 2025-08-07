@@ -3021,7 +3021,7 @@
   </user>
   <definition>($x_1$; undefined grammatical construction: a connective of some sort, but possibly acting as a brivla).</definition>
   <definitionid>73319</definitionid>
-  <score>2</score>
+  <score>1</score>
   <notes>An example of a &quot;{zei}&quot;-lujvo involving only cmavo and not involving any pro-sumti, pro-bridi, or numerals. It is not clear whether this word should be a brivla (because it is a lujvo) or a cmavo (because its veljvo solely consist of cmavo).</notes>
 </valsi>
 <valsi word="azvangi" type="fu'ivla">
@@ -8104,6 +8104,18 @@
   <definition>$x_1$ uses $x_2$ (zo quote) as a replacement for $x_3$ (zo quote) in language $x_4$</definition>
   <definitionid>73240</definitionid>
   <score>1</score>
+</valsi>
+<valsi unofficial="true" word="baslu" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a slug/snail of species/variety $x_2$</definition>
+  <definitionid>74188</definitionid>
+  <score>1</score>
+  <glossword word="slug" sense="slimy invertebrate" />
+  <glossword word="snail" sense="slimy invertebrate" />
+  <keyword word="slug" place="1" sense="slimy invertebrate" />
 </valsi>
 <valsi word="basme'e" type="lujvo">
   <user>
@@ -14751,6 +14763,16 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   <glossword word="cart horse" />
   <glossword word="draft horse" />
   <glossword word="dray horse" />
+</valsi>
+<valsi unofficial="true" word="braxiura" type="obsolete fu'ivla">
+  <user>
+    <username>totus</username>
+    <realname>Andrew Piekarski</realname>
+  </user>
+  <definition>$j_1$ is a crab of species/section $j_2$.</definition>
+  <definitionid>18553</definitionid>
+  <score>1</score>
+  <notes>Cf. {cakyjukni}. From linnaean Brachyura.</notes>
 </valsi>
 <valsi word="brazda" type="lujvo">
   <user>
@@ -22305,6 +22327,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100000</score>
   <glossword word="is third among" />
 </valsi>
+<valsi unofficial="true" word="cimra" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a frog/toad of species/variety $x_2$</definition>
+  <definitionid>74179</definitionid>
+  <score>1</score>
+  <glossword word="frog" sense="tailless amphibian" />
+  <glossword word="toad" sense="tailless amphibian" />
+</valsi>
 <valsi word="cimri'a" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -24812,6 +24845,17 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <score>2</score>
   <notes>Cf. {cifnu}, {mikce}.</notes>
   <glossword word="diaper" sense="absorbent garment" />
+</valsi>
+<valsi unofficial="true" word="ckopi" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a scorpion/vinegaroon (stinging arachnid) of species/variety $x_2$</definition>
+  <definitionid>74181</definitionid>
+  <score>1</score>
+  <glossword word="scorpion" sense="stinging arachnid" />
+  <keyword word="scorpion" place="1" sense="stinging arachnid" />
 </valsi>
 <valsi word="ckraiji" type="fu'ivla">
   <user>
@@ -27868,6 +27912,19 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <score>1</score>
   <notes>Cf. {cmima}, {girzu}, {jmaji}, {gunma}.</notes>
   <glossword word="group" sense="put together" />
+</valsi>
+<valsi unofficial="true" word="cmiju" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a mite/louse/aphid (tiny arthropod) of species/variety $x_2$</definition>
+  <definitionid>74184</definitionid>
+  <score>1</score>
+  <glossword word="aphid" sense="tiny arthropod" />
+  <glossword word="louse" sense="tiny arthropod" />
+  <glossword word="mite" sense="tiny arthropod" />
+  <keyword word="mite" place="1" sense="tiny arthropod" />
 </valsi>
 <valsi word="cmila" type="gismu">
   <rafsi>mi&apos;a</rafsi>
@@ -61579,6 +61636,20 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <glossword word="floodgate" />
   <glossword word="stop gate" />
 </valsi>
+<valsi unofficial="true" word="jadji" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a locust/grasshopper/cricket of species/variety $x_2$</definition>
+  <definitionid>74187</definitionid>
+  <score>1</score>
+  <notes>&quot;locust&quot;, any hopping and/or agriculturally destructive arthropod</notes>
+  <glossword word="cricket" sense="arthropod" />
+  <glossword word="grasshopper" sense="arthropod" />
+  <glossword word="locust" sense="arthropod" />
+  <keyword word="locust" place="1" sense="arthropod" />
+</valsi>
 <valsi word="jadjukpa" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -61999,6 +62070,19 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <glossword word="treble" sense="frequency range" />
   <keyword word="high note" place="1" />
 </valsi>
+<valsi unofficial="true" word="jaktu" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is an octopus/squid/nautilus of species/variety $x_2$</definition>
+  <definitionid>74189</definitionid>
+  <score>1</score>
+  <glossword word="nautilus" sense="cephalopod" />
+  <glossword word="octopus" sense="cephalopod" />
+  <glossword word="squid" sense="cephalopod" />
+  <keyword word="octopus" place="1" sense="cephalopod" />
+</valsi>
 <valsi word="jaldiga" type="fu'ivla">
   <user>
     <username>danr</username>
@@ -62294,7 +62378,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>$x_1$ is a spider of species/variety $x_2$</definition>
   <definitionid>73784</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Synonym of {ankabuta}. See also {cmiju}, {jadji}, {ckopi}.</notes>
   <glossword word="spider" sense="arachnid" />
   <keyword word="spider" place="1" sense="arachnid" />
@@ -68985,6 +69069,19 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <score>1</score>
   <glossword word="pedal" />
 </valsi>
+<valsi unofficial="true" word="jmedu" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a jellyfish/sea jelly/medusa/cnidarian of species/variety $x_2$</definition>
+  <definitionid>74178</definitionid>
+  <score>1</score>
+  <glossword word="cnidarian" sense="member of Cnidaria" />
+  <glossword word="jellyfish" sense="cnidarian" />
+  <glossword word="medusa" sense="jellyfish" />
+  <glossword word="sea jelly" sense="jellyfish" />
+</valsi>
 <valsi word="jmifa" type="gismu">
   <user>
     <username>officialdata</username>
@@ -74497,6 +74594,17 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   <glossword word="wolverine" />
   <keyword word="wolverine" place="1" />
 </valsi>
+<valsi unofficial="true" word="karki" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a crab of species/variety $x_2$</definition>
+  <definitionid>74182</definitionid>
+  <score>1</score>
+  <glossword word="crab" sense="crustacean" />
+  <keyword word="crab" place="1" sense="crustacean" />
+</valsi>
 <valsi word="karkino" type="fu'ivla">
   <user>
     <username>spheniscine</username>
@@ -79942,6 +80050,18 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   <keyword word="destination" place="4" sense="place gone to" />
   <keyword word="origin" place="5" sense="starting place" />
 </valsi>
+<valsi unofficial="true" word="korja" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a coral/barnacle (hard, sessile marine animal) of species/variety $x_2$</definition>
+  <definitionid>74190</definitionid>
+  <score>1</score>
+  <glossword word="barnacle" sense="hard sessile animal" />
+  <glossword word="coral" sense="hard sessile animal" />
+  <keyword word="coral" place="1" sense="hard sessile animal" />
+</valsi>
 <valsi word="korka" type="gismu">
   <rafsi>kok</rafsi>
   <user>
@@ -85110,7 +85230,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
   <definition>$x_1$ is a lizard of species/variety $x_2$</definition>
   <definitionid>73764</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Not necessarily phylogenetic; most likely reptilian but could theoretically refer loosely to e.g. salamanders, other lizard-shaped animals</notes>
   <glossword word="lizard" sense="non-serpentine squamate reptile" />
   <glossword word="salamander" sense="lizard-like amphibian" />
@@ -90832,6 +90952,17 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   <notes>Cf. {vreji}, {datni}, {skami}, {cukmakyvelvei}, {srimakyvelvei}</notes>
   <glossword word="data storage medium, magnetic" />
   <glossword word="magnetic storage medium" />
+</valsi>
+<valsi unofficial="true" word="malbu" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is an owl (nocturnal bird of prey) of species/variety $x_2$</definition>
+  <definitionid>74183</definitionid>
+  <score>1</score>
+  <glossword word="owl" sense="nocturnal bird of prey" />
+  <keyword word="owl" place="1" sense="nocturnal bird of prey" />
 </valsi>
 <valsi word="malceisni" type="lujvo">
   <user>
@@ -101498,8 +101629,8 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
   <definition>$x_1$ is slime/mucus/ooze produced by $x_2$</definition>
   <definitionid>74169</definitionid>
-  <score>1</score>
-  <notes>see also {nazbi}, {sakli}, {jduli}</notes>
+  <score>2</score>
+  <notes>see also {nazbi}, {sakli}, {jduli}. Proposed rafsi -mux-</notes>
   <glossword word="mucus" sense="slimy secretion" />
   <glossword word="ooze" sense="slimy secretion" />
   <glossword word="slime" sense="slippery substance" />
@@ -167380,6 +167511,17 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   <notes>See also {cmalu}, {jarki}, {caxno}, {cinla}, {clani}.</notes>
   <glossword word="short" />
 </valsi>
+<valsi unofficial="true" word="torka" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a turtle/tortoise (shelled reptile) of species/variety $x_2$</definition>
+  <definitionid>74177</definitionid>
+  <score>1</score>
+  <glossword word="tortoise" sense="shelled reptile" />
+  <glossword word="turtle" sense="shelled reptile" />
+</valsi>
 <valsi word="torluznaukosta" type="lujvo">
   <user>
     <username>selpahi</username>
@@ -181484,6 +181626,18 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <notes>Sow (= {fetxarju}), boar (= {nakyxarju}), pork (= {xajre&apos;u}), piglet (= {citxarju}).  See also {mabru}, {cange}.</notes>
   <glossword word="pig" />
 </valsi>
+<valsi unofficial="true" word="xarmi" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a starfish/sea star/sand dollar (radially symmetric invertebrate) of species/variety $x_2$</definition>
+  <definitionid>74186</definitionid>
+  <score>1</score>
+  <glossword word="sea star" sense="radially symmetric invertebrate" />
+  <glossword word="starfish" sense="radially symmetric invertebrate" />
+  <keyword word="starfish" place="1" sense="radially symmetric invertebrate" />
+</valsi>
 <valsi word="xarmonika" type="fu'ivla">
   <user>
     <username>lalxu</username>
@@ -184286,6 +184440,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <score>1</score>
   <notes>Claims that the bridi is true for either option of endpoint so long as the other endpoint is opposite in status; so, the bridi is claimed to be true for the interval specified so long as both endpoints are the different: one endpoint must be inclusive while the other is exclusive. Neither option for the order of these statuses is &quot;picked&quot;; either may be substituted into the bridi and the truth value is claimed to remain the same (namely, True). No claim is made regarding the case of their being the same (use &quot;{je} {nai} {xei&apos;u&apos;oi}&quot; for exclusion of this case). The other endpoint status may be explicitly be specified to a definitive realization, but the default will be {xoi&apos;u&apos;oi} as well. See also: {xei&apos;u&apos;oi}, {xau&apos;u&apos;oi}, {xai&apos;u&apos;oi}.</notes>
   <glossword word="interval with opposite endpoint statuses" />
+</valsi>
+<valsi unofficial="true" word="xoltu" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+  <definition>$x_1$ is a sea cucumber of species/variety $x_2$</definition>
+  <definitionid>74185</definitionid>
+  <score>1</score>
+  <glossword word="sea cucumber" />
+  <keyword word="sea cucumber" place="1" />
 </valsi>
 <valsi word="xomeros" type="cmevla">
   <user>
@@ -187575,6 +187740,17 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   <definitionid>38238</definitionid>
   <score>1</score>
   <glossword word="nostril" />
+</valsi>
+<valsi word="zbimuxne" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is snot/nasal mucus produced by $x_2$</definition>
+  <definitionid>74180</definitionid>
+  <score>1</score>
+  <glossword word="nasal mucus" />
+  <glossword word="snot" sense="nasal mucus" />
 </valsi>
 <valsi word="zbipe'u" type="lujvo">
   <user>
@@ -193604,6 +193780,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="exteroperceptor" valsi="barterzga" />
 <nlword word="out" valsi="bartu" />
 <nlword word="omnibus" sense="vehicle" valsi="basfa" />
+<nlword word="slug" sense="slimy invertebrate" valsi="baslu" place="1" />
+<nlword word="snail" sense="slimy invertebrate" valsi="baslu" />
 <nlword word="emphasize" valsi="basna" />
 <nlword word="emphasized part" sense="part with drawn attention" valsi="basnypau" />
 <nlword word="highlight" sense="emphasized part" valsi="basnypau" />
@@ -194361,6 +194539,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="cart horse" valsi="braxirma" />
 <nlword word="draft horse" valsi="braxirma" />
 <nlword word="dray horse" valsi="braxirma" />
+<nlword word="crab" sense="crustacean" valsi="braxiura" />
 <nlword word="manor" valsi="brazda" />
 <nlword word="mansion" valsi="brazda" />
 <nlword word="grow" sense="increase in amount" valsi="braze&apos;a" />
@@ -195196,6 +195375,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="eternity" valsi="cimnytei" />
 <nlword word="Hawking radiation" valsi="cimnyterjuntasucyxe&apos;idaiseldi&apos;e" />
 <nlword word="is third among" valsi="cimoi" />
+<nlword word="frog" sense="tailless amphibian" valsi="cimra" />
+<nlword word="toad" sense="tailless amphibian" valsi="cimra" />
 <nlword word="moisten" valsi="cimri&apos;a" />
 <nlword word="liquid" sense="consonant" valsi="cimsna" place="1" />
 <nlword word="marsh" valsi="cimtu&apos;a" />
@@ -195504,6 +195685,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sanitary napkin" valsi="ckoki&apos;e" />
 <nlword word="sanitary pad" valsi="ckoki&apos;e" place="1" />
 <nlword word="diaper" sense="absorbent garment" valsi="ckopalku" />
+<nlword word="scorpion" sense="stinging arachnid" valsi="ckopi" place="1" />
 <nlword word="-est of the the -est" valsi="ckraiji" />
 <nlword word="author" sense="a book" valsi="ckufi&apos;i" />
 <nlword word="bookshelf" valsi="ckukajna" place="2" />
@@ -195854,6 +196036,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="political franchise" valsi="cmicu&apos;akrali" />
 <nlword word="suffrage" sense="the right to vote" valsi="cmicu&apos;akrali" />
 <nlword word="group" sense="put together" valsi="cmigau" />
+<nlword word="aphid" sense="tiny arthropod" valsi="cmiju" />
+<nlword word="louse" sense="tiny arthropod" valsi="cmiju" />
+<nlword word="mite" sense="tiny arthropod" valsi="cmiju" place="1" />
 <nlword word="laugh" valsi="cmila" />
 <nlword word="belong to" sense="be a member of" valsi="cmima" />
 <nlword word="member" valsi="cmima" />
@@ -199653,6 +199838,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="reservoir" valsi="jacysocla&apos;u" />
 <nlword word="floodgate" valsi="jacyvro" />
 <nlword word="stop gate" valsi="jacyvro" />
+<nlword word="cricket" sense="arthropod" valsi="jadji" />
+<nlword word="grasshopper" sense="arthropod" valsi="jadji" />
+<nlword word="locust" sense="arthropod" valsi="jadji" place="1" />
 <nlword word="adorn" valsi="jadni" />
 <nlword word="ornament" valsi="jadni" />
 <nlword word="Jack-o’-lantern" valsi="jadrdjekolenterne" />
@@ -199696,6 +199884,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="high" sense="of a musical note" valsi="jakto&apos;a" />
 <nlword word="high note" valsi="jakto&apos;a" place="1" />
 <nlword word="treble" sense="frequency range" valsi="jakto&apos;a" />
+<nlword word="nautilus" sense="cephalopod" valsi="jaktu" />
+<nlword word="octopus" sense="cephalopod" valsi="jaktu" place="1" />
+<nlword word="squid" sense="cephalopod" valsi="jaktu" />
 <nlword word="bumper" valsi="jaldiga" />
 <nlword word="result" valsi="jalge" />
 <nlword word="starch" valsi="jalna" />
@@ -200459,6 +200650,10 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="achilles" sense="tendon" valsi="jmarixtendo" />
 <nlword word="big toe nail" valsi="jmatajycalku" />
 <nlword word="pedal" valsi="jmavra" />
+<nlword word="cnidarian" sense="member of Cnidaria" valsi="jmedu" />
+<nlword word="jellyfish" sense="cnidarian" valsi="jmedu" />
+<nlword word="medusa" sense="jellyfish" valsi="jmedu" />
+<nlword word="sea jelly" sense="jellyfish" valsi="jmedu" />
 <nlword word="reef" valsi="jmifa" />
 <nlword word="shoal" valsi="jmifa" />
 <nlword word="Easy to understand" valsi="jmifrili" />
@@ -201094,6 +201289,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="costly" valsi="kargu" />
 <nlword word="hibiscus" valsi="karkade" />
 <nlword word="wolverine" valsi="karkaju" />
+<nlword word="crab" sense="crustacean etc" valsi="karki" place="1" />
 <nlword word="crab" sense="type of aquatic crustacean" valsi="karkino" />
 <nlword word="collar" valsi="karli" />
 <nlword word="absolute Fermat pseudoprime" sense="number" valsi="karmikorselte" />
@@ -201645,6 +201841,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="border control" valsi="korgretro" place="1" />
 <nlword word="border crosser" sense="customs" valsi="korgretro" place="2" />
 <nlword word="customs" sense="border" valsi="korgretro" />
+<nlword word="barnacle" sense="hard sessile animal" valsi="korja" />
+<nlword word="coral" sense="hard sessile animal" valsi="korja" place="1" />
 <nlword word="cork" valsi="korka" />
 <nlword word="corpora" valsi="korpora" />
 <nlword word="corpus" valsi="korpora" />
@@ -202867,6 +203065,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="relay" sense="An electrical actuator that allows a relatively small electrical voltage or current to control a larger voltage or current" valsi="makydicflecru" />
 <nlword word="data storage medium, magnetic" valsi="makyvelvei" />
 <nlword word="magnetic storage medium" valsi="makyvelvei" />
+<nlword word="owl" sense="nocturnal bird of prey" valsi="malbu" place="1" />
 <nlword word="idol" sense="religious, derogative meaning" valsi="malceisni" />
 <nlword word="name-calling" sense="insulting" valsi="malcme" />
 <nlword word="slur" sense="derogatory epithet" valsi="malcme" place="1" />
@@ -212050,6 +212249,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="short sword" valsi="tordakyxa&apos;i" />
 <nlword word="shortsword" sense="bladed weapon" valsi="tordaxi" />
 <nlword word="short" valsi="tordu" />
+<nlword word="tortoise" sense="shelled reptile" valsi="torka" />
+<nlword word="turtle" sense="shelled reptile" valsi="torka" />
 <nlword word="doublet" sense="clothing" valsi="torluznaukosta" />
 <nlword word="twist" valsi="torni" />
 <nlword word="shorts" sense="clothing" valsi="torpalku" place="1" />
@@ -213611,6 +213812,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="weapon" valsi="xarci" />
 <nlword word="artichoke" valsi="xarcufu" />
 <nlword word="pig" valsi="xarju" />
+<nlword word="sea star" sense="radially symmetric invertebrate" valsi="xarmi" />
+<nlword word="starfish" sense="radially symmetric invertebrate" valsi="xarmi" place="1" />
 <nlword word="harmonica" valsi="xarmonika" />
 <nlword word="stubborn" valsi="xarnu" />
 <nlword word="imagine" valsi="xarpei" />
@@ -213896,6 +214099,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="regardless" sense="set theoretic operator (connective, mekso)" valsi="xoi&apos;u" />
 <nlword word="whether-or-not" sense="set theoretic operator (connective, mekso)" valsi="xoi&apos;u" />
 <nlword word="interval with opposite endpoint statuses" valsi="xoi&apos;u&apos;oi" />
+<nlword word="sea cucumber" valsi="xoltu" place="1" />
 <nlword word="ocotillo" valsi="xomxeci" />
 <nlword word="sarcastically" sense="ironically taunting" valsi="xo&apos;o" />
 <nlword word="sarcastically" sense="untruthfully humorous" valsi="xo&apos;o" />
@@ -214281,6 +214485,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="handkerchief" valsi="zbibu&apos;u" />
 <nlword word="muzzle" sense="body-part" valsi="zbijoimolpunli" />
 <nlword word="snout" sense="body-part" valsi="zbijoimolpunli" />
+<nlword word="nasal mucus" valsi="zbimuxne" />
+<nlword word="snot" sense="nasal mucus" valsi="zbimuxne" />
 <nlword word="nuzzle" valsi="zbipe&apos;u" />
 <nlword word="inhale" sense="through the nose" valsi="zbisakci" />
 <nlword word="sniff" sense="inhale through the nose" valsi="zbisakci" />
