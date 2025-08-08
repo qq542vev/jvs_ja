@@ -8112,7 +8112,7 @@
   </user>
   <definition>$x_1$ is a slug/snail of species/variety $x_2$</definition>
   <definitionid>74188</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="slug" sense="slimy invertebrate" />
   <glossword word="snail" sense="slimy invertebrate" />
   <keyword word="slug" place="1" sense="slimy invertebrate" />
@@ -22334,7 +22334,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a frog/toad of species/variety $x_2$</definition>
   <definitionid>74179</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="frog" sense="tailless amphibian" />
   <glossword word="toad" sense="tailless amphibian" />
 </valsi>
@@ -24853,7 +24853,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
   <definition>$x_1$ is a scorpion/vinegaroon (stinging arachnid) of species/variety $x_2$</definition>
   <definitionid>74181</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="scorpion" sense="stinging arachnid" />
   <keyword word="scorpion" place="1" sense="stinging arachnid" />
 </valsi>
@@ -25192,6 +25192,19 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <notes>also &quot;x1 is a regular polytope&quot;. Polytope is a collective term for polygons, polyhedra and other dimentional shapes. Use a vector to express the Schläfli symbol. For Coxeter&apos;s extention, use a matrix. Cf. {kubli}</notes>
   <glossword word="Schlafli" />
   <glossword word="Schläfli symbol" />
+</valsi>
+<valsi word="clafi'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is an eel/lamprey/oarfish of species/variety $x_2$</definition>
+  <definitionid>74192</definitionid>
+  <score>1</score>
+  <glossword word="eel" sense="long, serpentine fish" />
+  <glossword word="lamprey" sense="long, serpentine fish" />
+  <glossword word="oarfish" sense="long, serpentine fish" />
+  <keyword word="eel" place="1" sense="long, serpentine fish" />
 </valsi>
 <valsi word="clagaldi'u" type="lujvo">
   <user>
@@ -27920,7 +27933,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
   <definition>$x_1$ is a mite/louse/aphid (tiny arthropod) of species/variety $x_2$</definition>
   <definitionid>74184</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="aphid" sense="tiny arthropod" />
   <glossword word="louse" sense="tiny arthropod" />
   <glossword word="mite" sense="tiny arthropod" />
@@ -61643,7 +61656,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>$x_1$ is a locust/grasshopper/cricket of species/variety $x_2$</definition>
   <definitionid>74187</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>&quot;locust&quot;, any hopping and/or agriculturally destructive arthropod</notes>
   <glossword word="cricket" sense="arthropod" />
   <glossword word="grasshopper" sense="arthropod" />
@@ -62077,7 +62090,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>$x_1$ is an octopus/squid/nautilus of species/variety $x_2$</definition>
   <definitionid>74189</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="nautilus" sense="cephalopod" />
   <glossword word="octopus" sense="cephalopod" />
   <glossword word="squid" sense="cephalopod" />
@@ -69076,7 +69089,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
   <definition>$x_1$ is a jellyfish/sea jelly/medusa/cnidarian of species/variety $x_2$</definition>
   <definitionid>74178</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="cnidarian" sense="member of Cnidaria" />
   <glossword word="jellyfish" sense="cnidarian" />
   <glossword word="medusa" sense="jellyfish" />
@@ -74601,7 +74614,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
   <definition>$x_1$ is a crab of species/variety $x_2$</definition>
   <definitionid>74182</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="crab" sense="crustacean" />
   <keyword word="crab" place="1" sense="crustacean" />
 </valsi>
@@ -74933,6 +74946,18 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   <notes>Metapredator.</notes>
   <glossword word="indirect predator" />
   <glossword word="metapredator" />
+</valsi>
+<valsi word="katcpi" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a raptor/bird of prey of species/variety $x_2$</definition>
+  <definitionid>74191</definitionid>
+  <score>1</score>
+  <glossword word="bird of prey" sense="flying predatory bird" />
+  <glossword word="raptor" sense="bird of prey" />
+  <keyword word="bird of prey" place="1" sense="flying predatory bird" />
 </valsi>
 <valsi word="katcti" type="lujvo">
   <user>
@@ -79243,6 +79268,18 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   <score>100000</score>
   <glossword word="bounded by" />
 </valsi>
+<valsi unofficial="true" word="koi'ai" type="experimental cmavo">
+  <selmaho>BAI</selmaho>
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>na&apos;e tolki&apos;u modal, first place; despite the reason...</definition>
+  <definitionid>74193</definitionid>
+  <score>1</score>
+  <notes>contraction of {to&apos;eki&apos;unai}</notes>
+  <glossword word="despite reason" />
+</valsi>
 <valsi unofficial="true" word="koi'au" type="experimental cmavo">
   <selmaho>BAI</selmaho>
   <user>
@@ -80057,7 +80094,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
   <definition>$x_1$ is a coral/barnacle (hard, sessile marine animal) of species/variety $x_2$</definition>
   <definitionid>74190</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="barnacle" sense="hard sessile animal" />
   <glossword word="coral" sense="hard sessile animal" />
   <keyword word="coral" place="1" sense="hard sessile animal" />
@@ -90960,7 +90997,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   </user>
   <definition>$x_1$ is an owl (nocturnal bird of prey) of species/variety $x_2$</definition>
   <definitionid>74183</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="owl" sense="nocturnal bird of prey" />
   <keyword word="owl" place="1" sense="nocturnal bird of prey" />
 </valsi>
@@ -98029,6 +98066,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   <definition>shortening of {lo du&apos;u *sumti* mo kau}</definition>
   <definitionid>68669</definitionid>
   <score>3</score>
+</valsi>
+<valsi unofficial="true" word="moi'ai" type="experimental cmavo">
+  <selmaho>BAI</selmaho>
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>na&apos;e tolmu&apos;i modal, first place; despite the motive...</definition>
+  <definitionid>74194</definitionid>
+  <score>1</score>
+  <notes>contraction of {to&apos;emu&apos;inai}</notes>
+  <glossword word="despite motive" />
 </valsi>
 <valsi word="mo'ibe'a" type="cmavo-compound">
   <selmaho>FAhA*</selmaho>
@@ -107597,6 +107646,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   <score>4</score>
   <notes>Has rightward scope. Terminator {fe&apos;u}. See also {poi&apos;a}, {poi&apos;o&apos;a}, {noi&apos;o&apos;a}, {soi&apos;a}, {soi}.</notes>
   <glossword word="incidental bridi adverbial" />
+</valsi>
+<valsi unofficial="true" word="noi'ai" type="experimental cmavo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>na&apos;e tolni&apos;i modal, first place; despite the logically sufficient condition...</definition>
+  <definitionid>74196</definitionid>
+  <score>1</score>
+  <notes>contraction of {to&apos;eni&apos;inai}</notes>
+  <glossword word="despite sufficient condition" />
 </valsi>
 <valsi unofficial="true" word="noi'a'u" type="experimental cmavo">
   <selmaho>NOIhAhU</selmaho>
@@ -128967,6 +129027,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <definitionid>74151</definitionid>
   <score>1</score>
   <glossword word="as much as possible" />
+</valsi>
+<valsi unofficial="true" word="roi'ai" type="experimental cmavo">
+  <selmaho>BAI</selmaho>
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>na&apos;e tolri&apos;a modal, first place; despite the cause...</definition>
+  <definitionid>74195</definitionid>
+  <score>1</score>
+  <notes>contraction of {to&apos;eri&apos;anai}</notes>
+  <glossword word="despite cause" />
 </valsi>
 <valsi unofficial="true" word="roi'e" type="experimental cmavo">
   <selmaho>FAhA3</selmaho>
@@ -167518,7 +167590,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
   <definition>$x_1$ is a turtle/tortoise (shelled reptile) of species/variety $x_2$</definition>
   <definitionid>74177</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="tortoise" sense="shelled reptile" />
   <glossword word="turtle" sense="shelled reptile" />
 </valsi>
@@ -181633,7 +181705,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>$x_1$ is a starfish/sea star/sand dollar (radially symmetric invertebrate) of species/variety $x_2$</definition>
   <definitionid>74186</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="sea star" sense="radially symmetric invertebrate" />
   <glossword word="starfish" sense="radially symmetric invertebrate" />
   <keyword word="starfish" place="1" sense="radially symmetric invertebrate" />
@@ -184448,7 +184520,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>$x_1$ is a sea cucumber of species/variety $x_2$</definition>
   <definitionid>74185</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="sea cucumber" />
   <keyword word="sea cucumber" place="1" />
 </valsi>
@@ -195735,6 +195807,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Schlafli" valsi="clafi" />
 <nlword word="Schlafli symbol" valsi="clafi" />
 <nlword word="Schläfli symbol" valsi="clafi" />
+<nlword word="eel" sense="long, serpentine fish" valsi="clafi&apos;e" place="1" />
+<nlword word="lamprey" sense="long, serpentine fish" valsi="clafi&apos;e" />
+<nlword word="oarfish" sense="long, serpentine fish" valsi="clafi&apos;e" />
 <nlword word="tower" sense="building" valsi="clagaldi&apos;u" place="1" />
 <nlword word="lengthen" valsi="clagau" />
 <nlword word="grape tomato" valsi="clajbatamca" />
@@ -201329,6 +201404,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="shuffle" sense="rearrange chaotically" valsi="kasygau" />
 <nlword word="indirect predator" valsi="katcitky&apos;utka" />
 <nlword word="metapredator" valsi="katcitky&apos;utka" />
+<nlword word="bird of prey" sense="flying predatory bird" valsi="katcpi" place="1" />
+<nlword word="raptor" sense="bird of prey" valsi="katcpi" />
 <nlword word="predator" sense="biology" valsi="katcti" />
 <nlword word="katakana" valsi="katkana" />
 <nlword word="cut" valsi="katna" />
@@ -205199,6 +205276,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="old topic" valsi="no&apos;i" />
 <nlword word="incidental clause" valsi="noi" />
 <nlword word="incidental bridi adverbial" valsi="noi&apos;a" />
+<nlword word="despite sufficient condition" valsi="noi&apos;ai" />
 <nlword word="incidental rel. clause for PA" valsi="noi&apos;a&apos;u" />
 <nlword word="nonrestrictive rel. clause for PA" valsi="noi&apos;a&apos;u" />
 <nlword word="PA nonrestrictive rel. clause" valsi="noi&apos;a&apos;u" />
