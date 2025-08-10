@@ -25200,7 +25200,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
   <definition>$x_1$ is an eel/lamprey/oarfish of species/variety $x_2$</definition>
   <definitionid>74192</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="eel" sense="long, serpentine fish" />
   <glossword word="lamprey" sense="long, serpentine fish" />
   <glossword word="oarfish" sense="long, serpentine fish" />
@@ -74954,7 +74954,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
   <definition>$x_1$ is a raptor/bird of prey of species/variety $x_2$</definition>
   <definitionid>74191</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="bird of prey" sense="flying predatory bird" />
   <glossword word="raptor" sense="bird of prey" />
   <keyword word="bird of prey" place="1" sense="flying predatory bird" />
@@ -75642,7 +75642,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
   <definition>$x_1$ competes/vies with opponent $x_2$ in game $x_3$</definition>
   <definitionid>56187</definitionid>
-  <score>3</score>
+  <score>4</score>
   <glossword word="compete" sense="game" />
 </valsi>
 <valsi unofficial="true" word="kei'o" type="experimental cmavo">
@@ -112543,6 +112543,17 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   <notes>Cf. {paltylumca&apos;a}, {zbabu}, {ctitcilu&apos;i}.</notes>
   <glossword word="dishwasher" sense="person" />
 </valsi>
+<valsi word="paltylu'imi'i" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$c_1$ is a dishwasher (machine).</definition>
+  <definitionid>74198</definitionid>
+  <score>1</score>
+  <notes>Intended to replace {paltylumca&apos;a}, parallel to {taflu&apos;imi&apos;i}. See {palta}, {lumci}, {minji}.</notes>
+  <glossword word="dishwasher" sense="machine" />
+</valsi>
 <valsi word="paltylumca'a" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -142902,6 +142913,19 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   <score>100000</score>
   <notes>See also {sakta}.</notes>
   <glossword word="salt" />
+</valsi>
+<valsi word="silnyjau" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is saltwater/saline water/brine. $x_1$ is water with a significant quantity of dissolved salt.</definition>
+  <definitionid>74199</definitionid>
+  <score>1</score>
+  <notes>See {silna}, {djacu}.</notes>
+  <glossword word="brine" />
+  <glossword word="saline water" />
+  <glossword word="saltwater" />
 </valsi>
 <valsi word="siltci" type="lujvo">
   <user>
@@ -181926,6 +181950,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <keyword word="composition" place="3" sense="material" />
   <keyword word="form" place="4" sense="material" />
 </valsi>
+<valsi word="xastorka" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is a sea turtle of species $x_2$.</definition>
+  <definitionid>74197</definitionid>
+  <score>1</score>
+  <notes>See {xamsi}, {torka}, {xasycakrespa}.</notes>
+  <glossword word="sea turtle" />
+</valsi>
 <valsi word="xasycakrespa" type="lujvo">
   <user>
     <username>latkerlo</username>
@@ -181934,7 +181969,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <definition>$x_1$ is a sea turtle of species $x_2$.</definition>
   <definitionid>73181</definitionid>
   <score>2</score>
-  <notes>See {xamsi}, {calku}, {respa}, {cakyrespa}, {tumcakrespa}</notes>
+  <notes>See {xamsi}, {calku}, {respa}, {cakyrespa}, {tumcakrespa}, {xastorka}</notes>
   <glossword word="sea turtle" />
   <keyword word="sea turtle" place="1" />
 </valsi>
@@ -181969,6 +182004,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <definitionid>72855</definitionid>
   <score>1</score>
   <notes>Cf. {xamsi}, {cidja}</notes>
+</valsi>
+<valsi word="xasyjau" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is seawater from ocean/sea $x_2$.</definition>
+  <definitionid>74200</definitionid>
+  <score>1</score>
+  <notes>Sea {xamsi}, {djacu}.</notes>
+  <glossword word="seawater" />
 </valsi>
 <valsi word="xasyjbama" type="lujvo">
   <user>
@@ -209334,6 +209380,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="web" sense="spider web" valsi="sikyju&apos;e" />
 <nlword word="silk" valsi="silka" />
 <nlword word="salt" valsi="silna" />
+<nlword word="brine" valsi="silnyjau" />
+<nlword word="saline water" valsi="silnyjau" />
+<nlword word="saltwater" valsi="silnyjau" />
 <nlword word="swap" sense="trade places" valsi="simbasti" />
 <nlword word="trade places" valsi="simbasti" />
 <nlword word="interchange" valsi="simbasygau" />
@@ -213920,6 +213969,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sea turtle" valsi="xasycakrespa" place="1" />
 <nlword word="sea worm" valsi="xasycurnu" />
 <nlword word="torpedo" sense="underwater projectile" valsi="xasydanti" />
+<nlword word="seawater" valsi="xasyjau" />
 <nlword word="mine" sense="marine bomb" valsi="xasyjbama" />
 <nlword word="sea mine" valsi="xasyjbama" />
 <nlword word="crustacean, marine" valsi="xasyjukni" />
