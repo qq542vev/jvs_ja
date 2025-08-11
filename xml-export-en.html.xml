@@ -19767,6 +19767,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="social studies" sense="study of community systems" />
   <glossword word="sociology" sense="study of community systems" />
 </valsi>
+<valsi word="cemjgu" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is society (collective of social institutions)</definition>
+  <definitionid>74201</definitionid>
+  <score>1</score>
+  <glossword word="society" sense="social institutions" />
+  <keyword word="society" place="1" sense="social institutions" />
+</valsi>
 <valsi word="cemlanzu" type="lujvo">
   <user>
     <username>arj</username>
@@ -64467,6 +64478,19 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <glossword word="patriarch" sense="head of church" />
   <glossword word="pope" />
 </valsi>
+<valsi word="jdajgu" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is organized religion; $x_1$ is &quot;the church&quot; (cf. &quot;the state&quot;)</definition>
+  <definitionid>74203</definitionid>
+  <score>1</score>
+  <notes>not necessarily Christian; see also {je&apos;ajgu}</notes>
+  <glossword word="church" sense="organized religion" />
+  <glossword word="organized religion" sense="institution of religion" />
+  <keyword word="organized religion" place="1" sense="institution of religion" />
+</valsi>
 <valsi word="jdanunza'omro" type="lujvo">
   <user>
     <username>lamisotanis</username>
@@ -64828,6 +64852,18 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   <definition>NAhE question.</definition>
   <definitionid>36696</definitionid>
   <score>2</score>
+</valsi>
+<valsi word="je'ajgu" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is the state (institution of governance) of people $x_2$</definition>
+  <definitionid>74202</definitionid>
+  <score>1</score>
+  <notes>see also {jdajgu}</notes>
+  <glossword word="the state" sense="governing institution" />
+  <keyword word="the state" place="1" sense="governing institution" />
 </valsi>
 <valsi unofficial="true" word="je'au" type="experimental cmavo">
   <selmaho>UI3</selmaho>
@@ -112561,7 +112597,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
   <definition>$c_1$ is a dishwasher (machine).</definition>
   <definitionid>17233</definitionid>
-  <score>2</score>
+  <score>1</score>
   <notes>Cf. {taflumca&apos;a}, {zbabu}, {ctitcilu&apos;i}, {paltylu&apos;i}.</notes>
   <glossword word="dishwasher" sense="machine" />
 </valsi>
@@ -180132,6 +180168,33 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <notes>Not necessarily non-consensual assault.</notes>
   <glossword word="assault" sense="harm" />
 </valsi>
+<valsi word="xadyxau" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is wholesome/healthy/nutritious for $x_2$</definition>
+  <definitionid>74204</definitionid>
+  <score>2</score>
+  <notes>e.g. food, exercise, etc.</notes>
+  <glossword word="healthy" sense="beneficial for one&apos;s body" />
+  <glossword word="nutritious" sense="beneficial for one&apos;s body" />
+  <glossword word="wholesome" sense="beneficial for one&apos;s body" />
+  <keyword word="wholesome" place="1" sense="beneficial for one&apos;s body" />
+</valsi>
+<valsi word="xadyxla" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is unwholesome/unhealthy/non-nutritious for $x_2$</definition>
+  <definitionid>74205</definitionid>
+  <score>2</score>
+  <notes>e.g. junk food, sedentary lifestyle</notes>
+  <glossword word="unhealthy" sense="detrimental for one&apos;s body" />
+  <glossword word="unwholesome" sense="detrimental for one&apos;s body" />
+  <keyword word="unwholesome" place="1" sense="detrimental for one&apos;s body" />
+</valsi>
 <valsi word="xadzu'i" type="lujvo">
   <user>
     <username>savru_janbe</username>
@@ -195228,6 +195291,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="science of community systems" valsi="cemci&apos;eske" />
 <nlword word="social studies" sense="study of community systems" valsi="cemci&apos;eske" />
 <nlword word="sociology" sense="study of community systems" valsi="cemci&apos;eske" />
+<nlword word="society" sense="social institutions" valsi="cemjgu" place="1" />
 <nlword word="tribal" valsi="cemlanzu" />
 <nlword word="tribe" valsi="cemlanzu" />
 <nlword word="of community" sense="x is of community y" valsi="cemra&apos;a" />
@@ -200257,6 +200321,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="head of church" valsi="jdaja&apos;a" />
 <nlword word="patriarch" sense="head of church" valsi="jdaja&apos;a" />
 <nlword word="pope" valsi="jdaja&apos;a" />
+<nlword word="church" sense="organized religion" valsi="jdajgu" />
+<nlword word="organized religion" sense="institution of religion" valsi="jdajgu" place="1" />
 <nlword word="of religion" sense="x is of religion y" valsi="jdara&apos;a" />
 <nlword word="firm" valsi="jdari" />
 <nlword word="hard" sense="resistant to pressure" valsi="jdari" />
@@ -200313,6 +200379,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="indeed" sense="scalar affirmer" valsi="je&apos;a" />
 <nlword word="scalar affirmer" valsi="je&apos;a" />
 <nlword word="that which indeed is" valsi="je&apos;abo" />
+<nlword word="the state" sense="governing institution" valsi="je&apos;ajgu" place="1" />
 <nlword word="correcting" sense="discurvise" valsi="je&apos;au" />
 <nlword word="laxity toward correctness" sense="discursive" valsi="je&apos;aucu&apos;i" />
 <nlword word="allowing some room for error or incompleteness" sense="discursive" valsi="je&apos;aunai" />
@@ -213759,6 +213826,11 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="gesticulate" sense="gesture" valsi="xadysku" />
 <nlword word="gesture" sense="non-verbal speech" valsi="xadysku" />
 <nlword word="assault" sense="harm" valsi="xadyxai" />
+<nlword word="healthy" sense="beneficial for one&apos;s body" valsi="xadyxau" />
+<nlword word="nutritious" sense="beneficial for one&apos;s body" valsi="xadyxau" />
+<nlword word="wholesome" sense="beneficial for one&apos;s body" valsi="xadyxau" place="1" />
+<nlword word="unhealthy" sense="detrimental for one&apos;s body" valsi="xadyxla" />
+<nlword word="unwholesome" sense="detrimental for one&apos;s body" valsi="xadyxla" place="1" />
 <nlword word="disability" sense="physical/mental" valsi="xadzu&apos;i" />
 <nlword word="set union hash operator" valsi="xa&apos;ei&apos;o" />
 <nlword word="union of complements" valsi="xa&apos;ei&apos;o" />
