@@ -50935,9 +50935,9 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>digit/number: first Foias&apos; constant; the unique value of $x_1$ such that $x_n$  -&gt; ∞ as n -&gt; ∞ for $x_{n+1}  = (1 + (1/( x_n )))^n$; such $x_1$ = 1.187…</definition>
+  <definition>digit/number: first Foias&apos; constant; the unique value of $x_1$ such that $x_n\to\infty$ as $n\to\infty$ for $x_{n+1}  = \left(1 + \frac1{x_n}\right)^n$; such $x_1$ = 1.187…</definition>
   <definitionid>53091</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>See also: {fu&apos;a&apos;au}</notes>
   <glossword word="first Foias&apos; constant" sense="≈ 1.187..." />
 </valsi>
@@ -50947,9 +50947,9 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>digit/number: second Foias constant; the value x for which $(1/x)(1 + (1/x))^x=1$ is true; ≈ 2.293…</definition>
+  <definition>digit/number: second Foias constant; the value $x$ for which $\frac1x\left(1 + \frac1x\right)^x=1$; ≈ 2.293…</definition>
   <definitionid>53092</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>See also:  {fu&apos;a&apos;ai}</notes>
   <glossword word="second Foias constant" sense="≈ 2.293" />
 </valsi>
@@ -51630,9 +51630,9 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>unary mekso operator: Lorentz-Einstein gamma factor $+1/((1-(|X|^2))^{(+1/2)})$ for input $X$.</definition>
+  <definition>unary mekso operator: Lorentz-Einstein gamma factor $\frac1{\sqrt{1-|X|^2}}$ for input $X$.</definition>
   <definitionid>68851</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Typically, input X can be a scalar (typically between -1 and 1, exclusive of both endpoints except in the limit) or a vector (or a similar mathematical object) with a signed magnitude belonging to the previously mentioned interval; in the former case, &quot;|X|&quot; in the definition refers to its absolute value; in the latter case, &quot;|X|&quot; in the definition refers to the nonnegative magnitude of said vector (or similar object). Typically, the output is a(n extended) real number no less than 1; whether or not positive-infinity exists in the codomain is a matter of convenience, convention, and context. This definition can be extended (such as for tachyons).</notes>
   <glossword word="gamma factor" />
   <glossword word="Lorentz factor" sense="gamma" />
@@ -52993,10 +52993,10 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>mekso (no-more-than-4-ary) operator: Gaussian function $f(x, a, b, c) = c e^{-((x-a)^2 / (2*b^2))}$.</definition>
+  <definition>mekso (no-more-than-4-ary) operator: Gaussian function $f(x, a, b, c) = c e^{-\frac{(x-a)^2}{2b^2}}$.</definition>
   <definitionid>68852</definitionid>
-  <score>1</score>
-  <notes>Parameter &apos;a&apos; is the SECOND operand; x is the first. Defaults: $c = 1/ \sqrt{2 \pi \sigma}$ (normalized), $a = \mu$ (the arithmetic average of the data set), $b = \sigma$ (the standard deviation of the data set). Moreover, by context, $\mu = 0$ (the average is 0) or $\sigma = 1$ (the standard deviation is 1) might be assumed by default.</notes>
+  <score>2</score>
+  <notes>Parameter &apos;a&apos; is the SECOND operand; x is the first. Defaults: $c = 1/ \sqrt{2\pi\sigma}$ (normalized), $a = \mu$ (the arithmetic average of the data set), $b = \sigma$ (the standard deviation of the data set). Moreover, by context, $\mu = 0$ (the average is 0) or $\sigma = 1$ (the standard deviation is 1) might be assumed by default.</notes>
   <glossword word="bell curve" sense="Gaussian distribution" />
   <glossword word="Gaussian" />
   <glossword word="Gaussian function" />
@@ -106205,9 +106205,9 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>digit/number: Niven&apos;s greatest-exponent prime factorization constant  $lim_(n-&gt;∞) (avg_n (H)) ≈ 1.705211…$</definition>
+  <definition>digit/number: Niven&apos;s greatest-exponent prime factorization constant  $\lim_{n\to\infty}\mathrm{avg}_n(H) ≈ 1.705211…$</definition>
   <definitionid>53070</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>This constant is the greatest exponent appearing in the prime factorization of a positive natural number over the ring integers on average. See also: {ni&apos;e&apos;oi}</notes>
 </valsi>
 <valsi unofficial="true" word="niengatu" type="obsolete fu'ivla">
@@ -111849,9 +111849,9 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>digit/number: universal parabolic constant $P = √(2) + Log_e(1 + √(2)) ≈ 2.295587$</definition>
+  <definition>digit/number: universal parabolic constant $P = \sqrt2 + \ln\left(1 + \sqrt2\right) ≈ 2.295587$</definition>
   <definitionid>53097</definitionid>
-  <score>2</score>
+  <score>3</score>
 </valsi>
 <valsi word="pabi" type="cmavo-compound">
   <selmaho>PA*</selmaho>
@@ -170344,6 +170344,19 @@ ni&apos;o Synonym: {fu&apos;e}.</notes>
   <glossword word="land plant" sense="plant strictest sense" />
   <glossword word="metaphyta" sense="plant strictest sense" />
 </valsi>
+<valsi word="tumtorka" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a tortoise/land turtle of species/variety $x_2$</definition>
+  <definitionid>74206</definitionid>
+  <score>1</score>
+  <notes>see also {xastorka}</notes>
+  <glossword word="land turtle" sense="tortoise" />
+  <glossword word="tortoise" sense="land turtle" />
+  <keyword word="tortoise" place="1" sense="land turtle" />
+</valsi>
 <valsi word="tumyma'e" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -176122,9 +176135,9 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>digit/number: Lévy-Khinchin constant $γ = e^{(π^2)/(12Log_e(2))} ≈ 3.2758…$</definition>
+  <definition>digit/number: Lévy-Khinchin constant $γ = e^{\frac{\pi^2}{12\ln2}} ≈ 3.2758…$</definition>
   <definitionid>53064</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Some definitions of a constant likewise named are the natural logarithm of this number.</notes>
   <glossword word="Lévy-Khinchin gamma" sense="$e^{(π^2)/(12Log_e(2))}$" />
 </valsi>
@@ -182020,7 +182033,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>$x_1$ is a sea turtle of species $x_2$.</definition>
   <definitionid>74197</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>See {xamsi}, {torka}, {xasycakrespa}.</notes>
   <glossword word="sea turtle" />
 </valsi>
@@ -212777,6 +212790,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="embryophyta" sense="plant strictest sense" valsi="tumspa" />
 <nlword word="land plant" sense="plant strictest sense" valsi="tumspa" />
 <nlword word="metaphyta" sense="plant strictest sense" valsi="tumspa" />
+<nlword word="land turtle" sense="tortoise" valsi="tumtorka" />
 <nlword word="vehicle" sense="land transport" valsi="tumyma&apos;e" />
 <nlword word="survey" sense="plane" valsi="tumymre" />
 <nlword word="sibling" valsi="tunba" />
