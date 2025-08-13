@@ -11216,7 +11216,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
   <definition>$x_1$ betrays $x_2$ (person, custom) with treacherous deeds $x_3$ (event/property).</definition>
   <definitionid>73610</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Cf. {traide}, {tolkraice}, {tolyladlo}, {zekri}.</notes>
 </valsi>
 <valsi word="bino" type="cmavo-compound">
@@ -83979,7 +83979,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
   <definition>$x_1$ is loyal to $x_2$ by standard $x_3$ (ka).</definition>
   <definitionid>73609</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Cf. {kraice}, {stace}.</notes>
 </valsi>
 <valsi word="ladmatne" type="lujvo">
@@ -167650,7 +167650,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
   <definition>$x_1$ is a turtle/tortoise (shelled reptile) of species/variety $x_2$</definition>
   <definitionid>74177</definitionid>
-  <score>2</score>
+  <score>3</score>
   <glossword word="tortoise" sense="shelled reptile" />
   <glossword word="turtle" sense="shelled reptile" />
 </valsi>
@@ -170351,7 +170351,7 @@ ni&apos;o Synonym: {fu&apos;e}.</notes>
   </user>
   <definition>$x_1$ is a tortoise/land turtle of species/variety $x_2$</definition>
   <definitionid>74206</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>see also {xastorka}</notes>
   <glossword word="land turtle" sense="tortoise" />
   <glossword word="tortoise" sense="land turtle" />
@@ -182033,7 +182033,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
   <definition>$x_1$ is a sea turtle of species $x_2$.</definition>
   <definitionid>74197</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>See {xamsi}, {torka}, {xasycakrespa}.</notes>
   <glossword word="sea turtle" />
 </valsi>
