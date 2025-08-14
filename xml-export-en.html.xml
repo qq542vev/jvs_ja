@@ -175819,6 +175819,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   <score>100000</score>
   <glossword word="time at location" />
 </valsi>
+<valsi unofficial="true" word="vetno" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ reflects Vietnamese culture/language/ethnicity in aspect $x_2$</definition>
+  <definitionid>74207</definitionid>
+  <score>1</score>
+  <glossword word="Vietnam" sense="country" />
+  <glossword word="Vietnamese" sense="ethnicity" />
+</valsi>
 <valsi word="ve'u" type="cmavo">
   <selmaho>VEhA</selmaho>
   <user>
@@ -213351,6 +213362,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="spring snowflake" sense="plant (Leucojum vernum)" valsi="veslabjvezirspa" />
 <nlword word="similar in property" valsi="vetai" />
 <nlword word="time at location" valsi="veti&apos;u" />
+<nlword word="Vietnam" sense="country" valsi="vetno" />
+<nlword word="Vietnamese" sense="ethnicity" valsi="vetno" />
 <nlword word="big space interval" valsi="ve&apos;u" />
 <nlword word="here" sense="this location" valsi="vi" />
 <nlword word="here at" valsi="vi" />
