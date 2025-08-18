@@ -30666,6 +30666,17 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   <glossword word="solstice" />
   <glossword word="Winter solstice" />
 </valsi>
+<valsi unofficial="true" word="ctera" type="experimental gismu">
+  <user>
+    <username>krtisfranks</username>
+    <realname>Curtis W Franks</realname>
+  </user>
+  <definition>$x_{1}$ is a lock/seal of/on/for sealing $x_{2}$ with/by locking mechanism $x_{3}$.</definition>
+  <definitionid>72132</definitionid>
+  <score>1</score>
+  <notes>Equivalent to &quot;{stela}&quot;; gismu similarity conflict with &quot;{stero}&quot; prohibited *&quot;stera&quot;. In a dialect which prefers this word over &quot;stela&quot;, the rafsi for this word would be &quot;-ter-&quot; and the rafsi for &quot;{te}&quot; would be &quot;-tel-&quot;, thus normalizing and uniformizing the rafsi of the primary members of selma&apos;o SE. See also: &quot;{ckiku}&quot;.</notes>
+  <glossword word="lock" />
+</valsi>
 <valsi word="cternalmat" type="cmevla">
   <user>
     <username>phma</username>
@@ -186821,6 +186832,19 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   <notes>See also {sluji}, {dansu}.</notes>
   <glossword word="gymnast" />
 </valsi>
+<valsi word="zajdi'u" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a gym/gymnasium (place for athletic training) for purpose $x_2$</definition>
+  <definitionid>74210</definitionid>
+  <score>2</score>
+  <notes>incorporates modern alternative definition of {zajba} expanded to cover all athletic disciplines</notes>
+  <glossword word="gym" sense="place for athletic training" />
+  <glossword word="gymnasium" sense="place for athletic training" />
+  <keyword word="gym" place="1" sense="place for athletic training" />
+</valsi>
 <valsi word="zajyjirsu'u" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -214581,6 +214605,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="store" sense="shop" valsi="zaisle" />
 <nlword word="in-line quotation peeling" valsi="zai&apos;u" />
 <nlword word="gymnast" valsi="zajba" />
+<nlword word="gym" sense="place for athletic training" valsi="zajdi&apos;u" place="1" />
+<nlword word="gymnasium" sense="place for athletic training" valsi="zajdi&apos;u" />
 <nlword word="dive" sense="gymnastically/into liquid" valsi="zajyjirsu&apos;u" />
 <nlword word="Molar tooth" valsi="zalde&apos;i" />
 <nlword word="spiny anteater" valsi="zalgosu" />
