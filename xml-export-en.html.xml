@@ -65905,6 +65905,18 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <definitionid>73796</definitionid>
       <score>4</score>
 </valsi>
+<valsi word="jesxarmi" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a sea urchin of species $x_2$.</definition>
+      <definitionid>74214</definitionid>
+      <score>1</score>
+      <notes>Only includes urchins with spines. Excludes sand dollars and other irregular sea urchins. See {jesni}, {xarmi}, {etkinu}.</notes>
+      <glossword word="sea urchin" />
+      <keyword word="sea urchin" place="1" />
+</valsi>
 <valsi word="jesycilta" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -169142,7 +169154,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is a cherry blossom species/strain $x_2$.</definition>
       <definitionid>20485</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See also {xrula}, {mudri}, {tricu}.</notes>
       <glossword word="cherry blossom" />
 </valsi>
