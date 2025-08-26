@@ -45682,6 +45682,18 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>3</score>
       <notes>The speaker may change their mind and add a new sentence after this cmavo has been uttered. In the meantime the addressee is free to speak in their turn.</notes>
 </valsi>
+<valsi word="fa'onai" type="cmavo-compound">
+  <selmaho>FAhO*</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+      <definition>unconditional start of text; outside regular grammar; used for computer input.</definition>
+      <definitionid>74215</definitionid>
+      <score>1</score>
+      <notes>see also: {sa&apos;oi}</notes>
+      <glossword word="start of text" />
+</valsi>
 <valsi unofficial="true" word="fa'o'o" type="experimental cmavo">
   <selmaho>FAhOhO</selmaho>
   <user>
@@ -198364,6 +198376,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="translation version" sense="book" valsi="fanvycukta" />
 <nlword word="annoy" valsi="fanza" />
 <nlword word="end of text" valsi="fa&apos;o" />
+<nlword word="start of text" valsi="fa&apos;onai" />
 <nlword word="oppose" valsi="fapro" />
 <nlword word="lose direction" valsi="farcri" />
 <nlword word="lost" sense="gone astray" valsi="farcri" />
