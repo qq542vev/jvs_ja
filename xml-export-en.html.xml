@@ -45682,18 +45682,6 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>3</score>
       <notes>The speaker may change their mind and add a new sentence after this cmavo has been uttered. In the meantime the addressee is free to speak in their turn.</notes>
 </valsi>
-<valsi word="fa'onai" type="cmavo-compound">
-  <selmaho>FAhO*</selmaho>
-  <user>
-    <username>qazw-5414</username>
-    <realname>la ninlat.</realname>
-  </user>
-      <definition>unconditional start of text; outside regular grammar; used for computer input.</definition>
-      <definitionid>74215</definitionid>
-      <score>1</score>
-      <notes>see also: {sa&apos;oi}</notes>
-      <glossword word="start of text" />
-</valsi>
 <valsi unofficial="true" word="fa'o'o" type="experimental cmavo">
   <selmaho>FAhOhO</selmaho>
   <user>
@@ -57624,7 +57612,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$j_1$ is the president of people $g_2$ in country $g_3$.</definition>
       <definitionid>16699</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {gugde}, {jatna}, {balnoltru}, {vliraitru}, {viptru}, {truralju}, {trupauja&apos;a}, {vajraifla}.</notes>
       <glossword word="president" sense="head-of-state" />
 </valsi>
@@ -97232,6 +97220,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <glossword word="biological trace" sense="must be found in rock; need not be petrified/fossilized" />
       <glossword word="fossil" sense="must be found in rock; need not be petrified/fossilized" />
       <glossword word="fossil rock" />
+</valsi>
+<valsi word="mivyxanka" type="lujvo">
+  <user>
+    <username>CrabappleCat</username>
+    <realname>Filomena Rocca </realname>
+  </user>
+      <definition>$j_1=xa_1$ is anxious/uneasy or feels existential dread/angst about their own existence</definition>
+      <definitionid>74216</definitionid>
+      <score>1</score>
+      <notes>See also: {jmive}, {xanka}, {terpa}, {cinmo}, {sanji}, {zasti}, {remna}, {ii}</notes>
+      <glossword word="existential dread" />
+      <keyword word="existentially anxious person" place="1" />
 </valsi>
 <valsi word="mivyxu'i" type="lujvo">
   <user>
@@ -147578,7 +147578,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a monk/nun of religion/sect $x_2$, associated with convent/monastery/nunnery $x_3$.</definition>
       <definitionid>70476</definitionid>
-      <score>4</score>
+      <score>5</score>
       <glossword word="monk" />
       <glossword word="nun" />
 </valsi>
@@ -198376,7 +198376,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="translation version" sense="book" valsi="fanvycukta" />
 <nlword word="annoy" valsi="fanza" />
 <nlword word="end of text" valsi="fa&apos;o" />
-<nlword word="start of text" valsi="fa&apos;onai" />
 <nlword word="oppose" valsi="fapro" />
 <nlword word="lose direction" valsi="farcri" />
 <nlword word="lost" sense="gone astray" valsi="farcri" />
@@ -204174,6 +204173,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="fossilized remnant" sense="must be found in rock; need not be petrified/fossilized" valsi="mivyvelvicyvauro&apos;i" />
 <nlword word="fossilized trace" sense="must be found in rock; need not be petrified/fossilized" valsi="mivyvelvicyvauro&apos;i" />
 <nlword word="fossil rock" valsi="mivyvelvicyvauro&apos;i" />
+<nlword word="existential dread" valsi="mivyxanka" />
+<nlword word="existentially anxious person" valsi="mivyxanka" place="1" />
 <nlword word="biochemical" sense="chemical substance" valsi="mivyxu&apos;i" />
 <nlword word="live" sense="activity" valsi="mivzu&apos;e" />
 <nlword word="mixture" valsi="mixre" />
