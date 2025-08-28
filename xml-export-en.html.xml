@@ -165507,6 +165507,17 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>1</score>
       <glossword word="Tok Pisin" sense="culture" />
 </valsi>
+<valsi unofficial="true" word="tokpo" type="experimental gismu">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+      <definition>$x_1$ reflects Toki Ponan/Tokiponaic/Toki Pona culture/language/community in aspect $x_2$</definition>
+      <definitionid>74218</definitionid>
+      <score>1</score>
+      <notes>Proposed rafsi: -top-</notes>
+      <glossword word="Toki Pona" />
+</valsi>
 <valsi word="tokpona" type="fu'ivla">
   <user>
     <username>selpahi</username>
