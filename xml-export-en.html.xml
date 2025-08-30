@@ -53753,6 +53753,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <score>1</score>
       <notes>Same as {gerzda}. Mentioned in cll 1.1 §4.13.</notes>
 </valsi>
+<valsi unofficial="true" word="germo" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Germanic culture/language in aspect $x_2$.</definition>
+      <definitionid>74219</definitionid>
+      <score>2</score>
+      <notes>Coined to resolve the ambiguity with {dotco}, which is officially overloaded for both &apos;German&apos; and &apos;Germanic&apos;. Proposed rafsi -gem-.</notes>
+      <glossword word="Germanic" />
+</valsi>
 <valsi word="gerna" type="gismu">
   <rafsi>gen</rafsi>
   <rafsi>ge&apos;a</rafsi>
@@ -199316,6 +199327,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="dog" sense="animal" valsi="gerku" />
 <nlword word="dog" sense="DELETE" valsi="gerku" place="1" />
 <nlword word="dhole" valsi="gerkuuono" />
+<nlword word="Germanic" valsi="germo" />
 <nlword word="grammar" valsi="gerna" />
 <nlword word="shiba inu" sense="dog" valsi="gernciba&apos;inu" place="1" />
 <nlword word="cynology" sense="study of dogs" valsi="gerske" />
