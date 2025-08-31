@@ -33716,6 +33716,18 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="fight" />
       <glossword word="struggle" sense="fight" />
 </valsi>
+<valsi unofficial="true" word="damko" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Danish language/culture/nationality in aspect $x_2$</definition>
+      <definitionid>74220</definitionid>
+      <score>1</score>
+      <notes>All the other possible, &quot;better&quot; word shapes are taken by conflicts; none of *danmo, *danso, *dasko, *denmo, *danro, *damro pass. See also {danseke}, the freeword-shaped equivalent of this gismu.</notes>
+      <glossword word="Danish" sense="culture, language, or nationality" />
+      <glossword word="Denmark" />
+</valsi>
 <valsi word="damri" type="gismu">
   <user>
     <username>officialdata</username>
@@ -197058,6 +197070,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="posterior" sense="behindwards" valsi="daltrixe" place="1" />
 <nlword word="fight" valsi="damba" />
 <nlword word="struggle" sense="fight" valsi="damba" />
+<nlword word="Danish" sense="culture, language, or nationality" valsi="damko" />
 <nlword word="drum" valsi="damri" />
 <nlword word="chimney" valsi="damtubnu" place="1" />
 <nlword word="material" sense="of which chimney is made" valsi="damtubnu" place="2" />
