@@ -2418,6 +2418,16 @@
       <definitionid>71122</definitionid>
       <score>1</score>
 </valsi>
+<valsi word="blogi'adi'u" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ dinju lo nu $x_1$ gidva lo bloti</definition>
+      <definitionid>74226</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {bloti} .e zo {gidva} .e zo {dinju}</notes>
+</valsi>
 <valsi word="blokle" type="lujvo">
   <user>
     <username>zozeizeizeizeifaho</username>
@@ -19533,6 +19543,16 @@
       <definitionid>68718</definitionid>
       <score>2</score>
       <notes>mu&apos;a ganai do skicu ko&apos;a fo la&apos;e zoi gy. pedantic gy. gi ko&apos;a na se cmene zo .pedantik. do .i lu&apos;e lo ve skicu cu frica lo cmene .i ko&apos;a na me la .pedantik. gi&apos;e me lai&apos;u .pedantik.</notes>
+</valsi>
+<valsi word="lajre'e" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ trene $x_2$ $x_3$ ne bu&apos;u lo klaji $x_4$</definition>
+      <definitionid>74227</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {klaji} .e zo {trene}</notes>
 </valsi>
 <valsi word="lakne" type="gismu">
   <rafsi>la&apos;e</rafsi>
@@ -40363,6 +40383,16 @@
       <definition>$c_1=v_2$ cliva $c_2$ $c_3$ xeka&apos;a lo vinji</definition>
       <definitionid>52954</definitionid>
       <score>1</score>
+</valsi>
+<valsi word="vijyzda" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ zdani $x_2$ noi vinji .i $x_1$ dinju lo nu $x_2$ noi vinji cu nenri $x_1$</definition>
+      <definitionid>74225</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {vinji} .e zo {zdani}</notes>
 </valsi>
 <valsi word="vikmi" type="gismu">
   <rafsi>vim</rafsi>
