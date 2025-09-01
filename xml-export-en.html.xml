@@ -12582,6 +12582,18 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <notes>Cf. Cf. {bloti}, {farna}, {grana}, {bloca&apos;ega&apos;a}, {blopinfanga&apos;a}, {blofanga&apos;a}, {blocpuga&apos;a}, {blomatryga&apos;a}.</notes>
       <glossword word="tiller" sense="in boat or ship" />
 </valsi>
+<valsi word="blogi'adi'u" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a lighthouse.</definition>
+      <definitionid>74223</definitionid>
+      <score>1</score>
+      <notes>See {bloti}, {gidva}, {dinju}.</notes>
+      <glossword word="lighthouse" />
+      <keyword word="lighthouse" place="1" />
+</valsi>
 <valsi word="blogre" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -33723,7 +33735,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ reflects Danish language/culture/nationality in aspect $x_2$</definition>
       <definitionid>74220</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>All the other possible, &quot;better&quot; word shapes are taken by conflicts; none of *danmo, *danso, *dasko, *denmo, *danro, *damro pass. See also {danseke}, the freeword-shaped equivalent of this gismu.</notes>
       <glossword word="Danish" sense="culture, language, or nationality" />
       <glossword word="Denmark" />
@@ -74485,7 +74497,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$c_1$ is a sandal for protecting feet $c_2$, and of material $c_3$.</definition>
       <definitionid>17586</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {tupcutci}, {smoka}.</notes>
       <glossword word="sandal" />
 </valsi>
@@ -97251,7 +97263,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$j_1=xa_1$ is anxious/uneasy or feels existential dread/angst about their own existence</definition>
       <definitionid>74216</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See also: {jmive}, {xanka}, {terpa}, {cinmo}, {sanji}, {zasti}, {remna}, {ii}</notes>
       <glossword word="existential dread" />
       <keyword word="existentially anxious person" place="1" />
@@ -135417,6 +135429,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>3</score>
       <notes>Causes relabelling so that all slots which were originally subsequent to $x_2$ have their indices decremented by 1; therefore, for example, the original $x_3$ is the new $x_2$. Notice that &quot;se&apos;e&apos;i se&apos;e&apos;i&quot; merges the original $x_1$, $x_2$, and $x_3$ slots all together; likewise, under &quot;{se} se&apos;e&apos;i&quot;, the new $x_1$ is the original $x_3$ and the new $x_2$ is the original $x_1$ and $x_2$ mutually merged together (therefore, &quot;se&apos;e&apos;i&quot; is equivalent to &quot;se&apos;e&apos;i se&quot; but not &quot;se se&apos;e&apos;i&quot;). See also: &quot;{te&apos;e&apos;i}&quot;, &quot;{ve&apos;e&apos;i}&quot;, &quot;{xe&apos;e&apos;i}&quot;, {te&apos;e&apos;a}, {ze&apos;e&apos;au}.</notes>
 </valsi>
+<valsi unofficial="true" word="se'ei" type="experimental cmavo">
+  <selmaho>BY</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+      <definition>following digits/letters form a city/state/zip/area/subdivision code.</definition>
+      <definitionid>74221</definitionid>
+      <score>1</score>
+      <notes>Resulting string of BY represents the area itself. The coding scheme is up to context. I recommend {pi&apos;e} for seperators like dashes (e.g. for ISO 3166-2) if you need to mark them.</notes>
+      <glossword word="area code" />
+</valsi>
 <valsi word="sefa'e" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
   <user>
@@ -165537,7 +165561,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ reflects Toki Ponan/Tokiponaic/Toki Pona culture/language/community in aspect $x_2$</definition>
       <definitionid>74218</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Proposed rafsi: -top-</notes>
       <glossword word="Toki Pona" />
 </valsi>
@@ -175810,16 +175834,6 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <glossword word="fry" sense="young fish" />
       <glossword word="whitebait" />
 </valsi>
-<valsi unofficial="true" word="verjo" type="experimental gismu">
-  <user>
-    <username>viktor</username>
-    <realname>Viktor Medrano</realname>
-  </user>
-      <definition>$x_1$ is a/the penis [body-part] of $x_2$</definition>
-      <definitionid>72856</definitionid>
-      <score>1</score>
-      <notes>French &quot;verge&quot;; Spanish &quot;verga&quot;; cf. {pinji}, {nakpinji}</notes>
-</valsi>
 <valsi word="verku'i" type="lujvo">
   <user>
     <username>noralujv</username>
@@ -176379,6 +176393,19 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <notes>from {vinji} {tcana}.</notes>
       <glossword word="airdrome" />
       <glossword word="airport" />
+</valsi>
+<valsi word="vijyzda" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a hangar for aircraft $x_2$.</definition>
+      <definitionid>74222</definitionid>
+      <score>1</score>
+      <notes>See {vinji}, {zdani}.</notes>
+      <glossword word="hangar" />
+      <keyword word="hangar" place="1" />
+      <keyword word="hangared aircraft" place="2" />
 </valsi>
 <valsi word="vikcigla" type="lujvo">
   <user>
@@ -194603,6 +194630,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="dock" sense="boat bridge" valsi="blocripu" place="1" />
 <nlword word="mast" sense="for supporting sail" valsi="blofanga&apos;a" />
 <nlword word="tiller" sense="in boat or ship" valsi="blofarga&apos;a" />
+<nlword word="lighthouse" valsi="blogi&apos;adi&apos;u" place="1" />
 <nlword word="ferry" sense="move something across" valsi="blogre" />
 <nlword word="captain" sense="sea" valsi="bloja&apos;a" />
 <nlword word="shipcaptain" valsi="bloja&apos;a" />
@@ -208733,6 +208761,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="hat wearer" valsi="sedyta&apos;u" place="2" />
 <nlword word="occipital bone" sense="os occipitale" valsi="sedyti&apos;ebo&apos;u" />
 <nlword word="character code" valsi="se&apos;e" />
+<nlword word="area code" valsi="se&apos;ei" />
 <nlword word="against" sense="in opposition to" valsi="sefa&apos;e" />
 <nlword word="in reversal of" valsi="sefa&apos;e" />
 <nlword word="creating work" valsi="sefi&apos;e" />
@@ -213538,6 +213567,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="paratrooper" valsi="vijysoi" />
 <nlword word="airdrome" valsi="vijytcana" />
 <nlword word="airport" valsi="vijytcana" />
+<nlword word="hangar" valsi="vijyzda" place="1" />
+<nlword word="hangared aircraft" valsi="vijyzda" place="2" />
 <nlword word="mucous gland" valsi="vikcigla" />
 <nlword word="excrete" valsi="vikmi" />
 <nlword word="urinal" sense="urine toilet" valsi="vikmrvespasianu" />
