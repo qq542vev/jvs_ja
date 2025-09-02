@@ -17133,16 +17133,6 @@
       <notes>{kamre}</notes>
       <glossword word="kamre li dau te&apos;a dau bi&apos;ete&apos;a re" />
 </valsi>
-<valsi unofficial="true" word="kamro" type="experimental gismu">
-  <user>
-    <username>xorxes</username>
-    <realname>Jorge Llambias</realname>
-  </user>
-      <definition>$x_1$ ckini lo kulnu ja bangu ja cecmu ja natmi pe lo bancujemu $x_2$</definition>
-      <definitionid>65545</definitionid>
-      <score>1</score>
-      <notes>{kulnu}; {bangu}; {cecmu}; {natmi}; {bancujemu}; {ropno}; {brito}</notes>
-</valsi>
 <valsi word="kamymeckezrai" type="lujvo">
   <user>
     <username>krtisfranks</username>
