@@ -45289,7 +45289,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is measured as $x_2$ (number) on the Fahrenheit scale</definition>
       <definitionid>67064</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>See {kelvrfarenxaito}, {kelvo}, {jacke&apos;o}, {glare}, {lenku}.</notes>
       <glossword word="Fahrenheit" />
 </valsi>
@@ -61635,7 +61635,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1=p_1$ is a permanent/indelible marker applied by process $x_2=p_3$.</definition>
       <definitionid>41851</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>{djacu} {renvi} {penbi}</notes>
       <glossword word="indelible marker" sense="pen" />
       <glossword word="permanent marker" sense="pen" />
@@ -67198,6 +67198,18 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <definitionid>42000</definitionid>
       <score>2</score>
       <glossword word="lie" sense="knowingly claim untruth" />
+</valsi>
+<valsi word="jifyzanpei" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ romanticizes $x_2$ (event/state). $x_1$ views/thinks of $x_2$ in a way that is unrealistically positive or idealized.</definition>
+      <definitionid>74229</definitionid>
+      <score>1</score>
+      <notes>See {jitfa}, {zabna}, {pensi}.</notes>
+      <glossword word="romanticise" sense="view favourably" />
+      <glossword word="romanticize" sense="view favorably" />
 </valsi>
 <valsi word="jigycitri" type="lujvo">
   <user>
@@ -200827,6 +200839,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="illusion" sense="optical" valsi="jifselvi&apos;a" place="1" />
 <nlword word="wrong" sense="asserting something incorrect" valsi="jifxu&apos;a" />
 <nlword word="lie" sense="knowingly claim untruth" valsi="jifyjunxu&apos;a" />
+<nlword word="romanticise" sense="view favourably" valsi="jifyzanpei" />
+<nlword word="romanticize" sense="view favorably" valsi="jifyzanpei" />
 <nlword word="history written by the winners" valsi="jigycitri" place="1" />
 <nlword word="that whose history is written by the winners" valsi="jigycitri" place="2" />
 <nlword word="victorious writers of history" valsi="jigycitri" place="3" />
