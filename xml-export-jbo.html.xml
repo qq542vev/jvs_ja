@@ -13667,7 +13667,7 @@
   </user>
       <definition>$x_1$ penbi lo renvi be lo nu lo djacu ku vanbi be&apos;o $x_2$</definition>
       <definitionid>41850</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>{djacu} {renvi} {penbi}</notes>
 </valsi>
 <valsi word="jadni" type="gismu">
@@ -41673,6 +41673,16 @@
       <definitionid>64689</definitionid>
       <score>1</score>
       <notes>{silna}; {jausmi}; {vikmi}; {pilka}; {cigla}</notes>
+</valsi>
+<valsi word="xastorka" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ torka $x_2$ noi lo&apos;e torka be ke&apos;a cu xabju lo xamsi</definition>
+      <definitionid>74228</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {xamsi} .e zo {torka} .e zo {xasycakrespa}</notes>
 </valsi>
 <valsi word="xatra" type="gismu">
   <rafsi>xa&apos;a</rafsi>
