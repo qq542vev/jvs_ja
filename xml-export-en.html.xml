@@ -28106,7 +28106,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is an element of kind $x_2$ with purity $x_3$.</definition>
       <definitionid>2460</definitionid>
-      <score>4</score>
+      <score>5</score>
       <notes>Cf. {xumsle}, {ratni}, {jinme}, {trano}, {cidro}, {navni}.</notes>
       <glossword word="element" sense="chemical" />
       <keyword word="element" place="1" sense="chemical" />
@@ -54702,7 +54702,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$t_1$ is a thermometer used for measuring temperature $m_2=g_1$ as $m_3$ units on scale $m_4$ with accuracy $m_5$</definition>
       <definitionid>64193</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="thermometer" />
       <keyword word="thermometer" place="1" />
       <keyword word="thermometer object" place="2" />
@@ -57876,6 +57876,18 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <notes>{guska} {canre}</notes>
       <glossword word="abrasive" />
       <keyword word="abrasive" place="1" />
+</valsi>
+<valsi word="guktci" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a scraper/file (tool) made of $x_2$</definition>
+      <definitionid>74230</definitionid>
+      <score>2</score>
+      <glossword word="file" sense="tool" />
+      <glossword word="scraper" sense="tool" />
+      <keyword word="scraper" place="1" sense="tool" />
 </valsi>
 <valsi word="gulrota" type="fu'ivla">
   <user>
@@ -75908,7 +75920,19 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a playing card</definition>
       <definitionid>56813</definitionid>
+      <score>2</score>
+</valsi>
+<valsi word="kelkardygri" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is deck of playing cards $x_2$.</definition>
+      <definitionid>74232</definitionid>
       <score>1</score>
+      <notes>See {kelci}, {karda}, {girzu}, {kelkarda}.</notes>
+      <glossword word="deck of cards" />
+      <glossword word="pack of cards" />
 </valsi>
 <valsi word="kelka'u" type="lujvo">
   <user>
@@ -99419,6 +99443,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <glossword word="haul" sense="drag" />
       <glossword word="trail" sense="drag" />
 </valsi>
+<valsi word="mosyguktci" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a file (tool) made of $x_2$</definition>
+      <definitionid>74231</definitionid>
+      <score>2</score>
+      <glossword word="file" sense="abrasive tool" />
+      <keyword word="file" place="1" sense="abrasive tool" />
+</valsi>
 <valsi word="mosyjgita" type="lujvo">
   <user>
     <username>totus</username>
@@ -116268,7 +116303,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$s_1=p_1$ hypothesizes $s_2=p_2$ to audience $s_3$ about subject/concept $x_4=p_2$.</definition>
       <definitionid>17043</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {pensi}, {stidi}, {je&apos;urja&apos;o}.</notes>
       <glossword word="hypothesize" />
 </valsi>
@@ -188598,7 +188633,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$p_1$ is a park managed by polity/community $p_2$ for use by $z_2$,  with amenities/amusements $z_1$.</definition>
       <definitionid>18548</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {zdile}, {panka}, {kelpanka}, {gubypanka}, {zacpanka}, {fanrypanka}, {kagnypanka}.</notes>
       <glossword word="amusement park" />
       <glossword word="common" sense="park" />
@@ -199865,6 +199900,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="magnitude" sense="brightness" valsi="gu&apos;irnilcarmrmagnitu" />
 <nlword word="quick-as-light" valsi="gu&apos;irsutra" />
 <nlword word="abrasive" valsi="gukcanre" place="1" />
+<nlword word="file" sense="tool" valsi="guktci" />
+<nlword word="scraper" sense="tool" valsi="guktci" place="1" />
 <nlword word="massacre" valsi="gumcatra" />
 <nlword word="brawl" sense="fight involving a large number of people" valsi="gumda&apos;a" />
 <nlword word="combine" sense="bring things together" valsi="gumgau" />
@@ -201800,6 +201837,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="dungeon master" sense="role-playing" valsi="kelgi&apos;a" />
 <nlword word="game master" sense="role-playing" valsi="kelgi&apos;a" />
 <nlword word="GM" sense="game master" valsi="kelgi&apos;a" />
+<nlword word="deck of cards" valsi="kelkardygri" />
+<nlword word="pack of cards" valsi="kelkardygri" />
 <nlword word="move" sense="in a game" valsi="kelka&apos;u" />
 <nlword word="turn" sense="in a game" valsi="kelka&apos;u" />
 <nlword word="dice" sense="toy" valsi="kelkubli" />
@@ -204507,6 +204546,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="drag" valsi="mosycpu" />
 <nlword word="haul" sense="drag" valsi="mosycpu" />
 <nlword word="trail" sense="drag" valsi="mosycpu" />
+<nlword word="file" sense="abrasive tool" valsi="mosyguktci" place="1" />
 <nlword word="bowed string instrument" valsi="mosyjgita" />
 <nlword word="string instrument, bowed" valsi="mosyjgita" />
 <nlword word="fricative" sense="consonant" valsi="mosysna" place="1" />
