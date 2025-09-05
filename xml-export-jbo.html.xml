@@ -2418,6 +2418,16 @@
       <definitionid>71122</definitionid>
       <score>1</score>
 </valsi>
+<valsi word="blobarmatra" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ $x_2$ noi bloti cu matra gi&apos;e bartu gi&apos;e jorne</definition>
+      <definitionid>74235</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {bloti} .e zo {bartu} .e zo {matra}</notes>
+</valsi>
 <valsi word="blogi'adi'u" type="lujvo">
   <user>
     <username>latkerlo</username>
@@ -27756,7 +27766,7 @@
   </user>
       <definition>$x_1$ pinta gi&apos;e bloti $x_2$ boi $x_3$</definition>
       <definitionid>38031</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="pinblo" />
 </valsi>
 <valsi word="pinca" type="gismu">
