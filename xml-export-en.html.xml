@@ -374,7 +374,7 @@
   </user>
       <definition>esoteric/mystical utterance; untranslatable, meaning revealed by gnosis</definition>
       <definitionid>73774</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. &quot;A! E! I! O! U!&quot; (esoteric utterance found in medieval Cathar poetry written in Old Occitan)</notes>
       <glossword word="aeiou" sense="esoteric utterance" />
       <keyword word="aeiou" place="1" sense="esoteric utterance" />
@@ -12493,6 +12493,18 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <glossword word="embossment" sense="sculptured" />
       <glossword word="relief" sense="sculptured" />
 </valsi>
+<valsi word="blobarmatra" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is an outboard motor for boat $x_2$.</definition>
+      <definitionid>74234</definitionid>
+      <score>1</score>
+      <notes>See {bloti}, {bartu}, {matra}.</notes>
+      <glossword word="outboard motor" />
+      <keyword word="outboard motor" place="1" />
+</valsi>
 <valsi word="bloblobloblo" type="lujvo">
   <user>
     <username>lamisotanis</username>
@@ -12533,7 +12545,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$g_1=l_2=b_3$ is an oar made of $g_2$ pulled by $l_2$ in boat $b_1$.</definition>
       <definitionid>18348</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {bloti}, {lacpu}, {grana}, {bloca&apos;ega&apos;a}, {blofanga&apos;a}, {blopinfanga&apos;a}, {blomatryga&apos;a}, {blofarga&apos;a}.</notes>
       <glossword word="oar" />
 </valsi>
@@ -12567,7 +12579,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$g_1=b_3$ is the mast made of $g_2$ of sail $f_1$ on boat $f_3=b_1$.</definition>
       <definitionid>18350</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {bloti}, {falnu}, {grana}, {bloca&apos;ega&apos;a}, {blocpuga&apos;a}, {blopinfanga&apos;a}, {blomatryga&apos;a}, {blofarga&apos;a}.</notes>
       <glossword word="mast" sense="for supporting sail" />
 </valsi>
@@ -37803,6 +37815,18 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="electronic amplifier" sense="electronic device" />
       <keyword word="electronic amplifier" place="1" sense="electronic device" />
 </valsi>
+<valsi word="dicybo'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a lightbulb/light bulb made of $x_2$</definition>
+      <definitionid>74233</definitionid>
+      <score>2</score>
+      <glossword word="light bulb" sense="electric light component" />
+      <glossword word="lightbulb" sense="electric light component" />
+      <keyword word="lightbulb" place="1" sense="electric light component" />
+</valsi>
 <valsi word="dicycau" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -56006,7 +56030,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$b_1$ is a ferry boat for carrying $b_2$ over barrier/medium/portal $x_3=p_2$ to destination $x_4=p_3$ from origin $x_5=p_4$.</definition>
       <definitionid>17050</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {grebe&apos;i}, {blogre}.</notes>
       <glossword word="ferryboat" />
 </valsi>
@@ -61519,7 +61543,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$m_1$ is a steam engine driving $m_2$.</definition>
       <definitionid>18811</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {djacu}, {febvi}, {matra}, {jaurgacmatra}, {jaurgapci}.</notes>
       <glossword word="steam engine" />
 </valsi>
@@ -62265,7 +62289,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$b_1$ is a warship of type/carrying $b_2$, propelled by $b_3$.</definition>
       <definitionid>18995</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {jamna}, {bloti}, {ni&apos;ablo}, {bratcejamblo}, {brajamblo}, {cmajamblo}, {badjamblo}, {vijblo}.</notes>
       <glossword word="warship" />
 </valsi>
@@ -117356,7 +117380,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a raft for carrying $x_2$ propelled by $x_3$</definition>
       <definitionid>38030</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="raft" />
 </valsi>
 <valsi word="pinca" type="gismu">
@@ -120707,7 +120731,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$b_1$ is a passenger ship for carrying $b_2$, propleed by $p_3$.</definition>
       <definitionid>18997</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {prenu}, {bloti}, {beiblo}, {ni&apos;ablo}.</notes>
       <glossword word="passenger ship" />
 </valsi>
@@ -176391,7 +176415,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$b_1$ is an aircraft carrier carrying $b_2$, propelled by $b_3$.</definition>
       <definitionid>19002</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {vinji}, {bloti}, {ni&apos;ablo}, {brabrajamblo}, {brajamblo}, {cmajamblo}, {badjamblo}. </notes>
       <glossword word="aircraft carrier" />
 </valsi>
@@ -194669,6 +194693,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="block" valsi="bliku" />
 <nlword word="embossment" sense="sculptured" valsi="blixra" />
 <nlword word="relief" sense="sculptured" valsi="blixra" />
+<nlword word="outboard motor" valsi="blobarmatra" place="1" />
 <nlword word="wakeboard" valsi="blobonjacta&apos;o" />
 <nlword word="pole" sense="for propelling punt" valsi="bloca&apos;ega&apos;a" />
 <nlword word="punting pole" valsi="bloca&apos;ega&apos;a" />
@@ -197649,6 +197674,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="lamp" sense="electric" valsi="dictergu&apos;i" />
 <nlword word="amplifier" sense="electronic device" valsi="dicyba&apos;ogaumi&apos;i" />
 <nlword word="electronic amplifier" sense="electronic device" valsi="dicyba&apos;ogaumi&apos;i" place="1" />
+<nlword word="light bulb" sense="electric light component" valsi="dicybo&apos;i" />
+<nlword word="lightbulb" sense="electric light component" valsi="dicybo&apos;i" place="1" />
 <nlword word="uncharged" sense="electricity" valsi="dicycau" />
 <nlword word="electrode" valsi="dicyji&apos;o" />
 <nlword word="loudspeaker" valsi="dicyselsna" />
