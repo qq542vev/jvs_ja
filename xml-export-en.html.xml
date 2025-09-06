@@ -8316,7 +8316,7 @@
   </user>
       <definition>$x1=b2=f1$ is a keyboard for purpose $x2=b3$ of material $x3=b4$</definition>
       <definitionid>35309</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="keyboard" sense="uniform expanse of buttons" />
 </valsi>
 <valsi word="batkyuidje" type="lujvo">
@@ -14042,7 +14042,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$x_1$ is a storm in/at $x_2$</definition>
       <definitionid>73827</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="storm" sense="weather" />
       <keyword word="storm" place="1" sense="weather" />
 </valsi>
@@ -20158,6 +20158,20 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <score>2</score>
       <glossword word="consecrated land" sense="general" />
 </valsi>
+<valsi word="cestuzvi'e" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ makes a pilgrimage to/visits significant place $x_2$.</definition>
+      <definitionid>74236</definitionid>
+      <score>1</score>
+      <notes>Uses broadest possible interpretation of {censa}. $x_2$&apos;s significance need not be religious or spiritual. See {censa}, {stuzi}, {vitke}, {cesystu}, {stuvi&apos;e}.</notes>
+      <glossword word="make a pilgrimage" />
+      <glossword word="pilgrim" />
+      <keyword word="pilgrim" place="1" />
+      <keyword word="significant location" place="2" />
+</valsi>
 <valsi word="cesycku" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -22221,7 +22235,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$d_1=c_1$ is a quantity of/contains/is made of mud from source $d_2$ of composition $d_3$, moist due to liquid $c_2$.</definition>
       <definitionid>17626</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {jduli}.</notes>
       <glossword word="mud" />
 </valsi>
@@ -44840,7 +44854,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$f_1=c_1$ is a volcano projecting from land mass $c_2$.</definition>
       <definitionid>16367</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Cf. {je&apos;erma&apos;a}.</notes>
       <glossword word="volcano" />
 </valsi>
@@ -58466,7 +58480,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is a lightning bug/glowworm/firefly of genus/species $x_2$.</definition>
       <definitionid>14380</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="firefly" />
       <glossword word="glowworm" />
       <glossword word="lightning bug" />
@@ -65308,7 +65322,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$c_1=j_3$ is a volcano projecting from land mass $c_2$.</definition>
       <definitionid>16540</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Cf. {fagma&apos;a}.</notes>
       <glossword word="volcano" />
 </valsi>
@@ -76493,7 +76507,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is an earphone/headphone</definition>
       <definitionid>41435</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="earphone" sense="headphone" />
       <glossword word="headphone" sense="earphone" />
 </valsi>
@@ -80206,7 +80220,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is an accordion/concertina/harmonica/chromonica [free-reed aerophone] made of $x_2$</definition>
       <definitionid>73643</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>see also {xagri}, {pipno}, {tabra}</notes>
       <glossword word="accordion" sense="family of instruments" />
       <glossword word="free-reed aerophone" />
@@ -86810,7 +86824,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   </user>
       <definition>$ca_1$ is a keyboard for entering letters/symbols $l_1=cu_2$.</definition>
       <definitionid>15460</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Cf. {batkyci&apos;a}.</notes>
       <glossword word="computer keyboard" />
       <glossword word="keyboard" sense="computer/typewriter" />
@@ -103691,7 +103705,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$t_1=c_1$ is afraid of saying syllable(s) $c_2=sl_1$ of language $sl_2$ to $c_3$ via $c_4$ because they believe that saying them is not necessary for continuing state/process $sa_2$ under conditions $sa_3$</definition>
       <definitionid>64080</definitionid>
-      <score>4</score>
+      <score>5</score>
       <glossword word="fear expressing excess syllable(s)" />
       <keyword word="excess syllable fearer" place="1" />
       <keyword word="feared excess syllable(s)" place="2" />
@@ -126335,7 +126349,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$t_1$ is a railed vehicle station/depot/yard in transport system $t_2=t_3$ for cars/wagons/units $tr_2$ (default heavy rail) propelled by $tr_4$</definition>
       <definitionid>16632</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>from {trene} {tcana}.</notes>
       <glossword word="railway station" />
       <glossword word="station" sense="railway" />
@@ -159323,7 +159337,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a whale/dolphin/porpoise (order Cetacea) of species/breed $x_2$</definition>
       <definitionid>66044</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Synonym: {cketake}. See also {balnema}, {delfinu}, {orka}.</notes>
       <glossword word="cetacean" />
       <glossword word="whale" />
@@ -176638,7 +176652,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$t_1=v_1$ is a storm at place/region $t_2$.</definition>
       <definitionid>10231</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {vlile}, {tcima}.</notes>
       <glossword word="storm" sense="weather" />
 </valsi>
@@ -192069,7 +192083,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>Something associated with; equivalent to &apos;&apos;zo&apos;e pe&apos;&apos; or &quot;lo co&apos;e be&quot;.</definition>
       <definitionid>19060</definitionid>
-      <score>8</score>
+      <score>9</score>
       <notes>There are a lot of cases where people use &quot;tu&apos;a&quot; where they actually mean zo&apos;ei; once I noticed the usefulness of such a word to elide whole chunks of sentences, I started wanting it all the time.  -camgusmis</notes>
       <glossword word="something associated with" />
 </valsi>
@@ -195567,6 +195581,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sanctify" valsi="cesri&apos;a" />
 <nlword word="worship" valsi="cesri&apos;isi&apos;a" />
 <nlword word="consecrated land" sense="general" valsi="cestu&apos;a" />
+<nlword word="make a pilgrimage" valsi="cestuzvi&apos;e" />
+<nlword word="pilgrim" valsi="cestuzvi&apos;e" place="1" />
+<nlword word="significant location" valsi="cestuzvi&apos;e" place="2" />
 <nlword word="holy book" valsi="cesycku" />
 <nlword word="koran" sense="religious book" valsi="cesycku" />
 <nlword word="Holy Roman Empire" valsi="cesyjvedotla&apos;okemsorgugject" place="1" />
