@@ -38316,6 +38316,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="swear" sense="to take an oath for a promise or statement" />
       <glossword word="take an oath" />
 </valsi>
+<valsi word="dimsni" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$s_1$ is an omen predicting fate $s_2$ to person(s) $s_3$</definition>
+      <definitionid>74240</definitionid>
+      <score>1</score>
+      <notes>cf. {dimna} {sinxa}</notes>
+</valsi>
 <valsi word="dinalit" type="cmevla">
   <user>
     <username>phma</username>
@@ -40893,7 +40903,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is medicine used to treat illness/disease $x_2$ ({bilma}/ka/state) via mechanism of action $x_3$ (event) at dosage $x_4$ (ka))</definition>
       <definitionid>72493</definitionid>
-      <score>5</score>
+      <score>6</score>
       <notes>$x_1$ is medicinal. $x_4$ is properly a period and an amount, e.g. &quot;loka {milgra} li panono {reroi} ro le {djedi}&quot;, but may be abbreviated to either. See also {mikce}, {micyxu&apos;i}, {farmako}, {bilma}.</notes>
       <glossword word="drug" sense="medication" />
       <glossword word="medicine" sense="medication" />
@@ -64206,6 +64216,17 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <notes>See also {lerfu}.</notes>
       <glossword word="Lojban letter" />
       <keyword word="Lojban letter" place="1" />
+</valsi>
+<valsi word="jbolotomi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ has the Lojban permanently excised via lobotomy from their brain $x_2$ for reasons $x_3$ in hospital $x_4$ by jbo-doctor $x_5$, and decides to learn other loglang $x_6$ (default Toaq), in Lojbanic aspect $x_7$, after awful xekce-ing $x_8$, by standard $x_{10}$, with lid $x_{11}$ (default the parietal bone), and become a better person $x_{12}$ with friends $x_{13}$, touching grass $x_{14}$.</definition>
+      <definitionid>74238</definitionid>
+      <score>2</score>
+      <notes>A blend of -jbo- and English lobotomy, changing the syllables somewhat because *lojbotomi would have the lo- part fall off as a particle. The ninth parameter is an unknown esoteric secret; for the eleventh parameter, see {botpi}&apos;s fourth. Coined collectively by Mati and la lanru.</notes>
+      <glossword word="Lojbanic lobotomy" />
 </valsi>
 <valsi word="jbonobo" type="fu'ivla">
   <user>
@@ -106127,6 +106148,19 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <score>3</score>
       <notes>Synonymous to {snanu}. See {ne&apos;u}. Set: {be&apos;arna} {du&apos;arna} {ne&apos;urna} {vu&apos;arna}. This set is invented for those who prefer the sumtcita over the gismu, due to all starting with different letters.</notes>
       <glossword word="south" />
+</valsi>
+<valsi word="ng bu" type="bu-letteral">
+  <selmaho>BU*</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+      <definition>letteral for eng / agma (ŋ)</definition>
+      <definitionid>74237</definitionid>
+      <score>1</score>
+      <glossword word="agma" />
+      <glossword word="eng" />
+      <glossword word="ng" />
 </valsi>
 <valsi word="ni" type="cmavo">
   <rafsi>nil</rafsi>
@@ -161258,7 +161292,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ (entity) tends, has tendency to $x_2$ (property of $x_1$)</definition>
       <definitionid>52737</definitionid>
-      <score>4</score>
+      <score>3</score>
       <notes>See {dikni}, {lakne}. Proposed rafsi: -te&apos;e-</notes>
       <glossword word="tend to" />
 </valsi>
@@ -167718,6 +167752,18 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>5</score>
       <notes>See also {trangeni}, {lingeni}. Proposed rafsi -tos-.</notes>
       <glossword word="transgender" sense="gender identity" />
+</valsi>
+<valsi unofficial="true" word="tonzo" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Toaq language/culture in aspect $x_2$</definition>
+      <definitionid>74239</definitionid>
+      <score>1</score>
+      <notes>{to&apos;anbau} sounds like a language name ending in -bau like {jbobau}, but actually means &apos;$x_1$ reflects Toaq language or culture [...]&apos; and not &apos;$x_1$ is Toaq spoken by $x_2$&apos;, so you&apos;d have to say... to&apos;anbau&apos;ybau? for an explicit language name. {tonzo} avoids the double -bau- by having the language be tonzybau. Proposed rafsi -toz-, which would allow for even shorter tozbau, but -toz- would have to be &quot;stolen&quot; from the experimental particle {to&apos;ai}.</notes>
+      <glossword word="Toaq" sense="language or culture" />
+      <glossword word="Toaqic" sense="language or culture" />
 </valsi>
 <valsi word="to'o" type="cmavo">
   <selmaho>FAhA4</selmaho>
@@ -200549,6 +200595,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Lojban flag" valsi="jbolanci" />
 <nlword word="Lojbanic flag" valsi="jbolanci" />
 <nlword word="Lojban letter" valsi="jbole&apos;u" place="1" />
+<nlword word="Lojbanic lobotomy" valsi="jbolotomi" />
 <nlword word="bonobo" valsi="jbonobo" />
 <nlword word="Lojbanic friend" valsi="jbope&apos;o" />
 <nlword word="Lojbanist" sense="user" valsi="jbopli" />
@@ -205474,6 +205521,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="underpants" valsi="nerpalku" />
 <nlword word="underwear" sense="inner garment" valsi="nerta&apos;u" />
 <nlword word="south of" valsi="ne&apos;u" />
+<nlword word="agma" valsi="ng bu" />
+<nlword word="eng" valsi="ng bu" />
+<nlword word="ng" valsi="ng bu" />
 <nlword word="amount abstract" valsi="ni" />
 <nlword word="below" valsi="ni&apos;a" />
 <nlword word="append covariant index" sense="math" valsi="ni&apos;a&apos;au" />
@@ -212703,6 +212753,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Tonberry" sense="Final Fantasy creature" valsi="tonberi" />
 <nlword word="tone" valsi="tonga" />
 <nlword word="transgender" sense="gender identity" valsi="tonsi" />
+<nlword word="Toaq" sense="language or culture" valsi="tonzo" />
+<nlword word="Toaqic" sense="language or culture" valsi="tonzo" />
 <nlword word="away from point" valsi="to&apos;o" />
 <nlword word="from" sense="with separation" valsi="to&apos;o" />
 <nlword word="go away" valsi="to&apos;okla" />
