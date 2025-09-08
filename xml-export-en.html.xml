@@ -12500,7 +12500,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$x_1$ is an outboard motor for boat $x_2$.</definition>
       <definitionid>74234</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {bloti}, {bartu}, {matra}.</notes>
       <glossword word="outboard motor" />
       <keyword word="outboard motor" place="1" />
@@ -20165,7 +20165,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$x_1$ makes a pilgrimage to/visits significant place $x_2$.</definition>
       <definitionid>74236</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Uses broadest possible interpretation of {censa}. $x_2$&apos;s significance need not be religious or spiritual. See {censa}, {stuzi}, {vitke}, {cesystu}, {stuvi&apos;e}.</notes>
       <glossword word="make a pilgrimage" />
       <glossword word="pilgrim" />
@@ -22383,7 +22383,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$x_1$ is a frog/toad of species/variety $x_2$</definition>
       <definitionid>74179</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="frog" sense="tailless amphibian" />
       <glossword word="toad" sense="tailless amphibian" />
 </valsi>
@@ -30193,7 +30193,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
     <username>Qimar</username>
     <realname>Sean S</realname>
   </user>
-      <definition>$x_1$ practices/exercises/studies/improves at doing/being $x_2$ by doing/being $x_3$</definition>
+      <definition>$x_1$ practices/exercises/studies/improves at doing/being $x_2$ by method $x_3$</definition>
       <definitionid>73831</definitionid>
       <score>3</score>
       <notes>gismu version of {crezenzu&apos;e}</notes>
@@ -37836,7 +37836,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a lightbulb/light bulb made of $x_2$</definition>
       <definitionid>74233</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="light bulb" sense="electric light component" />
       <glossword word="lightbulb" sense="electric light component" />
       <keyword word="lightbulb" place="1" sense="electric light component" />
@@ -38323,7 +38323,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$s_1$ is an omen predicting fate $s_2$ to person(s) $s_3$</definition>
       <definitionid>74240</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {dimna} {sinxa}</notes>
 </valsi>
 <valsi word="dinalit" type="cmevla">
@@ -38504,7 +38504,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a &apos;dinosaur&apos; [very general: any ancient quasi-reptilian vertebrate or, possibly but probably not, modern bird] of type $x_2$ living in era $x_3$.</definition>
       <definitionid>56881</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>A gismu version of &quot;{dinsauru}&quot;; contrast with &quot;{rexsa}&quot; (in particular, this word probably would not but could refer to modern birds whereas &quot;{rexsa}&quot; can always do so without any connotation to the contrary; meanwhile, &quot;{rexsa}&quot; cannot refer to pterosaurs, ichthyosaurs, vel sim. but this word can). The use of this word is not strictly only relevant to members of clade Dinosauria, although it does include them (and, specifically, modern birds, although it connotes ancientness and extinction unless it is part of an explicitly contrary or general context); its referent might also/alternatively include pterosaurs, icthyosaurs, plesiosaurs, mosasaurs, dimetrodons, avemetatarsaliads, and perhaps even other ancient synapsids (in other words, any prehistoric quasi-reptilian vertebrate). As such, it is a qualitative word that bears no particular or strong attention or respect to genealogy, cladistics, taxology/taxonomy, or scientific/academic classification of these animals. Basically, any prehistoric animal the name of which ends in &quot;-saur&quot; can be so-described, as well as others. It probably should not reference more modern-like mammals proper. Proposed short rafsi: -dis-. See also: &quot;{rexsa}&quot;, &quot;{ketslau}&quot;, &quot;{ikfiio}&quot;, &quot;{disrmuzo}&quot;, &quot;{plesiio}&quot;.</notes>
       <glossword word="ancient quasi-reptilian vertebrate" />
       <glossword word="dinosaur" sense="completely general" />
@@ -64561,7 +64561,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$c_1$ is a priest/pastor/imam of community $c_2$ adhering to religion  $l_1$.</definition>
       <definitionid>18521</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {lijda}, {catni}, {jdatro}, {jdaja&apos;a}, {ravboni}.</notes>
       <glossword word="imam" />
       <glossword word="pastor" />
@@ -78774,6 +78774,17 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <notes>In other words, each of these following three sets is nonempty: $x_1 \setminus x_2$, and $x_2 \setminus x_1$, and the intersection of $x_1$ with $x_2$. There is no word/terminology in English for this concept, to krtisfranks&apos; knowledge. $x_1$ and  $x_2$ are mutually symmetric terbri under transposition with one another. The empty set and a universal set are disallowed for $x_1$ (thus also $x_2$). If $x_1 = x_2$, then $x_1$ na klesrverlapi $x_2$ (emphasis on &quot;na&quot;). This word encompasses the sets which are shown as circles in the traditional Venn diagram.</notes>
       <glossword word="overlapping sets" sense="nonempty intersection but not subsets" />
 </valsi>
+<valsi unofficial="true" word="kligo" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Klingon language/culture in aspect $x_2$</definition>
+      <definitionid>74241</definitionid>
+      <score>2</score>
+      <notes>Proposed rafsi -kig-. Many freeword synonyms: {klingona}, {utlinani}, {utlingano}, {utlingo}, and the autogenerated ISO-code {bantuluxe}.</notes>
+      <glossword word="Klingon" sense="language or culture" />
+</valsi>
 <valsi word="kli'iki" type="fu'ivla">
   <user>
     <username>spheniscine</username>
@@ -85018,7 +85029,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$b_1$ is an amount of cloth/fabric consisting of wool from sheep of species/breed $l_2$ of flock $l_3$.</definition>
       <definitionid>70820</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>May (debatably) refer to blends of wool and other fibers, as long as wool is a principal ingredient.</notes>
       <glossword word="wool" sense="cloth" />
       <glossword word="wool" sense="fabric" />
@@ -165258,7 +165269,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>conversion: move/promote [&apos;drag-and-drop&apos;] 3rd place to 1st position. Everything else stays in the same order.</definition>
       <definitionid>37908</definitionid>
-      <score>6</score>
+      <score>7</score>
       <notes>Before: x1 x2 x3 x4 x5, after: x3 x1 x2 x4 x5. Has the same effect as &quot;te se&quot;. Proposed rafsi: -toz-. See also {vo&apos;ai}, {xo&apos;ai}.</notes>
       <glossword word="3rd promotion" />
       <glossword word="in-place 3rd conversion" />
@@ -167760,7 +167771,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ reflects Toaq language/culture in aspect $x_2$</definition>
       <definitionid>74239</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>{to&apos;anbau} sounds like a language name ending in -bau like {jbobau}, but actually means &apos;$x_1$ reflects Toaq language or culture [...]&apos; and not &apos;$x_1$ is Toaq spoken by $x_2$&apos;, so you&apos;d have to say... to&apos;anbau&apos;ybau? for an explicit language name. {tonzo} avoids the double -bau- by having the language be tonzybau. Proposed rafsi -toz-, which would allow for even shorter tozbau, but -toz- would have to be &quot;stolen&quot; from the experimental particle {to&apos;ai}.</notes>
       <glossword word="Toaq" sense="language or culture" />
       <glossword word="Toaqic" sense="language or culture" />
@@ -189874,7 +189885,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ is an artery of $x_2$</definition>
       <definitionid>74069</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>see also {zorblutu&apos;u}</notes>
       <glossword word="artery" sense="blood vessel" />
       <keyword word="artery" place="1" sense="blood vessel" />
@@ -190951,7 +190962,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ is some writing on $x_2$ made with implement $x_3$.</definition>
       <definitionid>72505</definitionid>
-      <score>2</score>
+      <score>3</score>
 </valsi>
 <valsi word="zilcmi" type="lujvo">
   <user>
@@ -192336,7 +192347,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ is a vein of $x_2$</definition>
       <definitionid>74070</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>see also {zevblutu&apos;u}</notes>
       <glossword word="vein" sense="blood vessel" />
       <keyword word="vein" place="1" sense="blood vessel" />
@@ -202218,6 +202229,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="class" sense="biology" valsi="klesrklasi" />
 <nlword word="overlapping sets" sense="nonempty intersection and symmetric difference" valsi="klesrverlapi" />
 <nlword word="overlapping sets" sense="nonempty intersection but not subsets" valsi="klesrverlapi" />
+<nlword word="Klingon" sense="language or culture" valsi="kligo" />
 <nlword word="click" sense="computer" valsi="kli&apos;iki" />
 <nlword word="grab" sense="start click-drag action" valsi="klikeco&apos;a" />
 <nlword word="drop" sense="complete click-drag action" valsi="klikemo&apos;u" />
