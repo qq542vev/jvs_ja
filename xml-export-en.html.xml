@@ -8738,6 +8738,16 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <keyword word="future" place="3" sense="time/place beyond the present in time" />
       <keyword word="grounds" place="4" sense="reason(s)" />
 </valsi>
+<valsi word="bavjijnu" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ divines/does divination on $x_2$(du&apos;u) about subject $x_3$ by method $x_4$</definition>
+      <definitionid>74243</definitionid>
+      <score>1</score>
+      <notes>cf. {balvi} {jijnu}  see also {bavji&apos;i}.</notes>
+</valsi>
 <valsi word="bavla'i" type="lujvo">
   <user>
     <username>arj</username>
@@ -57932,7 +57942,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is a scraper/file (tool) made of $x_2$</definition>
       <definitionid>74230</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="file" sense="tool" />
       <glossword word="scraper" sense="tool" />
       <keyword word="scraper" place="1" sense="tool" />
@@ -67277,7 +67287,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1$ romanticizes $x_2$ (event/state). $x_1$ views/thinks of $x_2$ in a way that is unrealistically positive or idealized.</definition>
       <definitionid>74229</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {jitfa}, {zabna}, {pensi}.</notes>
       <glossword word="romanticise" sense="view favourably" />
       <glossword word="romanticize" sense="view favorably" />
@@ -89395,6 +89405,17 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <score>1</score>
       <glossword word="Los Angeles" />
 </valsi>
+<valsi unofficial="true" word="losmo" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects (ex-)Ottoman culture/language/empire in aspect $x_2$</definition>
+      <definitionid>74244</definitionid>
+      <score>1</score>
+      <notes>Proposed rafsi -los-. An alternative to {samlu}, which has no short rafsi and doesn&apos;t end in -o like other cultural roots do. See also {turko}, and everything else linked in the {samlu} entry.</notes>
+      <glossword word="Ottoman" sense="culture, language, or empire" />
+</valsi>
 <valsi word="losupan" type="cmevla">
   <user>
     <username>gleki</username>
@@ -90923,6 +90944,15 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <score>1</score>
       <notes>If any at least two elements of the input tuple are mutually equal (id est: if there exists $i$ and $j$ which are strictly positive integers which do not exceed $n$ such that $a_i = a_j$, where the input tuple is as defined supra), then the output is $0$; else, the output is sgn$((a_1, a_2,$ ... $, a_n))$, where the input to the sgn function there is a permutation denoted in one-line permutation notation. This format is somewhat consistent with index notation in tensor calculus, but treats the indices as ordered entries of a tuple. More generally, the Levi-Civita symbol may be defined for any function $f$ which maps space $S$ to $S$; in such case, the input could be $f$ instead of the aforementioned tuple. Covariant and contravariant Levi-Civita tensors can also be defined. See also: &quot;{mai&apos;u&apos;e}&quot;, &quot;{mai&apos;u}&quot;.</notes>
       <glossword word="Levi-Civita symbol" />
+</valsi>
+<valsi word="maixra" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a sculpture / 3-dimensional work of art depicting $x_2$ made by artist $x_3$ using material $x_4$</definition>
+      <definitionid>74247</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="majbi'o" type="lujvo">
   <user>
@@ -99520,7 +99550,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a file (tool) made of $x_2$</definition>
       <definitionid>74231</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="file" sense="abrasive tool" />
       <keyword word="file" place="1" sense="abrasive tool" />
 </valsi>
@@ -121601,6 +121631,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="predict" />
       <keyword word="prognosticator" place="1" />
 </valsi>
+<valsi word="prukai" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$c_1$ is old-fashioned, outdated, antiquated in property $c_2$</definition>
+      <definitionid>74246</definitionid>
+      <score>1</score>
+      <notes>cf {purci} {ckaji}  see also {laldymle}.</notes>
+</valsi>
 <valsi word="prula'i" type="lujvo">
   <user>
     <username>arj</username>
@@ -142240,6 +142280,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definitionid>73791</definitionid>
       <score>1</score>
       <glossword word="inside out" />
+</valsi>
+<valsi unofficial="true" word="sfeno" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Swedish culture/nationality/language in aspect $x_2$ </definition>
+      <definitionid>74245</definitionid>
+      <score>2</score>
+      <notes>From Swedish svensk. Proposed rafsi -se&apos;o-.</notes>
+      <glossword word="Swedish" sense="culture, nationality, language" />
 </valsi>
 <valsi unofficial="true" word="sferies" type="obsolete cmevla">
   <user>
@@ -169356,7 +169407,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ fucking is/does something (to/with $x_2$, $x_3$)...</definition>
       <definitionid>74208</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Vulgar elliptical/unspecified bridi relationship. Like {co&apos;e} but a profanity/swear word. Rafsi: -tso-. (Does not imply {mabla}: tsoza&apos;a might mean &quot;fucking awesome.&quot;)</notes>
 </valsi>
 <valsi word="tsakura" type="fu'ivla">
@@ -203369,6 +203420,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="aloe vera" sense="plant" valsi="lorvera" />
 <nlword word="fox" valsi="lorxu" />
 <nlword word="Los Angeles" valsi="losanjylys" />
+<nlword word="Ottoman" sense="culture, language, or empire" valsi="losmo" />
 <nlword word="error quote" valsi="lo&apos;u" />
 <nlword word="quote" valsi="lu" />
 <nlword word="the individuals of" valsi="lu&apos;a" />
@@ -209652,6 +209704,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="topology" sense="mathematics" valsi="sfecmaci" />
 <nlword word="Swedish" valsi="sfe&apos;ero" place="1" />
 <nlword word="Swedish aspect" valsi="sfe&apos;ero" place="2" />
+<nlword word="Swedish" sense="culture, nationality, language" valsi="sfeno" />
 <nlword word="Sweden" valsi="sferies" />
 <nlword word="hammerhead" valsi="sfirnidai" />
 <nlword word="hammerhead shark" valsi="sfirnidai" />
