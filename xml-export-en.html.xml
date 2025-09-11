@@ -67115,7 +67115,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1 = r_1$ is an organelle [cellular &apos;body-part&apos;] of $x_2 = r_2 = s_1 \approx j_1$ which is or ideally should be performing function(s) $x_3 = r_3$.</definition>
       <definitionid>73559</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>See also: &quot;{ji&apos;esle}&quot; and &quot;{rango}&quot;.</notes>
       <glossword word="organelle" />
 </valsi>
@@ -69345,7 +69345,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$s_1=j_1$ misunderstands fact/truth $j_2$ (du&apos;u) about subject $j_3$, an error under conditions $s_3$ by standard $s_4$.</definition>
       <definitionid>16570</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>The implication is that x2 is understood by x1 about x3, but that this is an incorrect understanding. See {ki&apos;a}, {uafli}.</notes>
       <glossword word="misconceive" />
       <glossword word="misconstrue" />
@@ -96025,7 +96025,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a radius of shape $x_2$</definition>
       <definitionid>68085</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>See {mijgresirji}, {midju}, {dirce}, {sirji}</notes>
       <glossword word="radius" />
 </valsi>
@@ -96046,7 +96046,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a diameter between $x_2$ and $x_3$ of $x_4$.</definition>
       <definitionid>13874</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="diameter" />
       <keyword word="diameter" place="1" />
 </valsi>
@@ -97362,7 +97362,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$r_1$ is an organelle of $r_2=s_1=j_1$ performing function $r_3$.</definition>
       <definitionid>20460</definitionid>
-      <score>5</score>
+      <score>6</score>
       <notes>Lujvo-scoring algorithm prefers: &quot;{ji&apos;erslerango}&quot; over/to this word. See also: &quot;{ji&apos;esle}&quot; and &quot;{rango}&quot;.</notes>
       <glossword word="organelle" />
 </valsi>
@@ -139383,7 +139383,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$s_2$ is a song sung by $s_1$ to audience $s_3$.</definition>
       <definitionid>17851</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {zgike}.</notes>
       <glossword word="song" sense="music with voice" />
 </valsi>
