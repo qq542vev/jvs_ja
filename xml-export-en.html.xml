@@ -14564,7 +14564,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$d_1=b_1$ is a continent in ocean/on planet $d_3$.</definition>
       <definitionid>14263</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="continent" />
 </valsi>
 <valsi word="brarafsi" type="lujvo">
@@ -15948,7 +15948,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$s_1$ is a brother&apos;s spouse of $m_2$ under law/custom/tradition/system/convention $sp_3$.</definition>
       <definitionid>17190</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Omit $x_4=s_2=m_1$. Cf. {speni}, {me&apos;ispe}, {tubyspe}, {spebu&apos;a}.</notes>
       <glossword word="brother-in-law" sense="spouse of brother" />
       <glossword word="brother&apos;s spouse" />
@@ -16763,7 +16763,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$cat_1=can_1$ is a lurker/inactively watches $cat_2$</definition>
       <definitionid>18765</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See also: {bebzunpre}, {irci}</notes>
       <glossword word="lurks" sense="passively watches" />
       <keyword word="lurker" place="1" sense="a passive watcher" />
@@ -17081,7 +17081,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$b_1$ is a bandage, plaster or compress over wound $c_1$.</definition>
       <definitionid>65803</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="bandage" sense="wound cover" />
 </valsi>
 <valsi word="cagyce'u" type="lujvo">
@@ -34973,7 +34973,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$m_1$ is a marsupial mammal of species $m_2$.</definition>
       <definitionid>16492</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {daski}, {mabru}, {daskycribe}, {kanguru}.</notes>
       <glossword word="marsupial" sense="mammal" />
 </valsi>
@@ -40949,7 +40949,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is a hydrocarbon (organic compound consisting entirely of hydrogen and carbon)</definition>
       <definitionid>69174</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="hydrocarbon" sense="organic compound" />
       <keyword word="hydrocarbon" place="1" sense="organic compound" />
 </valsi>
@@ -44830,7 +44830,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ commits arson</definition>
       <definitionid>70592</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>from {fagbetri} + {gasnu}</notes>
       <glossword word="commit arson" />
       <keyword word="arsonist" place="1" />
@@ -48161,14 +48161,13 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
 </valsi>
 <valsi word="fikcku" type="lujvo">
   <user>
-    <username>sarefo</username>
-    <realname>sarefo</realname>
+    <username>gleki-ponjo</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
   </user>
-      <definition>$cu_1=cf_1$ is a fictional book about plot/theme/subject $cf_1$ by author $cu_3=cf_3$ for audience $cu_4$ preserved in medium $cu_5$.</definition>
-      <definitionid>17018</definitionid>
-      <score>1</score>
-      <notes>Cf. {lisycku}, {ctucku}, {tadycku}, {ckusro}, {cesysku}.</notes>
-      <glossword word="fiction book" />
+      <definition>$cu_1=cf_1$ is a book containing a work of fiction $cu_2=cf_1$ by author $cu_3=cf_3$ for audience $cu_4$ preserved in medium $cu_5$.</definition>
+      <definitionid>72589</definitionid>
+      <score>2</score>
+      <notes>See also {cfika}.</notes>
 </valsi>
 <valsi word="fikrfantasi" type="fu'ivla">
   <user>
@@ -94314,7 +94313,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$s_1$ is a sister&apos;s spouse of $m_2$ under law/custom/tradition/system/convention $sp_3$.</definition>
       <definitionid>16401</definitionid>
-      <score>4</score>
+      <score>5</score>
       <notes>Omit $x_4=s_2=m_1$. Cf. {speni}, {bunspe}, {tubyspe}, {speme&apos;i}.</notes>
       <glossword word="sister-in-law" sense="spouse of sister" />
       <glossword word="sister&apos;s spouse" />
@@ -102740,7 +102739,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a samara of $x_2$ for producing offspring $x_3$.</definition>
       <definitionid>15011</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>see also {a&apos;orne}, {ulmu}</notes>
       <glossword word="samara" />
 </valsi>
@@ -152574,7 +152573,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a brother-in-law (brother of a spouse) of $x_2$ according to custom/law $x_3$.</definition>
       <definitionid>69368</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>$x_1$ is a brother of a spouse of $x_2$. For &quot;spouse of sibling&quot; use &quot;{tubyspe}&quot;, &quot;{bunspe}&quot; (brother&apos;s spouse), &quot;{me&apos;ispe}&quot; (sister&apos;s spouse)&apos; for other &quot;sibling of spouse&quot; use &quot;{speme&apos;i}&quot; (sister of spouse) or &quot;{spetunba}&quot; (sibling of spouse); for &quot;sibling of one&apos;s sibling&apos;s spouse&quot; use {tubyspetunba} vel sim. See also: {spelanzu}.</notes>
       <glossword word="BiL" sense="brother-in-law; brother of spouse" />
       <glossword word="brother-in-law" sense="brother of spouse" />
@@ -152660,7 +152659,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a sister-in-law (sister of a spouse) of $x_2$ according to custom/law $x_3$.</definition>
       <definitionid>69370</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>For &quot;spouse of sibling&quot; use &quot;{tubyspe}&quot;, &quot;{bunspe}&quot; (brother&apos;s spouse), &quot;{me&apos;ispe}&quot; (sister&apos;s spouse); for other &quot;sibling of spouse&quot; use &quot;{spebu&apos;a}&quot; (brother of spouse) or &quot;{spetunba}&quot; (sibling of spouse); for &quot;sibling of one&apos;s sibling&apos;s spouse&quot; use {tubyspetunba} vel sim. See also: {spelanzu}.</notes>
       <glossword word="SiL" sense="sister-in-law; sister of spouse" />
       <glossword word="sister-in-law" sense="sister of spouse" />
@@ -152796,7 +152795,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a sibling-in-law (sibling of a spouse) of $x_2$ according to custom/law $x_3$.</definition>
       <definitionid>69369</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>For &quot;spouse of sibling&quot; use &quot;{tubyspe}&quot;, &quot;{bunspe}&quot; (brother&apos;s spouse), &quot;{me&apos;ispe}&quot; (sister&apos;s spouse); for other &quot;sibling of spouse&quot; use &quot;{spebu&apos;a}&quot; (brother of spouse) or &quot;{speme&apos;i}&quot; (sister of spouse); for &quot;sibling of one&apos;s sibling&apos;s spouse&quot; use {tubyspetunba} vel sim. See also: {spelanzu}.</notes>
       <glossword word="sibling-in-law" sense="sibling of spouse" />
       <glossword word="sibling of spouse" />
@@ -170271,7 +170270,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$s_1$ is a brother/sister-in-law (brother&apos;s/sister&apos;s spouse) of $m_2$ under law/custom/tradition/system/convention $sp_3$.</definition>
       <definitionid>17191</definitionid>
-      <score>2</score>
+      <score>4</score>
       <notes>Omit $x_4=s_2=m_1$. Cf. {speni}, {bunspe}, {me&apos;ispe}, {spetunba}.</notes>
       <glossword word="brother-in-law" sense="spouse of brother" />
       <glossword word="person married to one&apos;s sibling" />
@@ -192761,7 +192760,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
   </user>
       <definition>$x_1$ imitates/mimics/emulates $x_2$ in property $x_3$ (ka)</definition>
       <definitionid>74062</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="copy" sense="mimic" />
       <glossword word="emulate" />
       <glossword word="imitate" sense="mimic" />
@@ -198917,7 +198916,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="fika" sense="small meal" valsi="fi&apos;ikca" place="3" />
 <nlword word="fika-type-of friend" valsi="fi&apos;ikca" place="2" />
 <nlword word="inhospitality" valsi="fi&apos;inai" />
-<nlword word="fiction book" valsi="fikcku" />
 <nlword word="fantasy" sense="fictional work" valsi="fikrfantasi" />
 <nlword word="fern" valsi="filcina" place="1" />
 <nlword word="kind of fern" valsi="filcina" place="2" />
