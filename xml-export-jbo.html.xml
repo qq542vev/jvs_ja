@@ -34601,6 +34601,16 @@
       <score>1</score>
       <notes>{ckini}; {kulnu}; {bangu}; {cecmu}</notes>
 </valsi>
+<valsi word="spetunba" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ tunba lo speni be $x_2$ bei $x_3$</definition>
+      <definitionid>74248</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {speni} .e zo {tunba}</notes>
+</valsi>
 <valsi word="spisa" type="gismu">
   <rafsi>spi</rafsi>
   <user>
@@ -38681,6 +38691,16 @@
       <definitionid>66807</definitionid>
       <score>2</score>
       <notes>.i lu {tu&apos;ai} selsku {li&apos;u} li&apos;u dunli lu {tu&apos;a} {la&apos;e} {lu} selsku {li&apos;u} {lu&apos;u} {lu&apos;u} li&apos;u lo ka smuni .i mupli fa lu lo xindo cu facki tu&apos;ai no li&apos;u li&apos;u .i srana zo {xu&apos;u}</notes>
+</valsi>
+<valsi word="tubyspe" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ speni lo tunba be $x_2$ $x_3$</definition>
+      <definitionid>74249</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {tunba} .e zo {speni}</notes>
 </valsi>
 <valsi word="tu'e" type="cmavo">
   <selmaho>TUhE</selmaho>
