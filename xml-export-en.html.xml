@@ -71730,6 +71730,17 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <notes>s3 will likely just be morphological structure. Strict jvocme are a subclass of jvosmicme.  The name must &quot;look like&quot; a (sequence of) lujvo (according to Lojban rules), but need not exactly follow the morphological requirements thereof (in particular, c1 may end with a consonant, in which case it is a {jvocmeborvla}). See also: {jvocme} (a specialization), {jvocmeborvla} (a specialization), {brivlasmicme} (a generalization); essentially synonymous with {jvocmevla}.</notes>
       <glossword word="lujvo name" sense="morphologically lujvo-like name (loose)" />
 </valsi>
+<valsi unofficial="true" word="jvoso" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Viossa (the conpidgin) language/culture in aspect $x_2$</definition>
+      <definitionid>74250</definitionid>
+      <score>2</score>
+      <notes>Etymology: Viossa &gt; *vjoso (turning the i into a j, as in {libjo} from Libya, or u &gt; v in {vukro} &apos;Ukrainian&apos;) &gt; jvoso (resolving the illegal cluster). Proposed rafsi -vos-. Coined by Mati and Evie.</notes>
+      <glossword word="Viossa" sense="language, culture, conpidgin" />
+</valsi>
 <valsi word="jvotau" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -112402,6 +112413,18 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
       <score>100000</score>
       <notes>Passing through in both directions (= rolfargre, pagre ... .i so&apos;ivo&apos;ivo&apos;u (and vice versa)).  See also {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta}, {canko}, {ragve}.</notes>
       <glossword word="pass through" />
+</valsi>
+<valsi unofficial="true" word="pagro" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Paraguayan language/culture/nationality in aspect $x_2$</definition>
+      <definitionid>74252</definitionid>
+      <score>1</score>
+      <notes>I would have done &quot;pargo&quot; for this, but the rafsi was worth it. Proposed rafsi -gro-.</notes>
+      <glossword word="Paraguay" sense="language, culture, nationality" />
+      <glossword word="Paraguayan" sense="language, culture, nationality" />
 </valsi>
 <valsi word="pagygu'e" type="lujvo">
   <user>
@@ -158411,8 +158434,8 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>discursive: expanding the tanru - making a tanru.</definition>
       <definitionid>2211</definitionid>
-      <score>100001</score>
-      <notes>See also {tanru}.</notes>
+      <score>100002</score>
+      <notes>Discursive attitudinal; marks that one is explaining the meaning of a tanru by expanding it into a longer expression with, for example, a relative clause. Example: lumci cinza .i ta&apos;u cinza be fi lo ba&apos;o se lumci &apos;a wash-pincher, that is, something that pinches a thing that has been washed&apos; [= a clothespin]. See also {tanru}.</notes>
       <glossword word="expanding a tanru" />
 </valsi>
 <valsi word="tau" type="cmavo">
@@ -193466,6 +193489,17 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
       <glossword word="hack" sense="invent an emergent solution/use" />
       <keyword word="hack" place="2" sense="emergent solution/use for a system/tool" />
 </valsi>
+<valsi unofficial="true" word="zvomo" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Finnish language/culture/nationality in aspect $x_2$</definition>
+      <definitionid>74251</definitionid>
+      <score>2</score>
+      <notes>From Finnish suomi &apos;Finnish&apos; (the language), Suomi &apos;Finland&apos;. Proposed rafsi -zvo-.</notes>
+      <glossword word="Finnish" sense="language, culture, nationality" />
+</valsi>
 <valsi unofficial="true" word="zvuzu" type="experimental gismu">
   <user>
     <username>lamisotanis</username>
@@ -201489,6 +201523,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="lujvo-like cmevla" valsi="jvocmevo" />
 <nlword word="lujvo conflict" valsi="jvopro" />
 <nlword word="lujvo name" sense="morphologically lujvo-like name (loose)" valsi="jvosmicme" />
+<nlword word="Viossa" sense="language, culture, conpidgin" valsi="jvoso" />
 <nlword word="base compound phrase" valsi="jvotau" />
 <nlword word="base tanru" sense="of lujvo" valsi="jvotau" />
 <nlword word="lujvo score" sense="Lojban" valsi="jvova&apos;i" place="1" />
@@ -206263,6 +206298,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="overlap" sense="mereological" valsi="pagbrkuclapi" />
 <nlword word="part" valsi="pagbu" />
 <nlword word="pass through" valsi="pagre" />
+<nlword word="Paraguay" sense="language, culture, nationality" valsi="pagro" />
+<nlword word="Paraguayan" sense="language, culture, nationality" valsi="pagro" />
 <nlword word="constituent country" valsi="pagygu&apos;e" />
 <nlword word="department store" valsi="pagzai" />
 <nlword word="participate" sense="take part" valsi="pagzu" />
@@ -215629,6 +215666,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="hack" sense="unexpectedly accesses" valsi="zvijonse" />
 <nlword word="hack" sense="emergent solution/use for a system/tool" valsi="zviki" place="2" />
 <nlword word="hack" sense="invent an emergent solution/use" valsi="zviki" />
+<nlword word="Finnish" sense="language, culture, nationality" valsi="zvomo" />
 <nlword word="z" valsi="zy" />
 <nlword word="a certain" sense="something whose identity is ascertainable from context" valsi="zy&apos;oi" />
 </direction></dictionary>
