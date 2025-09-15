@@ -9704,16 +9704,6 @@
       <score>1</score>
       <notes>{jalge}; {du}</notes>
 </valsi>
-<valsi word="fancuka" type="fu'ivla">
-  <user>
-    <username>Ilmen</username>
-    <realname>Ilmen</realname>
-  </user>
-      <definition>lo nu makau ckaji $x_1$ cu selja&apos;e lo nu makau ckaji $x_2$</definition>
-      <definitionid>65713</definitionid>
-      <score>1</score>
-      <notes>srana fa zo {selja&apos;e}</notes>
-</valsi>
 <valsi word="fanduse" type="fu'ivla">
   <user>
     <username>Ilmen</username>
