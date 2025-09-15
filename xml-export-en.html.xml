@@ -23792,6 +23792,19 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="cheese knife" />
       <keyword word="cheese knife" place="1" />
 </valsi>
+<valsi word="cirlynanba" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is cheesebread (pão de queijo).</definition>
+      <definitionid>74253</definitionid>
+      <score>1</score>
+      <notes>Small Brazilian cheese roll. Calqued from the Portuguese term.</notes>
+      <glossword word="cheesebread" />
+      <glossword word="cheese roll" />
+      <glossword word="pão de queijo" />
+</valsi>
 <valsi word="cirmi'o" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -45511,7 +45524,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>what satisfies property $x_1$ conditions what satisfies property $x_2$; what satisfies $x_2$ depends on what satisfies $x_1$</definition>
       <definitionid>65716</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>Synonym: {kaunka}</notes>
 </valsi>
 <valsi word="fancuvitno" type="fu'ivla">
@@ -66393,6 +66406,19 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <glossword word="clock orientation" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" />
       <glossword word="clock position" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" />
 </valsi>
+<valsi word="jgauzi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is jiaozi/gyoza containing $x_2$</definition>
+      <definitionid>74254</definitionid>
+      <score>1</score>
+      <notes>$x_2$ is the filling (see {pelmeni}). From Mandarin jiǎozi, with a g- from cognate Cantonese gaau2 zi2, Japanese gyōza to form a cluster.</notes>
+      <glossword word="dumpling" sense="gyoza, jiaozi" />
+      <glossword word="gyoza" />
+      <glossword word="jiaozi" />
+</valsi>
 <valsi word="jgegau" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -70052,7 +70078,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$j_1$ plays tennis against $j_2$ in competition $j_3$ for prize/title $j_4$.</definition>
       <definitionid>73337</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {julne}, {bolci}, {jivna}, {ga&apos;arboijvi}, {bolrtenis}.</notes>
       <glossword word="tennis" sense="playing tennis" />
 </valsi>
@@ -76043,7 +76069,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a point in game $x_2$</definition>
       <definitionid>57296</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="point" sense="score of a game" />
 </valsi>
 <valsi word="kelnomfli" type="lujvo">
@@ -99668,6 +99694,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <glossword word="Welsh" />
       <keyword word="Welsh" place="1" />
 </valsi>
+<valsi word="mrajane" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is mahjong played by $x_2$</definition>
+      <definitionid>74255</definitionid>
+      <score>1</score>
+      <notes>From Mandarin májiàng, Japanese mājan.</notes>
+      <glossword word="mahjong" />
+</valsi>
 <valsi word="mraji" type="gismu">
   <user>
     <username>officialdata</username>
@@ -110117,8 +110154,8 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a non-binary humanoid person [not necessarily adult].</definition>
       <definitionid>56853</definitionid>
-      <score>4</score>
-      <notes>Does not imply asexuality/agenderness (or sexuality/genderedness). See discussion associated with &quot;{dinti}&quot; concerning whether this meaning is restricted to &quot;affirmatively nonbinary&quot; or whether it is more general.  Umbrella term for any non-man, non-woman (in some aspect/consideration/standard) humanoid person. As such, it is a specification of &quot;{rempre}&quot;/&quot;{remna}&quot;/&quot;{prenu}&quot; co-equal with and analogizing &quot;{ninmu}&quot; and &quot;{nanmu}&quot;; it generalized some of the aforementioned cases. Word dispreferred in metaphor/example as sexist or exclusionary; use instead &quot;{remna}&quot; or &quot;{prenu}&quot;. See also: &quot;{ninmu}&quot;, &quot;{nanmu}&quot;, &quot;{remna}&quot;, &quot;{prenu}&quot;, &quot;{makcu}&quot;, &quot;{bersa}&quot;, &quot;{tixnu}&quot;, &quot;{paznu}&quot;, &quot;{nakni}&quot;, &quot;{fetsi}&quot;, &quot;{dinti}&quot;, &quot;{nanla}&quot;, &quot;{nixli}&quot;, &quot;{verba}&quot;, &quot;{vepre}&quot;, &quot;{nenmu}&quot;, &quot;{nonmu}&quot;.</notes>
+      <score>5</score>
+      <notes>Does not imply asexuality/agenderness (or sexuality/genderedness). See discussion associated with &quot;{dinti}&quot; concerning whether this meaning is restricted to &quot;affirmatively nonbinary&quot; or whether it is more general.  Umbrella term for any non-man, non-woman (in some aspect/consideration/standard) humanoid person. As such, it is a specification of &quot;{rempre}&quot;/&quot;{remna}&quot;/&quot;{prenu}&quot; co-equal with and analogizing &quot;{ninmu}&quot; and &quot;{nanmu}&quot;; it generalized some of the aforementioned cases. Word dispreferred in metaphor/example as sexist or exclusionary; use instead &quot;{remna}&quot; or &quot;{prenu}&quot;. See also: &quot;{ninmu}&quot;, &quot;{nanmu}&quot;, &quot;{remna}&quot;, &quot;{prenu}&quot;, &quot;{makcu}&quot;, &quot;{bersa}&quot;, &quot;{tixnu}&quot;, &quot;{paznu}&quot;, &quot;{nakni}&quot;, &quot;{fetsi}&quot;, &quot;{dinti}&quot;, &quot;{nanla}&quot;, &quot;{nixli}&quot;, &quot;{verba}&quot;, &quot;{vepre}&quot;, &quot;{nenmu}&quot;, &quot;{nonmu}&quot;. Proposed rafsi -nu&apos;u-.</notes>
       <glossword word="non-binary person" />
 </valsi>
 <valsi word="nunmu'i" type="lujvo">
@@ -117396,7 +117433,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$j_1$ plays badminton against $j_2$ in competition $j_3$ for prize/title $j_4$.</definition>
       <definitionid>73338</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {pimlu}, {bolci}, {jivna}, {ga&apos;arboijvi}, {pimboi}.</notes>
       <glossword word="badminton" sense="playing badminton" />
 </valsi>
@@ -123705,7 +123742,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a highway to $x_2$ from $x_3$ with route $x_4$</definition>
       <definitionid>70593</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>from {ralju} + {dargu}</notes>
       <glossword word="highway" />
 </valsi>
@@ -196129,6 +196166,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Halloumi" sense="cheese" valsi="cirlrxalumi" />
 <nlword word="Gouda" sense="cheese" valsi="cirlrxauda" />
 <nlword word="cheese knife" valsi="cirlydakfu" place="1" />
+<nlword word="cheesebread" valsi="cirlynanba" />
+<nlword word="cheese roll" valsi="cirlynanba" />
+<nlword word="pão de queijo" valsi="cirlynanba" />
 <nlword word="historical" sense="famous" valsi="cirmi&apos;o" />
 <nlword word="thrice" valsi="ciroi" />
 <nlword word="history" sense="science" valsi="cirske" />
@@ -200956,6 +200996,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="clock direction" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
 <nlword word="clock orientation" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
 <nlword word="clock position" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
+<nlword word="dumpling" sense="gyoza, jiaozi" valsi="jgauzi" />
+<nlword word="gyoza" valsi="jgauzi" />
+<nlword word="jiaozi" valsi="jgauzi" />
 <nlword word="tie" sense="make a knot in" valsi="jgegau" />
 <nlword word="knot" valsi="jgena" />
 <nlword word="pretzel" sense="foodstuff" valsi="jgenanba" place="1" />
@@ -204749,6 +204792,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="citadel" valsi="mradi&apos;u" />
 <nlword word="fort" valsi="mradi&apos;u" />
 <nlword word="Welsh" valsi="mraigo" />
+<nlword word="mahjong" valsi="mrajane" />
 <nlword word="rye" valsi="mraji" />
 <nlword word="ergot" valsi="mrajymledi" />
 <nlword word="Burma" valsi="mranmar" />
