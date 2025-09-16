@@ -38217,7 +38217,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is clear / free of clouds / not cloudy.</definition>
       <definitionid>70958</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Normally taken to refer to a sky, of course.</notes>
       <glossword word="clear" sense="weather (not cloudy)" />
 </valsi>
@@ -47462,7 +47462,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$s_1$ is a cent coin issued by $s_2$ in monetary system $f_3$.</definition>
       <definitionid>17247</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="cent" sense="coin" />
 </valsi>
 <valsi word="ferbruua" type="fu'ivla">
@@ -66413,7 +66413,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1$ is jiaozi/gyoza containing $x_2$</definition>
       <definitionid>74254</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>$x_2$ is the filling (see {pelmeni}). From Mandarin jiǎozi, with a g- from cognate Cantonese gaau2 zi2, Japanese gyōza to form a cluster.</notes>
       <glossword word="dumpling" sense="gyoza, jiaozi" />
       <glossword word="gyoza" />
@@ -86269,7 +86269,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$d_1=l_1$ is the afternoon of day $d_2$ at location $d_3$.</definition>
       <definitionid>17888</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="afternoon" />
 </valsi>
 <valsi word="ledgrute" type="lujvo">
@@ -178497,6 +178497,19 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <notes>See also {sance}, {tirna}, {bacru}.</notes>
       <glossword word="voice" />
 </valsi>
+<valsi word="voksaroido" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a vocal synth/vocaloid</definition>
+      <definitionid>74256</definitionid>
+      <score>1</score>
+      <notes>Blend of Japanese ボーカロイド bōkaroido and {voksa}. Not restricted to Vocaloid proper; can refer to any voice synthesis software/character, just like {gugle} doesn&apos;t necessarily refer to Google. See also {sanga} &apos;sing&apos;, {minji} &apos;machine&apos; and {zmiboto} &apos;[AI] bot&apos;.</notes>
+      <glossword word="vocaloid" />
+      <glossword word="vocal synth" />
+      <glossword word="voice synthesis software" />
+</valsi>
 <valsi word="voksli" type="lujvo">
   <user>
     <username>zefram</username>
@@ -214071,6 +214084,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="4,000" valsi="voki&apos;o" />
 <nlword word="place of vocal articulation" sense="vocal sound production, linguistics" valsi="vokpravelpe&apos;u" />
 <nlword word="voice" valsi="voksa" />
+<nlword word="vocaloid" valsi="voksaroido" />
+<nlword word="vocal synth" valsi="voksaroido" />
+<nlword word="voice synthesis software" valsi="voksaroido" />
 <nlword word="trill" sense="singing" valsi="voksli" />
 <nlword word="vibrato" sense="singing" valsi="voksli" />
 <nlword word="vocal sound" valsi="voksna" />
