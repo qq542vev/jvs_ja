@@ -71763,7 +71763,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ reflects Viossa (the conpidgin) language/culture in aspect $x_2$</definition>
       <definitionid>74250</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>Etymology: Viossa &gt; *vjoso (turning the i into a j, as in {libjo} from Libya, or u &gt; v in {vukro} &apos;Ukrainian&apos;) &gt; jvoso (resolving the illegal cluster). Proposed rafsi -vos-. Coined by Mati and Evie.</notes>
       <glossword word="Viossa" sense="language, culture, conpidgin" />
 </valsi>
@@ -112450,18 +112450,6 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
       <score>100000</score>
       <notes>Passing through in both directions (= rolfargre, pagre ... .i so&apos;ivo&apos;ivo&apos;u (and vice versa)).  See also {bitmu}, {denci}, {ganlo}, {kalri}, {vorme}, {pluta}, {canko}, {ragve}.</notes>
       <glossword word="pass through" />
-</valsi>
-<valsi unofficial="true" word="pagro" type="experimental gismu">
-  <user>
-    <username>mati</username>
-    <realname>mati</realname>
-  </user>
-      <definition>$x_1$ reflects Paraguayan language/culture/nationality in aspect $x_2$</definition>
-      <definitionid>74252</definitionid>
-      <score>1</score>
-      <notes>I would have done &quot;pargo&quot; for this, but the rafsi was worth it. Proposed rafsi -gro-.</notes>
-      <glossword word="Paraguay" sense="language, culture, nationality" />
-      <glossword word="Paraguayan" sense="language, culture, nationality" />
 </valsi>
 <valsi word="pagygu'e" type="lujvo">
   <user>
@@ -206355,8 +206343,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="overlap" sense="mereological" valsi="pagbrkuclapi" />
 <nlword word="part" valsi="pagbu" />
 <nlword word="pass through" valsi="pagre" />
-<nlword word="Paraguay" sense="language, culture, nationality" valsi="pagro" />
-<nlword word="Paraguayan" sense="language, culture, nationality" valsi="pagro" />
 <nlword word="constituent country" valsi="pagygu&apos;e" />
 <nlword word="department store" valsi="pagzai" />
 <nlword word="participate" sense="take part" valsi="pagzu" />
