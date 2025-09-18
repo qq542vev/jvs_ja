@@ -164105,6 +164105,17 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>100000</score>
       <glossword word="goodness standard" />
 </valsi>
+<valsi unofficial="true" word="te'y" type="experimental cmavo">
+  <selmaho>UI3b</selmaho>
+  <user>
+    <username>lalxu</username>
+    <realname>Lake</realname>
+  </user>
+      <definition>discursive: even</definition>
+      <definitionid>74259</definitionid>
+      <score>2</score>
+      <notes>As in &quot;Even I can tell something is wrong.&quot;</notes>
+</valsi>
 <valsi word="te'yRON" type="cmevla">
   <user>
     <username>Xabju</username>
@@ -166475,6 +166486,15 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <glossword word="in dispair" />
       <glossword word="miserable" />
       <glossword word="wretched" />
+</valsi>
+<valsi word="tolgli" type="lujvo">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x_1$ is related to Vötgil in aspect $x_2$</definition>
+      <definitionid>74258</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="tolgurgau" type="lujvo">
   <user>
