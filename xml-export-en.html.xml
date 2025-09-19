@@ -91911,6 +91911,18 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <definitionid>44378</definitionid>
       <score>1</score>
 </valsi>
+<valsi word="mandi'oka" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is cassava/manioc.</definition>
+      <definitionid>74260</definitionid>
+      <score>1</score>
+      <notes>From Portuguese mandioca &lt; Old Tupi man(d)i&apos;oka. More specific than {samcu}, which can refer to taro or yams.</notes>
+      <glossword word="cassava" />
+      <glossword word="manioc" />
+</valsi>
 <valsi unofficial="true" word="mandioka" type="obsolete fu'ivla">
   <user>
     <username>phma</username>
