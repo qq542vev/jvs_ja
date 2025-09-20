@@ -4003,13 +4003,15 @@
 </valsi>
 <valsi word="bakre'u" type="lujvo">
   <user>
-    <username>sarefo</username>
-    <realname>sarefo</realname>
+    <username>zort</username>
+    <realname>eitan postav</realname>
   </user>
-      <definition>$r_1$ is beef/bovine meat from species/breed $r_2=b_2$.</definition>
-      <definitionid>17532</definitionid>
+      <definition>$r_1$ is a quantity of/contains beef/bovine meat/flesh from cow/cattle/kine/ox $r_2=b_2$.</definition>
+      <definitionid>38271</definitionid>
       <score>1</score>
+      <notes>Cf. {bakrecpa&apos;o}.</notes>
       <glossword word="beef" sense="bovine meat" />
+      <keyword word="beef" place="1" sense="bovine meat" />
 </valsi>
 <valsi word="bakrgauru" type="fu'ivla">
   <user>
@@ -136297,19 +136299,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <keyword word="bundle" place="2" />
       <keyword word="bundle wrapping" place="3" />
 </valsi>
-<valsi word="selbakni" type="lujvo">
-  <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
-  </user>
-      <definition>$x_2=b_1$ is a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed $x_1=b_2$.</definition>
-      <definitionid>14638</definitionid>
-      <score>1</score>
-      <notes>{se} {bakni}</notes>
-      <glossword word="bovine variety" sense="species or breed" />
-      <keyword word="bovine variety" place="1" sense="species or breed" />
-      <keyword word="bovine" place="2" />
-</valsi>
 <valsi word="selbakri" type="lujvo">
   <user>
     <username>brtais</username>
@@ -178524,7 +178513,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is a vocal synth/vocaloid</definition>
       <definitionid>74256</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Blend of Japanese ボーカロイド bōkaroido and {voksa}. Not restricted to Vocaloid proper; can refer to any voice synthesis software/character, just like {gugle} doesn&apos;t necessarily refer to Google. See also {sanga} &apos;sing&apos;, {minji} &apos;machine&apos; and {zmiboto} &apos;[AI] bot&apos;.</notes>
       <glossword word="vocaloid" />
       <glossword word="vocal synth" />
