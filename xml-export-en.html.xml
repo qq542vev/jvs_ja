@@ -8114,7 +8114,7 @@
   </user>
       <definition>$x_1$ is a slug/snail of species/variety $x_2$</definition>
       <definitionid>74188</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="slug" sense="slimy invertebrate" />
       <glossword word="snail" sense="slimy invertebrate" />
       <keyword word="slug" place="1" sense="slimy invertebrate" />
@@ -11979,7 +11979,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$x_1$ is August/the eighth month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70133</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="August" sense="month" />
       <glossword word="Marcheshvan" />
 </valsi>
@@ -20883,7 +20883,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$x_1$ is March/the third month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70128</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="March" sense="month" />
       <glossword word="Sivan" />
 </valsi>
@@ -101408,7 +101408,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is May/the fifth month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70130</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="Av" sense="month" />
       <glossword word="May" sense="month" />
 </valsi>
@@ -114413,7 +114413,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is January/the first month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70126</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="January" />
       <glossword word="Nisan" />
 </valsi>
@@ -114647,7 +114647,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is October/the tenth month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70135</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="October" />
       <glossword word="Tevet" />
 </valsi>
@@ -114709,7 +114709,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is December/the twelfth month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70137</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="Adar" sense="month" />
       <glossword word="December" />
 </valsi>
@@ -114867,7 +114867,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is November/the eleventh month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70136</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="November" />
       <glossword word="Shevat" />
 </valsi>
@@ -115913,7 +115913,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a piece/pieces of dumplings/ravioli/pelmeni/dim sum (Hongkong/Xianggang cuisine) containing $x_2$</definition>
       <definitionid>36776</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {nanba}, {rectu}, {sanmi}</notes>
       <glossword word="ravioli" />
       <keyword word="ravioli" place="1" />
@@ -125728,7 +125728,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is February/the second month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70127</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="February" />
       <glossword word="Iyar" />
 </valsi>
@@ -148622,7 +148622,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is September/the ninth month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>71866</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="September" />
 </valsi>
 <valsi word="sozmast" type="cmevla">
@@ -166488,15 +166488,6 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <glossword word="miserable" />
       <glossword word="wretched" />
 </valsi>
-<valsi word="tolgli" type="lujvo">
-  <user>
-    <username>merrybot</username>
-    <realname>evie</realname>
-  </user>
-      <definition>$x_1$ is related to Vötgil in aspect $x_2$</definition>
-      <definitionid>74258</definitionid>
-      <score>1</score>
-</valsi>
 <valsi word="tolgurgau" type="lujvo">
   <user>
     <username>totus</username>
@@ -178513,7 +178504,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is a vocal synth/vocaloid</definition>
       <definitionid>74256</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Blend of Japanese ボーカロイド bōkaroido and {voksa}. Not restricted to Vocaloid proper; can refer to any voice synthesis software/character, just like {gugle} doesn&apos;t necessarily refer to Google. See also {sanga} &apos;sing&apos;, {minji} &apos;machine&apos; and {zmiboto} &apos;[AI] bot&apos;.</notes>
       <glossword word="vocaloid" />
       <glossword word="vocal synth" />
@@ -178818,7 +178809,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is April/the fourth month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70129</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="April" />
       <glossword word="Tammuz" />
 </valsi>
@@ -182860,7 +182851,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is June/the sixth month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70131</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="Elul" />
       <glossword word="June" />
 </valsi>
@@ -189528,7 +189519,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ is July/the seventh month of year $x_2$ in calendar $x_3$.</definition>
       <definitionid>70132</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="July" />
       <glossword word="Tishrei" />
 </valsi>
