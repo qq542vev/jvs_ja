@@ -80364,7 +80364,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
     <username>Qimar</username>
     <realname>Sean S</realname>
   </user>
-      <definition>$x_1$ is a coral of type/species $x_2$</definition>
+      <definition>$x_1$ is a coral/barnacle of type/species $x_2$</definition>
       <definitionid>74111</definitionid>
       <score>1</score>
       <notes>see also {korlma}.</notes>
@@ -169563,7 +169563,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ are sturdy trousers/jeans (not necessarily blue) of material $x_2=p_2$</definition>
       <definitionid>68770</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {tsali} and {palku}</notes>
       <glossword word="jeans" sense="sturdy trousers" />
       <glossword word="sturdy trousers" />
