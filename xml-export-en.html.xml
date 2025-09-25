@@ -173713,6 +173713,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <glossword word="least significant first" sense="endianness" />
       <glossword word="little-endian" sense="endianness" />
 </valsi>
+<valsi word="valcrimtu" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is unnecessary Lojban jargon for natural-language equivalent term $x_2$</definition>
+      <definitionid>74263</definitionid>
+      <score>1</score>
+      <notes>Ex.: zo&apos;oi «modal» valcrimtu zo&apos;oi «preposition». &quot;Modal&quot; or {sumtcita} instead of &quot;preposition&quot;, {selbri} instead of &quot;main verb&quot; and so on. Refers to using Lojban jargon for discussing grammar when there&apos;s perfectly good English words that mean the same and aren&apos;t as opaque.</notes>
+      <glossword word="unnecessary Lojban jargon" />
+</valsi>
 <valsi word="valkra" type="lujvo">
   <user>
     <username>selpahi</username>
@@ -213554,6 +213565,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="least significant first" sense="endianness" valsi="vajyje&apos;ipoi" />
 <nlword word="little endian" sense="endianness" valsi="vajyje&apos;ipoi" />
 <nlword word="little-endian" sense="endianness" valsi="vajyje&apos;ipoi" />
+<nlword word="unnecessary Lojban jargon" valsi="valcrimtu" />
 <nlword word="tosmabru word" valsi="valrtosmabru" />
 <nlword word="word" valsi="valsi" />
 <nlword word="slinku&apos;i word" valsi="valslinku&apos;i" />
