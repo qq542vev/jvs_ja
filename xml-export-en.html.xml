@@ -26055,7 +26055,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is Brussels sprouts (vegetable)</definition>
       <definitionid>69800</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="Brussels sprouts" sense="vegetable" />
       <keyword word="Brussels sprouts" place="1" sense="vegetable" />
 </valsi>
@@ -69997,7 +69997,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ makes $x_2$ pay attention to $x_3$; $x_1$ directs $x_2$&apos;s attention to $x_3$.</definition>
       <definitionid>13221</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="direct attention" />
 </valsi>
 <valsi word="judri" type="gismu">
@@ -72480,7 +72480,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is caffeine with chemical purity $x_2$</definition>
       <definitionid>16047</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="caffeine" />
 </valsi>
 <valsi word="kafxumvi'u" type="lujvo">
@@ -74470,9 +74470,9 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
     <username>sarefo</username>
     <realname>sarefo</realname>
   </user>
-      <definition>$s_1=k_1$ is sickly/appears healthy to observer $s_3$ by standard $k_2$.</definition>
+      <definition>$s_1=k_1$ appears healthy to observer $s_3$ by standard $k_2$.</definition>
       <definitionid>17562</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {bi&apos;amlu}.</notes>
       <glossword word="healthy looking" />
 </valsi>
@@ -75202,7 +75202,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a katakana (Japanese syllabary) of sound $x_2$.</definition>
       <definitionid>17311</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {lerfu}.</notes>
       <glossword word="katakana" />
 </valsi>
@@ -99085,7 +99085,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a harmonica/chromonica made of $x_2$</definition>
       <definitionid>73665</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>see also {xarmonika}</notes>
       <glossword word="harmonica" sense="aerophone instrument" />
 </valsi>
@@ -129328,6 +129328,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="intellectual" sense="psychic" />
       <glossword word="mental" sense="psychic" />
       <glossword word="psychic" sense="mental" />
+</valsi>
+<valsi word="roflma'o" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a ridiculous (useless, etc) cmavo of selma&apos;o $x_2$ by standard $x_3$</definition>
+      <definitionid>74266</definitionid>
+      <score>2</score>
+      <notes>The cmavo doesn&apos;t have to be experimental. I&apos;m still mad they wasted monosyllabic cmavo space on a bunch of letteral stuff. Ex.: zo «tei» je zo «foi» cu roflma&apos;o fi mi. Etymology: English ROFL + -ma&apos;o- (rafsi of {cmavo}).</notes>
+      <glossword word="ridiculous cmavo" />
+      <glossword word="useless cmavo" />
 </valsi>
 <valsi word="rogjinme" type="lujvo">
   <user>
@@ -173734,6 +173746,26 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>1</score>
       <glossword word="etymology" />
 </valsi>
+<valsi word="valrfa'a" type="fu'ivla">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x_1$ is jargon for $x_2$, which is already jargon</definition>
+      <definitionid>74265</definitionid>
+      <score>1</score>
+      <notes>&quot;spatial tenses&quot; for &quot;prepositions&quot;</notes>
+</valsi>
+<valsi word="valrmodla" type="fu'ivla">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x_1$ is jargon intended to mean $x_2$, but that&apos;s actually a completely different thing</definition>
+      <definitionid>74264</definitionid>
+      <score>2</score>
+      <notes>eg how Lojban calls prepositions &quot;modals&quot;, but modals are actually conditionals. zo&apos;oi modal zo&apos;oi preposition valrmodla</notes>
+</valsi>
 <valsi word="valrtosmabru" type="fu'ivla">
   <user>
     <username>durka42</username>
@@ -208328,6 +208360,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="intellectual" sense="psychic" valsi="ro&apos;enje" />
 <nlword word="mental" sense="psychic" valsi="ro&apos;enje" />
 <nlword word="psychic" sense="mental" valsi="ro&apos;enje" />
+<nlword word="laughable cmavo" valsi="roflma&apos;o" />
+<nlword word="ridiculous cmavo" valsi="roflma&apos;o" />
+<nlword word="useless cmavo" valsi="roflma&apos;o" />
 <nlword word="emotional" valsi="ro&apos;i" />
 <nlword word="quantified tense" valsi="roi" />
 <nlword word="denying emotion" valsi="ro&apos;inai" />
