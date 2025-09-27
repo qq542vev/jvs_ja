@@ -5559,7 +5559,7 @@
   </user>
       <definition>$x_1$ is the language with ISO 639-3 code &apos;&apos;eng&apos;&apos; (English).</definition>
       <definitionid>18364</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {bangenugu}, {gliglibau}, {merbau}, {xinglibau}, {kadnyglibau}, {sralybau}, {kisyglibau}, {nanfi&apos;oglibau}, {bangrnaidjiria}.</notes>
       <glossword word="English" sense="language" />
 </valsi>
@@ -56896,16 +56896,6 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <notes>Not necessarily negative; refers to any speech act meant to influence public opinion or behavior.</notes>
       <glossword word="propaganda" />
 </valsi>
-<valsi word="gudjrati" type="fu'ivla">
-  <user>
-    <username>phma</username>
-    <realname>Pierre Abbat</realname>
-  </user>
-      <definition>$x_1$ is Gujarati in aspect $x_2$</definition>
-      <definitionid>73149</definitionid>
-      <score>1</score>
-      <glossword word="Gujarati" sense="general" />
-</valsi>
 <valsi word="gu'e" type="cmavo">
   <selmaho>GUhA</selmaho>
   <user>
@@ -74472,7 +74462,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$s_1=k_1$ appears healthy to observer $s_3$ by standard $k_2$.</definition>
       <definitionid>17562</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {bi&apos;amlu}.</notes>
       <glossword word="healthy looking" />
 </valsi>
@@ -120720,7 +120710,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ emits random syllables $x_2$ and hopes that $x_3$ interprets them as meaningful, instead of the bullshit they actually are</definition>
       <definitionid>68542</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>See {pe&apos;a}, {bebna}, {metfo}, {pevna}, {sidysmu}</notes>
       <glossword word="postmodern spoken bullshit" />
 </valsi>
@@ -200093,7 +200083,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="make public" valsi="gubyternoi" />
 <nlword word="publicise" valsi="gubyternoi" />
 <nlword word="propaganda" valsi="gubyxluselsku" />
-<nlword word="Gujarati" sense="general" valsi="gudjrati" />
 <nlword word="fore tanru and" valsi="gu&apos;e" />
 <nlword word="Always True" sense="Logical Connective" valsi="gu&apos;e&apos;u&apos;a" />
 <nlword word="country defense" valsi="gugbandu" />
