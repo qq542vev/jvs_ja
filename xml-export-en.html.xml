@@ -74462,7 +74462,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$s_1=k_1$ appears healthy to observer $s_3$ by standard $k_2$.</definition>
       <definitionid>17562</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Cf. {bi&apos;amlu}.</notes>
       <glossword word="healthy looking" />
 </valsi>
@@ -96423,6 +96423,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <score>100000</score>
       <notes>Also machinery/mechanism; a machine is initiated/triggered by an agent/force, but thereafter performs its function automatically; if self-directed, (a minji is an) entity (= {zukte}).  See also {cabra}, {matra}, {tutci}, {zukte}, {pilno}, {skami}.</notes>
       <glossword word="machine" />
+</valsi>
+<valsi word="minle'u" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is an accent mark/diacritic on letter/symbol $x_2$ representing $x_3$</definition>
+      <definitionid>74270</definitionid>
+      <score>2</score>
+      <notes>Calque of Esperanto kromsigno &apos;besides-sign&apos;. &quot;Diacritic&quot; here includes not only what you would typically think of as accent marks, but also Arabic harakat, Hebrew niqqud, Japanese dakuten, etc.</notes>
+      <glossword word="accent mark" />
+      <glossword word="diacritic" />
 </valsi>
 <valsi word="minli" type="gismu">
   <user>
@@ -129326,7 +129338,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a ridiculous (useless, etc) cmavo of selma&apos;o $x_2$ by standard $x_3$</definition>
       <definitionid>74266</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>The cmavo doesn&apos;t have to be experimental. I&apos;m still mad they wasted monosyllabic cmavo space on a bunch of letteral stuff. Ex.: zo «tei» je zo «foi» cu roflma&apos;o fi mi. Etymology: English ROFL + -ma&apos;o- (rafsi of {cmavo}).</notes>
       <glossword word="ridiculous cmavo" />
       <glossword word="useless cmavo" />
@@ -204445,6 +204457,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="ROC" valsi="minguuo" />
 <nlword word="The Republic of China" valsi="minguuo" />
 <nlword word="machine" valsi="minji" />
+<nlword word="accent mark" valsi="minle&apos;u" />
+<nlword word="diacritic" valsi="minle&apos;u" />
 <nlword word="mile" valsi="minli" />
 <nlword word="reflect" valsi="minra" />
 <nlword word="Mirad" valsi="minrado" place="1" />
