@@ -52939,7 +52939,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition> $k_1=g_3$ is a/are the whisker(s)/sensory hair(s) /vibrissa(e) attached to $k_2=g_1$ at body part $k_3$ for the detection of stimuli $g_2$ under conditions $g_4$.</definition>
       <definitionid>18427</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {ganse}, {kerfa}, {zbikre}, {runkre}.</notes>
       <glossword word="hair" sense="sensory" />
       <glossword word="vibrissa" />
@@ -53046,6 +53046,16 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <score>4</score>
       <notes>Use jai gastcica for objects; {ganse} {tcica}; {prugastcica}, {narprugastcica}.</notes>
       <glossword word="illusion" sense="mirage" />
+</valsi>
+<valsi word="gasyga'a" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is an antenna/antennae of creature $x_2$</definition>
+      <definitionid>74271</definitionid>
+      <score>2</score>
+      <notes>cf. {ganse} {grana}</notes>
 </valsi>
 <valsi word="gasyju'o" type="lujvo">
   <user>
@@ -96431,7 +96441,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is an accent mark/diacritic on letter/symbol $x_2$ representing $x_3$</definition>
       <definitionid>74270</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Calque of Esperanto kromsigno &apos;besides-sign&apos;. &quot;Diacritic&quot; here includes not only what you would typically think of as accent marks, but also Arabic harakat, Hebrew niqqud, Japanese dakuten, etc.</notes>
       <glossword word="accent mark" />
       <glossword word="diacritic" />
@@ -97261,7 +97271,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$m1$ is alive after being dead/ceasing to be alive; m1 is a zombie.</definition>
       <definitionid>57404</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="zombie" sense="living dead" />
 </valsi>
 <valsi word="mivmu'e" type="lujvo">
@@ -109260,7 +109270,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a pheromone signifying property $x_2$ produced by $x_3$.</definition>
       <definitionid>74261</definitionid>
-      <score>2</score>
+      <score>3</score>
 </valsi>
 <valsi word="notsku" type="lujvo">
   <user>
@@ -144638,18 +144648,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>1</score>
       <notes>from {saske} {zukte} c.f. {mi&apos;ircikre}</notes>
       <glossword word="engineer" sense="uses science to solve practical problems" />
-</valsi>
-<valsi unofficial="true" word="skibo" type="experimental gismu">
-  <user>
-    <username>mati</username>
-    <realname>mati</realname>
-  </user>
-      <definition>$x_1$ reflects Generation Alpha/skibidi culture in aspect $x_2$</definition>
-      <definitionid>74262</definitionid>
-      <score>1</score>
-      <notes>From &quot;skibidi&quot;.</notes>
-      <glossword word="Gen Alpha" />
-      <glossword word="skibidi" />
 </valsi>
 <valsi word="skicu" type="gismu">
   <rafsi>ski</rafsi>
@@ -210149,8 +210147,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="lab" sense="workplace for the conduct of scientific research" valsi="skestu" />
 <nlword word="laboratory" sense="workplace for the conduct of scientific research" valsi="skestu" place="1" />
 <nlword word="engineer" sense="uses science to solve practical problems" valsi="skezu&apos;e" />
-<nlword word="Gen Alpha" valsi="skibo" />
-<nlword word="skibidi" valsi="skibo" />
 <nlword word="describe" valsi="skicu" />
 <nlword word="tooltip" sense="graphical user interface element" valsi="skicu zei uidje" place="1" />
 <nlword word="annotation" sense="describing data" valsi="skidatni" place="2" />
