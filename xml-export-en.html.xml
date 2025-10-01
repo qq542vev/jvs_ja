@@ -52890,7 +52890,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>Qimar</username>
     <realname>Sean S</realname>
   </user>
-      <definition>$x_1$ is a dresser/armoire/wardrobe/closet for storing $x_2$</definition>
+      <definition>$x_1$ is a dresser/armoire/wardrobe/closet (or any freestanding storage compartment) for storing $x_2$</definition>
       <definitionid>73892</definitionid>
       <score>1</score>
       <notes>see also {kajna} {vasru} {nilce}</notes>
@@ -73785,16 +73785,6 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <notes>See also: {kamre}, {namcrgogolo}</notes>
       <glossword word="googol" />
 </valsi>
-<valsi unofficial="true" word="kamro" type="experimental gismu">
-  <user>
-    <username>lakanro</username>
-    <realname>Wang Jian</realname>
-  </user>
-      <definition>*$moved to {karmo}$*</definition>
-      <definitionid>70010</definitionid>
-      <score>1</score>
-      <notes>don&apos;t use this word</notes>
-</valsi>
 <valsi word="kamtatpi" type="lujvo">
   <user>
     <username>arj</username>
@@ -87931,7 +87921,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   </user>
       <definition>$m_1=l_1$ is a quantity of firewood/fuel wood from tree(s) of type/species $m_2$, for powering $l_2$.</definition>
       <definitionid>38246</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="firewood" />
       <glossword word="fuel wood" />
 </valsi>
@@ -88062,7 +88052,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   </user>
       <definition>$k_1$ is a chainsaw cutting/splitting/dividing $k_2$ into pieces $k_3$</definition>
       <definitionid>73366</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>{linsi} + {carka&apos;a}</notes>
       <glossword word="chainsaw" />
 </valsi>
@@ -92406,7 +92396,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$b_1$ is a brim of hat $m_1=b_2$</definition>
       <definitionid>72130</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="brim" sense="projecting edge around the bottom of a hat" />
       <keyword word="brim" place="1" sense="projecting edge around the bottom of a hat" />
       <keyword word="brimmed hat" place="2" />
