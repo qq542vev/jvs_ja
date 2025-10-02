@@ -9179,6 +9179,16 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <glossword word="son-in-law" />
       <glossword word="spouse of one&apos;s child" />
 </valsi>
+<valsi word="bebgau" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ (event/person) infatuates, causes them to act foolish $x_2$ (person) in manner $x_3$</definition>
+      <definitionid>74273</definitionid>
+      <score>1</score>
+      <notes>cf. {bebna} {gasnu}</notes>
+</valsi>
 <valsi word="bebgei" type="lujvo">
   <user>
     <username>arj</username>
@@ -98335,7 +98345,8 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>mark motions in space-time.</definition>
       <definitionid>1818</definitionid>
-      <score>100000</score>
+      <score>100001</score>
+      <notes>Attached before a location preposition, this gives it the meaning of movement. mo&apos;i {ti&apos;a} {plipe} is to jump backwards, while just ti&apos;a plipe is to jump behind (so not backwards, just at some place that is &quot;behind&quot;).</notes>
       <glossword word="space motion" />
 </valsi>
 <valsi word="moi" type="cmavo">
@@ -136560,6 +136571,20 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="Malay-Ind aspect" />
       <keyword word="Malay-Ind aspect" place="1" />
       <keyword word="Malay-Indonesian" place="2" />
+</valsi>
+<valsi word="selbebna" type="lujvo">
+  <user>
+    <username>brtais</username>
+    <realname>Robert Heiss</realname>
+  </user>
+      <definition>$x_2=b_1$ is foolish/silly in event/action/property (ka) $x_1=b_2$; $x_2=b_1$ is a boob.</definition>
+      <definitionid>14734</definitionid>
+      <score>1</score>
+      <notes>{se} {bebna}</notes>
+      <glossword word="folly" sense="foolish act" />
+      <glossword word="foolishness" />
+      <keyword word="foolishness" place="1" />
+      <keyword word="fool" place="2" sense="unwise" />
 </valsi>
 <valsi word="selbei" type="lujvo">
   <user>
@@ -180722,7 +180747,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is a bow-wow, doggie, a home kept barking animal of species $x_2$</definition>
       <definitionid>64899</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>See also {gerku}, {dalpe&apos;o}, {dirba}</notes>
       <glossword word="barking home animal" />
       <glossword word="doggie" />
@@ -209181,6 +209206,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="bound beyond which" valsi="selbancu" />
 <nlword word="banking system" sense="conglomerate of banks" valsi="selbanxa" />
 <nlword word="slave" sense="forced servant" valsi="selbapselfu" />
+<nlword word="folly" sense="foolish act" valsi="selbebna" />
 <nlword word="cellular phone" valsi="selbeifonxa" />
 <nlword word="mobile phone" valsi="selbeifonxa" />
 <nlword word="portable" sense="can be carried" valsi="selbeika&apos;e" />
