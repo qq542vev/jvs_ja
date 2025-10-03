@@ -9186,7 +9186,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$x_1$ (event/person) infatuates, causes them to act foolish $x_2$ (person) in manner $x_3$</definition>
       <definitionid>74273</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {bebna} {gasnu}</notes>
 </valsi>
 <valsi word="bebgei" type="lujvo">
@@ -136574,17 +136574,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="selbebna" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_2=b_1$ is foolish/silly in event/action/property (ka) $x_1=b_2$; $x_2=b_1$ is a boob.</definition>
-      <definitionid>14734</definitionid>
-      <score>1</score>
-      <notes>{se} {bebna}</notes>
-      <glossword word="folly" sense="foolish act" />
-      <glossword word="foolishness" />
-      <keyword word="foolishness" place="1" />
-      <keyword word="fool" place="2" sense="unwise" />
+      <definition>$x_1=b_2$ event/action/property (ka) is foolishness/folly done by fool $x_2=b_1$</definition>
+      <definitionid>74272</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="selbei" type="lujvo">
   <user>
@@ -137327,15 +137322,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="selcanja" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_2=c_1$ exchanges/trades/barters commodity $x_1=c_2$ for $x_3=c_3$ with $x_4=c_4$.</definition>
-      <definitionid>15148</definitionid>
-      <score>1</score>
-      <notes>{se} {canja}</notes>
-      <glossword word="exchanged" />
-      <keyword word="exchanged" place="1" />
+      <definition>$x_2$ is a commodity, exchanged by $x_1$ for another commodity $x_3$ with client/exchangee $x_4$</definition>
+      <definitionid>74267</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="selcanre" type="lujvo">
   <user>
@@ -162551,15 +162543,12 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
 </valsi>
 <valsi word="tercanja" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_3=c_1$ exchanges/trades/barters commodity $x_2=c_2$ for $x_1=c_3$ with $x_4=c_4$.</definition>
-      <definitionid>15147</definitionid>
-      <score>1</score>
-      <notes>{te} {canja}</notes>
-      <glossword word="exchanged for" />
-      <keyword word="exchanged for" place="1" />
+      <definition>$x_3$ is the commodity received in exchange for $x_2$ by trader/exchanger $x_1$ with client/exchangee $x_4$</definition>
+      <definitionid>74268</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="tercanre" type="lujvo">
   <user>
@@ -175299,15 +175288,12 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
 </valsi>
 <valsi word="velcanja" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_4=c_1$ exchanges/trades/barters commodity $x_2=c_2$ for $x_3=c_3$ with $x_1=c_4$.</definition>
-      <definitionid>15146</definitionid>
-      <score>1</score>
-      <notes>{ve} {canja}</notes>
-      <glossword word="exchanged with" />
-      <keyword word="exchanged with" place="1" />
+      <definition>$x_4$ is a client/exchangee of received commodity $x_2$ for $x_3$ by trader/exchanger $x_1$</definition>
+      <definitionid>74269</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="velcki" type="lujvo">
   <user>
@@ -209206,7 +209192,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="bound beyond which" valsi="selbancu" />
 <nlword word="banking system" sense="conglomerate of banks" valsi="selbanxa" />
 <nlword word="slave" sense="forced servant" valsi="selbapselfu" />
-<nlword word="folly" sense="foolish act" valsi="selbebna" />
 <nlword word="cellular phone" valsi="selbeifonxa" />
 <nlword word="mobile phone" valsi="selbeifonxa" />
 <nlword word="portable" sense="can be carried" valsi="selbeika&apos;e" />
@@ -209232,7 +209217,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="shell-covered" valsi="selcalku" place="1" />
 <nlword word="disappearance location" valsi="selcanci" place="1" />
 <nlword word="farm site" valsi="selcange" place="1" />
-<nlword word="exchanged" valsi="selcanja" place="1" />
 <nlword word="sand source" valsi="selcanre" place="1" />
 <nlword word="occupant" sense="space region" valsi="selca&apos;u" place="1" />
 <nlword word="occupy" sense="space region" valsi="selca&apos;u" />
@@ -212236,7 +212220,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="disappearance sensor" valsi="tercanci" place="1" />
 <nlword word="farm location" valsi="tercange" place="2" />
 <nlword word="rancher" valsi="tercange" place="1" />
-<nlword word="exchanged for" valsi="tercanja" place="1" />
 <nlword word="sand composition" valsi="tercanre" place="1" />
 <nlword word="gun powder" valsi="tercelpu&apos;o" place="1" />
 <nlword word="ridiculous" valsi="terckasu" />
@@ -213761,7 +213744,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="via route" valsi="veka&apos;a" />
 <nlword word="vector" sense="general" valsi="vektori" />
 <nlword word="farm produce" valsi="velcange" place="1" />
-<nlword word="exchanged with" valsi="velcanja" place="1" />
 <nlword word="definition" sense="explanation" valsi="velcki" />
 <nlword word="defnition" sense="explanation" valsi="velcki" />
 <nlword word="explanation" valsi="velcki" />
