@@ -136714,16 +136714,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="selbidju" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_2=b_1$ is a bead/pebble (shape/form) of material $x_1=b_2$.</definition>
-      <definitionid>14765</definitionid>
-      <score>1</score>
-      <notes>{se} {bidju}</notes>
-      <glossword word="bead material" />
-      <keyword word="bead material" place="1" />
-      <keyword word="bead" place="2" />
+      <definition>$x_1$ is a bead material of bead/pebble $x_2$</definition>
+      <definitionid>74274</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="selbi'e" type="lujvo">
   <user>
