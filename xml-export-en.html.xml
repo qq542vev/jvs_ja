@@ -38792,7 +38792,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is the time-duration/interval/period/[elapsed time] of event $x_2$.</definition>
       <definitionid>15153</definitionid>
-      <score>13</score>
+      <score>14</score>
       <notes>short rafsi is -dit-. Cf. {cedra}, {ranji}, {tcika}, {renvi}, {temci}, {canlu}, {kuspe}, {krafamtei}</notes>
       <glossword word="duration" sense="temporal" />
 </valsi>
@@ -50000,7 +50000,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is (a) philosophy/ideology (one sense) about/of/pertaining to topic/subfield (one sense) $x_2$ with subfield (different sense)/features/details/specifics/specific idea(s) $x_3$, with methodology $x_4$, followed/thought/considered by $x_5$ (thinker/philosopher/individual); philosophy $x_1$ is characterized by values/thoughts/opinions/ruminations $x_3$ about topic/subject $x_2$.</definition>
       <definitionid>56773</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>May also include code of conduct, ethical protocol, mode of thought, life-musings, etc.. x5 need not be an ardent supporter of the philosophy, although a certain degree of substance might be implied by the connection of being a philosophy (rather than a passing thought or idea) thereof; x5 does not need to be professional. Proposed short rafsi: -les-. See also: {pijyske}, {filsofiia}, {filsofo}, {marde}, {lijda}, {saske}, {jinvi}, {sidbo}, {pensi}, {prije}, {djuno}, {krici}, {menli}, {jijnu}, {senpi}, {birti}.</notes>
       <glossword word="philosophy" />
 </valsi>
@@ -58660,6 +58660,15 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <score>1</score>
       <notes>Cf. {gutra}, {pilka}, {cirko}.</notes>
       <glossword word="menstruate" />
+</valsi>
+<valsi word="gutrytunba" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a twin of $x_2$.</definition>
+      <definitionid>74275</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="gutyjamkarce" type="lujvo">
   <user>
