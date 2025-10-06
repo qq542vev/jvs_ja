@@ -33430,6 +33430,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="bagpipe" />
       <keyword word="bagpipe" place="1" />
 </valsi>
+<valsi word="daklystizu" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$s_1$ is a bean bag chair filled with $d_2$ and of material $d_3$</definition>
+      <definitionid>74276</definitionid>
+      <score>1</score>
+      <notes>cf. {dakli} {stizu}</notes>
+</valsi>
 <valsi word="daklytcati" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -58668,7 +58678,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is a twin of $x_2$.</definition>
       <definitionid>74275</definitionid>
-      <score>1</score>
+      <score>2</score>
 </valsi>
 <valsi word="gutyjamkarce" type="lujvo">
   <user>
@@ -69191,6 +69201,26 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <definitionid>18399</definitionid>
       <score>1</score>
       <glossword word="ankle" />
+</valsi>
+<valsi word="jmadakli" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$d_1$ is a footbag/hacky sack with contents $d_2$ and of material $d_3$</definition>
+      <definitionid>74277</definitionid>
+      <score>1</score>
+      <notes>cf. {jamfu} {dakli}</notes>
+</valsi>
+<valsi word="jmadaklyjvi" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$j_1$ plays a game of footbag/hacky sack against $j_2$ in competition $j_3$ for gain/prize $j_4$</definition>
+      <definitionid>74278</definitionid>
+      <score>1</score>
+      <notes>cf. {jamfu} {dakli} {jivna}</notes>
 </valsi>
 <valsi word="jmadegji" type="lujvo">
   <user>
@@ -87364,7 +87394,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <definition>$x_1$ practices, trains its ability $x_2$ (property of $x_1$)</definition>
       <definitionid>70647</definitionid>
       <score>3</score>
-      <notes>Use &apos;$x_2$ {ne} {se} {ta&apos;i}&apos; to specify the method of practise. See also {crezenzu&apos;e}, {kakne}, {cilre}, {atlete}.</notes>
+      <notes>Use &apos;$x_2$ {ne} {se} {ta&apos;i}&apos; to specify the method of practise. See also {crezenzu&apos;e}, {kakne}, {cilre}, {atlete}. Etymology: from Mandarin 練習 liànxí.</notes>
 </valsi>
 <valsi word="li'ante" type="fu'ivla">
   <user>
@@ -91699,7 +91729,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   </user>
       <definition>$x_1$ is unwelcome by $x_2$ to place/event $x_3$.</definition>
       <definitionid>14230</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>See also {fi&apos;inai}; {zanvi&apos;e}</notes>
       <glossword word="unwelcome" />
 </valsi>
