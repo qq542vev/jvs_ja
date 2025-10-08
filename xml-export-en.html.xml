@@ -21644,18 +21644,6 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <score>3</score>
       <glossword word="kneel" sense="posture" />
 </valsi>
-<valsi word="cidytsecorci" type="lujvo">
-  <user>
-    <username>krtisfranks</username>
-    <realname>Curtis W Franks</realname>
-  </user>
-      <definition>$x_1$ kneels/genuflects with meaning $x_2$ on surface $x_3$ on/with limb(s) $x_4$ of body $x_5$.</definition>
-      <definitionid>73545</definitionid>
-      <score>1</score>
-      <notes>Usually implies obeisance, homage, devotion, loyalty, obedience, subservience, vulnerability, or some other form of inferiority or trust. Specify the recipient of said inferiority or trust expression via/in $x_2$. Mere &quot;{cidytse}&quot; is an action which may not convey any semantic information; cidytsecorci refers to a strict/proper subset of actions which are cidytse. This word uses experimental rafsi &quot;-coc-&quot;, which has been proposed to be assigned to experimental gismu &quot;{corci}&quot;. This word is, for now, equivalent to &quot;{cocyborcidytse}&quot;, mostly because .krtisfranks. cannot semantically distinguish between &quot;a kneeling-type-of semantic-gesture&quot; and &quot;a semantic-gesture-type-of kneeling&quot;.</notes>
-      <glossword word="genuflect" sense="semantic gesture" />
-      <glossword word="kneel" sense="semantic gesture" />
-</valsi>
 <valsi word="ci'e" type="cmavo">
   <selmaho>BAI</selmaho>
   <user>
@@ -29201,7 +29189,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a gesture/facial expression/body part motion/body language/expressive (nonverbal or nonvocal) feature/microexpression/stature/posture/sign/body signal [nonverbal expression made using only one&apos;s body parts and items on one&apos;s immediate person as extensions of the body in order to communicate; possibly nonlinguistic/extralinguistic] that conveys/expresses thought/emotion/command/idea $x_2$ (nu/si&apos;o; possibly text and other types) made using body part/utensil/object/at locus $x_3$ in/by motion/action/means $x_4$</definition>
       <definitionid>56846</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>Must be body-oriented; any other object involved is simply for the matter of convenience and acts as an extension of the body (and thus must be on the performer&apos;s immediate person at or near the locus of the gesture). Body language, posturing, and stature are usually considered to be nonlocalized (body-general), although they need not be (and technically are not in general). Must be externally visible and/or internally sensed. Any non-body-part utensil/item (including clothing) must function as an extension of the body in the gesture. Need not be conscious or performed by a person (note that agent/performer is not mentioned in this definition); can, but need not, be accompanied by vocalizations (not necessarily linguistic), but the gesture itself is not primarily noise-producing. Might include sign language words or cheremes, although a more explicit word for linguistically organized and “full” cheremes is preferred (and especially for the sign language as a whole). x1 is possibly best typed by {nu} and/or {si&apos;o}. x4 might be best expressed as an event; for example, it could be &quot;the event of the right hand touching the chest near the heart, with fist clenched&quot; for a salute, whereas/wherein x3 would be merely the fist/hand (and the chest near the heart). Use &quot;{cocygau}&quot; resp. &quot;{cocyzu&apos;e}&quot; for: &quot;$x_1$ (agent resp. volitional entity) gestures; $x1$ agentively/actively makes gesture $x2$, communicating $x3$, performed with body part(s) $x4$ in motion $x5$&quot;; this lujvo uses an unofficial cmarafsi. Proposed short rafsi: -coc-.</notes>
       <glossword word="body language" />
       <glossword word="facial expression" sense="generalized" />
@@ -140129,7 +140117,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$m_1=t_2$ is fearsome/terrifying/horrifying to t1</definition>
       <definitionid>16535</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {terpa}, {mutce}, {selte&apos;a}, {terpygau}.</notes>
       <glossword word="fearsome" />
       <glossword word="horrifying" />
@@ -143560,7 +143548,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is sesame of species/variety $x_2$.</definition>
       <definitionid>15923</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>syn. {xonxoli}, {jerjelino}</notes>
       <glossword word="sesame" />
 </valsi>
@@ -154256,18 +154244,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definitionid>72900</definitionid>
       <score>1</score>
       <glossword word="power set" />
-</valsi>
-<valsi unofficial="true" word="stepmania" type="obsolete fu'ivla">
-  <user>
-    <username>djeikyb</username>
-    <realname>Jacob Thomas Errington</realname>
-  </user>
-      <definition>$x_1$ is Stepmania</definition>
-      <definitionid>20298</definitionid>
-      <score>1</score>
-      <notes>Stepmania, the &quot;Dance Dance Revolution&quot;-style game for Windows/Mac/Linux.</notes>
-      <glossword word="stepmania" sense="the game" />
-      <keyword word="stepmania" place="1" sense="the game" />
 </valsi>
 <valsi word="stero" type="gismu">
   <rafsi>te&apos;o</rafsi>
@@ -176878,6 +176854,16 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>1</score>
       <glossword word="dash" sense="move violently" />
 </valsi>
+<valsi word="vilselte'azu'e" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$z_1$ is a terrorist/commits act of terrorism $z_2$ for purpose/goal $z_3$</definition>
+      <definitionid>74280</definitionid>
+      <score>1</score>
+      <notes>cf. {vlile} {selte&apos;a} {zukte}</notes>
+</valsi>
 <valsi word="vilsi'e" type="lujvo">
   <user>
     <username>ues</username>
@@ -180650,7 +180636,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.</definition>
       <definitionid>74012</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="gesticulate" sense="gesture" />
       <glossword word="gesture" sense="non-verbal speech" />
 </valsi>
@@ -181731,6 +181717,16 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>3</score>
       <notes>from {xance} + {jdini}</notes>
       <glossword word="cash" />
+</valsi>
+<valsi word="xanfirfra" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ facepalms in reaction to $x_2$</definition>
+      <definitionid>74281</definitionid>
+      <score>1</score>
+      <notes>cf. {xance} {flira} {frati}</notes>
 </valsi>
 <valsi word="xangle" type="lujvo">
   <user>
@@ -211382,7 +211378,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="lock" valsi="stela" />
 <nlword word="list" sense="nil" valsi="stenili" />
 <nlword word="power set" valsi="stepau" />
-<nlword word="stepmania" sense="the game" valsi="stepmania" place="1" />
 <nlword word="steradian" valsi="stero" />
 <nlword word="west" valsi="stici" />
 <nlword word="western" sense="pertaining to the west" valsi="stici" />
