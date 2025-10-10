@@ -112136,7 +112136,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is sad about $x_2$ (event), which has occured contrary to their hopes.</definition>
       <definitionid>72523</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Disappointed, let down, crestfallen.</notes>
 </valsi>
 <valsi unofficial="true" word="pa'ai" type="experimental cmavo">
@@ -121947,7 +121947,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ itches at locus $x_2$</definition>
       <definitionid>57052</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>See also: {rakcro}</notes>
       <glossword word="itch" />
 </valsi>
@@ -136518,6 +136518,20 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <keyword word="has outside" place="1" />
       <keyword word="outside" place="2" />
 </valsi>
+<valsi word="selbasna" type="lujvo">
+  <user>
+    <username>brtais</username>
+    <realname>Robert Heiss</realname>
+  </user>
+      <definition>$x_2=b_1$ emphasizes/accentuates/gives emphasis/stress/accent to $x_1=b_2$ by (action) $x_3=b_3$.</definition>
+      <definitionid>14717</definitionid>
+      <score>1</score>
+      <notes>{se} {basna}</notes>
+      <glossword word="stressed" />
+      <keyword word="stressed" place="1" />
+      <keyword word="emphasis giver" place="2" />
+      <keyword word="emphasis" place="3" />
+</valsi>
 <valsi word="selbasti" type="lujvo">
   <user>
     <username>brtais</username>
@@ -145051,7 +145065,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ says $x_3$, then $x_2$ says $x_4$, then $x_1$ says $x_5$, then $x_2$ says $x_6$, ...</definition>
       <definitionid>71724</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>Like {alcu}, useful for dialogues. See also {cusku}, {skuna}, {alcu}, {tcuskuue}.</notes>
 </valsi>
 <valsi unofficial="true" word="skunkua" type="obsolete fu'ivla">
