@@ -33425,7 +33425,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$s_1$ is a bean bag chair filled with $d_2$ and of material $d_3$</definition>
       <definitionid>74276</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {dakli} {stizu}</notes>
 </valsi>
 <valsi word="daklytcati" type="lujvo">
@@ -58666,7 +58666,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is a twin of $x_2$.</definition>
       <definitionid>74275</definitionid>
-      <score>2</score>
+      <score>3</score>
 </valsi>
 <valsi word="gutyjamkarce" type="lujvo">
   <user>
@@ -69197,7 +69197,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$d_1$ is a footbag/hacky sack with contents $d_2$ and of material $d_3$</definition>
       <definitionid>74277</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {jamfu} {dakli}</notes>
 </valsi>
 <valsi word="jmadaklyjvi" type="lujvo">
@@ -69207,7 +69207,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$j_1$ plays a game of footbag/hacky sack against $j_2$ in competition $j_3$ for gain/prize $j_4$</definition>
       <definitionid>74278</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {jamfu} {dakli} {jivna}</notes>
 </valsi>
 <valsi word="jmadegji" type="lujvo">
@@ -136520,17 +136520,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="selbasna" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_2=b_1$ emphasizes/accentuates/gives emphasis/stress/accent to $x_1=b_2$ by (action) $x_3=b_3$.</definition>
-      <definitionid>14717</definitionid>
-      <score>1</score>
-      <notes>{se} {basna}</notes>
-      <glossword word="stressed" />
-      <keyword word="stressed" place="1" />
-      <keyword word="emphasis giver" place="2" />
-      <keyword word="emphasis" place="3" />
+      <definition>$x_1$ is emphasized/accentuated by $x_2$ with (action) $x_3$.</definition>
+      <definitionid>74282</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="selbasti" type="lujvo">
   <user>
@@ -136715,16 +136710,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="selbetri" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_2=b_1$ is a tragedy/disaster/tragic for $x_1=b_2$.</definition>
-      <definitionid>14758</definitionid>
-      <score>1</score>
-      <notes>{se} {betri}</notes>
-      <glossword word="finds tragic" />
-      <keyword word="finds tragic" place="1" />
-      <keyword word="tragedy" place="2" />
+      <definition>$x_1$ finds tragic/disastrous $x_2$ (tragedy)</definition>
+      <definitionid>74279</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="selbe'u" type="lujvo">
   <user>
@@ -136760,7 +136751,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a bead material of bead/pebble $x_2$</definition>
       <definitionid>74274</definitionid>
-      <score>2</score>
+      <score>3</score>
 </valsi>
 <valsi word="selbi'e" type="lujvo">
   <user>
@@ -161995,17 +161986,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="terbasna" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_3=b_1$ emphasizes/accentuates/gives emphasis/stress/accent to $x_2=b_2$ by (action) $x_1=b_3$.</definition>
-      <definitionid>14716</definitionid>
-      <score>1</score>
-      <notes>{te} {basna}</notes>
-      <glossword word="emphasis" />
-      <keyword word="emphasis" place="1" />
-      <keyword word="stressed" place="2" />
-      <keyword word="emphasis giver" place="3" />
+      <definition>$x_1$ is the action by which $x_2$ is emphasized/accentuated by $x_3$</definition>
+      <definitionid>74283</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="terbasti" type="lujvo">
   <user>
@@ -176875,7 +176861,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$z_1$ is a terrorist/commits act of terrorism $z_2$ for purpose/goal $z_3$</definition>
       <definitionid>74280</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {vlile} {selte&apos;a} {zukte}</notes>
 </valsi>
 <valsi word="vilsi'e" type="lujvo">
@@ -181739,7 +181725,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ facepalms in reaction to $x_2$</definition>
       <definitionid>74281</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {xance} {flira} {frati}</notes>
 </valsi>
 <valsi word="xangle" type="lujvo">
