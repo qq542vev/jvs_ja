@@ -42141,6 +42141,19 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>100000</score>
       <glossword word="d" />
 </valsi>
+<valsi word="dy.bu" type="bu-letteral">
+  <selmaho>BY*</selmaho>
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>letteral for ð (eth)</definition>
+      <definitionid>74285</definitionid>
+      <score>1</score>
+      <notes>See CLL 17.5 (https://lojban.github.io/cll/17/5/). Thorn (þ) is {ty.bu}. The glottal stop inside this word is mandatory (as in {y&apos;y.bu} &apos;aitch&apos;, {ky.bu} &apos;cue&apos; and {vy.bu} &apos;double-u&apos;).</notes>
+      <glossword word="ð" sense="Latin letter" />
+      <glossword word="eth" sense="Latin letter" />
+</valsi>
 <valsi word="dylez" type="cmevla">
   <user>
     <username>Xabju</username>
@@ -93891,6 +93904,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <definition>$x_1$ is a little lesser than $x_2$ in dimension $x_3$; $x_1$ is almost as $x_3$ as $x_2$ is</definition>
       <definitionid>70347</definitionid>
       <score>2</score>
+</valsi>
+<valsi word="me'amfetamina" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is (a quantity of) methamphetamines/meth</definition>
+      <definitionid>74286</definitionid>
+      <score>1</score>
+      <notes>Transcribed based on the alternative pronunciation of the aspirate as a dental fricative. Alternatively, this could be {metmfetamina}, and/or the -mf- could be -nf-.</notes>
+      <glossword word="meth" />
+      <glossword word="methamphetamine" />
 </valsi>
 <valsi word="me'andi" type="fu'ivla">
   <user>
@@ -171279,6 +171304,18 @@ ni&apos;o Synonym: {fu&apos;o}.</notes>
       <notes>Capital of the modern nation of Georgia ({sakartyvelos}, {sakartulos} or {gugdegu&apos;e}). See also {kartuli}.</notes>
       <glossword word="Tbilisi" sense="Georgian city" />
 </valsi>
+<valsi word="ty.bu" type="bu-letteral">
+  <selmaho>BY*</selmaho>
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>letteral for þ (thorn)</definition>
+      <definitionid>74284</definitionid>
+      <score>1</score>
+      <notes>See CLL 17.5 (https://lojban.github.io/cll/17/5/). Eth (ð) is {dy.bu}.</notes>
+      <glossword word="thorn" sense="Icelandic/old Germanic letter" />
+</valsi>
 <valsi word="tylidos" type="cmevla">
   <user>
     <username>krtisfranks</username>
@@ -198401,6 +198438,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="proposition" sense="statement with truth value" valsi="du&apos;umdu" />
 <nlword word="indirect question" sense="abstraction" valsi="du&apos;umrei" />
 <nlword word="d" valsi="dy" />
+<nlword word="ð" sense="Latin letter" valsi="dy.bu" />
+<nlword word="eth" sense="Latin letter" valsi="dy.bu" />
 <nlword word="Deleuze" sense="philosopher" valsi="dylez" />
 <nlword word="Gilles Deleuze" sense="philosopher" valsi="dylez" />
 <nlword word="counting quantification" valsi="dzadza" />
@@ -204181,6 +204220,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sumti to selbri" valsi="me" />
 <nlword word="undercut by" valsi="me&apos;a" />
 <nlword word="weaker emotion" valsi="me&apos;ai" />
+<nlword word="meth" valsi="me&apos;amfetamina" />
+<nlword word="methamphetamine" valsi="me&apos;amfetamina" />
 <nlword word="henna" valsi="me&apos;andi" />
 <nlword word="temple" sense="side of forehead" valsi="mebmla" />
 <nlword word="brow" valsi="mebri" />
@@ -213384,6 +213425,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Welsh onion" sense="Allium fistulosum" valsi="tu&apos;ursluni" />
 <nlword word="t" valsi="ty" />
 <nlword word="Tbilisi" sense="Georgian city" valsi="tyBIlisis" />
+<nlword word="thorn" sense="Icelandic/old Germanic letter" valsi="ty.bu" />
 <nlword word="Toledo" sense="city in Ohio, U.S.A." valsi="tylidos" />
 <nlword word="Toronto" valsi="tyrontos" />
 <nlword word="sumti whether" valsi="u" />
