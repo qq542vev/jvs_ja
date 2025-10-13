@@ -29697,7 +29697,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a scarecrow for scaring off birds $x_2$</definition>
       <definitionid>38034</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="scarecrow" />
 </valsi>
 <valsi word="cpitukana" type="fu'ivla">
@@ -36356,6 +36356,19 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <notes>Cf. {dejni}, {zenba}, {terdejni}, {kagyseldejni}, {ze&apos;i zei seldejni}, {ze&apos;u zei seldejni}, {paurseldejni}, {fairprali}, {jbera}, {jdini}, {banxa}.</notes>
       <glossword word="interest" sense="charge on loan" />
       <keyword word="interest" place="1" sense="charge on loan" />
+</valsi>
+<valsi word="dekci'o" type="lujvo">
+  <user>
+    <username>tijlan</username>
+    <realname>Pascal</realname>
+  </user>
+      <definition>$x_1=c_1$ is a teenager by standard $x_2=c_2$</definition>
+      <definitionid>16873</definitionid>
+      <score>1</score>
+      <notes>Usually between age 13 to 19.</notes>
+      <glossword word="teen" sense="young person" />
+      <glossword word="teenager" />
+      <keyword word="teenager" place="1" />
 </valsi>
 <valsi word="dekna'a" type="lujvo">
   <user>
@@ -157692,7 +157705,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_0$: That&apos;s life / There ain&apos;t no justice / It sucks, but what are you gonna do? (nullary predicate)</definition>
       <definitionid>68389</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Etymology: Combination of TANJ (&quot;There Ain&apos;t No Justice&quot;) with &quot;C&apos;est la vie.&quot;</notes>
       <glossword word="There ain&apos;t no justice" />
 </valsi>
@@ -197804,6 +197817,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="bet" sense="wager" valsi="dejru&apos;a" />
 <nlword word="wager" sense="bet" valsi="dejru&apos;a" />
 <nlword word="interest" sense="charge on loan" valsi="dejyterze&apos;a" place="1" />
+<nlword word="teen" sense="young person" valsi="dekci&apos;o" />
+<nlword word="teenager" valsi="dekci&apos;o" place="1" />
 <nlword word="Decade" sense="Ten years" valsi="dekna&apos;a" />
 <nlword word="ångström" valsi="deknavytre" />
 <nlword word="to each their own" valsi="dekpredekpu&apos;a" />
