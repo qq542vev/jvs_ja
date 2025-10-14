@@ -80498,6 +80498,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="Kosova" />
       <glossword word="Kosovo" />
 </valsi>
+<valsi word="kortilo" type="fu'ivla">
+  <user>
+    <username>phma</username>
+    <realname>Pierre Abbat</realname>
+  </user>
+      <definition>$x_1$ is a wren of genus/species $x_2$</definition>
+      <definitionid>74287</definitionid>
+      <score>1</score>
+      <keyword word="wren" place="1" />
+</valsi>
 <valsi unofficial="true" word="korvo" type="experimental gismu">
   <user>
     <username>phma</username>
@@ -202643,6 +202653,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="cortex" sense="outermost layer" valsi="korsenta" />
 <nlword word="Kosova" valsi="korsova" />
 <nlword word="Kosovo" valsi="korsova" />
+<nlword word="wren" valsi="kortilo" place="1" />
 <nlword word="crow" valsi="korvo" />
 <nlword word="raven" valsi="korvo" />
 <nlword word="corzetti" valsi="korzeti" place="1" />
