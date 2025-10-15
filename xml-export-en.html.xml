@@ -11450,6 +11450,20 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <notes>Cf. {degycidni}.</notes>
       <glossword word="elbow" sense="body part" />
 </valsi>
+<valsi unofficial="true" word="birco" type="experimental gismu">
+  <user>
+    <username>samflir</username>
+    <realname>la samflir</realname>
+  </user>
+      <definition>$x_1$&apos;s face is completely cleansed of facial hair apart from $x_2$.</definition>
+      <definitionid>74289</definitionid>
+      <score>3</score>
+      <notes>This word was revealed to me in a dream.</notes>
+      <glossword word="clean shaven person" />
+      <glossword word="clean shaven person apart from moustache" />
+      <keyword word="person" place="1" />
+      <keyword word="facial hair" place="2" />
+</valsi>
 <valsi word="birdadykla" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -194947,6 +194961,10 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="tack-and-drag ordered interval" valsi="bi&apos;oi" />
 <nlword word="interval-from-number determined by lesser endpoint" valsi="bi&apos;oi&apos;au" />
 <nlword word="birch" valsi="biorka" />
+<nlword word="clean shaven face" valsi="birco" />
+<nlword word="clean shaven face apart from moustache" valsi="birco" />
+<nlword word="clean shaven person" valsi="birco" />
+<nlword word="clean shaven person apart from moustache" valsi="birco" />
 <nlword word="brachiate" valsi="birdadykla" />
 <nlword word="bracelet" sense="jewelry" valsi="birja&apos;i" place="1" />
 <nlword word="hug, embrace" valsi="birjai" />
