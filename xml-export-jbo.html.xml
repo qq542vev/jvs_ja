@@ -17810,6 +17810,16 @@
       <score>2</score>
       <notes>{cinla}; {cilta}; {lanbi}; {jinto}; {pilka}; {sunla}</notes>
 </valsi>
+<valsi word="kerlo" type="gismu">
+  <rafsi>ker</rafsi>
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ rango $x_2$ lo ka se pilno $x_2$ lo ka tirna</definition>
+      <definitionid>74294</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="ke'u" type="cmavo">
   <selmaho>UI3</selmaho>
   <user>
@@ -19863,6 +19873,16 @@
       <definitionid>73522</definitionid>
       <score>1</score>
       <notes>{mlatu} {ke} {so&apos;i} {prenu} {karce} {sorprekarce}</notes>
+</valsi>
+<valsi word="latkerlo" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ kerlo $x_2$ noi mlatu .i ja $x_1$ kerlo $x_2$ gi&apos;e simsa lo&apos;e kerlo be lo&apos;e mlatu</definition>
+      <definitionid>74293</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {mlatu} .e zo {kerlo}</notes>
 </valsi>
 <valsi word="latmo" type="gismu">
   <rafsi>la&apos;o</rafsi>
