@@ -11457,7 +11457,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$x_1$&apos;s face is completely cleansed of facial hair apart from $x_2$.</definition>
       <definitionid>74289</definitionid>
-      <score>3</score>
+      <score>2</score>
       <notes>This word was revealed to me in a dream.</notes>
       <glossword word="clean shaven person" />
       <glossword word="clean shaven person apart from moustache" />
@@ -77219,6 +77219,17 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <notes>Cf. {kibro}, {papri}, {kibyca&apos;o}.</notes>
       <glossword word="web page" />
 </valsi>
+<valsi word="kibypedli'u" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ travels with friends that they made on the internet. $x_1$ travels via route $x_2$ using means/vehicle $x_3$, in the company of internet friend(s) $x_4$.</definition>
+      <definitionid>74295</definitionid>
+      <score>1</score>
+      <notes>See {kibro}, {pendo}, {litru}.</notes>
+      <glossword word="travel with internet friends" />
+</valsi>
 <valsi word="kibypidyfi'a" type="lujvo">
   <user>
     <username>AstroMacGuffin</username>
@@ -136469,19 +136480,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="selbancu" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_2=b_1$ exceeds/is beyond limit/boundary $x_1=b_2$ from $x_3=b_3$ in property/amount $x_4=b_4$ (ka/ni).</definition>
-      <definitionid>14666</definitionid>
-      <score>1</score>
-      <notes>{se} {bancu}; see also {korbi}, {jimte}</notes>
-      <glossword word="boundary" sense="something is beyond it" />
-      <glossword word="bound beyond which" />
-      <keyword word="boundary" place="1" sense="something is beyond it" />
-      <keyword word="beyond" place="2" sense="past boundary or exceeding limit" />
-      <keyword word="reference for beyond" place="3" />
-      <keyword word="beyondness property" place="4" />
+      <definition>$x_1$ is the limit/boundary that $x_2$ exceeds from $x_3$ in property/amount $x_4$ (ka/ni).</definition>
+      <definitionid>74290</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="selbandu" type="lujvo">
   <user>
@@ -161963,18 +161967,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
 </valsi>
 <valsi word="terbancu" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_3=b_1$ exceeds/is beyond limit/boundary $x_2=b_2$ from $x_1=b_3$ in property/amount $x_4=b_4$ (ka/ni).</definition>
-      <definitionid>14665</definitionid>
-      <score>1</score>
-      <notes>{te} {bancu}</notes>
-      <glossword word="reference for beyond" />
-      <keyword word="reference for beyond" place="1" />
-      <keyword word="boundary" place="2" sense="something is beyond it" />
-      <keyword word="beyond" place="3" sense="past boundary or exceeding limit" />
-      <keyword word="beyondness property" place="4" />
+      <definition>$x_1$ is the reference point from the boundary $x_2$ that $x_3$ has exceeded/surpassed in property/amount $x_4$ (ka/ni).</definition>
+      <definitionid>74291</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="terbandu" type="lujvo">
   <user>
@@ -175257,18 +175255,12 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
 </valsi>
 <valsi word="velbancu" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
   </user>
-      <definition>$x_4=b_1$ exceeds/is beyond limit/boundary $x_2=b_2$ from $x_3=b_3$ in property/amount $x_1=b_4$ (ka/ni).</definition>
-      <definitionid>14664</definitionid>
-      <score>1</score>
-      <notes>{ve} {bancu}</notes>
-      <glossword word="beyondness property" />
-      <keyword word="beyondness property" place="1" />
-      <keyword word="boundary" place="2" sense="something is beyond it" />
-      <keyword word="reference for beyond" place="3" />
-      <keyword word="beyond" place="4" sense="past boundary or exceeding limit" />
+      <definition>$x_1$ (ka/ni) is the amount/property of beyondness of limit/boundary $x_2$ from $x_3$ that $x_4$ has exceeded/is beyond</definition>
+      <definitionid>74292</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="velbatci" type="lujvo">
   <user>
@@ -202372,6 +202364,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="profile picture" valsi="kibyka&apos;ixra" />
 <nlword word="blog" sense="internet term" valsi="kibykarni" place="1" />
 <nlword word="web page" valsi="kibypapri" />
+<nlword word="travel with internet friends" valsi="kibypedli&apos;u" />
 <nlword word="cyberpunk" sense="culture" valsi="kibypidyfi&apos;a" />
 <nlword word="theme" sense="fiction" valsi="kibypidyfi&apos;a" place="2" />
 <nlword word="client" sense="Internet" valsi="kibyse&apos;u" place="2" />
@@ -209305,7 +209298,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="service" valsi="selbaise&apos;u" place="3" />
 <nlword word="bundled" valsi="selbakfu" />
 <nlword word="plant with bulb" valsi="selbalji" />
-<nlword word="bound beyond which" valsi="selbancu" />
 <nlword word="banking system" sense="conglomerate of banks" valsi="selbanxa" />
 <nlword word="slave" sense="forced servant" valsi="selbapselfu" />
 <nlword word="cellular phone" valsi="selbeifonxa" />
