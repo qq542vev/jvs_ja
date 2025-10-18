@@ -1825,7 +1825,7 @@
   </user>
       <definition>vocative: slightly piratical greetings</definition>
       <definitionid>56582</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>See also {xai}, {coi}, {co&apos;oi}, {o&apos;ai}. This is an {u&apos;ivla} from &quot;ahoy&quot;.</notes>
       <glossword word="slightly piratical greetings" />
 </valsi>
@@ -33228,7 +33228,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>attitudinal modifier: marks preceding attitudinal as empathetic with an anticipated attitude; encourages another&apos;s feelings.</definition>
       <definitionid>72373</definitionid>
-      <score>4</score>
+      <score>5</score>
       <notes>From {dai}+{a&apos;o}. (Examples: {ui}dai&apos;a=&quot;Cheer up&quot;, {iinai}dai&apos;a=&quot;It&apos;s okay, you&apos;re safe&quot;, {o&apos;u}dai&apos;a=&quot;Have courage&quot;, {ri&apos;e}dai&apos;a=&quot;Let it all out&quot;, {e&apos;i}dai&apos;a=&quot;You need to ...&quot;)</notes>
 </valsi>
 <valsi word="da,ic" type="cmevla">
@@ -107885,6 +107885,21 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <notes>See also {cilta}, {fenso}, {jivbu}, {pijne}.</notes>
       <glossword word="knit" />
 </valsi>
+<valsi word="nivmapku" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a knit cap/beanie/toque of material $x_2$.</definition>
+      <definitionid>74296</definitionid>
+      <score>1</score>
+      <notes>See {nivji}, {mapku}.</notes>
+      <glossword word="beanie" sense="knit cap" />
+      <glossword word="knit cap" />
+      <glossword word="toque" sense="knit cap" />
+      <keyword word="knit cap" place="1" />
+      <keyword word="knit cap material" place="2" />
+</valsi>
 <valsi word="nivycreka" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -109251,15 +109266,6 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <score>1</score>
       <notes>From the city of Norwalk, Ohio, and {vidru}. The scientific name of the virus was first &quot;Norwalk agent&quot; and then shortened to &quot;norovirus&quot;. See also {xilvidru}, {remjinkytoldu&apos;evidru} and {vidru}.</notes>
       <glossword word="norovirus" />
-</valsi>
-<valsi word="norvudzvi" type="lujvo">
-  <user>
-    <username>spheniscine</username>
-    <realname>Jonathan</realname>
-  </user>
-      <definition>$x_1$ zviki $x_2$ noi no&apos;e vrude je no&apos;e palci ku&apos;o $x_3$</definition>
-      <definitionid>67329</definitionid>
-      <score>1</score>
 </valsi>
 <valsi word="norvu'e" type="lujvo">
   <user>
@@ -167967,7 +167973,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is transgender / nonbinary / gender-non-conforming</definition>
       <definitionid>73587</definitionid>
-      <score>5</score>
+      <score>6</score>
       <notes>See also {trangeni}, {lingeni}. Proposed rafsi -tos-.</notes>
       <glossword word="transgender" sense="gender identity" />
 </valsi>
@@ -172441,7 +172447,7 @@ ni&apos;o Synonym: {fu&apos;o}.</notes>
   </user>
       <definition>$x_1$ is a word meaning $x_2$ in language $x_3$ and silly/funny/clever for reason $x_4$ (usually etymological).</definition>
       <definitionid>18303</definitionid>
-      <score>4</score>
+      <score>5</score>
       <notes>The word {u&apos;ivla} is itself an u&apos;ivla, as it is an unconventional portmanteau of {u&apos;i} and -vla- (a rafsi of {valsi}) and also a pun on the word {fu&apos;ivla}. Another example is {u&apos;imla}.</notes>
       <glossword word="malapropism" />
       <glossword word="neologism" />
@@ -193667,17 +193673,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
       <glossword word="Swederian" sense="late Upper Paleolithic culture/industry (archaeological sense)" />
       <glossword word="Swiderian" sense="late Upper Paleolithic culture/industry (archaeological sense)" />
 </valsi>
-<valsi word="zvijonse" type="lujvo">
-  <user>
-    <username>spheniscine</username>
-    <realname>Jonathan</realname>
-  </user>
-      <definition>$x_1$ &quot;hacks&quot; into (accesses using an emergent exploit) $x_2$ for purpose $x_3$</definition>
-      <definitionid>67342</definitionid>
-      <score>1</score>
-      <notes>See {zviki}, {jonse}. Neutral in connotation; &quot;hats&quot; are described by {vudzvijonse}, {pacyzvijonse}, and {norvudzvijonse}, &quot;unlawfully access&quot; is {zerjonse}.</notes>
-      <glossword word="hack" sense="access with an exploit" />
-</valsi>
 <valsi unofficial="true" word="zviki" type="experimental gismu">
   <user>
     <username>spheniscine</username>
@@ -193685,8 +193680,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
   </user>
       <definition>$x_1$ (agent) creates &apos;hack&apos; $x_2$ (nu/zu&apos;o/si&apos;o) for system/tool $x_3$ from inspiration $x_4$; $x_2$ is an emergent use/purpose for $x_3$, unexpected by the original creators or users</definition>
       <definitionid>67311</definitionid>
-      <score>3</score>
-      <notes>Contains no positive or negative connotations, can refer both to &apos;cool/elegant hacks&apos; ({se} {mlezvi}) and &apos;kludge/ugly hacks&apos; ({se} {feglyzvi}). Hack as in &apos;gain unauthorized or unexpected access to&apos; = {zvijonse}, &apos;White-hat&apos; hacking = {vudzvi}/{vudzvijonse}, &apos;black-hat&apos; hacking = {pacyzvi}/{pacyzvijonse}, &apos;grey-hat&apos; hacking = {norvudzvi}/{norvudzvijonse}. Proposed rafsi: -zvi-. See {kosmu}, {finti}, {jonse}</notes>
+      <score>4</score>
+      <notes>Contains no positive or negative connotations, can refer both to &apos;cool/elegant hacks&apos; ({se} {mlezvi}) and &apos;kludge/ugly hacks&apos; ({se} {feglyzvi}). Hack as in &apos;gain unauthorized or unexpected access to&apos; = {zvijonse}, &apos;White-hat&apos; hacking = {vudzvi}/{vudzvijonse}, &apos;black-hat&apos; hacking = {pacyzvi}/{pacyzvijonse}, &apos;grey-hat&apos; hacking = {norvudzvi}/{norvudzvijonse}. See {kosmu}, {finti}, {jonse}</notes>
       <glossword word="hack" sense="invent an emergent solution/use" />
       <keyword word="hack" place="2" sense="emergent solution/use for a system/tool" />
 </valsi>
@@ -206007,6 +206002,10 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="downvote" valsi="ni&apos;udzau" />
 <nlword word="anion" valsi="ni&apos;u zei ionti" />
 <nlword word="knit" valsi="nivji" />
+<nlword word="beanie" sense="knit cap" valsi="nivmapku" />
+<nlword word="knit cap" valsi="nivmapku" place="1" />
+<nlword word="knit cap material" valsi="nivmapku" place="2" />
+<nlword word="toque" sense="knit cap" valsi="nivmapku" />
 <nlword word="sweater" sense="garment" valsi="nivycreka" />
 <nlword word="Miss" valsi="nix" />
 <nlword word="girl" valsi="nixli" />
@@ -215883,9 +215882,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Sviderian" sense="late Upper Paleolithic culture/industry (archaeological sense)" valsi="zvidiri" />
 <nlword word="Swederian" sense="late Upper Paleolithic culture/industry (archaeological sense)" valsi="zvidiri" />
 <nlword word="Swiderian" sense="late Upper Paleolithic culture/industry (archaeological sense)" valsi="zvidiri" />
-<nlword word="hack" sense="access with an exploit" valsi="zvijonse" />
-<nlword word="hack" sense="gain unauthorized/unexpected access" valsi="zvijonse" />
-<nlword word="hack" sense="unexpectedly accesses" valsi="zvijonse" />
 <nlword word="hack" sense="emergent solution/use for a system/tool" valsi="zviki" place="2" />
 <nlword word="hack" sense="invent an emergent solution/use" valsi="zviki" />
 <nlword word="Finnish" sense="language, culture, nationality" valsi="zvomo" />
