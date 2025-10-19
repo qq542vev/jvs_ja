@@ -12917,6 +12917,18 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <score>2</score>
       <glossword word="canoe" />
 </valsi>
+<valsi word="blovinji" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a flying boat for carrying $x_2$, propelled by $x_3$.</definition>
+      <definitionid>74297</definitionid>
+      <score>2</score>
+      <notes>Maybe doesn&apos;t include floatplanes. See {bloti}, {vinji}.</notes>
+      <glossword word="flying boat" />
+      <keyword word="flying boat" place="1" />
+</valsi>
 <valsi word="bloxadni" type="lujvo">
   <user>
     <username>k1234567890y</username>
@@ -18692,7 +18704,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$x_1$ is a helicopter for carrying $x_2$, propelled by $x_3$.</definition>
       <definitionid>15377</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {vofli}.</notes>
       <glossword word="helicopter" />
       <keyword word="helicopter" place="1" />
@@ -39748,6 +39760,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <definition>$x_1$ is a giraffe of species $x_2$</definition>
       <definitionid>44388</definitionid>
       <score>3</score>
+</valsi>
+<valsi word="djiranda" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$r_1$ indulges in act/indulgence $r_2$ under conditions $r_3$</definition>
+      <definitionid>74300</definitionid>
+      <score>2</score>
+      <notes>cf. {djica} {randa}</notes>
 </valsi>
 <valsi word="djiroi" type="lujvo">
   <user>
@@ -80530,7 +80552,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is a wren of genus/species $x_2$</definition>
       <definitionid>74287</definitionid>
-      <score>1</score>
+      <score>2</score>
       <keyword word="wren" place="1" />
 </valsi>
 <valsi unofficial="true" word="korvo" type="experimental gismu">
@@ -82245,7 +82267,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is queer in aspect $x_2$ (ka)</definition>
       <definitionid>69588</definitionid>
-      <score>5</score>
+      <score>6</score>
       <notes>In the &quot;umbrella term&quot; sense. Carries absolutely no negative &quot;reclaimed slur&quot; connotations like its English equivalent does. $x_1$ can be a person, property, idea, or event; $x_2$ describes the way $x_1$ challenges or deviates from social norms.</notes>
       <glossword word="LGBT" />
       <glossword word="queer" sense="LGBT umbrella term" />
@@ -107892,7 +107914,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a knit cap/beanie/toque of material $x_2$.</definition>
       <definitionid>74296</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {nivji}, {mapku}.</notes>
       <glossword word="beanie" sense="knit cap" />
       <glossword word="knit cap" />
@@ -121308,7 +121330,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$v_1$ is a passenger aircraft for carrying $v_2=p_1$, propelled by $v_3$.</definition>
       <definitionid>19011</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {prenu}, {vinji}.</notes>
       <glossword word="airliner" />
       <glossword word="passenger aircraft" />
@@ -161793,6 +161815,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>100000</score>
       <glossword word="usage for purpose" />
 </valsi>
+<valsi word="tepnunsla" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a fear holiday celebrated by $x_2$ with activities $x_3$;  $x_1$ is Halloween</definition>
+      <definitionid>74298</definitionid>
+      <score>2</score>
+      <notes>cf. {terpa} {nu} {salci}. see also {tepsla}</notes>
+</valsi>
 <valsi word="tepo'i" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
   <user>
@@ -176736,6 +176768,20 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>2</score>
       <notes>Cf. {vinji}, {bloti}, {ni&apos;ablo}, {brabrajamblo}, {brajamblo}, {cmajamblo}, {badjamblo}. </notes>
       <glossword word="aircraft carrier" />
+</valsi>
+<valsi word="vijdilnu" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a contrail/vapor trail.</definition>
+      <definitionid>74299</definitionid>
+      <score>2</score>
+      <notes>See {vinji}, {dilnu}.</notes>
+      <glossword word="contrail" />
+      <glossword word="vapor trail" />
+      <glossword word="vapour trail" />
+      <keyword word="contrail" place="1" />
 </valsi>
 <valsi word="vijli'a" type="lujvo">
   <user>
@@ -193680,8 +193726,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
   </user>
       <definition>$x_1$ (agent) creates &apos;hack&apos; $x_2$ (nu/zu&apos;o/si&apos;o) for system/tool $x_3$ from inspiration $x_4$; $x_2$ is an emergent use/purpose for $x_3$, unexpected by the original creators or users</definition>
       <definitionid>67311</definitionid>
-      <score>4</score>
-      <notes>Contains no positive or negative connotations, can refer both to &apos;cool/elegant hacks&apos; ({se} {mlezvi}) and &apos;kludge/ugly hacks&apos; ({se} {feglyzvi}). Hack as in &apos;gain unauthorized or unexpected access to&apos; = {zvijonse}, &apos;White-hat&apos; hacking = {vudzvi}/{vudzvijonse}, &apos;black-hat&apos; hacking = {pacyzvi}/{pacyzvijonse}, &apos;grey-hat&apos; hacking = {norvudzvi}/{norvudzvijonse}. See {kosmu}, {finti}, {jonse}</notes>
+      <score>6</score>
+      <notes>Proposed rafsi: -zvi-. Contains no positive or negative connotations, can refer both to &apos;cool/elegant hacks&apos; ({se} {mlezvi}) and &apos;kludge/ugly hacks&apos; ({se} {feglyzvi}). Hack as in &apos;gain unauthorized or unexpected access to&apos; = {zvijonse}, &apos;White-hat&apos; hacking = {vudzvi}/{vudzvijonse}, &apos;black-hat&apos; hacking = {pacyzvi}/{pacyzvijonse}, &apos;grey-hat&apos; hacking = {norvudzvi}/{norvudzvijonse}. See {kosmu}, {finti}, {jonse}</notes>
       <glossword word="hack" sense="invent an emergent solution/use" />
       <keyword word="hack" place="2" sense="emergent solution/use for a system/tool" />
 </valsi>
@@ -195093,6 +195139,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="seaport" valsi="blotcana" />
 <nlword word="boat" valsi="bloti" />
 <nlword word="canoe" valsi="blotrkanu" />
+<nlword word="flying boat" valsi="blovinji" place="1" />
 <nlword word="hull" valsi="bloxadni" />
 <nlword word="pirate" sense="seafaring bandit" valsi="blozeile&apos;a" />
 <nlword word="pirate ship" valsi="blozeile&apos;a" place="2" />
@@ -214028,6 +214075,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="1D" valsi="vi&apos;imde" />
 <nlword word="one-dimensional" sense="perspective" valsi="vi&apos;imde" />
 <nlword word="aircraft carrier" valsi="vijblo" />
+<nlword word="contrail" valsi="vijdilnu" place="1" />
+<nlword word="vapor trail" valsi="vijdilnu" />
+<nlword word="vapour trail" valsi="vijdilnu" />
 <nlword word="to depart" sense="with airplane" valsi="vijli&apos;a" />
 <nlword word="airplane pilot" valsi="vijysazri" />
 <nlword word="pilot" sense="of an aircraft" valsi="vijysazri" />
