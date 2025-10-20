@@ -28548,7 +28548,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1=m_1=c_3$ is romantic to $x_2=m_2$; $x_1$ is beautiful to $x_2$ because it follows or is based on some emotional ideal that may not actually reflect reality.</definition>
       <definitionid>71922</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Not &quot;romantic&quot; in the sense of &quot;pertaining to intimate love&quot; (={cinpamra&apos;a}); rather, &quot;romantic&quot; in the sense of viewing emotions as a higher and more important quality with extraordinary properties. See also {cinmo}, {melbi}.</notes>
 </valsi>
 <valsi word="cnino" type="gismu">
@@ -47797,15 +47797,13 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
 </valsi>
 <valsi word="fetfamti" type="lujvo">
   <user>
-    <username>Wuzzy</username>
-    <realname>Wuzzy</realname>
+    <username>selpahi</username>
+    <realname>Lorenzo Von Matterhorn</realname>
   </user>
-      <definition>$fa_1=fe_1$ is an aunt of $fa_2$ by bond/tie $fa_3$.</definition>
-      <definitionid>66954</definitionid>
-      <score>2</score>
-      <notes>See also: {nakfamti}, {famti}, {fetsi}.</notes>
+      <definition>$x_1$ is an aunt of $x_2$</definition>
+      <definitionid>44070</definitionid>
+      <score>1</score>
       <glossword word="aunt" />
-      <keyword word="aunt" place="1" />
 </valsi>
 <valsi word="fetfetcinse" type="lujvo">
   <user>
@@ -67394,7 +67392,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <definition>$x_1$ romanticizes $x_2$ (event/state). $x_1$ views/thinks of $x_2$ in a way that is unrealistically positive or idealized.</definition>
       <definitionid>74229</definitionid>
       <score>2</score>
-      <notes>See {jitfa}, {zabna}, {pensi}.</notes>
+      <notes>See {jitfa}, {zabna}, {pensi}, {cnimle}.</notes>
       <glossword word="romanticise" sense="view favourably" />
       <glossword word="romanticize" sense="view favorably" />
 </valsi>
@@ -85693,7 +85691,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is a cat ear of $x_2$</definition>
       <definitionid>70980</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>See {mlatu}, {kerlo}.</notes>
       <glossword word="cat ear" />
       <keyword word="cat ear" place="1" />
@@ -103083,15 +103081,13 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
 </valsi>
 <valsi word="nakfamti" type="lujvo">
   <user>
-    <username>Wuzzy</username>
-    <realname>Wuzzy</realname>
+    <username>selpahi</username>
+    <realname>Lorenzo Von Matterhorn</realname>
   </user>
-      <definition>$n_1=f_1$ is an uncle of $f_2$ by bond/tie $f_3$.</definition>
-      <definitionid>66955</definitionid>
-      <score>2</score>
-      <notes>See also: {fetfamti}, {famti}, {nakni}.</notes>
+      <definition>$x_1$ is an uncle of $x_2$</definition>
+      <definitionid>44078</definitionid>
+      <score>1</score>
       <glossword word="uncle" />
-      <keyword word="uncle" place="1" />
 </valsi>
 <valsi word="nakmli" type="lujvo">
   <user>
@@ -105491,6 +105487,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <score>3</score>
       <notes>Short for &quot;lo poi&apos;i mi na djuno lo du&apos;u ma kau me ke&apos;a&quot;; e.g. &quot;nau&apos;o jai daspo lo staku&quot; (someone broke the ceramic and I don&apos;t know who), &quot;ra zvati nau&apos;o&quot; (I don&apos;t know where she is), &quot;ka&apos;e jinga ta&apos;i nau&apos;o&quot; (it&apos;s possible to win somehow, but I don&apos;t know how).</notes>
 </valsi>
+<valsi word="naurfamti" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is an uncle of $x_2$ by bond/tie $x_3$.</definition>
+      <definitionid>74301</definitionid>
+      <score>1</score>
+      <notes>Intended to replace {nakfamti}. See {nanmu}, {famti}, {nimfamti}.</notes>
+      <glossword word="uncle" />
+      <keyword word="uncle" place="1" />
+</valsi>
 <valsi word="naurso'a" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -107152,6 +107160,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <score>3</score>
       <glossword word="water lily" sense="genus Nymphaea" />
       <keyword word="water lily" place="1" sense="genus Nymphaea" />
+</valsi>
+<valsi word="nimfamti" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is an aunt of $x_2$ by bond/tie $x_3$.</definition>
+      <definitionid>74302</definitionid>
+      <score>1</score>
+      <notes>Intended to replace {fetfamti}. See {ninmu}, {famti}, {naurfamti}.</notes>
+      <glossword word="aunt" />
+      <keyword word="aunt" place="1" />
 </valsi>
 <valsi word="nimpinji" type="lujvo">
   <user>
@@ -109632,7 +109652,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ feels emptiness of emotion, lack of emotion.</definition>
       <definitionid>74096</definitionid>
-      <score>1</score>
+      <score>2</score>
 </valsi>
 <valsi word="nuljarso'a" type="lujvo">
   <user>
@@ -115459,7 +115479,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a grandchild of $x_2$.</definition>
       <definitionid>42472</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Synonymous to “se {riryrirni}”.</notes>
       <glossword word="grandchild" />
 </valsi>
@@ -148819,7 +148839,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$b_1$ is a hedge separating $b_2$ and $b_3$ in $b_4$ made of plants of species $s_2$.</definition>
       <definitionid>9819</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {spati}, {bitmu}.</notes>
       <glossword word="hedge" sense="planted shrubs" />
       <glossword word="hedgerow" />
@@ -167726,6 +167746,16 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>1</score>
       <notes>{to&apos;e} {viknu}</notes>
       <glossword word="runny" sense="opposite of viscous" />
+</valsi>
+<valsi word="tolvirnu" type="lujvo">
+  <user>
+    <username>selpahi</username>
+    <realname>Lorenzo Von Matterhorn</realname>
+  </user>
+      <definition>$x_1$ is a coward in situation/aspect $x_2$</definition>
+      <definitionid>44073</definitionid>
+      <score>1</score>
+      <glossword word="coward" />
 </valsi>
 <valsi word="tolvlina" type="lujvo">
   <user>
@@ -199152,6 +199182,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="goddess" valsi="fetcei" />
 <nlword word="gynophile" valsi="fetcinse" place="1" />
 <nlword word="heterosexual male" valsi="fetcinse" />
+<nlword word="aunt" valsi="fetfamti" />
 <nlword word="bachelorette" valsi="fetnalspe" />
 <nlword word="miss" sense="unmarried woman" valsi="fetnalspe" />
 <nlword word="spinster" valsi="fetnalspe" />
@@ -205454,6 +205485,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="androphile" valsi="nakcinse" place="1" />
 <nlword word="androphilous" valsi="nakcinse" />
 <nlword word="heterosexual female" valsi="nakcinse" />
+<nlword word="uncle" valsi="nakfamti" />
 <nlword word="demiboy" sense="gender" valsi="nakmli" />
 <nlword word="male" valsi="nakni" />
 <nlword word="male vagina" valsi="nakpibrkevna" />
