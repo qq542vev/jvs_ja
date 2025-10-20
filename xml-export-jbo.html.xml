@@ -19881,7 +19881,7 @@
   </user>
       <definition>$x_1$ kerlo $x_2$ noi mlatu .i ja $x_1$ kerlo $x_2$ gi&apos;e simsa lo&apos;e kerlo be lo&apos;e mlatu</definition>
       <definitionid>74293</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>.i ko catlu zo {mlatu} .e zo {kerlo}</notes>
 </valsi>
 <valsi word="latmo" type="gismu">
@@ -24746,6 +24746,16 @@
       <definitionid>71023</definitionid>
       <score>2</score>
 </valsi>
+<valsi word="naurfamti" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ famti $x_2$ $x_3$ gi&apos;e nanmu</definition>
+      <definitionid>74303</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {nanmu} .e zo {famti} .e zo {nimfamti}</notes>
+</valsi>
 <valsi word="nauspe" type="lujvo">
   <user>
     <username>junpen</username>
@@ -25179,6 +25189,16 @@
       <definition>$n_1$ ni $c_2$ po&apos;u lo zilcmi</definition>
       <definitionid>52960</definitionid>
       <score>1</score>
+</valsi>
+<valsi word="nimfamti" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ famti $x_2$ $x_3$ gi&apos;e ninmu</definition>
+      <definitionid>74304</definitionid>
+      <score>1</score>
+      <notes>.i ko catlu zo {ninmu} .e zo {famti} .e zo {naurfamti}</notes>
 </valsi>
 <valsi word="nimre" type="gismu">
   <user>
@@ -27166,7 +27186,7 @@
   </user>
       <definition>$x_1$ panzi lo panzi be $x_2$</definition>
       <definitionid>42471</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>zo pazypanzi mitsmuvla lo&apos;u se {riryrirni} le&apos;u</notes>
 </valsi>
 <valsi word="pe" type="cmavo">
