@@ -33371,7 +33371,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is okay/alright/acceptable to $x_2$ by standard $x_3$</definition>
       <definitionid>73025</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>See also {xamgu}, {xlali}, {zanru}.</notes>
       <glossword word="acceptable" />
       <glossword word="alright" />
@@ -80648,6 +80648,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="flexible" sense="having many purposes" />
       <glossword word="has many purposes" />
 </valsi>
+<valsi word="kosplei" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ cosplays as (character, etc) $x_2$</definition>
+      <definitionid>74307</definitionid>
+      <score>1</score>
+      <glossword word="cosplay" />
+</valsi>
 <valsi word="kosta" type="gismu">
   <rafsi>kos</rafsi>
   <user>
@@ -84903,7 +84913,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is a lamp/candle/torch with fuel/power source $x_2$</definition>
       <definitionid>72694</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Refers to any artificial light source, whether flammable or electric. For &quot;electric lamp,&quot; see {diclamdu}. See also {lanru}, {gusni}, {livla}.</notes>
       <glossword word="candle" sense="light source" />
       <glossword word="lamp" sense="light source" />
@@ -105494,7 +105504,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is an uncle of $x_2$ by bond/tie $x_3$.</definition>
       <definitionid>74301</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Intended to replace {nakfamti}. See {nanmu}, {famti}, {nimfamti}.</notes>
       <glossword word="uncle" />
       <keyword word="uncle" place="1" />
@@ -107168,7 +107178,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is an aunt of $x_2$ by bond/tie $x_3$.</definition>
       <definitionid>74302</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Intended to replace {fetfamti}. See {ninmu}, {famti}, {naurfamti}.</notes>
       <glossword word="aunt" />
       <keyword word="aunt" place="1" />
@@ -111114,7 +111124,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ reflects New Zealand culture/nationality/geography/dialect in aspect $x_2$.</definition>
       <definitionid>16413</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {glico}, {sralo}.</notes>
 </valsi>
 <valsi word="nuznoi" type="lujvo">
@@ -114036,7 +114046,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_{1}$ is $x_{2}$ Pascal [metric unit] in pressure (default is 1) by standard $x_{3}$.</definition>
       <definitionid>70629</definitionid>
-      <score>4</score>
+      <score>5</score>
       <notes>See also {danre}, {kelvo}, {mitre}, {gradu}, {centi}, {decti}, {dekto}, {femti}, {gigdo}, {gocti}, {gotro}, {kilto}, {megdo}, {mikri}, {milti}, {nanvi}, {petso}, {picti}, {terto}, {xatsi}, {xecto}, {xexso}, {zepti}, {zetro}.</notes>
       <glossword word="Pascal" sense="pressure" />
 </valsi>
@@ -185620,6 +185630,19 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <notes>Cf. {pixra}, {tarmi}.</notes>
       <glossword word="image" sense="visual representation" />
 </valsi>
+<valsi word="xrazme" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a carved pumpkin/gourd/melon/jack o&apos;lantern with carved image $x_2$.</definition>
+      <definitionid>74306</definitionid>
+      <score>1</score>
+      <notes>Not necessarily illuminated. See {pixra}, {guzme}, {zmelamdu}, {jadrdjekolenterne}, {guzmrkukurbita}.</notes>
+      <glossword word="carved pumpkin" />
+      <glossword word="jack o&apos;lantern" />
+      <keyword word="carved pumpkin" place="1" />
+</valsi>
 <valsi word="xrebau" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -192318,6 +192341,19 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <glossword word="set of only finite elements" />
       <glossword word="unbounded set" />
       <glossword word="upper bound" sense="bound above" />
+</valsi>
+<valsi word="zmelamdu" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a jack o&apos;lantern composed of light source $x_2$ and hollow pumpkin/gourd/melon $x_3$.</definition>
+      <definitionid>74305</definitionid>
+      <score>1</score>
+      <notes>See {guzme}, {lamdu}, {xrazme}, {jadrdjekolenterne}, {guzmrkukurbita}.</notes>
+      <glossword word="jack o&apos;lantern" />
+      <glossword word="jack-o&apos;-lantern" />
+      <keyword word="jack o&apos;lantern" place="1" />
 </valsi>
 <valsi word="zmiboto" type="fu'ivla">
   <user>
@@ -215073,6 +215109,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="snore" sense="snort" valsi="xrata" />
 <nlword word="snort" sense="snore" valsi="xrata" />
 <nlword word="image" sense="visual representation" valsi="xratai" />
+<nlword word="carved pumpkin" valsi="xrazme" place="1" />
+<nlword word="jack o&apos;lantern" valsi="xrazme" />
 <nlword word="creole" sense="language" valsi="xrebau" />
 <nlword word="creole" sense="generalized; language/dialect" valsi="xrejvejdikybau" />
 <nlword word="pidgin" sense="generalized; language/dialect" valsi="xrejvejdikybau" />
@@ -215811,6 +215849,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="set of only finite elements" valsi="zmaumce" />
 <nlword word="unbounded set" valsi="zmaumce" />
 <nlword word="upper bound" sense="bound above" valsi="zmaumce" />
+<nlword word="jack-o&apos;-lantern" valsi="zmelamdu" />
 <nlword word="AI" sense="technology" valsi="zmiboto" />
 <nlword word="machine learning" sense="technology" valsi="zmiboto" />
 <nlword word="neural network" sense="data structure" valsi="zmiboto" />
