@@ -9591,7 +9591,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$s_1$ is a takeout/takeaway/carryout meal consisting of $s_2$</definition>
       <definitionid>74115</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {bevri} {sanmi}</notes>
 </valsi>
 <valsi word="beitlaxum" type="cmevla">
@@ -17306,7 +17306,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$f_1$ censors/suppresses event $f_2$ from occurring.</definition>
       <definitionid>74142</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {catni} {fanta}</notes>
 </valsi>
 <valsi word="ca'irpai" type="lujvo">
@@ -95078,7 +95078,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ psychologically harms/traumatizes $x_2$ in aspect/property $x_3$ resulting in trauma $x_4$</definition>
       <definitionid>74153</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {menli} {xrani}</notes>
 </valsi>
 <valsi word="menynunda'a" type="lujvo">
@@ -119945,6 +119945,18 @@ ni&apos;o Contraction: {pli&apos;aje}.</notes>
       <glossword word="want to have" />
       <glossword word="want to possess" />
 </valsi>
+<valsi word="pogbau" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a programming language used by $x_2$ for $x_3$.</definition>
+      <definitionid>74308</definitionid>
+      <score>1</score>
+      <notes>This word has been in use since at least as early as 2020. See {proga}, {bangu}, {samplabau}.</notes>
+      <glossword word="programming language" />
+      <keyword word="programming language" place="1" />
+</valsi>
 <valsi word="po'i" type="cmavo">
   <selmaho>BAI</selmaho>
   <user>
@@ -122526,7 +122538,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a tablet/puck/brick (block of pressed powder) of material $x_2$</definition>
       <definitionid>73760</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="pressed powder" />
       <glossword word="puck" sense="block of compressed powder" />
       <glossword word="tablet" sense="block of compressed powder" />
@@ -132118,7 +132130,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a dispenser/vending machine for distributing $x_2$</definition>
       <definitionid>73735</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Could refer to water fountain, soda dispenser, vending machine, sanitary products dispenser, crane game, automatic pet food bowl, etc.</notes>
       <glossword word="dispenser" sense="machine for dispensing" />
       <glossword word="vending machine" sense="machine dispensing products for purchase" />
@@ -139452,7 +139464,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is celery of variety/species $x_2$</definition>
       <definitionid>74135</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>see also {stagi}.</notes>
 </valsi>
 <valsi word="selrespa" type="lujvo">
@@ -169217,7 +169229,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is a controller (controlling tool) for controlling $x_2$ in event/state/enterprise $x_3$</definition>
       <definitionid>67806</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Includes remote controls ({dartrotci}). See {jitro}, {tutci}, {tcimi&apos;e}, {korbipe}</notes>
       <glossword word="controller" sense="controlling tool" />
 </valsi>
@@ -188551,7 +188563,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ is a hardware store selling $x_2$ operated by $x_3$</definition>
       <definitionid>74143</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {zbasu} {zarci}</notes>
 </valsi>
 <valsi word="zbepi" type="gismu">
