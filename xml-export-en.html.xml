@@ -795,6 +795,18 @@
       <score>1</score>
       <glossword word="kiwi plant" />
 </valsi>
+<valsi word="aktygau" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ turns on/activates $x_2$</definition>
+      <definitionid>74309</definitionid>
+      <score>1</score>
+      <notes>A version of {aktigau} but as an actual compound (akt-y-gau) instead of as a pseudo-compound freeword. See also {itkygau} &apos;turn off&apos; (&lt; itka &apos;turned off&apos; -y- ga[sn]u).</notes>
+      <glossword word="activate" sense="device, etc" />
+      <glossword word="turn on" sense="device, etc" />
+</valsi>
 <valsi word="akuuas" type="cmevla">
   <user>
     <username>viktor</username>
@@ -61189,6 +61201,18 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <notes>See {itku&apos;ile}, {bangu}</notes>
       <glossword word="Ithkuil" sense="language" />
 </valsi>
+<valsi word="itkygau" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ turns off/deactivates $x_2$</definition>
+      <definitionid>74310</definitionid>
+      <score>1</score>
+      <notes>Counterpart to {aktygau}, a &quot;de-freeword-ification&quot; of {aktigau}. Synonym: {na&apos;aktigau} (pseudo-compound), or {na&apos;aktygau} (actual compound from na&apos;akti -y- -gau-, na&apos;akti being a synonym of itka).</notes>
+      <glossword word="deactivate" sense="device, etc" />
+      <glossword word="turn off" sense="device, etc" />
+</valsi>
 <valsi word="itlgu'e" type="fu'ivla">
   <user>
     <username>remod</username>
@@ -85857,7 +85881,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$b_1$ is a quantity of catmint/catnip (Nepeta cataria) of variety $b_2$</definition>
       <definitionid>74053</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {mlatu} {bonta}</notes>
 </valsi>
 <valsi word="latydja" type="lujvo">
@@ -103959,7 +103983,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$s_1$ is optional / not necessary for process $s_2$ under conditions $s_3$</definition>
       <definitionid>74126</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {na&apos;e} {sarcu}</notes>
 </valsi>
 <valsi word="nalsa'uslakyskute'a" type="lujvo">
@@ -120794,6 +120818,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="stock" sense="capital stock" />
       <keyword word="capital stock" place="1" />
 </valsi>
+<valsi unofficial="true" word="posko" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Polish culture/language/nationality in aspect $x_2$</definition>
+      <definitionid>74313</definitionid>
+      <score>1</score>
+      <notes>From Polish polski &apos;Polish&apos;, Polska &apos;Poland&apos;. Rafsi: -pok-.</notes>
+      <glossword word="Poland" sense="language, culture, nationality" />
+      <glossword word="Polish" sense="language, culture, nationality" />
+</valsi>
 <valsi word="posterfai" type="lujvo">
   <user>
     <username>totus</username>
@@ -125141,6 +125177,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>Cf. {brazo}, {gugde}, {gugdeburu}.</notes>
       <glossword word="Brazil" />
       <keyword word="Brazil" place="1" />
+</valsi>
+<valsi word="razru'u" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is $x_2$ reais (sg. real; Brazilian currency)</definition>
+      <definitionid>74311</definitionid>
+      <score>1</score>
+      <glossword word="reais" sense="Brazilian currency" />
+      <glossword word="real" sense="Brazilian currency" />
 </valsi>
 <valsi word="razyporto" type="lujvo">
   <user>
@@ -144942,6 +144989,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definitionid>72907</definitionid>
       <score>1</score>
       <glossword word="clip art" />
+</valsi>
+<valsi word="skocau" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is wireless/untethered.</definition>
+      <definitionid>74312</definitionid>
+      <score>1</score>
+      <notes>See {skori}, {claxu}.</notes>
+      <glossword word="untethered" />
+      <glossword word="wireless" />
 </valsi>
 <valsi word="skogace" type="fu'ivla">
   <user>
@@ -193966,6 +194025,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="running" sense="functional" valsi="akti" />
 <nlword word="activate" valsi="aktigau" />
 <nlword word="kiwi plant" valsi="aktinidja" />
+<nlword word="activate" sense="device, etc" valsi="aktygau" />
+<nlword word="turn on" sense="device, etc" valsi="aktygau" />
 <nlword word="basil" valsi="alba&apos;aka" />
 <nlword word="album" valsi="albuma" />
 <nlword word=" Levant" sense="culture/region" valsi="alcamacrike" />
@@ -200699,6 +200760,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Ilaksh" sense="language" valsi="itku&apos;ile" />
 <nlword word="Illaksh" sense="language" valsi="itku&apos;ile" />
 <nlword word="Ithkuil" sense="language" valsi="itku&apos;ile" />
+<nlword word="deactivate" sense="device, etc" valsi="itkygau" />
+<nlword word="turn off" sense="device, etc" valsi="itkygau" />
 <nlword word="Etruscan" sense="culture" valsi="itlnrasno" />
 <nlword word="Italian; Italy" valsi="itlo" place="1" />
 <nlword word="Italy" sense="Country" valsi="itlogu&apos;e" place="1" />
@@ -207583,6 +207646,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="take turns" valsi="porzu&apos;e" />
 <nlword word="capital stock" valsi="posfai" place="1" />
 <nlword word="stock" sense="capital stock" valsi="posfai" />
+<nlword word="Poland" sense="language, culture, nationality" valsi="posko" />
+<nlword word="Polish" sense="language, culture, nationality" valsi="posko" />
 <nlword word="share" sense="of capital stock" valsi="posterfai" place="1" />
 <nlword word="postmodern spoken bullshit" valsi="postmo" />
 <nlword word="claim" sense="demand ownership of" valsi="posxu&apos;a" />
@@ -208099,6 +208164,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sardonic" sense="ironically humorous" valsi="raxyxajmi" />
 <nlword word="Brazilan Portuguese" sense="language" valsi="razbau" />
 <nlword word="Brazil" valsi="razgu&apos;e" />
+<nlword word="reais" sense="Brazilian currency" valsi="razru&apos;u" />
+<nlword word="real" sense="Brazilian currency" valsi="razru&apos;u" />
 <nlword word="Brazilian Portuguese" valsi="razyporto" />
 <nlword word="2" valsi="re" />
 <nlword word="two" valsi="re" />
@@ -210397,6 +210464,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="SQL version" valsi="skiueli" place="3" />
 <nlword word="structured query language" sense="database" valsi="skiueli" />
 <nlword word="clip art" valsi="skli&apos;iparte" />
+<nlword word="untethered" valsi="skocau" />
+<nlword word="wireless" valsi="skocau" />
 <nlword word="bow" sense="ranged weapon" valsi="skogace" place="1" />
 <nlword word="bow and arrow" sense="ranged weapon" valsi="skogace" />
 <nlword word="arrow" sense="ammunition" valsi="skogarce&apos;a" place="2" />
