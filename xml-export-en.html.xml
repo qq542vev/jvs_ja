@@ -20185,6 +20185,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <glossword word="skilled" />
       <keyword word="expert" place="1" />
 </valsi>
+<valsi word="cesmakfa" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ (event) is a miracle/miraculous</definition>
+      <definitionid>74314</definitionid>
+      <score>2</score>
+      <glossword word="miracle" sense="supernatural religious phenomenon" />
+      <glossword word="miraculous" sense="pertaining to miracles" />
+      <keyword word="miracle" place="1" sense="supernatural religious phenomenon" />
+</valsi>
 <valsi word="cesri'a" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -45490,6 +45502,18 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>1</score>
       <notes>See also {ne&apos;o}</notes>
       <glossword word="factorial" />
+</valsi>
+<valsi word="famselre'e" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+      <definition>$x_1$ is a caboose of train $x_2$.</definition>
+      <definitionid>74315</definitionid>
+      <score>1</score>
+      <notes>See {fanmo}, {se}, {trene}.</notes>
+      <glossword word="caboose" sense="railroad car" />
+      <keyword word="caboose" place="1" sense="railroad car" />
 </valsi>
 <valsi word="famsku" type="lujvo">
   <user>
@@ -141535,7 +141559,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$s_1=m_1$ is an escalator with stairs/stairway/steps for climbing structure $s_2$ with steps $s_3$.</definition>
       <definitionid>72554</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="escalator" sense="mechanized stairs" />
 </valsi>
 <valsi word="serti" type="gismu">
@@ -143233,28 +143257,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>2</score>
       <notes>adapted from Japanese フシギダネ</notes>
       <glossword word="bulbasaur" />
-</valsi>
-<valsi word="sigdanyba'o" type="lujvo">
-  <user>
-    <username>k1234567890y</username>
-    <realname>k1234567890y</realname>
-  </user>
-      <definition>$x_1$ is an ivysaur [pokemon]</definition>
-      <definitionid>71522</definitionid>
-      <score>1</score>
-      <notes>from {sigdane}+{banro}</notes>
-      <glossword word="ivysaur" />
-</valsi>
-<valsi word="sigdanyfamba'o" type="lujvo">
-  <user>
-    <username>k1234567890y</username>
-    <realname>k1234567890y</realname>
-  </user>
-      <definition>$x_1$ is a venusaur [pokemon]</definition>
-      <definitionid>71523</definitionid>
-      <score>1</score>
-      <notes>from {sigdane}+{fanmo}+{banro}</notes>
-      <glossword word="venusaur" />
 </valsi>
 <valsi word="sigja" type="gismu">
   <rafsi>sig</rafsi>
@@ -147340,7 +147342,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a quantity of sparkling water/seltzer/club soda</definition>
       <definitionid>73734</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>see also {sodgau}, {sodri&apos;a}</notes>
 </valsi>
 <valsi word="sodna" type="gismu">
@@ -196105,6 +196107,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="expert" valsi="certu" />
 <nlword word="pro" sense="expert" valsi="certu" />
 <nlword word="skilled" valsi="certu" />
+<nlword word="miracle" sense="supernatural religious phenomenon" valsi="cesmakfa" place="1" />
+<nlword word="miraculous" sense="pertaining to miracles" valsi="cesmakfa" />
 <nlword word="sanctify" valsi="cesri&apos;a" />
 <nlword word="worship" valsi="cesri&apos;isi&apos;a" />
 <nlword word="consecrated land" sense="general" valsi="cestu&apos;a" />
@@ -199014,6 +199018,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="renounce" sense="quit" valsi="famli&apos;a" />
 <nlword word="interminable" sense="not able to be ended" valsi="famnalka&apos;e" />
 <nlword word="unendable" sense="not able to end" valsi="famnalka&apos;e" />
+<nlword word="caboose" sense="railroad car" valsi="famselre&apos;e" place="1" />
 <nlword word="conclude" sense="finish by expressing" valsi="famsku" />
 <nlword word="aunt or uncle" valsi="famti" />
 <nlword word="canvas" valsi="fanbu&apos;u" />
@@ -210252,8 +210257,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="IF statement" valsi="sigda" />
 <nlword word="material conditional statement" valsi="sigda" />
 <nlword word="bulbasaur" valsi="sigdane" />
-<nlword word="ivysaur" valsi="sigdanyba&apos;o" />
-<nlword word="venusaur" valsi="sigdanyfamba&apos;o" />
 <nlword word="cigar" valsi="sigja" />
 <nlword word="standard deviation" valsi="sigma" />
 <nlword word="smoke" sense="inhale tobacco smoke" valsi="sigva&apos;u" />
