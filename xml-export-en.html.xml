@@ -49668,6 +49668,18 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <glossword word="bewilder" />
       <glossword word="confuse" sense="confound" />
 </valsi>
+<valsi word="fi'urvo" type="fu'ivla">
+  <user>
+    <username>phma</username>
+    <realname>Pierre Abbat</realname>
+  </user>
+      <definition>$x_1$ is $x_2$ quarts/firkins by standard $x_3$</definition>
+      <definitionid>74316</definitionid>
+      <score>1</score>
+      <notes>One fourth of a {dekpu}.</notes>
+      <glossword word="firkin" />
+      <glossword word="quart" />
+</valsi>
 <valsi word="fi'u zei re zei cinse" type="zei-lujvo">
   <user>
     <username>lakanro</username>
@@ -199504,6 +199516,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="baffle" valsi="fi&apos;urgau" />
 <nlword word="bewilder" valsi="fi&apos;urgau" />
 <nlword word="confuse" sense="confound" valsi="fi&apos;urgau" />
+<nlword word="firkin" valsi="fi&apos;urvo" />
+<nlword word="quart" valsi="fi&apos;urvo" />
 <nlword word="demisexual" valsi="fi&apos;u zei re zei cinse" />
 <nlword word="excite" sense="feel excitement (emotion)" valsi="fizbu" />
 <nlword word="excited" sense="feels excitement" valsi="fizbu" />
