@@ -10247,17 +10247,6 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <glossword word="Son " />
       <glossword word="Sonny" />
 </valsi>
-<valsi word="besmamta" type="lujvo">
-  <user>
-    <username>sarefo</username>
-    <realname>sarefo</realname>
-  </user>
-      <definition>$m_1=b_2$ is the mother of son $m_2=b_1$.</definition>
-      <definitionid>17558</definitionid>
-      <score>1</score>
-      <notes>Cf. {tixmamta}, {bespa&apos;u}.</notes>
-      <glossword word="mother of son" />
-</valsi>
 <valsi word="besna" type="gismu">
   <rafsi>ben</rafsi>
   <user>
@@ -29877,7 +29866,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$l_1=m_1$ is a tractor pulling $l_2$.</definition>
       <definitionid>13104</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {cpumuvgau}, {trene}, {karce}, {pulni}.</notes>
       <glossword word="tractor" />
 </valsi>
@@ -62232,7 +62221,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$c_1$ is a vise, clamp, clasp used for holding $c_2$</definition>
       <definitionid>74046</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {jgari} {cabra}</notes>
 </valsi>
 <valsi word="jaitci" type="lujvo">
@@ -90183,6 +90172,17 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <notes>Approximately 385. Mm. See also: &quot;{solminli}&quot;.</notes>
       <glossword word="Earth-Moon distance" />
 </valsi>
+<valsi word="lurnanba" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a croissant.</definition>
+      <definitionid>74317</definitionid>
+      <score>1</score>
+      <notes>{tairmlunra} &apos;crescent&apos; felt too long for the compound; I went for regular {lunra} instead, even though croissant means &quot;crescent&quot; and not just &quot;moon&quot; in French. Alternatively this could be a loanword ({krasone}?), and maybe this should just mean &apos;mooncake&apos; instead.</notes>
+      <glossword word="croissant" />
+</valsi>
 <valsi word="lurtina" type="fu'ivla">
   <user>
     <username>spheniscine</username>
@@ -102554,7 +102554,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$z_1$ is a bakery selling $z_2$ operated by $z_3$</definition>
       <definitionid>73851</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {nanba} {zarci}</notes>
 </valsi>
 <valsi word="nabzba" type="lujvo">
@@ -107161,7 +107161,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is the probability of $x_2$ (event)</definition>
       <definitionid>63672</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="probability" />
 </valsi>
 <valsi word="nilylau" type="lujvo">
@@ -120861,7 +120861,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ reflects Polish culture/language/nationality in aspect $x_2$</definition>
       <definitionid>74313</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>From Polish polski &apos;Polish&apos;, Polska &apos;Poland&apos;. Rafsi: -pok-.</notes>
       <glossword word="Poland" sense="language, culture, nationality" />
       <glossword word="Polish" sense="language, culture, nationality" />
@@ -165552,17 +165552,6 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <notes>Cf. {tixnu}, {bes}, {mes}, {bun}, {mam}, {paf}.</notes>
       <glossword word="Daughter" />
 </valsi>
-<valsi word="tixmamta" type="lujvo">
-  <user>
-    <username>sarefo</username>
-    <realname>sarefo</realname>
-  </user>
-      <definition>$m_1=t_2$ is the mother of daughter $m_2=t_1$.</definition>
-      <definitionid>17559</definitionid>
-      <score>1</score>
-      <notes>Cf. {besmamta}, {tixpa&apos;u}.</notes>
-      <glossword word="mother of daughter" />
-</valsi>
 <valsi word="tixnu" type="gismu">
   <rafsi>tix</rafsi>
   <rafsi>ti&apos;u</rafsi>
@@ -165734,7 +165723,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$j_1$ is a butterfly net for catching butterfly/moth of species $t_2$</definition>
       <definitionid>70823</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Need not have a handle or be manually operated.</notes>
       <glossword word="butterfly net" />
       <keyword word="butterfly net" place="1" />
@@ -166092,7 +166081,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$j_1$ bakes food-for-eating $j_2=t_2$ by recipe/method $j_3$ (process).</definition>
       <definitionid>72473</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {jukpa}.</notes>
       <glossword word="bake" sense="cook with dry heat" />
 </valsi>
@@ -173886,7 +173875,7 @@ ni&apos;o See also: {vajyje&apos;ipoitau} (little-endian tanru), {co&apos;i&apos
   </user>
       <definition>$x_1=v_1=t_1$ is most important/most significant to $x_2=v_2$ in aspect/for reason $x_3=v_3$ among set/range $x_4=t_4$.</definition>
       <definitionid>14598</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>{vajni}+{traji}</notes>
       <glossword word="most important" />
       <glossword word="most significant" />
@@ -195017,7 +195006,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="north" valsi="berti" />
 <nlword word="Son " valsi="bes" />
 <nlword word="Sonny" valsi="bes" />
-<nlword word="mother of son" valsi="besmamta" />
 <nlword word="brain" valsi="besna" />
 <nlword word="abdomen" valsi="betfu" />
 <nlword word="tragedy" valsi="betri" />
@@ -203923,6 +203911,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="auger" valsi="lupcarcna" />
 <nlword word="screwdriver" valsi="lupcartci" />
 <nlword word="Earth-Moon distance" valsi="lurminli" />
+<nlword word="croissant" valsi="lurnanba" />
 <nlword word="otter" valsi="lurtina" />
 <nlword word="mollusc" valsi="luska" />
 <nlword word="Middle East" valsi="lusto" />
@@ -212899,7 +212888,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="TV" sense="screen" valsi="tivyvidni" />
 <nlword word="TV screen" valsi="tivyvidni" />
 <nlword word="Daughter" valsi="tix" />
-<nlword word="mother of daughter" valsi="tixmamta" />
 <nlword word="daughter" valsi="tixnu" />
 <nlword word="permobile" valsi="tizma&apos;e" />
 <nlword word="wheelchair" valsi="tizma&apos;e" />
