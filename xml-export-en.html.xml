@@ -94472,6 +94472,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <glossword word="arbitrarily lesser" />
       <glossword word="arbitrarily small" />
 </valsi>
+<valsi unofficial="true" word="mei'ai" type="experimental cmavo">
+  <selmaho>MOI</selmaho>
+  <user>
+    <username>zirenuovr</username>
+    <realname>Mackenzie &quot;Zie&quot; Weaver</realname>
+  </user>
+      <definition>$x1$ is (n) less than $x2$ in metric $x3$ [ni, default cardinality]</definition>
+      <definitionid>74319</definitionid>
+      <score>1</score>
+      <notes>I.e. $|x2| - n = |x1|$ where $x3$ determines how to measure $|x|$.  Practically, this can be used, e.g. «djica tu&apos;a le pa zau&apos;ei be lei titla» for &quot;I want one less candy&quot;. See also: {zau&apos;ei}, {ze&apos;au}, {ja&apos;au} Etymology: {me&apos;a}+{mei} (note that me&apos;a ny. mei means something different).</notes>
+      <glossword word="less than" sense="quantity" />
+</valsi>
 <valsi unofficial="true" word="mei'e" type="experimental cmavo">
   <selmaho>MEIhE</selmaho>
   <user>
@@ -188348,6 +188360,18 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <score>2</score>
       <notes>A call to act now. See .{e&apos;e}, {zukte}</notes>
 </valsi>
+<valsi unofficial="true" word="zau'ei" type="experimental cmavo">
+  <selmaho>MOI</selmaho>
+  <user>
+    <username>zirenuovr</username>
+    <realname>Mackenzie &quot;Zie&quot; Weaver</realname>
+  </user>
+      <definition>$x1$ is (n) more than $x2$ in metric $x3$ [ni, default cardinality]</definition>
+      <definitionid>74318</definitionid>
+      <score>1</score>
+      <notes>I.e. $|x2| + n = |x1|$ where $x3$ determines how to measure $|x|$.  Practically, this can be used, e.g. «djica tu&apos;a le pa zau&apos;ei be lei titla» for &quot;I want one more candy&quot;. See also: {mei&apos;ai}, {ze&apos;au}, {ja&apos;au} Etymology: {za&apos;u}+{mei} (note that za&apos;u ny. mei means something different).</notes>
+      <glossword word="more than" sense="quantity" />
+</valsi>
 <valsi unofficial="true" word="zau'e'u" type="experimental cmavo">
   <selmaho>ZAUhEhU</selmaho>
   <user>
@@ -204498,6 +204522,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="arbitrarily few" valsi="mei&apos;a" />
 <nlword word="arbitrarily lesser" valsi="mei&apos;a" />
 <nlword word="arbitrarily small" valsi="mei&apos;a" />
+<nlword word="less than" sense="quantity" valsi="mei&apos;ai" />
 <nlword word="among" sense="sumti list" valsi="mei&apos;e" />
 <nlword word="Maine" sense="U.S. state" valsi="mein" />
 <nlword word="mendokusai" valsi="meindoksai" />
@@ -215491,6 +215516,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="greater than" valsi="za&apos;u" />
 <nlword word="more" sense="in greater number" valsi="za&apos;u" />
 <nlword word="approved by" valsi="zau" />
+<nlword word="more than" sense="quantity" valsi="zau&apos;ei" />
 <nlword word="additive negation indicator" valsi="zau&apos;e&apos;u" />
 <nlword word="affirmation toggle" valsi="zau&apos;e&apos;u" />
 <nlword word="double-negative toggle" valsi="zau&apos;e&apos;u" />
