@@ -120980,17 +120980,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definitionid>72634</definitionid>
       <score>1</score>
 </valsi>
-<valsi word="posytmo" type="fu'ivla">
-  <user>
-    <username>zozeizeizeizeifaho</username>
-    <realname>la du kooi noi zo zei zei zei zei fao ku ne vou biu pei</realname>
-  </user>
-      <definition>$x_1$ emits random syllables $x_2$ and hopes that $x_3$ interprets them as meaningful, instead of the bullshit they actually are</definition>
-      <definitionid>68542</definitionid>
-      <score>1</score>
-      <notes>See {pe&apos;a}, {bebna}, {metfo}, {pevna}, {sidysmu}</notes>
-      <glossword word="postmodern spoken bullshit" />
-</valsi>
 <valsi word="potcindu" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -186647,7 +186636,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ is Sunday of week $x_2$ on calendar $x_3$.</definition>
       <definitionid>66897</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Synonyms: {soldei}, {nondei}. See also {zirdei}, {najdei}.</notes>
       <glossword word="Sunday" />
 </valsi>
