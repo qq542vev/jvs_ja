@@ -153139,6 +153139,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <keyword word="cluster bomb" place="1" sense="explosive weapon" />
       <keyword word="submunition" place="2" sense="of cluster munition" />
 </valsi>
+<valsi word="spiluri" type="fu'ivla">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+      <definition>$x_1$ pertains (in aspect $x_2$) to rave/PLUR culture/ethos.</definition>
+      <definitionid>74320</definitionid>
+      <score>1</score>
+      <glossword word="PLUR" />
+      <glossword word="rave" />
+</valsi>
 <valsi word="spinaca" type="fu'ivla">
   <user>
     <username>selpahi</username>
@@ -211522,6 +211533,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sibling of spouse" valsi="spetunba" />
 <nlword word="cluster bomb" sense="explosive weapon" valsi="spijbama" place="1" />
 <nlword word="submunition" sense="of cluster munition" valsi="spijbama" place="2" />
+<nlword word="PLUR" valsi="spiluri" />
+<nlword word="rave" valsi="spiluri" />
 <nlword word="spinach" valsi="spinacia" />
 <nlword word="spinor" valsi="spinori" />
 <nlword word="piece" valsi="spisa" />
