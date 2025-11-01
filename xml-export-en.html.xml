@@ -21638,6 +21638,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <score>2</score>
       <glossword word="Hot Dog" />
 </valsi>
+<valsi word="cidnaxo" type="fu'ivla">
+  <user>
+    <username>DGCK81LNN</username>
+    <realname>DGCK81LNN</realname>
+  </user>
+      <definition>$x_1$ reflects Shidinn Aho culture/nationality/language in aspect $x_2$</definition>
+      <definitionid>74321</definitionid>
+      <score>1</score>
+      <notes>A Chinese-based conlang created by Huang Quefei, popular among Chinese conlangers. Website: https://xdi8.top/ See also {bangrcidinaxo}.</notes>
+      <glossword word="Shidinn" sense="conlang" />
+      <glossword word="Xdi8" sense="conlang" />
+</valsi>
 <valsi word="cidni" type="gismu">
   <rafsi>cid</rafsi>
   <user>
@@ -196278,6 +196290,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="chili con carne" sense="dish" valsi="cidjrtcilekonkarne" place="1" />
 <nlword word="chometz" valsi="cidjrxametsa" />
 <nlword word="Hot Dog" valsi="cidjrxonido" />
+<nlword word="Shidinn" sense="conlang" valsi="cidnaxo" />
+<nlword word="Xdi8" sense="conlang" valsi="cidnaxo" />
 <nlword word="knee" valsi="cidni" />
 <nlword word="hydrogen" valsi="cidro" />
 <nlword word="crawl" sense="on knees" valsi="cidydzu" />
