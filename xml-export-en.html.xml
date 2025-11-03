@@ -11147,38 +11147,6 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <glossword word="wallpaper" sense="wall decoration" />
       <keyword word="wallpaper" place="1" sense="wall decoration" />
 </valsi>
-<valsi word="bimrurklaji" type="lujvo">
-  <user>
-    <username>bairyn</username>
-    <realname>Byron Johnson</realname>
-  </user>
-      <definition>$x_1=k_1=s_2$ is a hall / corridor / long passageway at $x_2=k_2$ accessing / connecting $x_3=k_3$ with surrounding walls / barriers / separators / covers / borders $x_4=s_1=b_1$ in direction(s) / dimension(s) / plane $x_5=s_3$, with interior $x_6=b_2$ and exterior $x_7=b_3$ in / of structure / environment $x_8=b_4$.</definition>
-      <definitionid>73920</definitionid>
-      <score>1</score>
-      <notes>Note: as a trade-off for word shortness, {bimrurklaji} can be used for the more directly accurate {bimselrurklaji} (wall-enclosed lane), as ‘wall-enclosing kind of lane’ more directly interpreted seems much less frequent.  If need to clarify were to arise, modifications such as ‘jet’… could perhaps be employed.</notes>
-      <glossword word="corridor" />
-      <glossword word="hall" />
-      <glossword word="long passageway" />
-      <keyword word="hall" place="1" />
-      <keyword word="corridor" place="2" />
-      <keyword word="long passageway" place="3" />
-</valsi>
-<valsi word="bimselrurklaji" type="lujvo">
-  <user>
-    <username>bairyn</username>
-    <realname>Byron Johnson</realname>
-  </user>
-      <definition>$x_1=k_1=s_2$ is a hall / corridor / long passageway at $x_2=k_2$ accessing / connecting $x_3=k_3$ with surrounding walls / barriers / separators / covers / borders $x_4=s_1=b_1$ in direction(s) / dimension(s) / plane $x_5=s_3$, with interior $x_6=b_2$ and exterior $x_7=b_3$ in / of structure / environment $x_8=b_4$.</definition>
-      <definitionid>73921</definitionid>
-      <score>1</score>
-      <notes>See also {bimrurklaji}.</notes>
-      <glossword word="corridor" />
-      <glossword word="hall" />
-      <glossword word="long passageway" />
-      <keyword word="hall" place="1" />
-      <keyword word="corridor" place="2" />
-      <keyword word="long passageway" place="3" />
-</valsi>
 <valsi word="bimselsru" type="lujvo">
   <user>
     <username>selpahi</username>
@@ -20181,7 +20149,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$x_1$ (event) is a miracle/miraculous</definition>
       <definitionid>74314</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="miracle" sense="supernatural religious phenomenon" />
       <glossword word="miraculous" sense="pertaining to miracles" />
       <keyword word="miracle" place="1" sense="supernatural religious phenomenon" />
@@ -21645,7 +21613,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$x_1$ reflects Shidinn Aho culture/nationality/language in aspect $x_2$</definition>
       <definitionid>74321</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>A Chinese-based conlang created by Huang Quefei, popular among Chinese conlangers. Website: https://xdi8.top/ See also {bangrcidinaxo}.</notes>
       <glossword word="Shidinn" sense="conlang" />
       <glossword word="Xdi8" sense="conlang" />
@@ -28925,7 +28893,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a sign language of $x_2$</definition>
       <definitionid>73762</definitionid>
-      <score>4</score>
+      <score>5</score>
       <notes>Replacement for ableist term {xanbau}, which appears to be based on misconceptions about signing and Deaf culture. Sign language is not &quot;hand language&quot;. Any speaker of sign language can tell you that signing involves not just the hands, but the whole body: face, chest, lips, posture, facial expression/body language, lip movement, and so forth. Therefore, &quot;corci&quot; (gesture) makes a far better modifying component for this lujvo.</notes>
       <glossword word="sign language" />
       <keyword word="sign language" place="1" />
@@ -90191,7 +90159,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   </user>
       <definition>$x_1$ is a croissant.</definition>
       <definitionid>74317</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>{tairmlunra} &apos;crescent&apos; felt too long for the compound; I went for regular {lunra} instead, even though croissant means &quot;crescent&quot; and not just &quot;moon&quot; in French. Alternatively this could be a loanword ({krasone}?), and maybe this should just mean &apos;mooncake&apos; instead.</notes>
       <glossword word="croissant" />
 </valsi>
@@ -91206,6 +91174,17 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <glossword word="create" />
       <glossword word="make" />
       <glossword word="materialize" />
+</valsi>
+<valsi unofficial="true" word="majgo" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ reflects Hungarian culture/language/nationality in aspect $x_2$</definition>
+      <definitionid>74322</definitionid>
+      <score>1</score>
+      <notes>From Hungarian magyar &gt; *magjo &gt; majgo (shape chosen for better combining form). Proposed rafsi -jgo-. Synonym: {magdaro}. Beware this word conflicts with the experimental {majga} &apos;... is the inertial mass of ...&apos;.</notes>
+      <glossword word="Hungarian" sense="culture, language, or nationality" />
 </valsi>
 <valsi word="majgybra" type="lujvo">
   <user>
@@ -120036,7 +120015,7 @@ ni&apos;o Contraction: {pli&apos;aje}.</notes>
   </user>
       <definition>$x_1$ is a programming language used by $x_2$ for $x_3$.</definition>
       <definitionid>74308</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>This word has been in use since at least as early as 2020. See {proga}, {bangu}, {samplabau}.</notes>
       <glossword word="programming language" />
       <keyword word="programming language" place="1" />
@@ -168155,7 +168134,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <definition>$x_1$ reflects Toaq language/culture in aspect $x_2$</definition>
       <definitionid>74239</definitionid>
       <score>2</score>
-      <notes>{to&apos;anbau} sounds like a language name ending in -bau like {jbobau}, but actually means &apos;$x_1$ reflects Toaq language or culture [...]&apos; and not &apos;$x_1$ is Toaq spoken by $x_2$&apos;, so you&apos;d have to say... to&apos;anbau&apos;ybau? for an explicit language name. {tonzo} avoids the double -bau- by having the language be tonzybau. Proposed rafsi -toz-, which would allow for even shorter tozbau, but -toz- would have to be &quot;stolen&quot; from the experimental particle {to&apos;ai}.</notes>
+      <notes>Proposed rafsi -to&apos;o-. Synonym: {to&apos;anzu}. See also {to&apos;anbau} (= {to&apos;orbau} ~ {tonzybau}).</notes>
       <glossword word="Toaq" sense="language or culture" />
       <glossword word="Toaqic" sense="language or culture" />
 </valsi>
@@ -168181,18 +168160,6 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <definitionid>73910</definitionid>
       <score>1</score>
       <notes>Can be used to apply e.g. {be} applications or {noi} relative clauses in alternative locations without specifying what they modify.  Same grammar as {to}…{toi}.</notes>
-</valsi>
-<valsi word="to'okla" type="lujvo">
-  <user>
-    <username>spheniscine</username>
-    <realname>Jonathan</realname>
-  </user>
-      <definition>$x_1$ goes/moves away from $x_2$</definition>
-      <definitionid>67587</definitionid>
-      <score>1</score>
-      <notes>{klama} {to&apos;o} $x_2$. See {cliva}, {muvdu}</notes>
-      <glossword word="go away" />
-      <glossword word="move away" />
 </valsi>
 <valsi word="torbrato'a" type="lujvo">
   <user>
@@ -180073,7 +180040,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$vr_1=vi_1$ is a hero/heroic in doing $vi_2$ by standard $vr_2=vi_3$.</definition>
       <definitionid>14829</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="hero" />
       <glossword word="heroic" />
       <keyword word="hero" place="1" />
@@ -180449,7 +180416,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$v_1$ is an envelope for/containing letter $xa_1=v_2$.</definition>
       <definitionid>10281</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {xa&apos;argai}.</notes>
       <glossword word="envelope" />
 </valsi>
@@ -183778,7 +183745,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$  is dark/forest green (color adjective)</definition>
       <definitionid>73672</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>C.f. {xekska}, {xekri}, {crino}</notes>
 </valsi>
 <valsi word="xekska" type="lujvo">
@@ -195137,9 +195104,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="is a octet" valsi="bimei" />
 <nlword word="wallpaper" sense="wall decoration" valsi="bimkemnipyple" place="1" />
 <nlword word="is eighth among" valsi="bimoi" />
-<nlword word="corridor" valsi="bimselrurklaji" place="2" />
-<nlword word="hall" valsi="bimselrurklaji" place="1" />
-<nlword word="long passageway" valsi="bimselrurklaji" place="3" />
 <nlword word="yard" sense="surrounded area" valsi="bimselsru" />
 <nlword word="gate" sense="in a fence/wall" valsi="bimvrogai" />
 <nlword word="fresco" valsi="bimxra" />
@@ -204083,6 +204047,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="build" sense="to have shape" valsi="majgau" />
 <nlword word="construct" valsi="majgau" />
 <nlword word="create" valsi="majgau" />
+<nlword word="Hungarian" sense="culture, language, or nationality" valsi="majgo" />
 <nlword word="massive" sense="great mass" valsi="majgybra" />
 <nlword word="conserved quantity" sense="physics" valsi="majrsto" />
 <nlword word="Noether theorem result/subject" sense="physics/mathematics; classical physics; Lagrangians" valsi="majrsto" />
@@ -213316,8 +213281,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Toaqic" sense="language or culture" valsi="tonzo" />
 <nlword word="away from point" valsi="to&apos;o" />
 <nlword word="from" sense="with separation" valsi="to&apos;o" />
-<nlword word="go away" valsi="to&apos;okla" />
-<nlword word="move away" valsi="to&apos;okla" />
 <nlword word="squeak" sense="high-pitched sharp tone" valsi="torbrato&apos;a" />
 <nlword word="torr" valsi="torceli" />
 <nlword word="dwarf" sense="mythical creature" valsi="torcrida" />
