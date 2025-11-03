@@ -38300,17 +38300,6 @@
       <notes>{fardukti}</notes>
       <glossword word="to&apos;o" />
 </valsi>
-<valsi word="to'okla" type="lujvo">
-  <user>
-    <username>selpahi</username>
-    <realname>Lorenzo Von Matterhorn</realname>
-  </user>
-      <definition>$x_1$ klama to&apos;o $x_2$</definition>
-      <definitionid>67573</definitionid>
-      <score>1</score>
-      <notes>srana fa zo {klama} .e zo {to&apos;o}</notes>
-      <glossword word="to&apos;okla" />
-</valsi>
 <valsi word="torbrato'a" type="lujvo">
   <user>
     <username>vensa</username>
@@ -45991,7 +45980,6 @@
 <nlword word="tolzau" valsi="tolzau" />
 <nlword word="tolzdi" valsi="tolzdi" />
 <nlword word="to&apos;o" valsi="to&apos;o" />
-<nlword word="to&apos;okla" valsi="to&apos;okla" />
 <nlword word="tordu" valsi="tordu" />
 <nlword word="trajynei" valsi="trajynei" />
 <nlword word="trogu&apos;i" valsi="trogu&apos;i" />
