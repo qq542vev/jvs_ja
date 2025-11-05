@@ -144070,6 +144070,26 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>1</score>
       <glossword word="bedroom" />
 </valsi>
+<valsi word="sipmidvelmikce" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is hypnotherapy given to patient $x_2$ for ailment $x_3$ by therapist $x_4$</definition>
+      <definitionid>74324</definitionid>
+      <score>1</score>
+      <notes>cf. {sipna} {minde} {ve} {mikce}</notes>
+</valsi>
+<valsi word="sipmi'e" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$m_1$ hypnotizes $m_2$ with hypnotic command $m_3$(event/state). $m_1$ is hypnotic</definition>
+      <definitionid>74323</definitionid>
+      <score>1</score>
+      <notes>cf. {sipna} {minde}</notes>
+</valsi>
 <valsi word="sipna" type="gismu">
   <rafsi>sip</rafsi>
   <user>
