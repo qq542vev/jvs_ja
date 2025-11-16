@@ -16564,6 +16564,18 @@
       <definitionid>66456</definitionid>
       <score>1</score>
 </valsi>
+<valsi unofficial="true" word="jvoso" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ ckini lo kulnu ja bangu ja cecmu pe la viiosas (to la&apos;o vy Viossa vy toi)</definition>
+      <definitionid>74328</definitionid>
+      <score>1</score>
+      <notes>ra&apos;oi -vos- rafsi .i le vi valsi se finti la tcima je la evis</notes>
+      <glossword word="jvoso" />
+      <glossword word="viiosas" />
+</valsi>
 <valsi word="jvotau" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -45170,6 +45182,8 @@
 <nlword word="ju&apos;o" valsi="ju&apos;o" />
 <nlword word="ju&apos;u" valsi="ju&apos;u" />
 <nlword word="juvykanxe" valsi="juvykanxe" />
+<nlword word="jvoso" valsi="jvoso" />
+<nlword word="viiosas" valsi="jvoso" />
 <nlword word="J" valsi="jy" />
 <nlword word="jy" valsi="jy" />
 <nlword word="ka" valsi="ka" />
