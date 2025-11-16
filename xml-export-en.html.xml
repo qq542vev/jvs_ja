@@ -13958,7 +13958,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$x_{1}$ is a/the bone/ivory [body-part], performing function $x_{2}$ in body of $x_{3}$; [metaphor: calcium].</definition>
       <definitionid>64</definitionid>
-      <score>100000</score>
+      <score>99999</score>
       <notes>$x_2$ is likely an abstract: may be structure/support for some body part, but others as well such as the eardrum bones; the former can be expressed as (tu&apos;a le &lt;body-part&gt;); cartilage/gristle (= {ranbo&apos;u}), skeleton (= {bogygreku}).  See also {greku}, {denci}, {jirna}, {sarji}.</notes>
       <glossword word="bone" />
 </valsi>
@@ -49382,7 +49382,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$b_1$ is a fin of fish $x_2=f_1$ of species $x_3=f_2$.</definition>
       <definitionid>17419</definitionid>
-      <score>3</score>
+      <score>2</score>
       <notes>Cf. {fipyrebla}, {fipfepri}, {limna&apos;i}.</notes>
       <glossword word="fin" sense="of fish" />
 </valsi>
@@ -88121,7 +88121,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
     <username>Ilmen</username>
     <realname>Ilmen</realname>
   </user>
-      <definition>$x_1$ is a fin (body part) of $x_2$.</definition>
+      <definition>$x_1$ is a fin or flipper (body part) of $x_2$.</definition>
       <definitionid>73859</definitionid>
       <score>2</score>
 </valsi>
@@ -164269,16 +164269,6 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>100000</score>
       <glossword word="assisting in" />
 </valsi>
-<valsi word="test" type="cmevla">
-  <user>
-    <username>cmacyganit</username>
-    <realname>narjaxyzahi cmene</realname>
-  </user>
-      <definition>Test</definition>
-      <definitionid>74326</definitionid>
-      <score>1</score>
-      <notes>Test</notes>
-</valsi>
 <valsi word="testkek" type="cmevla">
   <user>
     <username>gleki</username>
@@ -172720,6 +172710,17 @@ ni&apos;o Synonym: {fu&apos;o}.</notes>
       <definitionid>69704</definitionid>
       <score>2</score>
       <notes>Tagalog &quot;ube&quot;</notes>
+</valsi>
+<valsi word="umfi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is an oomf/oomfie/mutual of $x_2$; $x_1$ and $x_2$ are oomfs/oomfies/mutuals.</definition>
+      <definitionid>74327</definitionid>
+      <score>1</score>
+      <glossword word="oomf" />
+      <glossword word="oomfie" />
 </valsi>
 <valsi word="umpalumpa" type="fu'ivla">
   <user>
@@ -213827,6 +213828,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="hyper-" sense="excessive; beyond the supremum; so much so it is not" valsi="ukse" />
 <nlword word="elm" valsi="ulmu" />
 <nlword word="ulcer" valsi="ulsa" />
+<nlword word="oomf" valsi="umfi" />
+<nlword word="oomfie" valsi="umfi" />
 <nlword word="Oompa-Loompa" valsi="umpalumpa" />
 <nlword word="measure" sense="measure theory" valsi="umre" />
 <nlword word="imitate star formation" valsi="umri&apos;a" />
