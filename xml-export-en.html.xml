@@ -52208,6 +52208,16 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <notes>Cf. {gacri}, {djacu}, {dukse}.</notes>
       <glossword word="flood" sense="water overflow" />
 </valsi>
+<valsi word="gairjbome'o" type="lujvo">
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+      <definition>$x_1$ is a tablecloth under metaphysics $x_2$ by standard $x_3$.</definition>
+      <definitionid>74333</definitionid>
+      <score>1</score>
+      <glossword word="tablecloth" />
+</valsi>
 <valsi word="gairvau" type="lujvo">
   <user>
     <username>Wuzzy</username>
@@ -77633,6 +77643,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="lance" />
       <glossword word="spear" />
 </valsi>
+<valsi unofficial="true" word="kilma" type="experimental gismu">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is skilled at having property $x_2$ relatively to population $x_3$.</definition>
+      <definitionid>74334</definitionid>
+      <score>1</score>
+      <notes>Similar to {certu}, but not as strong in meaning, not implying experthood or prowess.</notes>
+</valsi>
 <valsi word="kilpunli" type="lujvo">
   <user>
     <username>Ilmen</username>
@@ -94368,6 +94388,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <definitionid>1802</definitionid>
       <score>100000</score>
       <glossword word="with what name?" />
+</valsi>
+<valsi word="meftasi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a metathesized form of $x_2$; $x_1$ exhibits metathesis from original form $x_2$.</definition>
+      <definitionid>74332</definitionid>
+      <score>1</score>
+      <notes>Itself metathesized from *metafesi &gt; *metfasi &gt; meftasi. Example: zo&apos;oi third noi glico cu meftasi zo&apos;oi þridda noi laldygli &apos;English third is metathesized from Old English þridda&apos;</notes>
+      <glossword word="metathesis" />
 </valsi>
 <valsi word="megbivysamsle" type="lujvo">
   <user>
@@ -124068,6 +124099,19 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="main character" />
       <glossword word="protagonist" />
 </valsi>
+<valsi word="ralsi'o" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a subject/topic/theme of $x_2$; $x_2$ is about $x_1$</definition>
+      <definitionid>74331</definitionid>
+      <score>1</score>
+      <glossword word="subject" sense="main idea" />
+      <glossword word="theme" sense="main idea" />
+      <glossword word="topic" sense="main idea" />
+      <keyword word="subject" place="1" sense="main idea" />
+</valsi>
 <valsi word="raltca" type="lujvo">
   <user>
     <username>Yanis</username>
@@ -124572,6 +124616,15 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definitionid>18261</definitionid>
       <score>1</score>
       <glossword word="instinct" sense="natural reaction" />
+</valsi>
+<valsi word="rarsevda" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ has natural function $x_2$ (as in, function selected by evolution, as opposed to intentional design).</definition>
+      <definitionid>74330</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="rarske" type="lujvo">
   <user>
@@ -141856,6 +141909,15 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definitionid>2166</definitionid>
       <score>100000</score>
       <glossword word="with beneficiary" />
+</valsi>
+<valsi unofficial="true" word="sevda" type="experimental gismu">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ serves as, functions as, has the purpose or role of having property $x_2$.</definition>
+      <definitionid>74329</definitionid>
+      <score>2</score>
 </valsi>
 <valsi word="sevzi" type="gismu">
   <rafsi>sez</rafsi>
@@ -199824,6 +199886,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="cover" sense="cause to be covered" valsi="gairgau" />
 <nlword word="hide" sense="cover" valsi="gairgau" />
 <nlword word="flood" sense="water overflow" valsi="gairjaudu&apos;e" />
+<nlword word="tablecloth" valsi="gairjbome&apos;o" />
 <nlword word="chest" sense="container" valsi="gairvau" place="1" />
 <nlword word="forearm" valsi="galbirka" />
 <nlword word="look up" sense="looking in upward direction" valsi="galcatlu" />
@@ -204525,6 +204588,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="the predicate" sense="gadri" valsi="me&apos;ei" />
 <nlword word="interleave sequences" sense="mekso operator" valsi="me&apos;ei&apos;o" />
 <nlword word="with what name?" valsi="me&apos;e ma" />
+<nlword word="metathesis" valsi="meftasi" />
 <nlword word="megabyte" sense="(close to) a million of eight indivisible basic computer units" valsi="megbivysamsle" />
 <nlword word="megaday" sense="million day unit" valsi="megdje" />
 <nlword word="1E6" valsi="megdo" />
@@ -208069,6 +208133,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="central nervous system" valsi="ralnirci&apos;e" />
 <nlword word="thesis statement" sense="main argument" valsi="ralseldauju&apos;a" />
 <nlword word="main character" valsi="ralselylispre" />
+<nlword word="subject" sense="main idea" valsi="ralsi&apos;o" place="1" />
+<nlword word="theme" sense="main idea" valsi="ralsi&apos;o" />
+<nlword word="topic" sense="main idea" valsi="ralsi&apos;o" />
 <nlword word="capital" sense="main city" valsi="raltca" />
 <nlword word="capital" valsi="raltca" />
 <nlword word="hold" sense="have and keep possession of" valsi="ralte" />
