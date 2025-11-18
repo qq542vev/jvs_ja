@@ -24543,6 +24543,15 @@
       <score>1</score>
       <notes>{grute}; {jdari}; {calku}</notes>
 </valsi>
+<valsi word="narjmifri" type="lujvo">
+  <user>
+    <username>varikvalefor</username>
+    <realname>Varik Valefor</realname>
+  </user>
+      <definition>ga je $x_1$ lifri $x_2$ gi $x_2$ na jimpe lo du&apos;u $x_1$ lifri $x_2$</definition>
+      <definitionid>74337</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="narju" type="gismu">
   <rafsi>naj</rafsi>
   <user>
