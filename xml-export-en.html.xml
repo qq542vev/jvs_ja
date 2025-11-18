@@ -30789,6 +30789,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <notes>Cf. {vacysai}, {dormijysai}, {cersai}, {cidja}, {citka}.</notes>
       <glossword word="supper" />
 </valsi>
+<valsi word="ctetoldi" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a moth of species/breed $x_2$</definition>
+      <definitionid>74338</definitionid>
+      <score>1</score>
+      <notes>cf. {nicte} {toldi}</notes>
+</valsi>
 <valsi word="cticinza" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -72853,16 +72863,6 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <notes>Operates in the grammatical manner which &quot;{zu&apos;ei}&quot; does, albeit with different semantics (and arguably resulting in an attitudinal instead of a discursive in some instances); there is no restriction on a ZUhEI construct tagging any part of another one (although application of one to the whole and presence of the other, rather than to merely a given construct within its enclosed bridi or to the same tagged structure which the first ZUhEI tags, requires &quot;{toi&apos;e}&quot;). Can be closely related to &quot;{soi&apos;a} {broda}&quot;, depending on &apos;broda&apos;. Examples: &quot;Hopefully&quot;/&quot;I hope&quot;/&quot;one should hope&quot;, &quot;sadly&quot;, &quot;regretfully&quot;, &quot;cordially&quot;, &quot;stoically&quot;/&quot;being emotionally hard&quot; (probably said of oneself), &quot;being sexually aroused&quot;, &quot;(metpahorically or physically) hungrily&quot; (probably said of oneself), &quot;candidly/&quot;honestly&quot;/&quot;forthcomingly&quot;/&quot;with candor&quot;/&quot;earnestly&quot;, &quot;abstemiously&quot;, &quot;abstainingly&quot;, &quot;being neutral in this affair&quot;, &quot;hurriedly&quot; (said of the act of expressing itself), &quot;guiltily&quot;, &quot;confessionally&quot;, &quot;obviously&quot;/&quot;of course&quot;/&quot;clearly&quot;, &quot;with realization&quot;/&quot;coming to understanding&quot;, &quot;confusedly&quot; (probably expressing own confusion), &quot;relatedly&quot;, &quot;inserting a comment here to the effect of...&quot;, etc.; compare to analogous bridi in a &quot;zu&apos;ei&quot; scope.</notes>
       <glossword word="discursive: expressed in manner, or with metacommentary or mental state ..." />
 </valsi>
-<valsi word="kaibli" type="lujvo">
-  <user>
-    <username>Ilmen</username>
-    <realname>Ilmen</realname>
-  </user>
-      <definition>having property $x_1$ semantically entails having property $x_2$.</definition>
-      <definitionid>71826</definitionid>
-      <score>1</score>
-      <notes>See also {nei&apos;i}.</notes>
-</valsi>
 <valsi word="kaicfa" type="lujvo">
   <user>
     <username>Ilmen</username>
@@ -73076,6 +73076,16 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <definitionid>69694</definitionid>
       <score>1</score>
       <notes>Nyungar/Noongar &quot;karli&quot;/&quot;kirli&quot;; Warlpiri &quot;karli&quot;; Diyari &quot;kiri&quot; (boomerang)</notes>
+</valsi>
+<valsi word="kairni'i" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>having property $x_1$ semantically entails having property $x_2$.</definition>
+      <definitionid>74335</definitionid>
+      <score>1</score>
+      <notes>See also {nei&apos;i}.</notes>
 </valsi>
 <valsi word="kairpai" type="lujvo">
   <user>
@@ -77651,7 +77661,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <definition>$x_1$ is skilled at having property $x_2$ relatively to population $x_3$.</definition>
       <definitionid>74334</definitionid>
       <score>1</score>
-      <notes>Similar to {certu}, but not as strong in meaning, not implying experthood or prowess.</notes>
+      <notes>Similar to {certu}, but not as strong in meaning, not implying experthood or prowess. Proposed rafsi -kim-.</notes>
 </valsi>
 <valsi word="kilpunli" type="lujvo">
   <user>
@@ -94396,7 +94406,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is a metathesized form of $x_2$; $x_1$ exhibits metathesis from original form $x_2$.</definition>
       <definitionid>74332</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Itself metathesized from *metafesi &gt; *metfasi &gt; meftasi. Example: zo&apos;oi third noi glico cu meftasi zo&apos;oi þridda noi laldygli &apos;English third is metathesized from Old English þridda&apos;</notes>
       <glossword word="metathesis" />
 </valsi>
@@ -124617,15 +124627,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>1</score>
       <glossword word="instinct" sense="natural reaction" />
 </valsi>
-<valsi word="rarsevda" type="lujvo">
-  <user>
-    <username>Ilmen</username>
-    <realname>Ilmen</realname>
-  </user>
-      <definition>$x_1$ has natural function $x_2$ (as in, function selected by evolution, as opposed to intentional design).</definition>
-      <definitionid>74330</definitionid>
-      <score>1</score>
-</valsi>
 <valsi word="rarske" type="lujvo">
   <user>
     <username>noralujv</username>
@@ -141917,7 +141918,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ serves as, functions as, has the purpose or role of having property $x_2$.</definition>
       <definitionid>74329</definitionid>
-      <score>2</score>
+      <score>1</score>
 </valsi>
 <valsi word="sevzi" type="gismu">
   <rafsi>sez</rafsi>
@@ -184889,6 +184890,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <definitionid>69771</definitionid>
       <score>1</score>
 </valsi>
+<valsi word="xivba'a" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a scar on $x_2$</definition>
+      <definitionid>74336</definitionid>
+      <score>2</score>
+      <glossword word="scar" sense="mark from healed wound" />
+      <keyword word="scar" place="1" sense="mark from healed wound" />
+</valsi>
 <valsi word="xladani" type="fu'ivla">
   <user>
     <username>viktor</username>
@@ -215187,6 +215199,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Christmas Eve" valsi="xisyjbecte" place="1" />
 <nlword word="Christmas Day" valsi="xisyjbedetri" place="1" />
 <nlword word="Christmas" valsi="xisyjbenunsla" place="1" />
+<nlword word="scar" sense="mark from healed wound" valsi="xivba&apos;a" place="1" />
 <nlword word="malevolent" valsi="xladji" />
 <nlword word="malicious" sense="wanting to harm" valsi="xladji" />
 <nlword word="spiteful" valsi="xladji" />
