@@ -33779,6 +33779,15 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="zoology" />
       <keyword word="zoology" place="1" />
 </valsi>
+<valsi unofficial="true" word="dalti" type="experimental gismu">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ belongs to a species domesticated by $x_2$.</definition>
+      <definitionid>74340</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="daltrixe" type="lujvo">
   <user>
     <username>klaku</username>
