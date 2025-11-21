@@ -70506,6 +70506,15 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <notes>See {julpuco}, {junla}, {clira}, {lerci}</notes>
       <glossword word="fast" sense="of a clock" />
 </valsi>
+<valsi word="juljudri" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ (list) is the 24-hour clock time address ⟨hours, minutes, seconds⟩ of event or timespan $x_2$ according to timezone $x_3$.</definition>
+      <definitionid>74341</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="julne" type="gismu">
   <rafsi>ju&apos;e</rafsi>
   <user>
@@ -114024,7 +114033,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a parasite of $x_2$.</definition>
       <definitionid>13361</definitionid>
-      <score>10</score>
+      <score>11</score>
       <notes>see also {civla}, {cipnrkuku}, {xidnora}</notes>
       <glossword word="parasite" />
       <keyword word="parasite" place="1" />
@@ -170470,7 +170479,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is a swallow of species $x_2$</definition>
       <definitionid>65856</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>See also {cipni}</notes>
       <glossword word="swallow" sense="bird" />
 </valsi>
@@ -184906,7 +184915,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is a scar on $x_2$</definition>
       <definitionid>74336</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="scar" sense="mark from healed wound" />
       <keyword word="scar" place="1" sense="mark from healed wound" />
 </valsi>
