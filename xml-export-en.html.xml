@@ -4511,6 +4511,17 @@
       <glossword word="dynamite" sense="explosive device" />
       <keyword word="dynamite" place="1" sense="explosive device" />
 </valsi>
+<valsi unofficial="true" word="bamri" type="experimental gismu">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ buys $x_2$ from $x_3$ for price $x_4$</definition>
+      <definitionid>74342</definitionid>
+      <score>2</score>
+      <notes>= {te} {vecnu}, {terve&apos;u}, {erve}. Etymology: algorithmically generated with modern L2 weights from EN bai (buy) | ZH mai (买 mǎi) | HI xarid (ख़रीदना xarīdnā) | ES kompr (comprar) | AR ctar (اشترى, ištarā) | FR acet (acheter). [.59]</notes>
+      <glossword word="buy" sense="purchase, obtain with money" />
+</valsi>
 <valsi word="bamrti'enti" type="fu'ivla">
   <user>
     <username>Wuzzy</username>
@@ -194497,6 +194508,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="doll" valsi="bambola" />
 <nlword word="bamboo" valsi="bambu" />
 <nlword word="dynamite" sense="explosive device" valsi="bamrdinamite" place="1" />
+<nlword word="buy" sense="purchase, obtain with money" valsi="bamri" />
 <nlword word="bomber" sense="aircraft" valsi="bamvinji" />
 <nlword word="metalanguage" valsi="banbau" place="1" />
 <nlword word="object language" sense="of a metalanguage" valsi="banbau" place="3" />
