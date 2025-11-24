@@ -4518,7 +4518,7 @@
   </user>
       <definition>$x_1$ buys $x_2$ from $x_3$ for price $x_4$</definition>
       <definitionid>74342</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>= {te} {vecnu}, {terve&apos;u}, {erve}. Etymology: algorithmically generated with modern L2 weights from EN bai (buy) | ZH mai (买 mǎi) | HI xarid (ख़रीदना xarīdnā) | ES kompr (comprar) | AR ctar (اشترى, ištarā) | FR acet (acheter). [.59]</notes>
       <glossword word="buy" sense="purchase, obtain with money" />
 </valsi>
