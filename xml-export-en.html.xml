@@ -100284,6 +100284,15 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <glossword word="necromancer" sense="death magic user" />
       <glossword word="necromancy" sense="form of magic" />
 </valsi>
+<valsi word="mromumi" type="fu'ivla">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a mummy.</definition>
+      <definitionid>74344</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="mronunsla" type="lujvo">
   <user>
     <username>krtisfranks</username>
