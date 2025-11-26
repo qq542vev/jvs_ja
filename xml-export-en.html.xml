@@ -33176,6 +33176,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="curb" />
       <glossword word="kerb" />
 </valsi>
+<valsi word="dagyko'u" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a traffic cone.</definition>
+      <definitionid>74351</definitionid>
+      <score>1</score>
+      <glossword word="traffic cone" />
+</valsi>
 <valsi word="dagypli" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -39070,6 +39080,17 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>1</score>
       <notes>See {bramlatu}</notes>
       <glossword word="jaguar" />
+</valsi>
+<valsi word="djaikoni" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a daikon radish of variety $x_2$</definition>
+      <definitionid>74348</definitionid>
+      <score>1</score>
+      <notes>Blend of -dja- (&lt; {cidja} &apos;food&apos;) and JA 大根 daikon. See {srafanu} &apos;radish&apos; and {brarapa} &apos;turnip&apos;.</notes>
+      <glossword word="daikon" />
 </valsi>
 <valsi word="djainu" type="fu'ivla">
   <user>
@@ -75210,6 +75231,19 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <glossword word="Carthaginian" />
       <glossword word="Punic" sense="culture" />
 </valsi>
+<valsi word="kartaroko" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a tarot card.</definition>
+      <definitionid>74346</definitionid>
+      <score>1</score>
+      <notes>Blend of {karda} &apos;card&apos; and Italian tarocco (or German Tarock, Esperanto taroko). This word refers to the cards (which can be used to play games as well), not to the method of divination, which is {maftaroko}.</notes>
+      <glossword word="tarot" sense="card deck" />
+      <glossword word="tarot card" />
+      <glossword word="tarot cards" />
+</valsi>
 <valsi word="kartecu" type="fu'ivla">
   <user>
     <username>janbe</username>
@@ -90915,6 +90949,16 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <notes>A talk so beautiful it feels like you&apos;re somewhere else, somewhere magical, and a portal to another universe seems to open among the two of you.</notes>
       <glossword word="magictalk" />
 </valsi>
+<valsi word="maftaroko" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is tarot (the method of divination).</definition>
+      <definitionid>74347</definitionid>
+      <score>1</score>
+      <notes>Pseudo-stage-3 loanword from -maf- (combining form of {makfa}) and -taroko from Italian tarocco (or DE Tarock, EO taroko). Refers to tarot as a method of divination; the cards themselves are {kartaroko}.</notes>
+</valsi>
 <valsi word="magdaro" type="fu'ivla">
   <user>
     <username>selpahi</username>
@@ -101603,6 +101647,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <definitionid>1856</definitionid>
       <score>100000</score>
       <glossword word="is a quintet" />
+</valsi>
+<valsi word="mumjgatai" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a pentagon.</definition>
+      <definitionid>74345</definitionid>
+      <score>2</score>
+      <notes>From {mu} + {jganu} + {tarmi} (so, &apos;five-corner-shape&apos;). See {cibjgatai} &apos;triangle&apos;. Names for polygons with any number of sides can be formed the same way: {vonjgatai} &apos;quadrilateral&apos; (lit. &apos;tetragon&apos;, &apos;quadrangle&apos;), {xavjgatai} &apos;hexagon&apos;...</notes>
+      <glossword word="pentagon" />
 </valsi>
 <valsi word="mumkulpikta" type="lujvo">
   <user>
@@ -131258,6 +131313,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>1</score>
       <glossword word="wreath" sense="of flowers" />
 </valsi>
+<valsi word="rulkobli" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is cauliflower of variety $x_2$.</definition>
+      <definitionid>74352</definitionid>
+      <score>1</score>
+      <notes>Literally &apos;flower cabbage&apos;; compare EN cauliflower, IT cavolfiore, ZH 花椰菜 huāyēcài, Thai กะหล่ำดอก kalamdok.</notes>
+      <glossword word="cauliflower" sense="variety of Brassica oleracea" />
+</valsi>
 <valsi word="rulnakyganti" type="lujvo">
   <user>
     <username>Qimar</username>
@@ -148499,6 +148565,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>1</score>
       <notes>Cf. {so&apos;i}, {jakne}, {karce}, {janjaknyxa&apos;i}, {xumjimcelxa&apos;i}, {gutyjamkarce}, {karcycelxa&apos;i}.</notes>
       <glossword word="multiple rocket launcher" />
+</valsi>
+<valsi word="sorjgatai" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a polygon with $x_2$ sides.</definition>
+      <definitionid>74349</definitionid>
+      <score>1</score>
+      <notes>sor-jga-tai &lt; {so&apos;i} + {jganu} + {tarmi}. A calque of &quot;polygon&quot; (poly- many, -gon angle). [Even though &quot;many&quot; here actually means &quot;3 or more&quot;, {so&apos;i} was chosen for a shorter resulting compound.] Arbitrary polygon names are formed with rafsi numbers plus -jgatai: {cibjgatai}, {vonjgatai}, {mumjgatai}, etc.</notes>
+      <glossword word="polygon" />
 </valsi>
 <valsi word="sorjontai" type="lujvo">
   <user>
@@ -179380,6 +179457,18 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <glossword word="4-legged" />
       <glossword word="four-legged" />
 </valsi>
+<valsi word="vonserakto" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a tesseract (four-dimensional analogue of a cube).</definition>
+      <definitionid>74350</definitionid>
+      <score>1</score>
+      <notes>Blend of -von- (&lt; {vo} &apos;four&apos;) and tesseract. (*{teserakto} would fall off.)</notes>
+      <glossword word="hypercube" sense="(specifically 4D)" />
+      <glossword word="tesseract" />
+</valsi>
 <valsi word="vonvanci" type="lujvo">
   <user>
     <username>lalxu</username>
@@ -197801,6 +197890,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="pothole" sense="hole in road" valsi="dagyke&apos;a" />
 <nlword word="curb" valsi="dagykoi" />
 <nlword word="kerb" valsi="dagykoi" />
+<nlword word="traffic cone" valsi="dagyko&apos;u" />
 <nlword word="road user" valsi="dagypli" />
 <nlword word="pavement" valsi="dagysfe" />
 <nlword word="paving" valsi="dagysfe" />
@@ -198514,6 +198604,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="edible fowl" valsi="djacpi" />
 <nlword word="water" valsi="djacu" />
 <nlword word="edible grain" valsi="djagru" />
+<nlword word="daikon" valsi="djaikoni" />
 <nlword word="involved" sense="in an event" valsi="djainu" />
 <nlword word="curry" sense="food" valsi="djakari" />
 <nlword word="Djarkarta" valsi="djakartas" />
@@ -202461,6 +202552,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="safflower" valsi="kartamo" />
 <nlword word="Carthaginian" valsi="kartapuno" />
 <nlword word="Punic" sense="culture" valsi="kartapuno" />
+<nlword word="tarot" sense="card deck" valsi="kartaroko" />
+<nlword word="tarot card" valsi="kartaroko" />
+<nlword word="tarot cards" valsi="kartaroko" />
 <nlword word="candidate" sense="potential choice" valsi="kartecu" place="1" />
 <nlword word="body containing cartilage" valsi="kartilago" place="3" />
 <nlword word="cartilage" valsi="kartilago" place="1" />
@@ -205528,6 +205622,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Friday" valsi="mumdei" />
 <nlword word="week including Friday" sense="a full day in duration" valsi="mumdei" place="2" />
 <nlword word="is a quintet" valsi="mumei" />
+<nlword word="pentagon" valsi="mumjgatai" />
 <nlword word="Associate degree" sense="ISCED 5" valsi="mumkulpikta" />
 <nlword word="Associate Degree" sense="ISCED 5" valsi="mumkulpikta" place="1" />
 <nlword word="Short cycle tertiary diploma" sense="ISCED 5" valsi="mumkulpikta" />
@@ -209004,6 +209099,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sepal" sense="part of flower" valsi="rulcmapezli" />
 <nlword word="pistil" sense="flower" valsi="rulfe&apos;iganti" />
 <nlword word="wreath" sense="of flowers" valsi="rulkemjinziljivbu" />
+<nlword word="cauliflower" sense="variety of Brassica oleracea" valsi="rulkobli" />
 <nlword word="stamen" sense="flower" valsi="rulnakyganti" />
 <nlword word="flower petal" valsi="rulpezli" />
 <nlword word="flower petals" valsi="rulpezli" />
@@ -211011,6 +211107,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="imperial province" valsi="sorgugje&apos;a" place="2" />
 <nlword word="imperial territory" valsi="sorgugje&apos;a" place="3" />
 <nlword word="multiple rocket launcher" valsi="sorjaknykarce" />
+<nlword word="polygon" valsi="sorjgatai" />
 <nlword word="web" sense="shape" valsi="sorjontai" />
 <nlword word="webbing" sense="web-shaped thing" valsi="sorjontai" place="2" />
 <nlword word="knowledgable" valsi="sorju&apos;o" />
@@ -214662,6 +214759,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="square dance for four couples " sense="music" valsi="vonseldansu" />
 <nlword word="4-legged" valsi="vonseltu&apos;e" />
 <nlword word="four-legged" valsi="vonseltu&apos;e" />
+<nlword word="hypercube" sense="(specifically 4D)" valsi="vonserakto" />
+<nlword word="tesseract" valsi="vonserakto" />
 <nlword word="Thursday evening" valsi="vonvanci" />
 <nlword word="quadrille" sense="dance" valsi="vonynundansu" />
 <nlword word="square dance" sense="dance" valsi="vonynundansu" />
