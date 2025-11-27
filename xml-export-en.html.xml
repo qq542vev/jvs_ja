@@ -17268,6 +17268,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>{rei&apos;e}:{ru&apos;e}:{milxe} ; {noi&apos;e}:{na&apos;oi}:{cnano} ; {sai&apos;e}:{sai}:{mutce} ; {cai&apos;e}:{cai}:{tcetce}. See http://mw.lojban.org/papri/zipcpi:_scalar_modifiers</notes>
       <glossword word="strong scalar intensifier" />
 </valsi>
+<valsi unofficial="true" word="cai'i" type="experimental cmavo">
+  <selmaho>ZAhO</selmaho>
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>aspect: perfective aspect; the described event happens wholly in the contextual timespan.</definition>
+      <definitionid>74353</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="ca'irdi'a" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -38468,8 +38478,8 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a non-binary/intersex (probably also can include: asexual, nongendered, indeterminately gendered) individual of species $x_2$ evidencing non-binary gender trait(s) $x_3$ (ka); $x_1$ is characterized by not following or fitting into some gender-binary.</definition>
       <definitionid>70009</definitionid>
-      <score>1</score>
-      <notes>Co-equal to {fetsi} and {nakni}. See also {fetsi}, {nakni}, {nunmu}.</notes>
+      <score>2</score>
+      <notes>Co-equal to {fetsi} and {nakni}. See also {fetsi}, {nakni}, {nunmu}. Proposed short rafsi: -did-.</notes>
       <glossword word="intersex" />
       <glossword word="non-binary" />
 </valsi>
@@ -38631,7 +38641,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a non-binary/intersexed (probably also can include: asexual, nongendered, indeterminately gendered, gender-fluid, transgendered, two-spirited, alternatively gendered, or affirmatively non-binarily gendered or nongendered/graygendered) individual of species $x_2$ evidencing non-binary gender trait(s) $x_3$ (ka); $x_1$ is characterized by not following or fitting into some gender-binary.</definition>
       <definitionid>56855</definitionid>
-      <score>4</score>
+      <score>3</score>
       <notes>Co-equal to &quot;{fetsi}&quot; and &quot;{nakni}&quot;. Proposed short rafsi: -dit-. See also &quot;{fetsi}&quot;, &quot;{nakni}&quot;, &quot;{nunmu}&quot;.</notes>
       <glossword word="intersex" />
       <glossword word="non-binary" />
@@ -46656,10 +46666,11 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>Ilmen</username>
     <realname>Ilmen</realname>
   </user>
-      <definition>$f_1=s_1$ (event) happens swiftly/quickly/rapidly</definition>
+      <definition>Process, event $x_1$ unfolds quickly, rapidly, relatively to similarly-structured events $x_2$.</definition>
       <definitionid>52702</definitionid>
       <score>2</score>
-      <glossword word="quick" sense="happens quickly" />
+      <glossword word="quick" sense="unfolds quickly" />
+      <glossword word="swift" sense="unfolds swiftly" />
 </valsi>
 <valsi word="faurtei" type="lujvo">
   <user>
@@ -46701,7 +46712,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
     <username>Ilmen</username>
     <realname>Ilmen</realname>
   </user>
-      <definition>$f_1=s_1$ (event) happens slowly</definition>
+      <definition>Process, event $x_1$ unfolds slowly, relatively to similarly-structured events $x_2$.</definition>
       <definitionid>52705</definitionid>
       <score>2</score>
       <glossword word="slow" sense="happens slowly" />
@@ -58205,6 +58216,15 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <glossword word="mushroom" />
       <keyword word="mushroom" place="1" />
       <keyword word="mushroom species" place="2" />
+</valsi>
+<valsi word="gumsko" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a yarn, rope, cord or cable, constituted of twisted strands $x_2$.</definition>
+      <definitionid>74354</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="gunbre" type="lujvo">
   <user>
@@ -81321,10 +81341,10 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1=v_1$ shaves/[removes hair] $x_2=k_1=v_2$ from $x_3=k_2=v_3$ </definition>
       <definitionid>18363</definitionid>
-      <score>3</score>
-      <notes>Applies to any form of hair removal, not necessarily with a blade.</notes>
+      <score>4</score>
+      <notes>Applies to any form of hair removal, not necessarily with a blade. Can refer to self-shaving if using the same sumti for x1 and x3, or a barber if using separate sumti for x1 and x3.</notes>
       <glossword word="shave" sense="remove hair" />
-      <keyword word="shaver" place="1" sense="remover of hair" />
+      <keyword word="shaver/barber" place="1" sense="remover of hair" />
       <keyword word="removed hair" place="2" />
       <keyword word="something shaved" place="3" sense="something that hair is removed from" />
 </valsi>
@@ -163773,20 +163793,6 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <glossword word="notify" sense="give notice" />
       <glossword word="report" sense="notify" />
 </valsi>
-<valsi word="ternrorci" type="fu'ivla">
-  <user>
-    <username>krtisfranks</username>
-    <realname>Curtis W Franks</realname>
-  </user>
-      <definition>$x_1$ is the co-parent of $x_2$ with parent $x_3$.</definition>
-      <definitionid>72310</definitionid>
-      <score>1</score>
-      <notes>$x_1$ is the baby momma/daddy (slang, but connotatively neutral, term) of $x_2$ from the perspective of $x_3$. See: &quot;{malternrorci}&quot;.</notes>
-      <glossword word="baby daddy" />
-      <glossword word="baby momma" />
-      <glossword word="co-parent" />
-      <glossword word="coparent" />
-</valsi>
 <valsi word="ternupcpe" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -199380,6 +199386,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="decrease" sense="intensity/amount" valsi="faurjdika" />
 <nlword word="any way" sense="in any event, in the event of anything happening" valsi="fauroda" />
 <nlword word="quick" sense="happens quickly" valsi="faursutra" />
+<nlword word="quick" sense="unfolds quickly" valsi="faursutra" />
+<nlword word="swift" sense="unfolds swiftly" valsi="faursutra" />
 <nlword word="duration" sense="of an event" valsi="faurtei" place="2" />
 <nlword word="timed event" valsi="faurtei" place="1" />
 <nlword word="increase" sense="intensity/amount" valsi="faurze&apos;a" />
@@ -203173,6 +203181,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="removed hair" valsi="krevi&apos;u" place="2" />
 <nlword word="shave" sense="remove hair" valsi="krevi&apos;u" />
 <nlword word="shaver" sense="remover of hair" valsi="krevi&apos;u" place="1" />
+<nlword word="shaver/barber" sense="remover of hair" valsi="krevi&apos;u" place="1" />
 <nlword word="something shaved" sense="something that hair is removed from" valsi="krevi&apos;u" place="3" />
 <nlword word="razor" valsi="krevi&apos;udakfu" />
 <nlword word="hair conditioner" sense="hair care product" valsi="krexulxu&apos;i" place="1" />
@@ -212887,9 +212896,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="temperature" sense="The degree of heat that remains stable within the given scale." valsi="ternilglasto" place="2" />
 <nlword word="temperature scale" sense="A system of measurement for temperature (e.g., Celsius, Fahrenheit, Kelvin)." valsi="ternilglasto" />
 <nlword word="notify" sense="give notice" valsi="ternoi" />
-<nlword word="baby daddy" valsi="ternrorci" />
-<nlword word="baby momma" valsi="ternrorci" />
-<nlword word="co-parent" valsi="ternrorci" />
 <nlword word="book" sense="make a reservation" valsi="ternupcpe" />
 <nlword word="hold" sense="reserve" valsi="ternupcpe" />
 <nlword word="reserve" sense="book in advance" valsi="ternupcpe" />
