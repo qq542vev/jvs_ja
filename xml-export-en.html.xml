@@ -989,6 +989,17 @@
       <keyword word="plant which symbolizes love" place="1" />
       <keyword word="author or audience of a description of the plant as a love symbol" place="2" />
 </valsi>
+<valsi word="almini" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is aluminium, aluminum (chemical element Al).</definition>
+      <definitionid>74358</definitionid>
+      <score>1</score>
+      <glossword word="aluminium" />
+      <glossword word="aluminum" />
+</valsi>
 <valsi unofficial="true" word="alminiu" type="obsolete fu'ivla">
   <user>
     <username>tijlan</username>
@@ -50345,6 +50356,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <score>100000</score>
       <glossword word="it-7" />
 </valsi>
+<valsi word="fofsori" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is phosphorus (chemical element, symbol P).</definition>
+      <definitionid>74357</definitionid>
+      <score>1</score>
+      <notes>Synonym: {sackycmu} (lit. &apos;matchstick-foundation&apos;).</notes>
+      <glossword word="phosphorus" sense="element" />
+</valsi>
 <valsi word="fo'i" type="cmavo">
   <rafsi>fo&apos;i</rafsi>
   <selmaho>KOhA4</selmaho>
@@ -53683,6 +53705,19 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <glossword word="rootstock" sense="rhizome" />
       <keyword word="rhizome" place="1" sense="plant part" />
       <keyword word="rhizomatous plant/species" place="2" />
+</valsi>
+<valsi word="gekfegdripu'a" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ feels the whole range of human emotions about $x_2$ (conflicted, mixed emotions, maybe an emotional rollercoaster)</definition>
+      <definitionid>74361</definitionid>
+      <score>1</score>
+      <notes>This is a &quot;poetic&quot; word (it is a {vonrafpemjvo}, specifically), so take it to mean what you feel it means! Structural calque of Japanese 喜怒哀楽 kidoairaku &apos;emotions&apos;, literally &apos;happy-angry-sad-joyful&apos;. (Meaning slightly changed as I misinterpreted a gloss of this word as &apos;the range of human emotions&apos;, somewhat on purpose.)</notes>
+      <glossword word="emotional rollercoaster" />
+      <glossword word="happiness, anger, sadness, and joy" />
+      <glossword word="the whole range of human emotions" />
 </valsi>
 <valsi word="gekmau" type="lujvo">
   <user>
@@ -58224,7 +58259,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is a yarn, rope, cord or cable, constituted of twisted strands $x_2$.</definition>
       <definitionid>74354</definitionid>
-      <score>1</score>
+      <score>2</score>
 </valsi>
 <valsi word="gunbre" type="lujvo">
   <user>
@@ -64811,7 +64846,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
     <username>janbe</username>
     <realname>Rachel Isabel Gardener</realname>
   </user>
-      <definition>$x_1$ is organized religion; $x_1$ is &quot;the church&quot; (cf. &quot;the state&quot;)</definition>
+      <definition>$x_1$ is a church (institutional/organized religion)</definition>
       <definitionid>74203</definitionid>
       <score>1</score>
       <notes>not necessarily Christian; see also {je&apos;ajgu}</notes>
@@ -73512,6 +73547,17 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <score>1</score>
       <notes>See {kanla}, {jbari}. Named for superficial similarity of the peeled fruit to an eye, as paralleled by the Chinese name, 龙眼 (lóngyǎn, lit. &quot;dragon&apos;s eye&quot;).</notes>
       <glossword word="longan" sense="berry / fruit" />
+</valsi>
+<valsi word="kalkumi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is calcium (chemical element Ca).</definition>
+      <definitionid>74359</definitionid>
+      <score>1</score>
+      <notes>Transcription with hard -c- (as opposed to *kalcumi) to avoid an embarrassing similarity with {kalci} &apos;poop&apos;. Syn.: {bogjinme} (lit. &apos;bone-metal&apos;).</notes>
+      <glossword word="calcium" sense="element" />
 </valsi>
 <valsi word="kalmari" type="fu'ivla">
   <user>
@@ -101726,6 +101772,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <glossword word="Jupiter" sense="planet" />
       <keyword word="Jupiter" place="1" sense="planet" />
 </valsi>
+<valsi word="mumtartai" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a five-pointed star; $x_1$ is a pentagram.</definition>
+      <definitionid>74362</definitionid>
+      <score>1</score>
+      <notes>More pedantically, {mumjiptartai} &apos;five-point-star-shape&apos;. Words for n-pointed stars can be formed with prefix numbers + -tartai, so {xavytartai} &apos;six-pointed star&apos; (for ex. the star of David), or {bivytartai} for an eight-pointed one, and so on.</notes>
+      <glossword word="five-pointed star" />
+      <glossword word="pentagram" />
+</valsi>
 <valsi word="mumvanci" type="lujvo">
   <user>
     <username>lalxu</username>
@@ -109772,7 +109830,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ are noodles made of $x_2$</definition>
       <definitionid>52900</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Also {nanba} {skori}</notes>
 </valsi>
 <valsi word="nu'e" type="cmavo">
@@ -136581,6 +136639,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>100000</score>
       <glossword word="which kind?" />
 </valsi>
+<valsi word="sekfoia" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a sequoia of variety $x_2$.</definition>
+      <definitionid>74356</definitionid>
+      <score>1</score>
+      <notes>Also {ku&apos;ursekoia}, {tsekuuoia}. This is an alternative, &quot;cleaner&quot; loanword shape (qu /kw/ → /kf/, à la Polish).</notes>
+      <glossword word="sequoia" sense="tree" />
+</valsi>
 <valsi word="seki'i" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
   <user>
@@ -149212,7 +149281,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ - is spaghetti made out of/containing $x_2$.</definition>
       <definitionid>37999</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>See also {nanba}</notes>
       <glossword word="spaghetti" />
 </valsi>
@@ -179439,6 +179508,18 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <glossword word="Mars" sense="planet" />
       <keyword word="Mars" place="1" sense="planet" />
 </valsi>
+<valsi word="vonrafpemjvo" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a Lojban compound-word idiom made of four combining forms (rafsi); $x_1$ is a &quot;Lojbanic chengyu/yojijukugo&quot;.</definition>
+      <definitionid>74360</definitionid>
+      <score>2</score>
+      <notes>{vonrafpemjvo} are Lojban words that imitate the structure of Chinese/Japanese/Korean four-character proverbs. The &quot;ideal&quot; short form is four rafsi, with no epenthetic r&apos;s, n&apos;s, or y&apos;s. Examples of these include {dekpredekpu&apos;a}, {zditeitortei}, {gekfegdripu&apos;a}, and except for the fact that it is literal and not poetic ({pemci} → -pem-), the word {vonrafpemjvo} itself.</notes>
+      <glossword word="Lojban chengyu" />
+      <glossword word="Lojban yojijukugo" />
+</valsi>
 <valsi word="vonseldansu" type="lujvo">
   <user>
     <username>totus</username>
@@ -185033,6 +185114,18 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>3</score>
       <glossword word="scar" sense="mark from healed wound" />
       <keyword word="scar" place="1" sense="mark from healed wound" />
+</valsi>
+<valsi word="xivgau" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ heals $x_2$ of injury/ailment $x_3$ (transitive); $x_1$ is a healer/medic</definition>
+      <definitionid>74355</definitionid>
+      <score>2</score>
+      <glossword word="healer" sense="person who heals" />
+      <glossword word="medic" sense="person who heals" />
+      <keyword word="healer" place="1" sense="person who heals" />
 </valsi>
 <valsi word="xladani" type="fu'ivla">
   <user>
@@ -194287,6 +194380,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="author or audience of a description of the plant as a love symbol" valsi="almapamla" place="2" />
 <nlword word="plant which symbolizes love" valsi="almapamla" place="1" />
 <nlword word="symbolic plant representing love" valsi="almapamla" />
+<nlword word="aluminum" valsi="almini" />
 <nlword word="aluminium" valsi="alminiu" />
 <nlword word="text fragment meaning" valsi="almu" />
 <nlword word="alder" valsi="alna" />
@@ -199832,6 +199926,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="4th sumti place" valsi="fo" />
 <nlword word="it-6" valsi="fo&apos;a" />
 <nlword word="it-7" valsi="fo&apos;e" />
+<nlword word="phosphorus" sense="element" valsi="fofsori" />
 <nlword word="it-8" valsi="fo&apos;i" />
 <nlword word="end composite lerfu" valsi="foi" />
 <nlword word="GOI attachment modifier" valsi="foi&apos;e" />
@@ -200211,6 +200306,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="root stalk" valsi="gejystani" />
 <nlword word="rootstalk" valsi="gejystani" />
 <nlword word="rootstock" sense="rhizome" valsi="gejystani" />
+<nlword word="emotional rollercoaster" valsi="gekfegdripu&apos;a" />
+<nlword word="happiness, anger, sadness, and joy" valsi="gekfegdripu&apos;a" />
+<nlword word="the whole range of human emotions" valsi="gekfegdripu&apos;a" />
 <nlword word="happier" valsi="gekmau" />
 <nlword word="blissful" valsi="gekpanpi" />
 <nlword word="grammatical" sense="grammatically correct" valsi="gendra" />
@@ -202342,6 +202440,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="blinks" sense="open and close ones eye(s)" valsi="kalgaisligau" />
 <nlword word="wink" sense="open and close ones eye(s)" valsi="kalgaisligau" />
 <nlword word="longan" sense="berry / fruit" valsi="kaljba" />
+<nlword word="calcium" sense="element" valsi="kalkumi" />
 <nlword word="cuttlefish" valsi="kalmari" />
 <nlword word="squid" valsi="kalmari" />
 <nlword word="eyebrow" valsi="kalmebykre" />
@@ -205637,6 +205736,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Short cycle tertiary diploma" sense="ISCED 5" valsi="mumkulpikta" />
 <nlword word="is fifth among" valsi="mumoi" />
 <nlword word="Jupiter" sense="planet" valsi="mumplini" />
+<nlword word="five-pointed star" valsi="mumtartai" />
+<nlword word="pentagram" valsi="mumtartai" />
 <nlword word="Friday evening" valsi="mumvanci" />
 <nlword word="wuyan lüshi" valsi="mumvlabivli&apos;i" place="1" />
 <nlword word="rhyme" sense="Chinese poetry" valsi="mumvlavonli&apos;i" place="3" />
@@ -209742,6 +209843,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="on behalf of" valsi="seka&apos;i" />
 <nlword word="with property" valsi="sekai" />
 <nlword word="which kind?" valsi="sekai ma" />
+<nlword word="sequoia" sense="tree" valsi="sekfoia" />
 <nlword word="related to" valsi="seki&apos;i" />
 <nlword word="reason therefore" valsi="seki&apos;u" />
 <nlword word="reason nevertheless" valsi="seki&apos;unai" />
@@ -214759,6 +214861,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="400" valsi="vonono" />
 <nlword word="deceptive promise" valsi="vonpaso" place="4" />
 <nlword word="Mars" sense="planet" valsi="vonplini" />
+<nlword word="Lojban chengyu" valsi="vonrafpemjvo" />
+<nlword word="Lojban yojijukugo" valsi="vonrafpemjvo" />
 <nlword word="quadrille" sense="music" valsi="vonseldansu" />
 <nlword word="square dance" sense="quadrille music" valsi="vonseldansu" />
 <nlword word="square dance " sense="music" valsi="vonseldansu" />
@@ -215344,6 +215448,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Christmas Day" valsi="xisyjbedetri" place="1" />
 <nlword word="Christmas" valsi="xisyjbenunsla" place="1" />
 <nlword word="scar" sense="mark from healed wound" valsi="xivba&apos;a" place="1" />
+<nlword word="healer" sense="person who heals" valsi="xivgau" place="1" />
+<nlword word="medic" sense="person who heals" valsi="xivgau" />
 <nlword word="malevolent" valsi="xladji" />
 <nlword word="malicious" sense="wanting to harm" valsi="xladji" />
 <nlword word="spiteful" valsi="xladji" />
