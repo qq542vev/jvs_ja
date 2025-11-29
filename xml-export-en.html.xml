@@ -19975,6 +19975,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>See also {cevni}, {krici}, {latna}, {pruxi}, {lijda}, {sinma}.</notes>
       <glossword word="holy" />
 </valsi>
+<valsi word="censuso" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a census of population $x_2$ on data point/metric $x_3$.</definition>
+      <definitionid>74364</definitionid>
+      <score>1</score>
+      <notes>$x_3$ should probably be a {du&apos;u} abstraction (as in what political opinions the population holds, what languages they speak, and so on). See {anketo} &apos;survey&apos;.</notes>
+      <glossword word="census" />
+</valsi>
 <valsi word="centaureia" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -61549,6 +61560,15 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <definitionid>72230</definitionid>
       <score>2</score>
       <notes>A metamorphosing insect with legs and antennae that resemble the mature forms, but do not function. See {cifnu}, {makcu}, {cinki}, {bixycinki}</notes>
+</valsi>
+<valsi word="iupre" type="fu'ivla">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x1$ is a (not necessarily romantic) partner of $x2$</definition>
+      <definitionid>74363</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="iutkata" type="fu'ivla">
   <user>
@@ -196420,6 +196440,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="second" sense="metric" valsi="cenmildje" />
 <nlword word="kidney" valsi="cenrini" />
 <nlword word="holy" valsi="censa" />
+<nlword word="census" valsi="censuso" />
 <nlword word="cornflower" sense="genus Centaurea" valsi="centaureia" />
 <nlword word="center" sense="midpoint" valsi="centero" place="1" />
 <nlword word=".01" valsi="centi" />
