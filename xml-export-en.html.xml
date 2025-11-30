@@ -13450,7 +13450,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$j_1=b_1$ is a pearl/ball-shaped gem from gemstone/material/source $j_3=b_2$.</definition>
       <definitionid>17580</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {tercakyjme}, {cakyjmepi&apos;a}.</notes>
       <glossword word="ball-shaped gem" />
       <glossword word="pearl" />
@@ -13894,6 +13894,20 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <score>2</score>
       <notes>Cf. {fegboixa&apos;e}, {demxa&apos;e}, {jairxa&apos;e}, {xanse&apos;agle}.</notes>
       <glossword word="fist" sense="clenched hand" />
+</valsi>
+<valsi word="bolxanda'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ punches/clobbers/wallops $x_2$ (strikes with closed fist) on/at $x_3$</definition>
+      <definitionid>74371</definitionid>
+      <score>1</score>
+      <notes>backformed from presumable jbofuvi etymology {bolxada}; cf. {cladaxi}, {cladakyxa&apos;i}</notes>
+      <glossword word="clobber" sense="punch" />
+      <glossword word="punch" sense="strike with closed fist" />
+      <glossword word="wallop" sense="punch" />
+      <keyword word="punch" place="1" sense="strike with closed fist" />
 </valsi>
 <valsi unofficial="true" word="bombiksia" type="obsolete fu'ivla">
   <user>
@@ -58697,6 +58711,19 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <glossword word="brighten" sense="become lighter" />
       <glossword word="lighten" sense="become brighter" />
 </valsi>
+<valsi word="gusybo'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a lightbulb/light bulb made of $x_2$</definition>
+      <definitionid>74369</definitionid>
+      <score>1</score>
+      <notes>alternative to {dicybo&apos;i}, possibly more intuitive</notes>
+      <glossword word="light bulb" sense="light emitter" />
+      <glossword word="lightbulb" sense="light emitter" />
+      <keyword word="lightbulb" place="1" sense="light emitter" />
+</valsi>
 <valsi word="gusycai" type="lujvo">
   <user>
     <username>noralujv</username>
@@ -58871,6 +58898,20 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <definition>$x_1$ is a twin of $x_2$.</definition>
       <definitionid>74275</definitionid>
       <score>3</score>
+</valsi>
+<valsi word="gutselzu'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ (abstract) is an attack/offense/move (offensive action) by $x_2$ against $x_3$</definition>
+      <definitionid>74367</definitionid>
+      <score>1</score>
+      <notes>as used in e.g. martial arts, military strategy, video games, sports, etc.</notes>
+      <glossword word="attack" sense="offensive action" />
+      <glossword word="move" sense="offensive action" />
+      <glossword word="offense" sense="opposite of defense" />
+      <keyword word="attack" place="1" sense="offensive action" />
 </valsi>
 <valsi word="gutyjamkarce" type="lujvo">
   <user>
@@ -122036,6 +122077,20 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>Non-poetic written text, without intentional rhyme or meter; $x_2$ may be a convention rather than a subject.  See also {cfika}, {lisri}, {cukta}, {pemci}, {finti}.</notes>
       <glossword word="prose" />
 </valsi>
+<valsi word="proselzu'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ (abstract) is a defense/response/counterplay (defensive action) by $x_2$ against $x_3$</definition>
+      <definitionid>74368</definitionid>
+      <score>1</score>
+      <notes>as used in e.g. martial arts, military strategy, legal practice, video games, sports, etc.</notes>
+      <glossword word="counterplay" sense="defensive action" />
+      <glossword word="defense" sense="defensive action" />
+      <glossword word="response" sense="defensive action" />
+      <keyword word="defense" place="1" sense="defensive action" />
+</valsi>
 <valsi word="prostituta" type="fu'ivla">
   <user>
     <username>glekizmiku</username>
@@ -130355,6 +130410,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definition>$c_1$ selects all images containing $p_2$; $x_1$ completes a CAPTCHA</definition>
       <definitionid>73499</definitionid>
       <score>2</score>
+</valsi>
+<valsi word="rolylerju'a" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a pangram.</definition>
+      <definitionid>74366</definitionid>
+      <score>1</score>
+      <glossword word="pangram" />
 </valsi>
 <valsi word="rolza'i" type="lujvo">
   <user>
@@ -160465,6 +160530,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>See also {sinxa}, {cmene}, {judri}.</notes>
       <glossword word="label" />
 </valsi>
+<valsi word="tcitani" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is titanium (metal, symbol Ti).</definition>
+      <definitionid>74365</definitionid>
+      <score>1</score>
+      <notes>Initial tc- for proper morphology inspired by Brazilian Portuguese and Japanese pronunciations of this word (titânio, チタン chitan). See also {jinmrtitani}, the prefixed form of this word.</notes>
+      <glossword word="titanium" sense="metal" />
+</valsi>
 <valsi word="tcita zei uidje" type="zei-lujvo">
   <user>
     <username>Wuzzy</username>
@@ -182152,6 +182228,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <definitionid>73570</definitionid>
       <score>2</score>
 </valsi>
+<valsi word="xanbikyda'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ slaps $x_2$ (strikes with open hand) on/at $x_3$</definition>
+      <definitionid>74370</definitionid>
+      <score>1</score>
+      <glossword word="slap" sense="strike with open hand" />
+      <keyword word="slap" place="1" sense="strike with open hand" />
+</valsi>
 <valsi word="xance" type="gismu">
   <rafsi>xan</rafsi>
   <rafsi>xa&apos;e</rafsi>
@@ -195759,6 +195846,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Boltzmann constant k_B" sense="approximately equal to 1.380 6488(13)×10^(−23) J/K" valsi="boltsemaku" />
 <nlword word="hemisphere" sense="half sphere" valsi="bolxadba" />
 <nlword word="fist" sense="clenched hand" valsi="bolxa&apos;e" />
+<nlword word="clobber" sense="punch" valsi="bolxanda&apos;i" />
+<nlword word="punch" sense="strike with closed fist" valsi="bolxanda&apos;i" place="1" />
+<nlword word="wallop" sense="punch" valsi="bolxanda&apos;i" />
 <nlword word="Bombyx" valsi="bombiksia" />
 <nlword word="femur" sense="bone" valsi="bonfemu" />
 <nlword word="thigh bone" valsi="bonfemu" />
@@ -200909,6 +200999,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="light switch" valsi="gusybatke" place="1" />
 <nlword word="brighten" sense="become lighter" valsi="gusybi&apos;o" />
 <nlword word="lighten" sense="become brighter" valsi="gusybi&apos;o" />
+<nlword word="light bulb" sense="light emitter" valsi="gusybo&apos;i" />
+<nlword word="lightbulb" sense="light emitter" valsi="gusybo&apos;i" place="1" />
 <nlword word="gleam" valsi="gusycai" />
 <nlword word="shine" valsi="gusycai" />
 <nlword word="firefly" valsi="gusycinki" />
@@ -200928,6 +201020,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="vaginal portion of cervix" valsi="gutrynebypunli" />
 <nlword word="cervix" valsi="gutryne&apos;o" />
 <nlword word="menstruate" valsi="gutrypilcri" />
+<nlword word="attack" sense="offensive action" valsi="gutselzu&apos;e" place="1" />
+<nlword word="move" sense="offensive action" valsi="gutselzu&apos;e" />
+<nlword word="offense" sense="opposite of defense" valsi="gutselzu&apos;e" />
 <nlword word="tank" sense="military vehicle" valsi="gutyjamkarce" />
 <nlword word="fore tanru whether" valsi="gu&apos;u" />
 <nlword word="melon" valsi="guzme" />
@@ -208144,6 +208239,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="give up" sense="surrender" valsi="proradyxarnysti" />
 <nlword word="surrender" sense="give up control" valsi="proradyxarnysti" />
 <nlword word="prose" valsi="prosa" />
+<nlword word="counterplay" sense="defensive action" valsi="proselzu&apos;e" />
+<nlword word="defense" sense="defensive action" valsi="proselzu&apos;e" place="1" />
+<nlword word="response" sense="defensive action" valsi="proselzu&apos;e" />
 <nlword word="protagonist" valsi="protagonista" />
 <nlword word="aardwolf" valsi="protele" />
 <nlword word="proton" valsi="protoni" place="1" />
@@ -209100,6 +209198,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="omniscient" valsi="rolju&apos;o" />
 <nlword word="panromantic" valsi="rolpamcinse" />
 <nlword word="Reciprocal" sense="pairwise all-exists" valsi="rolsixu" />
+<nlword word="pangram" valsi="rolylerju&apos;a" />
 <nlword word="everything that exists" valsi="rolza&apos;i" />
 <nlword word="lastly" valsi="romai" />
 <nlword word="Rome" valsi="romas" />
@@ -215178,6 +215277,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Black Sea" valsi="xamxeinmo" />
 <nlword word="Signed Language" valsi="xanbau" />
 <nlword word="sign language" valsi="xanbau" />
+<nlword word="slap" sense="strike with open hand" valsi="xanbikyda&apos;i" place="1" />
 <nlword word="hand" sense="body part" valsi="xance" />
 <nlword word="bracelet" sense="adornment" valsi="xancidja&apos;i" />
 <nlword word="wrist" valsi="xancidni" />
