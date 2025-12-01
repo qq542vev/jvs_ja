@@ -7793,6 +7793,20 @@
       <score>1</score>
       <notes>Sometimes referred to as India</notes>
 </valsi>
+<valsi word="barbaganuji" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is baba ghanoush/baba ghanouj/baba ganoush (Levantine eggplant dip) made of $x_2$</definition>
+      <definitionid>74373</definitionid>
+      <score>1</score>
+      <notes>see also {mlongena}, {xunmusu}, {nanpita}</notes>
+      <glossword word="baba ganoush" sense="dip" />
+      <glossword word="baba ghanouj" sense="dip" />
+      <glossword word="baba ghanoush" sense="dip" />
+      <keyword word="baba ghanoush" place="1" sense="dip" />
+</valsi>
 <valsi word="barbei" type="lujvo">
   <user>
     <username>xorxes</username>
@@ -21524,6 +21538,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <score>1</score>
       <notes>Japanese manjū (饅頭, まんじゅう)</notes>
 </valsi>
+<valsi word="cidjrmotci" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is mochi (Japanese rice cake).</definition>
+      <definitionid>74378</definitionid>
+      <score>1</score>
+      <notes>Type 4 won&apos;t work; djamotci is a compound, djarmotci is a slinku&apos;i. Similar problem as with &quot;pizza&quot; (*dja[r]pitsa also invalid).</notes>
+      <glossword word="mochi" />
+</valsi>
 <valsi word="cidjrpitsa" type="fu'ivla">
   <user>
     <username>totus</username>
@@ -27888,6 +27913,17 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>2</score>
       <notes>Anonymous remailer software</notes>
 </valsi>
+<valsi word="cmekirakira" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is the kirakira name (= an absurd, unconventional, ridiculous name) of $x_2$.</definition>
+      <definitionid>74379</definitionid>
+      <score>1</score>
+      <notes>From Japanese キラキラネーム kirakira nēmu, lit. &apos;sparkling/twinkling name&apos;. The cme- is from {cmene} &apos;name&apos;.</notes>
+      <glossword word="kirakira name" />
+</valsi>
 <valsi word="cmene" type="gismu">
   <rafsi>cme</rafsi>
   <rafsi>me&apos;e</rafsi>
@@ -33666,6 +33702,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>2</score>
       <notes>See also {kanguru}</notes>
       <glossword word="koala" />
+</valsi>
+<valsi word="dalko'ati" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a coati of variety/species $x_2$.</definition>
+      <definitionid>74382</definitionid>
+      <score>1</score>
+      <glossword word="coati" />
 </valsi>
 <valsi word="dalku'i" type="lujvo">
   <user>
@@ -45568,6 +45614,17 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <score>1</score>
       <notes>See also {ne&apos;o}</notes>
       <glossword word="factorial" />
+</valsi>
+<valsi word="famrafsi" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a prefix for (meaning, word) $x_2$.</definition>
+      <definitionid>74377</definitionid>
+      <score>1</score>
+      <notes>... with form/properties $x_3$ in language $x_4$, if you like the higher places of {rafsi}. This word is a shorter equivalent of {selyli&apos;erafsi}; see also {li&apos;enrafsi} &apos;prefix&apos;.</notes>
+      <glossword word="prefix" />
 </valsi>
 <valsi word="famselre'e" type="lujvo">
   <user>
@@ -74271,6 +74328,18 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <notes>See also {lanme}, {sunla}.</notes>
       <glossword word="goat" />
 </valsi>
+<valsi word="kanbaji" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a pin-back button/button badge.</definition>
+      <definitionid>74380</definitionid>
+      <score>1</score>
+      <notes>From Japanese 缶バッジ kan-bajji.</notes>
+      <glossword word="button badge" />
+      <glossword word="pinback button" />
+</valsi>
 <valsi word="kanbas" type="cmevla">
   <user>
     <username>jongausib</username>
@@ -81197,6 +81266,17 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <score>100000</score>
       <notes>(additional subunit places may be added as $x_5$, $x_6$, ...); See also {rupnu}, {fepni}, {dekpu}, {gutci}, {minli}, {merli}, {bunda}.</notes>
       <glossword word="acre" />
+</valsi>
+<valsi word="kranbari" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a cranberry of variety $x_2$.</definition>
+      <definitionid>74376</definitionid>
+      <score>1</score>
+      <notes>Blend of English cranberry and the ending of {jbari} (which is etymologically from berry anyway, but I wanted a word that would sound more Lojbany than a straight loan as *kranberi).</notes>
+      <glossword word="cranberry" />
 </valsi>
 <valsi word="krasi" type="gismu">
   <rafsi>kra</rafsi>
@@ -104718,6 +104798,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <notes>See also {gurni}, {panlo}, {toknu}.</notes>
       <glossword word="bread" />
 </valsi>
+<valsi word="nanbagele" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a bagel made of $x_2$</definition>
+      <definitionid>74375</definitionid>
+      <score>1</score>
+      <glossword word="bagel" sense="ring-shaped bread" />
+      <keyword word="bagel" place="1" sense="ring-shaped bread" />
+</valsi>
 <valsi word="nanbe'o" type="lujvo">
   <user>
     <username>totus</username>
@@ -104927,6 +105018,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <score>100000</score>
       <notes>Word dispreferred in metaphor/example as sexist; (use remna or prenu).  See also {ninmu}, {remna}, {prenu}, {makcu}, {nanla}, {bersa}.</notes>
       <glossword word="man" />
+</valsi>
+<valsi word="nanpita" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is pita (Mediterranean flatbread) made of $x_2$</definition>
+      <definitionid>74374</definitionid>
+      <score>1</score>
+      <notes>see also {xunmusu}, {barbaganuji}</notes>
+      <glossword word="pita" sense="flatbread" />
+      <keyword word="pita" place="1" sense="flatbread" />
 </valsi>
 <valsi word="nanrkafkaso" type="fu'ivla">
   <user>
@@ -160264,6 +160367,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>2</score>
       <notes>See also {tcIkculub}</notes>
 </valsi>
+<valsi word="tcikero" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a chickpea/garbanzo bean of variety $x_2$.</definition>
+      <definitionid>74381</definitionid>
+      <score>1</score>
+      <notes>From genus name Cicer (transcribed with the second c hard, instead of as tcicero, to resemble English chickpea better).</notes>
+      <glossword word="chickpea" />
+      <glossword word="garbanzo" />
+</valsi>
 <valsi word="tcikona" type="fu'ivla">
   <user>
     <username>lakanro</username>
@@ -175132,7 +175247,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>describing word / situation: have checked a dictionary - denying either - not have checked a dictionary.</definition>
       <definitionid>68765</definitionid>
-      <score>1</score>
+      <score>2</score>
 </valsi>
 <valsi unofficial="true" word="vau'au'o" type="experimental cmavo">
   <selmaho>PA5</selmaho>
@@ -195137,6 +195252,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="baptist" valsi="baptizo" place="1" />
 <nlword word="baptize" sense="religious initiation" valsi="baptizo" />
 <nlword word="will have been" valsi="bapu" />
+<nlword word="baba ganoush" sense="dip" valsi="barbaganuji" />
+<nlword word="baba ghanouj" sense="dip" valsi="barbaganuji" />
+<nlword word="baba ghanoush" sense="dip" valsi="barbaganuji" place="1" />
 <nlword word="barbecue" valsi="barbekeiu" place="1" />
 <nlword word="BBQ" valsi="barbekeiu" place="2" />
 <nlword word="big" valsi="barda" />
@@ -196690,6 +196808,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="bento" valsi="cidjrbento" />
 <nlword word="curry" sense="spiced dish" valsi="cidjrkari" place="1" />
 <nlword word="couscous" valsi="cidjrkusku" />
+<nlword word="mochi" valsi="cidjrmotci" />
 <nlword word="sushi" valsi="cidjrsuci" place="1" />
 <nlword word="sushi ingredients" valsi="cidjrsuci" place="3" />
 <nlword word="sushi rice" valsi="cidjrsuci" place="2" />
@@ -197435,6 +197554,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="anonymous" valsi="cmecau" />
 <nlword word="nomenclature" valsi="cmeci&apos;e" />
 <nlword word="nominal scale" valsi="cmeci&apos;u" />
+<nlword word="kirakira name" valsi="cmekirakira" />
 <nlword word="name" sense="reference word" valsi="cmene" />
 <nlword word="title" sense="name" valsi="cmene" />
 <nlword word="Linnaean name" valsi="cmenrline" />
@@ -198155,6 +198275,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="pride" sense="group of lions" valsi="dalgunma" />
 <nlword word="beaver" sense="animal" valsi="dalkastora" />
 <nlword word="coala" valsi="dalko&apos;ala" />
+<nlword word="coati" valsi="dalko&apos;ati" />
 <nlword word="herder" valsi="dalku&apos;i" />
 <nlword word="steed" valsi="dalma&apos;e" />
 <nlword word="terrain" valsi="dalma&apos;e" place="4" />
@@ -202651,6 +202772,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="the greater end" valsi="kamyzmakezra&apos;a" />
 <nlword word="the numerically higher end" valsi="kamyzmakezra&apos;a" />
 <nlword word="goat" valsi="kanba" />
+<nlword word="button badge" valsi="kanbaji" />
+<nlword word="pinback button" valsi="kanbaji" />
 <nlword word="Capricorn" sense="astrology" valsi="kanbas" />
 <nlword word="Capricornus" sense="constellation" valsi="kanbas" />
 <nlword word="Chèvre" sense="cheese" valsi="kanbycirla" />
@@ -206277,6 +206400,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="solver" sense="puzzle solver" valsi="namkei" place="1" />
 <nlword word="patient" sense="calm in the face of trouble" valsi="namtolxanka" />
 <nlword word="bread" valsi="nanba" />
+<nlword word="bagel" sense="ring-shaped bread" valsi="nanbagele" place="1" />
 <nlword word="Central America" valsi="nanbe&apos;o" />
 <nlword word="crepe" sense="food" valsi="nanbrkrepa" />
 <nlword word="year" valsi="nanca" />
@@ -206294,6 +206418,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="boy" valsi="nanla" />
 <nlword word="bullock" sense="cattle (male, young)" valsi="nanlybakni" />
 <nlword word="man" valsi="nanmu" />
+<nlword word="pita" sense="flatbread" valsi="nanpita" place="1" />
 <nlword word="something Transcaucasian" valsi="nanrkafkaso" place="1" />
 <nlword word="Katanga lion" sense="Panthera leo bleyenberghi" valsi="nansicfi&apos;ocinfo" />
 <nlword word="southwest African lion" sense="Panthera leo bleyenberghi" valsi="nansicfi&apos;ocinfo" />
