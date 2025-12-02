@@ -13770,17 +13770,6 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <glossword word="croquet ball" />
       <keyword word="croquet ball" place="1" />
 </valsi>
-<valsi word="bolrtenis" type="cmevla">
-  <user>
-    <username>Qimar</username>
-    <realname>Sean S</realname>
-  </user>
-      <definition>$x_1$ is a tennis ball</definition>
-      <definitionid>73336</definitionid>
-      <score>1</score>
-      <glossword word="tennis" />
-      <glossword word="tennis ball" sense="ball" />
-</valsi>
 <valsi word="bolrvolei" type="fu'ivla">
   <user>
     <username>Wuzzy</username>
@@ -26319,6 +26308,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="Baja rose" sense="rose (Rosa minutifolia)" />
       <glossword word="small-leafed rose" sense="rose (Rosa minutifolia)" />
 </valsi>
+<valsi word="cmapinxe" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ sips beverage/drink/liquid $x_2$ from source $x_3$</definition>
+      <definitionid>74388</definitionid>
+      <score>1</score>
+      <notes>cf. {cmalu} {pinxe}</notes>
+</valsi>
 <valsi word="cmaplini" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -33710,7 +33709,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a coati of variety/species $x_2$.</definition>
       <definitionid>74382</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="coati" />
 </valsi>
 <valsi word="dalku'i" type="lujvo">
@@ -63912,6 +63911,17 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <notes>See also {cecla}, {spoja}.</notes>
       <glossword word="bomb" />
 </valsi>
+<valsi word="jbamora" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is mulberry of variety $x_2$.</definition>
+      <definitionid>74384</definitionid>
+      <score>1</score>
+      <notes>From -jba- (combining form of {jbari}) and Portuguese amora.</notes>
+      <glossword word="mulberry" />
+</valsi>
 <valsi word="jbari" type="gismu">
   <rafsi>jba</rafsi>
   <user>
@@ -74102,6 +74112,18 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <glossword word="majesty" sense="kingship" />
       <keyword word="majesty" place="1" sense="kingship" />
 </valsi>
+<valsi word="kampaneto" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a glockenspiel made of $x_2$</definition>
+      <definitionid>74387</definitionid>
+      <score>2</score>
+      <notes>see also {glokesi}</notes>
+      <glossword word="glockenspiel" sense="mallet percussion instrument" />
+      <keyword word="glockenspiel" place="1" sense="mallet percussion instrument" />
+</valsi>
 <valsi word="kamprije" type="lujvo">
   <user>
     <username>suzil</username>
@@ -77627,6 +77649,18 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <score>2</score>
       <notes>See {kibystu}, {kibro}, {ki&apos;oi}. $x_2$ need not be a website, but may be a chatroom or any other resource on the Internet.</notes>
       <glossword word="located at website" />
+</valsi>
+<valsi word="kibzvaipi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is located at IP address $x_2$.</definition>
+      <definitionid>74383</definitionid>
+      <score>1</score>
+      <notes>From {kibzva} and the English pronunciation of &quot;IP&quot;. IP addresses, both v4 and v6, are read {me&apos;o} + numbers separated by {pi&apos;e}. Use hex digits ({dau}, {fei} ... {vai}), not letters, for IPv6.</notes>
+      <glossword word="IP address" />
+      <keyword word="IP address" place="2" />
 </valsi>
 <valsi word="kicne" type="gismu">
   <rafsi>kic</rafsi>
@@ -174451,6 +174485,17 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <glossword word="least significant first" sense="endianness" />
       <glossword word="little-endian" sense="endianness" />
 </valsi>
+<valsi word="vaksaki" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is huckleberry (some berries in Vaccinium and Gaylussacia) of variety $x_2$.</definition>
+      <definitionid>74385</definitionid>
+      <score>1</score>
+      <notes>Blend of the two genuses that include plants called &quot;huckleberries&quot;, Vaccinium (vak-) and Gaylussacia (-saki, from the end). Coined by Mati and janbe.</notes>
+      <glossword word="huckleberry" />
+</valsi>
 <valsi word="valcrimtu" type="fu'ivla">
   <user>
     <username>mati</username>
@@ -174458,7 +174503,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is unnecessary Lojban jargon for natural-language equivalent term $x_2$</definition>
       <definitionid>74263</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Ex.: zo&apos;oi «modal» valcrimtu zo&apos;oi «preposition». &quot;Modal&quot; or {sumtcita} instead of &quot;preposition&quot;, {selbri} instead of &quot;main verb&quot; and so on. Refers to using Lojban jargon for discussing grammar when there&apos;s perfectly good English words that mean the same and aren&apos;t as opaque.</notes>
       <glossword word="unnecessary Lojban jargon" />
 </valsi>
@@ -191198,6 +191243,18 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <score>1</score>
       <glossword word="cumbia" sense="music genre" />
 </valsi>
+<valsi word="zgilofoni" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a xylophone made of $x_2$</definition>
+      <definitionid>74386</definitionid>
+      <score>2</score>
+      <notes>see also {skilofo}</notes>
+      <glossword word="xylophone" sense="mallet percussion instrument" />
+      <keyword word="xylophone" place="1" sense="mallet percussion instrument" />
+</valsi>
 <valsi word="zgilregi" type="fu'ivla">
   <user>
     <username>jongausib</username>
@@ -195944,8 +196001,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="golf ball" valsi="bolrgolfo" place="1" />
 <nlword word="cricket ball" valsi="bolrkriketi" place="1" />
 <nlword word="croquet ball" valsi="bolrkroke" place="1" />
-<nlword word="tennis" valsi="bolrtenis" />
-<nlword word="tennis ball" sense="ball" valsi="bolrtenis" />
 <nlword word="volleyball" sense="ball" valsi="bolrvolei" place="1" />
 <nlword word="boustrophedon" valsi="bolstropfedo" />
 <nlword word="buckyball" sense="spherical fullerene" valsi="boltabno" />
@@ -201593,6 +201648,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="guarana" sense="berry" valsi="jbagu&apos;arana" place="1" />
 <nlword word="kiwifruit" valsi="jbakiui" />
 <nlword word="bomb" valsi="jbama" />
+<nlword word="mulberry" valsi="jbamora" />
 <nlword word="berry" valsi="jbari" />
 <nlword word="juniper berry" sense="genus Juniperus" valsi="jbarjuniperu" />
 <nlword word="kiwi" sense="berry" valsi="jbarnkiui" />
@@ -202741,6 +202797,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="health" sense="physical condition" valsi="kamka&apos;o" />
 <nlword word="committee" valsi="kamni" />
 <nlword word="majesty" sense="kingship" valsi="kamnolraitru" place="1" />
+<nlword word="glockenspiel" sense="mallet percussion instrument" valsi="kampaneto" place="1" />
 <nlword word="wisdom" sense="smart knowledge" valsi="kamprije" />
 <nlword word="common" sense="universal" valsi="kampu" />
 <nlword word="general" sense="universal" valsi="kampu" />
@@ -203152,6 +203209,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="say over the Internet" valsi="kibysku" />
 <nlword word="Internet forum" valsi="kibysnustu" />
 <nlword word="located at website" valsi="kibzva" />
+<nlword word="IP address" valsi="kibzvaipi" place="2" />
 <nlword word="cushion" valsi="kicne" />
 <nlword word="pillow fight" valsi="kicnunda&apos;a" />
 <nlword word="Quijote" valsi="kicotes" />
@@ -214512,6 +214570,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="least significant first" sense="endianness" valsi="vajyje&apos;ipoi" />
 <nlword word="little endian" sense="endianness" valsi="vajyje&apos;ipoi" />
 <nlword word="little-endian" sense="endianness" valsi="vajyje&apos;ipoi" />
+<nlword word="huckleberry" valsi="vaksaki" />
 <nlword word="unnecessary Lojban jargon" valsi="valcrimtu" />
 <nlword word="tosmabru word" valsi="valrtosmabru" />
 <nlword word="word" valsi="valsi" />
@@ -216369,6 +216428,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="music note" sense="symbol" valsi="zgika&apos;usni" />
 <nlword word="note " sense="musical symbol" valsi="zgika&apos;usni" />
 <nlword word="music" valsi="zgike" />
+<nlword word="xylophone" sense="mallet percussion instrument" valsi="zgilofoni" place="1" />
 <nlword word="reggae" sense="music" valsi="zgilregi" />
 <nlword word="reggaeton" sense="music" valsi="zgilregitona" />
 <nlword word="jukebox" valsi="zgimi&apos;i" place="1" />
