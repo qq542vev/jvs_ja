@@ -84686,18 +84686,6 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <notes>Excludes margarine. See {ladru}, {matne}</notes>
       <glossword word="butter" />
 </valsi>
-<valsi word="la dontu'u" type="cmavo-compound">
-  <selmaho>LE*</selmaho>
-  <user>
-    <username>zozeizeizeizeifaho</username>
-    <realname>la du kooi noi zo zei zei zei zei fao ku ne vou biu pei</realname>
-  </user>
-      <definition>YouTube</definition>
-      <definitionid>72155</definitionid>
-      <score>1</score>
-      <notes>Video hosting website. See {skina}, {gugle}</notes>
-      <glossword word="YouTube" />
-</valsi>
 <valsi word="ladru" type="gismu">
   <rafsi>lad</rafsi>
   <user>
@@ -122745,6 +122733,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <keyword word="destination" place="2" sense="place gone to" />
       <keyword word="origin" place="3" sense="place starting from" />
 </valsi>
+<valsi word="pudlu'aju'a" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a garden-path sentence about $x_2$ in language $x_3$.</definition>
+      <definitionid>74390</definitionid>
+      <score>1</score>
+      <notes>{jufra} frame. See also {pudlu&apos;avla} &apos;garden-path word&apos;.</notes>
+      <glossword word="garden-path sentence" />
+</valsi>
 <valsi word="pudlu'avalsi'ipo'ato" type="fu'ivla">
   <user>
     <username>Xabju</username>
@@ -122759,6 +122758,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <keyword word="garden-path word" place="1" />
       <keyword word="meaning" place="2" />
       <keyword word="language" place="3" />
+</valsi>
+<valsi word="pudlu'avla" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a garden-path word meaning $x_2$ in language $x_3$.</definition>
+      <definitionid>74389</definitionid>
+      <score>1</score>
+      <notes>Frame from {valsi}. A more usable alternative to the self-demonstrating, but very long, {pudlu&apos;avalsi&apos;ipo&apos;ato} &apos;garden-path-word-&quot;wait, no, word-coin&quot;-explode-&quot;this isn&apos;t even a compound!&quot;&apos;.</notes>
+      <glossword word="garden-path word" />
 </valsi>
 <valsi word="pudydi'u" type="lujvo">
   <user>
@@ -203901,7 +203911,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="dependent territory" valsi="lactergu&apos;e" />
 <nlword word="entrust" valsi="lacydu&apos;a" />
 <nlword word="snowdrop" sense="genus Galanthus" valsi="ladlabrulspa" />
-<nlword word="YouTube" valsi="la dontu&apos;u" />
 <nlword word="milk" valsi="ladru" />
 <nlword word="coffee with milk" sense="cold/warm drink" valsi="ladyckafi" />
 <nlword word="milk" sense="extract milk" valsi="ladycpa" />
@@ -208489,6 +208498,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="garden parth" valsi="pudlu&apos;a" place="1" />
 <nlword word="garden path" sense="winding, usually unpaved path" valsi="pudlu&apos;a" />
 <nlword word="origin" sense="place starting from" valsi="pudlu&apos;a" place="3" />
+<nlword word="garden-path sentence" valsi="pudlu&apos;aju&apos;a" />
 <nlword word="garden path word" valsi="pudlu&apos;avalsi&apos;ipo&apos;ato" />
 <nlword word="garden-path word" valsi="pudlu&apos;avalsi&apos;ipo&apos;ato" place="1" />
 <nlword word="cabana" valsi="pudydi&apos;u" />
