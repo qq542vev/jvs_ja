@@ -52629,6 +52629,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <notes>Especially in the face of difficulty; &quot;keeping up the fight&quot;. The place structure is like {gunka} or {zukte}.</notes>
       <glossword word="do one&apos;s best" />
 </valsi>
+<valsi word="gamdegi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is the duodenum (part of the small intestine) of $x_2$.</definition>
+      <definitionid>74391</definitionid>
+      <score>1</score>
+      <notes>Calque of Latin duodenum (digitorum) &apos;of twelve (fingers)&apos;: -gam- (&lt; {gai}, twelve) + {degji} &apos;finger&apos;, removing the -j- to make it a freeword instead of a true compound. Compare Dutch twaalfvingerige darm, and its calque, Japanese 十二指腸 jūnishichō.</notes>
+      <glossword word="duodenum" />
+</valsi>
 <valsi word="gamgata" type="fu'ivla">
   <user>
     <username>lakanro</username>
@@ -200462,6 +200473,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Adam&apos;s apple" valsi="galxypunli" />
 <nlword word="laryngeal prominence" valsi="galxypunli" />
 <nlword word="do one&apos;s best" valsi="gambaru" />
+<nlword word="duodenum" valsi="gamdegi" />
 <nlword word="kumquat" valsi="gamguata" />
 <nlword word="synaesthesia" valsi="gamseti&apos;yra&apos;a" />
 <nlword word="synaesthetize" valsi="gamseti&apos;yra&apos;a" />
