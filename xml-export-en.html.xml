@@ -126054,6 +126054,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>{rei&apos;e}:{ru&apos;e}:{milxe} ; {noi&apos;e}:{na&apos;oi}:{cnano} ; {sai&apos;e}:{sai}:{mutce} ; {cai&apos;e}:{cai}:{tcetce}. See http://mw.lojban.org/papri/zipcpi:_scalar_modifiers</notes>
       <glossword word="scalar abator" />
 </valsi>
+<valsi unofficial="true" word="rei'i" type="experimental cmavo">
+  <selmaho>UI2</selmaho>
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>evidential: I know from sensorial recordings made by external devices (photographic or video camera, sound recorders…).</definition>
+      <definitionid>74392</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="re'imnu" type="fu'ivla">
   <user>
     <username>krtisfranks</username>
@@ -177079,6 +177089,16 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>100000</score>
       <glossword word="2-space interval" />
 </valsi>
+<valsi unofficial="true" word="vi'ai" type="experimental cmavo">
+  <selmaho>UI2</selmaho>
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>evidential: I know from sources of different types, confirming each other.</definition>
+      <definitionid>74393</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="vi'amde" type="fu'ivla">
   <user>
     <username>janbe</username>
@@ -180371,15 +180391,6 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <notes>From {vrici}, {krici}, {curmi}, {turni}, {sidbo}. Cf. {vricykricru}, {ka&apos;irtrusi&apos;o}, {dzejdasratrusi&apos;o}, {fairpaltrusi&apos;o}, {guntrusi&apos;o}, {natpamtrusi&apos;o}, {tsarainaitrusi&apos;o}.</notes>
       <glossword word="liberalism" sense="politics" />
       <glossword word="liberal political ideology" />
-</valsi>
-<valsi word="vriska" type="lujvo">
-  <user>
-    <username>tbodt</username>
-    <realname>tbodt</realname>
-  </user>
-      <definition>$x_1$ is VRISKA SERKET.</definition>
-      <definitionid>72770</definitionid>
-      <score>1</score>
 </valsi>
 <valsi word="vrMANT" type="cmevla">
   <user>
