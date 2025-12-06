@@ -84697,6 +84697,18 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <notes>Excludes margarine. See {ladru}, {matne}</notes>
       <glossword word="butter" />
 </valsi>
+<valsi word="la dontu'u" type="cmavo-compound">
+  <selmaho>LE*</selmaho>
+  <user>
+    <username>zozeizeizeizeifaho</username>
+    <realname>la du kooi noi zo zei zei zei zei fao ku ne vou biu pei</realname>
+  </user>
+      <definition>YouTube</definition>
+      <definitionid>72155</definitionid>
+      <score>1</score>
+      <notes>Video hosting website. See {skina}, {gugle}</notes>
+      <glossword word="YouTube" />
+</valsi>
 <valsi word="ladru" type="gismu">
   <rafsi>lad</rafsi>
   <user>
@@ -187729,6 +187741,18 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <score>100002</score>
       <glossword word="hesitation" />
 </valsi>
+<valsi unofficial="true" word="y'a" type="experimental cmavo">
+  <selmaho>UI</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+      <definition>attitudinal: lying - honest</definition>
+      <definitionid>74394</definitionid>
+      <score>1</score>
+      <glossword word="dishonest" sense="not honest" />
+      <glossword word="lying" />
+</valsi>
 <valsi word="ybu" type="bu-letteral">
   <selmaho>BY*</selmaho>
   <user>
@@ -203934,6 +203958,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="dependent territory" valsi="lactergu&apos;e" />
 <nlword word="entrust" valsi="lacydu&apos;a" />
 <nlword word="snowdrop" sense="genus Galanthus" valsi="ladlabrulspa" />
+<nlword word="YouTube" valsi="la dontu&apos;u" />
 <nlword word="milk" valsi="ladru" />
 <nlword word="coffee with milk" sense="cold/warm drink" valsi="ladyckafi" />
 <nlword word="milk" sense="extract milk" valsi="ladycpa" />
@@ -216052,6 +216077,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="radiate X-rays" valsi="xy zei dirce" />
 <nlword word="X-ray" sense="electromagnetic radiation" valsi="xy zei dirce" place="2" />
 <nlword word="hesitation" valsi="y" />
+<nlword word="lying" valsi="y&apos;a" />
 <nlword word="y" valsi="ybu" />
 <nlword word="&apos;" valsi="y&apos;y" />
 <nlword word="apostrophe" valsi="y&apos;y zei bu" />
