@@ -91116,6 +91116,15 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <score>1</score>
       <glossword word="hitchhike" />
 </valsi>
+<valsi word="ma'erzamboni" type="fu'ivla">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a zamboni carrying  $x_2$ on surface $x_3$ propelled by $x_4$</definition>
+      <definitionid>74395</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="ma'estro" type="fu'ivla">
   <user>
     <username>glekizmiku</username>
@@ -104063,7 +104072,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ fidgets with $x_2$.</definition>
       <definitionid>60444</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="fidget" />
 </valsi>
 <valsi word="naljuncedrydji" type="lujvo">
@@ -187741,18 +187750,6 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <score>100002</score>
       <glossword word="hesitation" />
 </valsi>
-<valsi unofficial="true" word="y'a" type="experimental cmavo">
-  <selmaho>UI</selmaho>
-  <user>
-    <username>qazw-5414</username>
-    <realname>la ninlat.</realname>
-  </user>
-      <definition>attitudinal: lying - honest</definition>
-      <definitionid>74394</definitionid>
-      <score>1</score>
-      <glossword word="dishonest" sense="not honest" />
-      <glossword word="lying" />
-</valsi>
 <valsi word="ybu" type="bu-letteral">
   <selmaho>BY*</selmaho>
   <user>
@@ -216077,7 +216074,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="radiate X-rays" valsi="xy zei dirce" />
 <nlword word="X-ray" sense="electromagnetic radiation" valsi="xy zei dirce" place="2" />
 <nlword word="hesitation" valsi="y" />
-<nlword word="lying" valsi="y&apos;a" />
 <nlword word="y" valsi="ybu" />
 <nlword word="&apos;" valsi="y&apos;y" />
 <nlword word="apostrophe" valsi="y&apos;y zei bu" />
