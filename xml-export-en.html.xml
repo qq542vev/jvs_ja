@@ -3885,6 +3885,16 @@
       <notes>Cf. {ba&apos;ostu}.</notes>
       <glossword word="cattle ranch" />
 </valsi>
+<valsi word="bakcarci'a" type="lujvo">
+  <user>
+    <username>phma</username>
+    <realname>Pierre Abbat</realname>
+  </user>
+      <definition>$c_1$ writes $c_2$ boustrophedon on $c_3$ with $c_4$</definition>
+      <definitionid>74396</definitionid>
+      <score>1</score>
+      <glossword word="boustrophedon" />
+</valsi>
 <valsi word="bakcatra" type="lujvo">
   <user>
     <username>phma</username>
