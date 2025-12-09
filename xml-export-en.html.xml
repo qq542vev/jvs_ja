@@ -3892,7 +3892,7 @@
   </user>
       <definition>$c_1$ writes $c_2$ boustrophedon on $c_3$ with $c_4$</definition>
       <definitionid>74396</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="boustrophedon" />
 </valsi>
 <valsi word="bakcatra" type="lujvo">
@@ -54565,6 +54565,16 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <glossword word="conflict" sense="gismu" />
       <glossword word="gismu conflict" />
       <glossword word="gismu similarity conflict" />
+</valsi>
+<valsi word="gimnori" type="fu'ivla">
+  <user>
+    <username>phma</username>
+    <realname>Pierre Abbat</realname>
+  </user>
+      <definition>$x_1$ is nori of species $x_2$</definition>
+      <definitionid>74397</definitionid>
+      <score>2</score>
+      <keyword word="nori" place="1" />
 </valsi>
 <valsi word="gimpro" type="lujvo">
   <user>
@@ -116887,7 +116897,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is pink</definition>
       <definitionid>70364</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>Moved from {penki}. Cf. {xunblabi}, {labyxu&apos;e}</notes>
       <glossword word="pink" />
 </valsi>
@@ -118481,7 +118491,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is Pinkie Pie from My Little Pony</definition>
       <definitionid>20714</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>Also: flatacai ~ Fluttershy; tu&apos;ailspake ~ Twilight Sparkle, but jbovlastes morphology checker is not up to date, so this word can&apos;t be entered into the database yet. It&apos;s morphologically fine by today&apos;s standards, however, so feel free to use tu&apos;ailspake.</notes>
       <glossword word="Pinkie Pie" />
 </valsi>
@@ -200731,6 +200741,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="campfire" valsi="gikfagri" place="1" />
 <nlword word="guillemet" valsi="gimet bu" />
 <nlword word="gismu similarity conflict" valsi="gimkamsmikezypro" />
+<nlword word="nori" valsi="gimnori" place="1" />
 <nlword word="conflict" sense="gismu" valsi="gimpro" />
 <nlword word="gismu conflict" valsi="gimpro" />
 <nlword word="rhythmic conjugation" sense="Lojban grammar" valsi="gimrafrimni" />
