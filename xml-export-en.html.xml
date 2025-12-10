@@ -9549,7 +9549,7 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
   </user>
       <definition>$b_1$ is a cargo ship for carrying $b_2$, propelled by $b_3$.</definition>
       <definitionid>18996</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {bevri}, {bloti}, {preblo}, {ni&apos;ablo}.</notes>
       <glossword word="cargo ship" />
 </valsi>
@@ -10871,6 +10871,16 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <definitionid>13336</definitionid>
       <score>1</score>
       <glossword word="obligate" />
+</valsi>
+<valsi word="bigypulji" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$p_1$ is a vigilante enforcing law(s)/rule(s)/order $p_2$</definition>
+      <definitionid>74399</definitionid>
+      <score>1</score>
+      <notes>cf. {bilga} {pulji}</notes>
 </valsi>
 <valsi word="bigysoi" type="lujvo">
   <user>
@@ -17392,6 +17402,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <definitionid>68664</definitionid>
       <score>2</score>
       <keyword word="official" place="2" sense="approved by authority" />
+</valsi>
+<valsi word="caisli" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$s_1$ blinks/fades in an oscillating pattern at rate/frequency $s_2$ through set/sequence-of-states $s_3$ </definition>
+      <definitionid>74403</definitionid>
+      <score>1</score>
+      <notes>cf. {carmi} {slilu}</notes>
 </valsi>
 <valsi word="caitcu" type="lujvo">
   <user>
@@ -38284,7 +38304,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$s_1$ is a story/level/floor of building $x_2=s_3=d_1$.</definition>
       <definitionid>17213</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="floor" sense="level of building" />
       <glossword word="level" sense="floor of building" />
       <glossword word="story" sense="level of building" />
@@ -39559,6 +39579,18 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>1</score>
       <glossword word="Zhou" />
       <glossword word="Zhou Dynasty" />
+</valsi>
+<valsi word="djauzi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is jiaozi/gyoza with filling $x_2$.</definition>
+      <definitionid>74405</definitionid>
+      <score>1</score>
+      <notes>Same frame as {pelmeni}. From Mandarin jiǎozi.</notes>
+      <glossword word="gyoza" />
+      <glossword word="jiaozi" />
 </valsi>
 <valsi word="djaZAIR" type="cmevla">
   <user>
@@ -66794,10 +66826,9 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
     <username>mati</username>
     <realname>mati</realname>
   </user>
-      <definition>$x_1$ is jiaozi/gyoza containing $x_2$</definition>
+      <definition>($x_1$: deprecated; moved to djauzi.)</definition>
       <definitionid>74254</definitionid>
       <score>2</score>
-      <notes>$x_2$ is the filling (see {pelmeni}). From Mandarin jiǎozi, with a g- from cognate Cantonese gaau2 zi2, Japanese gyōza to form a cluster.</notes>
       <glossword word="dumpling" sense="gyoza, jiaozi" />
       <glossword word="gyoza" />
       <glossword word="jiaozi" />
@@ -69595,6 +69626,18 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <score>2</score>
       <notes>Cf. {degycalku}, {xandegycalku}, {jmatajycalku}, {xantajycalku}.</notes>
       <glossword word="toenail" />
+</valsi>
+<valsi word="jmafuto" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is $x_2$ feet (imperial/American unit) in length (default 1) measured in direction $x_3$.</definition>
+      <definitionid>74402</definitionid>
+      <score>1</score>
+      <notes>From -jma- (&lt; {jamfu}) and &quot;foot&quot;. Alternative to {sfu&apos;utu} with a more recognizable word shape. See also {inci}, {iarda}.</notes>
+      <glossword word="feet" sense="imperial/American unit" />
+      <glossword word="foot" sense="imperial/American unit" />
 </valsi>
 <valsi word="jmagle" type="lujvo">
   <user>
@@ -91377,6 +91420,17 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <glossword word="universal argument" sense="pro-sumti; universal reference set; syntactically maximally generic typing" />
       <glossword word="universally-referent pro-sumti" sense="pro-sumti; universal reference set; syntactically maximally generic typing" />
       <glossword word="universal value" sense="pro-sumti; universal reference set; syntactically maximally generic typing" />
+</valsi>
+<valsi word="mailzi" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is $x_2$ miles (imperial/American unit) in length (default 1) measured in direction $x_3$.</definition>
+      <definitionid>74401</definitionid>
+      <score>1</score>
+      <notes>From &quot;miles&quot;, plural. Alternative form of {zmaile} with less distortion from the source word.</notes>
+      <glossword word="mile" sense="imperial/American unit" />
 </valsi>
 <valsi unofficial="true" word="mai'o" type="experimental cmavo">
   <selmaho>LI2</selmaho>
@@ -124121,6 +124175,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="maximum element" sense="mekso" />
       <glossword word="minimum element" sense="mekso" />
 </valsi>
+<valsi word="raikri" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$k_1$ is an extremist holding views/beliefs $k_2$ about subject $k_3$</definition>
+      <definitionid>74400</definitionid>
+      <score>1</score>
+      <notes>cf. {traji} {krici} For political extremist, use jitnyraikri;  for religious extremist, use jdaraikri; for economic extremist, use jiknyraikri.</notes>
+</valsi>
 <valsi word="raiksi" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -140835,6 +140899,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <keyword word="hugeness" place="2" />
       <keyword word="hugeness observer" place="3" />
 </valsi>
+<valsi word="selte'azeizu'e" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ (person/agent) commits an act of terrorism $x_2$, punishable to people/culture/judges/jury $x_3$. $x_1$ is a terrorist</definition>
+      <definitionid>74398</definitionid>
+      <score>1</score>
+      <glossword word="terrorism" sense="committing terrorist acts" />
+      <glossword word="terrorist" sense="terrorist" />
+</valsi>
 <valsi word="selte'i" type="lujvo">
   <user>
     <username>xorxes</username>
@@ -142361,7 +142436,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$s_1=b_1$ (agent) volunteers/signs up to serve $s_2$ with service $s_3$ (activity) under conditions $b_3$.</definition>
       <definitionid>68450</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See also {selfu}, {binxo}.</notes>
       <glossword word="sign up" sense="volunteer" />
       <glossword word="volunteer" sense="in order to serve" />
@@ -177700,16 +177775,6 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>1</score>
       <glossword word="dash" sense="move violently" />
 </valsi>
-<valsi word="vilselte'azu'e" type="lujvo">
-  <user>
-    <username>Qimar</username>
-    <realname>Sean S</realname>
-  </user>
-      <definition>$z_1$ is a terrorist/commits act of terrorism $z_2$ for purpose/goal $z_3$</definition>
-      <definitionid>74280</definitionid>
-      <score>2</score>
-      <notes>cf. {vlile} {selte&apos;a} {zukte}</notes>
-</valsi>
 <valsi word="vilsi'e" type="lujvo">
   <user>
     <username>ues</username>
@@ -193184,6 +193249,17 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <notes>See {cuxna}, {zmiku}</notes>
       <glossword word="default choice" />
 </valsi>
+<valsi word="zmizgita'e" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a music box.</definition>
+      <definitionid>74404</definitionid>
+      <score>1</score>
+      <notes>Literally &apos;auto-music-box&apos;. Unary {pipno} frame. Coined by Mati and janbe.</notes>
+      <glossword word="music box" />
+</valsi>
 <valsi word="zmrenda" type="fu'ivla">
   <user>
     <username>viktor</username>
@@ -199108,6 +199184,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="know what" valsi="djaumo" />
 <nlword word="Zhou" valsi="djautrau" />
 <nlword word="Zhou Dynasty" valsi="djautrau" />
+<nlword word="gyoza" valsi="djauzi" />
+<nlword word="jiaozi" valsi="djauzi" />
 <nlword word="Algeria" valsi="djaZAIR" />
 <nlword word="event/state of the hour of the day" valsi="djecacrytcika" place="2" />
 <nlword word="hour notation of the day" valsi="djecacrytcika" place="1" />
@@ -202072,8 +202150,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="clock orientation" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
 <nlword word="clock position" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
 <nlword word="dumpling" sense="gyoza, jiaozi" valsi="jgauzi" />
-<nlword word="gyoza" valsi="jgauzi" />
-<nlword word="jiaozi" valsi="jgauzi" />
 <nlword word="tie" sense="make a knot in" valsi="jgegau" />
 <nlword word="knot" valsi="jgena" />
 <nlword word="pretzel" sense="foodstuff" valsi="jgenanba" place="1" />
@@ -202349,6 +202425,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="orienteering event type" valsi="jivnrfarzu&apos;e" place="2" />
 <nlword word="orienteering rule" valsi="jivnrfarzu&apos;e" place="3" />
 <nlword word="temperament" sense="innate personality" valsi="jizyselpre" />
+<nlword word="feet" sense="imperial/American unit" valsi="jmafuto" />
+<nlword word="foot" sense="imperial/American unit" valsi="jmafuto" />
 <nlword word="masturbate" sense="using feet" valsi="jmagle" />
 <nlword word="feet" sense="international foot (unit of measurement)" valsi="jmagutci" />
 <nlword word="feet" sense="unit of measurement" valsi="jmagutci" />
@@ -204724,6 +204802,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="universal argument" sense="pro-sumti; universal reference set; syntactically maximally generic typing" valsi="mai&apos;i" />
 <nlword word="universally-referent pro-sumti" sense="pro-sumti; universal reference set; syntactically maximally generic typing" valsi="mai&apos;i" />
 <nlword word="universal value" sense="pro-sumti; universal reference set; syntactically maximally generic typing" valsi="mai&apos;i" />
+<nlword word="mile" sense="imperial/American unit" valsi="mailzi" />
 <nlword word="mai-referent" valsi="mai&apos;o" />
 <nlword word="calendar defining the day of the month" valsi="ma&apos;irdeidetri" place="4" />
 <nlword word="day notation of the month" valsi="ma&apos;irdeidetri" place="1" />
@@ -210611,6 +210690,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="frightening" valsi="selte&apos;a" />
 <nlword word="scary" valsi="selte&apos;a" />
 <nlword word="tremendous" sense="big and feared" valsi="selte&apos;abra" />
+<nlword word="terrorism" sense="committing terrorist acts" valsi="selte&apos;azeizu&apos;e" />
+<nlword word="terrorist" sense="terrorist" valsi="selte&apos;azeizu&apos;e" />
 <nlword word="lock" sense="seal" valsi="seltelgau" />
 <nlword word="seal" sense="lock" valsi="seltelgau" />
 <nlword word="root" sense="nth root" valsi="seltenfa" />
@@ -216694,6 +216775,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="automagic" valsi="zmimakfa" />
 <nlword word="autonomic nervous system" valsi="zminirci&apos;e" />
 <nlword word="default choice" valsi="zmiselcu&apos;a" />
+<nlword word="music box" valsi="zmizgita&apos;e" />
 <nlword word="corn field" valsi="zmufoi" />
 <nlword word="maize field" valsi="zmufoi" />
 <nlword word="corn starch" valsi="zmujalna" />
