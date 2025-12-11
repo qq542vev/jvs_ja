@@ -30918,7 +30918,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a moth of species/breed $x_2$</definition>
       <definitionid>74338</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>cf. {nicte} {toldi}</notes>
 </valsi>
 <valsi word="cticinza" type="lujvo">
@@ -38078,6 +38078,26 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <notes>Cf. {seldikca}</notes>
       <glossword word="uncharged" sense="electricity" />
 </valsi>
+<valsi word="dicyclupa" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is an electronic circuit of component/machinery $x_2$ with connections/nodes $x_3$</definition>
+      <definitionid>74407</definitionid>
+      <score>1</score>
+      <notes>cf {dikca} {clupa}</notes>
+</valsi>
+<valsi word="dicycupta'o" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a circuit board with components $x_2$</definition>
+      <definitionid>74408</definitionid>
+      <score>1</score>
+      <notes>cf. {dikca} {clupa} {tanbo}  See also {dicyclupa}</notes>
+</valsi>
 <valsi word="dicydinfanza" type="lujvo">
   <user>
     <username>merrybot</username>
@@ -39587,7 +39607,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is jiaozi/gyoza with filling $x_2$.</definition>
       <definitionid>74405</definitionid>
-      <score>1</score>
+      <score>3</score>
       <notes>Same frame as {pelmeni}. From Mandarin jiǎozi.</notes>
       <glossword word="gyoza" />
       <glossword word="jiaozi" />
@@ -58837,7 +58857,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is a lightbulb/light bulb made of $x_2$</definition>
       <definitionid>74369</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>alternative to {dicybo&apos;i}, possibly more intuitive</notes>
       <glossword word="light bulb" sense="light emitter" />
       <glossword word="lightbulb" sense="light emitter" />
@@ -66820,18 +66840,6 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <glossword word="clock direction" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" />
       <glossword word="clock orientation" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" />
       <glossword word="clock position" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" />
-</valsi>
-<valsi word="jgauzi" type="fu'ivla">
-  <user>
-    <username>mati</username>
-    <realname>mati</realname>
-  </user>
-      <definition>($x_1$: deprecated; moved to djauzi.)</definition>
-      <definitionid>74254</definitionid>
-      <score>2</score>
-      <glossword word="dumpling" sense="gyoza, jiaozi" />
-      <glossword word="gyoza" />
-      <glossword word="jiaozi" />
 </valsi>
 <valsi word="jgegau" type="lujvo">
   <user>
@@ -78367,17 +78375,6 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <notes>Cf. {gusminli}, {darno}.</notes>
       <glossword word="kilometer" />
       <glossword word="kilometre" />
-</valsi>
-<valsi unofficial="true" word="kipsi" type="experimental gismu">
-  <user>
-    <username>k1234567890y</username>
-    <realname>k1234567890y</realname>
-  </user>
-      <definition>$x1$ keeps/raises $x2$ [animals] in sty/stall/stale/pen $x3$ for purpose $x4$</definition>
-      <definitionid>70430</definitionid>
-      <score>1</score>
-      <glossword word="keep" sense="of livestock" />
-      <glossword word="raise" sense="of livestock" />
 </valsi>
 <valsi word="kirbibaitni" type="fu'ivla">
   <user>
@@ -118538,17 +118535,6 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
       <glossword word="comment" />
       <glossword word="remark" sense="comment" />
 </valsi>
-<valsi word="pinkipai" type="fu'ivla">
-  <user>
-    <username>selpahi</username>
-    <realname>Lorenzo Von Matterhorn</realname>
-  </user>
-      <definition>$x_1$ is Pinkie Pie from My Little Pony</definition>
-      <definitionid>20714</definitionid>
-      <score>1</score>
-      <notes>Also: flatacai ~ Fluttershy; tu&apos;ailspake ~ Twilight Sparkle, but jbovlastes morphology checker is not up to date, so this word can&apos;t be entered into the database yet. It&apos;s morphologically fine by today&apos;s standards, however, so feel free to use tu&apos;ailspake.</notes>
-      <glossword word="Pinkie Pie" />
-</valsi>
 <valsi word="pino" type="cmavo-compound">
   <selmaho>PA*</selmaho>
   <user>
@@ -121883,7 +121869,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is a non-binary parent of $x_2$ [not necessarily biological].</definition>
       <definitionid>56858</definitionid>
-      <score>6</score>
+      <score>5</score>
       <notes>See discussion associated with &quot;{dinti}&quot; concerning whether this meaning is restricted to &quot;affirmatively nonbinary&quot; or whether it is more general. Specifies &quot;{rirni}&quot; so as to be co-equal to but neither &quot;{patfu}&quot; nor &quot;{mamta}&quot;. See also: &quot;{dinti}&quot;, &quot;{rirni}&quot;, &quot;{mamta}&quot;, &quot;{patfu}&quot;, &quot;{nunmu}&quot;.</notes>
       <glossword word="non-binary parent" />
 </valsi>
@@ -176182,6 +176168,16 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <keyword word="walled from" place="3" />
       <keyword word="wall" place="4" />
 </valsi>
+<valsi word="velbotsu'i" type="lujvo">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x_1$ is a &quot;bottlecap sumti&quot;: an argument in the definition of selbri $x_2$ that may not always exist</definition>
+      <definitionid>74406</definitionid>
+      <score>2</score>
+      <notes>examples: x4 of {botpi}, x2 of {canre}</notes>
+</valsi>
 <valsi word="velcange" type="lujvo">
   <user>
     <username>brtais</username>
@@ -182651,7 +182647,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is cash</definition>
       <definitionid>70432</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>from {xance} + {jdini}</notes>
       <glossword word="cash" />
 </valsi>
@@ -193256,7 +193252,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ is a music box.</definition>
       <definitionid>74404</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Literally &apos;auto-music-box&apos;. Unary {pipno} frame. Coined by Mati and janbe.</notes>
       <glossword word="music box" />
 </valsi>
@@ -202149,7 +202145,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="clock direction" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
 <nlword word="clock orientation" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
 <nlword word="clock position" sense="indicating the position of a point by overlaying an imaginary clockface over one&apos;s horizontal circumference" valsi="jgaunla" />
-<nlword word="dumpling" sense="gyoza, jiaozi" valsi="jgauzi" />
 <nlword word="tie" sense="make a knot in" valsi="jgegau" />
 <nlword word="knot" valsi="jgena" />
 <nlword word="pretzel" sense="foodstuff" valsi="jgenanba" place="1" />
@@ -203428,8 +203423,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="kiloparsec" valsi="ki&apos;ortanminli" />
 <nlword word="kilometer" valsi="ki&apos;otre" />
 <nlword word="kilometre" valsi="ki&apos;otre" />
-<nlword word="keep" sense="of livestock" valsi="kipsi" />
-<nlword word="raise" sense="of livestock" valsi="kipsi" />
 <nlword word="kibibyte" valsi="kirbibaitni" />
 <nlword word="kibibit" valsi="kirbibitni" />
 <nlword word="Cyprus" sense="island" valsi="kirbosu" />
@@ -208147,7 +208140,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="prepuce" valsi="pinjyskapi" />
 <nlword word="comment" valsi="pinka" />
 <nlword word="remark" sense="comment" valsi="pinka" />
-<nlword word="Pinkie Pie" valsi="pinkipai" />
 <nlword word="none of" valsi="pino" />
 <nlword word="rank" sense="of chessboard" valsi="pinpau" />
 <nlword word="row" sense="of table" valsi="pinpau" />
