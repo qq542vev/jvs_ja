@@ -8172,7 +8172,7 @@
   </user>
       <definition>$x_1$ is a slug/snail of species/variety $x_2$</definition>
       <definitionid>74188</definitionid>
-      <score>3</score>
+      <score>4</score>
       <glossword word="slug" sense="slimy invertebrate" />
       <glossword word="snail" sense="slimy invertebrate" />
       <keyword word="slug" place="1" sense="slimy invertebrate" />
@@ -22513,7 +22513,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$x_1$ is a frog/toad of species/variety $x_2$</definition>
       <definitionid>74179</definitionid>
-      <score>3</score>
+      <score>4</score>
       <glossword word="frog" sense="tailless amphibian" />
       <glossword word="toad" sense="tailless amphibian" />
 </valsi>
@@ -25045,7 +25045,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a scorpion/vinegaroon (stinging arachnid) of species/variety $x_2$</definition>
       <definitionid>74181</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="scorpion" sense="stinging arachnid" />
       <keyword word="scorpion" place="1" sense="stinging arachnid" />
 </valsi>
@@ -28146,7 +28146,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a mite/louse/aphid (tiny arthropod) of species/variety $x_2$</definition>
       <definitionid>74184</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="aphid" sense="tiny arthropod" />
       <glossword word="louse" sense="tiny arthropod" />
       <glossword word="mite" sense="tiny arthropod" />
@@ -62219,7 +62219,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1$ is a locust/grasshopper/cricket of species/variety $x_2$</definition>
       <definitionid>74187</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>&quot;locust&quot;, any hopping and/or agriculturally destructive arthropod</notes>
       <glossword word="cricket" sense="arthropod" />
       <glossword word="grasshopper" sense="arthropod" />
@@ -62653,7 +62653,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1$ is an octopus/squid/nautilus of species/variety $x_2$</definition>
       <definitionid>74189</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="nautilus" sense="cephalopod" />
       <glossword word="octopus" sense="cephalopod" />
       <glossword word="squid" sense="cephalopod" />
@@ -69755,7 +69755,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1$ is a jellyfish/sea jelly/medusa/cnidarian of species/variety $x_2$</definition>
       <definitionid>74178</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="cnidarian" sense="member of Cnidaria" />
       <glossword word="jellyfish" sense="cnidarian" />
       <glossword word="medusa" sense="jellyfish" />
@@ -75325,7 +75325,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a crab of species/variety $x_2$</definition>
       <definitionid>74182</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="crab" sense="crustacean" />
       <keyword word="crab" place="1" sense="crustacean" />
 </valsi>
@@ -75678,7 +75678,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a raptor/bird of prey of species/variety $x_2$</definition>
       <definitionid>74191</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="bird of prey" sense="flying predatory bird" />
       <glossword word="raptor" sense="bird of prey" />
       <keyword word="bird of prey" place="1" sense="flying predatory bird" />
@@ -80863,7 +80863,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is a coral/barnacle (hard, sessile marine animal) of species/variety $x_2$</definition>
       <definitionid>74190</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="barnacle" sense="hard sessile animal" />
       <glossword word="coral" sense="hard sessile animal" />
       <keyword word="coral" place="1" sense="hard sessile animal" />
@@ -81279,6 +81279,19 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <definitionid>66045</definitionid>
       <score>2</score>
       <glossword word="kraken" />
+</valsi>
+<valsi word="krakida" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a guan/curassow/chacalaca (bird in family Cracidae) of species/variety $x_2$.</definition>
+      <definitionid>74409</definitionid>
+      <score>1</score>
+      <notes>From scientific family name Cracidae, de-pluralized back into cracida and loaned in with a hard c.</notes>
+      <glossword word="chacalaca" />
+      <glossword word="curassow" />
+      <glossword word="guan" />
 </valsi>
 <valsi word="krakozabra" type="fu'ivla">
   <user>
@@ -86067,7 +86080,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is a lizard of species/variety $x_2$</definition>
       <definitionid>73764</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Not necessarily phylogenetic; most likely reptilian but could theoretically refer loosely to e.g. salamanders, other lizard-shaped animals</notes>
       <glossword word="lizard" sense="non-serpentine squamate reptile" />
       <glossword word="salamander" sense="lizard-like amphibian" />
@@ -91869,7 +91882,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
   </user>
       <definition>$x_1$ is an owl (nocturnal bird of prey) of species/variety $x_2$</definition>
       <definitionid>74183</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="owl" sense="nocturnal bird of prey" />
       <keyword word="owl" place="1" sense="nocturnal bird of prey" />
 </valsi>
@@ -168887,7 +168900,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1$ is a turtle/tortoise (shelled reptile) of species/variety $x_2$</definition>
       <definitionid>74177</definitionid>
-      <score>3</score>
+      <score>4</score>
       <glossword word="tortoise" sense="shelled reptile" />
       <glossword word="turtle" sense="shelled reptile" />
 </valsi>
@@ -183228,7 +183241,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is a starfish/sea star/sand dollar (radially symmetric invertebrate) of species/variety $x_2$</definition>
       <definitionid>74186</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="sea star" sense="radially symmetric invertebrate" />
       <glossword word="starfish" sense="radially symmetric invertebrate" />
       <keyword word="starfish" place="1" sense="radially symmetric invertebrate" />
@@ -186088,7 +186101,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is a sea cucumber of species/variety $x_2$</definition>
       <definitionid>74185</definitionid>
-      <score>2</score>
+      <score>3</score>
       <glossword word="sea cucumber" />
       <keyword word="sea cucumber" place="1" />
 </valsi>
@@ -203683,6 +203696,9 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="normative principle" sense="generalized" valsi="kraili" />
 <nlword word="personal right" sense="generalized" valsi="kraili" />
 <nlword word="kraken" valsi="krakene" />
+<nlword word="chacalaca" valsi="krakida" />
+<nlword word="curassow" valsi="krakida" />
+<nlword word="guan" valsi="krakida" />
 <nlword word="krakozyabry" valsi="krakozabra" />
 <nlword word="mojibake" valsi="krakozabra" />
 <nlword word="person" sense="legal" valsi="krali" />
