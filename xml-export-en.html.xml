@@ -8170,11 +8170,10 @@
     <username>dalgimbehe</username>
     <realname>dalgimbehe mleselbau</realname>
   </user>
-      <definition>$x_1$ is a slug/snail of species/variety $x_2$</definition>
+      <definition>$x_1$ is a slug of species/variety $x_2$</definition>
       <definitionid>74188</definitionid>
       <score>4</score>
       <glossword word="slug" sense="slimy invertebrate" />
-      <glossword word="snail" sense="slimy invertebrate" />
       <keyword word="slug" place="1" sense="slimy invertebrate" />
 </valsi>
 <valsi word="basme'e" type="lujvo">
@@ -11534,6 +11533,18 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <notes>See also {pamjai}.</notes>
       <glossword word="hug, embrace" />
 </valsi>
+<valsi word="birjaktu" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a squid of species/type $x2$</definition>
+      <definitionid>74430</definitionid>
+      <score>2</score>
+      <notes>From {birka} {jaktu} for their typically long, distinctive arms.</notes>
+      <glossword word="squid" />
+      <keyword word="squid" place="1" />
+</valsi>
 <valsi word="birjanco" type="lujvo">
   <user>
     <username>djeikyb</username>
@@ -11844,6 +11855,17 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <notes>Often written as &quot;8tcan&quot;.</notes>
       <glossword word="8chan" sense="website" />
 </valsi>
+<valsi unofficial="true" word="bitco" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a beetle of species/variety $x2$</definition>
+      <definitionid>74418</definitionid>
+      <score>2</score>
+      <glossword word="beetle" />
+      <keyword word="beetle" place="1" />
+</valsi>
 <valsi word="bitkoine" type="fu'ivla">
   <user>
     <username>selpahi</username>
@@ -12009,6 +12031,18 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <definitionid>1390</definitionid>
       <score>100000</score>
       <glossword word="old information" />
+</valsi>
+<valsi word="bivjaktu" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is an octopus of species/type $x2$</definition>
+      <definitionid>74429</definitionid>
+      <score>2</score>
+      <notes>From {bi} {jaktu}.</notes>
+      <glossword word="octopus" />
+      <keyword word="octopus" place="1" />
 </valsi>
 <valsi word="bivjetka'u" type="lujvo">
   <user>
@@ -13691,6 +13725,22 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <score>4</score>
       <notes>See {bolci} {kelci}</notes>
       <glossword word="play ball" />
+</valsi>
+<valsi word="bolmunpi" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is an woodlouse/isopod/pill bug/slater of species/morph $x2$</definition>
+      <definitionid>74426</definitionid>
+      <score>1</score>
+      <notes>From {bolci} {munpi}.  Note this animal has many common names, and not all are included.</notes>
+      <glossword word="isopod" />
+      <glossword word="pillbug" />
+      <glossword word="roly-poly" sense="isopod" />
+      <glossword word="slater" sense="isopod" />
+      <glossword word="woodlouse" sense="isopod" />
+      <keyword word="woodlouse" place="1" sense="isopod" />
 </valsi>
 <valsi word="bolplita" type="lujvo">
   <user>
@@ -22256,6 +22306,19 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>Tame (= {tolcilce}).  See also {pinfu}, {panpi}, {tarti}.</notes>
       <glossword word="wild" />
 </valsi>
+<valsi unofficial="true" word="cilga" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a shrimp/crayfish/lobster of species/variety $x2$</definition>
+      <definitionid>74422</definitionid>
+      <score>2</score>
+      <glossword word="crayfish" />
+      <glossword word="lobster" />
+      <glossword word="shrimp" sense="animal" />
+      <keyword word="shrimp" place="1" sense="animal" />
+</valsi>
 <valsi word="ciljongau" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -23051,6 +23114,24 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <score>100001</score>
       <notes>Also: $x_1$ courts/flirts; $x_3$ could be a ka[gender or role], ka[attraction to a gender], or ka[type of activity], etc.; (adjective:) $x_1$ is sexual/sexy; $x_1$ is flirted with/courted by $x_2$ (= {cinfriti}, {cinjikca}). Cf. {gletu}, {pinji}, {plibu}, {vibna}, {vlagi}.</notes>
       <glossword word="sexual" />
+</valsi>
+<valsi word="cinseiaui" type="fu'ivla">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x_1$ is gay/achillean</definition>
+      <definitionid>74415</definitionid>
+      <score>1</score>
+</valsi>
+<valsi word="cinseiuri" type="fu'ivla">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x_1$ is lesbian/sapphic</definition>
+      <definitionid>74414</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="cinta" type="gismu">
   <user>
@@ -45681,11 +45762,11 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
     <username>mati</username>
     <realname>mati</realname>
   </user>
-      <definition>$x_1$ is a prefix for (meaning, word) $x_2$.</definition>
+      <definition>$x_1$ is a suffix for (meaning, word) $x_2$.</definition>
       <definitionid>74377</definitionid>
       <score>1</score>
       <notes>... with form/properties $x_3$ in language $x_4$, if you like the higher places of {rafsi}. This word is a shorter equivalent of {selyli&apos;erafsi}; see also {li&apos;enrafsi} &apos;prefix&apos;.</notes>
-      <glossword word="prefix" />
+      <glossword word="suffix" />
 </valsi>
 <valsi word="famselre'e" type="lujvo">
   <user>
@@ -61214,6 +61295,18 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <glossword word="race" sense="breed, species" />
       <glossword word="strain" sense="lineage" />
 </valsi>
+<valsi word="irmu" type="fu'ivla">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is an emu (specifically dromaius novaehollandiae) of breed $x2$</definition>
+      <definitionid>74432</definitionid>
+      <score>2</score>
+      <notes>See also {sirmu}</notes>
+      <glossword word="emu" />
+      <keyword word="emu" place="1" />
+</valsi>
 <valsi word="irnodela" type="fu'ivla">
   <user>
     <username>phma</username>
@@ -75678,7 +75771,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a raptor/bird of prey of species/variety $x_2$</definition>
       <definitionid>74191</definitionid>
-      <score>3</score>
+      <score>4</score>
       <glossword word="bird of prey" sense="flying predatory bird" />
       <glossword word="raptor" sense="bird of prey" />
       <keyword word="bird of prey" place="1" sense="flying predatory bird" />
@@ -75714,6 +75807,18 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <definitionid>70178</definitionid>
       <score>1</score>
       <glossword word="Catalan" sense="Catalan language" />
+</valsi>
+<valsi word="katmunpi" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a centipede of species/variety $x2$</definition>
+      <definitionid>74424</definitionid>
+      <score>1</score>
+      <notes>From hunter myriapod {kalte} {munpi}.</notes>
+      <glossword word="centipede" />
+      <keyword word="centipede" place="1" />
 </valsi>
 <valsi word="katna" type="gismu">
   <rafsi>ka&apos;a</rafsi>
@@ -81287,7 +81392,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is a guan/curassow/chacalaca (bird in family Cracidae) of species/variety $x_2$.</definition>
       <definitionid>74409</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>From scientific family name Cracidae, de-pluralized back into cracida and loaned in with a hard c.</notes>
       <glossword word="chacalaca" />
       <glossword word="curassow" />
@@ -82187,6 +82292,18 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="savory" sense="umami" />
       <glossword word="savoury" sense="umami" />
       <glossword word="umami" />
+</valsi>
+<valsi word="krutace" type="fu'ivla">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a crustacean of species or phylogenetic/taxinomic subcategory $x2$</definition>
+      <definitionid>74431</definitionid>
+      <score>2</score>
+      <notes>Specifically a phylogenetic crustacean.  See also {cilga}, {karki}, {bolmunpi}.</notes>
+      <glossword word="crustacean" />
+      <keyword word="crustacean" place="1" />
 </valsi>
 <valsi word="kruuaiti" type="fu'ivla">
   <user>
@@ -84033,6 +84150,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="empty array" />
       <glossword word="empty sequence" />
 </valsi>
+<valsi word="kutsa'a" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$s_1$ sings karaoke song $s_2$</definition>
+      <definitionid>74433</definitionid>
+      <score>1</score>
+      <notes>cf. {kunti} {sanga}  From the Japanese term kara empty, and oke, short for orchestra.</notes>
+</valsi>
 <valsi word="kutsfeca'u" type="lujvo">
   <user>
     <username>selpahi</username>
@@ -84111,6 +84238,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <notes>{lo} {kutyuenzi} = {lu li&apos;u}. See also {kunti}, {uenzi}, {kutpoi}, {kutysetmima}, {kutlerpoi}, {kutydza}, {zai&apos;o}</notes>
       <glossword word="empty text" />
       <glossword word="empty utterance" />
+</valsi>
+<valsi word="kutyzgimi'i" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$m_1$ is a karaoke machine for playing $m_2$</definition>
+      <definitionid>74434</definitionid>
+      <score>1</score>
+      <notes>cf. {kunti} {zgike} {minji}  From the Japanese term kara empty, and oke, short for orchestra.</notes>
 </valsi>
 <valsi word="ku'u" type="cmavo">
   <selmaho>BAI</selmaho>
@@ -85513,6 +85650,18 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <score>2</score>
       <notes>Mentioned in §12.14 (cll 1.1).</notes>
       <keyword word="sheepdog" place="1" />
+</valsi>
+<valsi unofficial="true" word="langi" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is an eel/lamprey/[long aquatic fish] of species/type $x2$</definition>
+      <definitionid>74423</definitionid>
+      <score>2</score>
+      <glossword word="eel" />
+      <glossword word="lamprey" />
+      <keyword word="eel" place="1" />
 </valsi>
 <valsi word="lanjanbe" type="lujvo">
   <user>
@@ -96825,6 +96974,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <glossword word="1E-6" />
       <glossword word="micro" sense="latin prefix" />
 </valsi>
+<valsi word="miksampau" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition> $x_1$ is a microchip of device/computer $x_2$</definition>
+      <definitionid>74416</definitionid>
+      <score>1</score>
+      <notes>cf. {mikri} {skami} {pagbu}</notes>
+      <glossword word="chip" sense="microchip" />
+</valsi>
 <valsi word="miksini" type="fu'ivla">
   <user>
     <username>phma</username>
@@ -102243,6 +102403,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <definitionid>1859</definitionid>
       <score>100000</score>
       <glossword word="500" />
+</valsi>
+<valsi unofficial="true" word="munpi" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a millipede/centipede/isopod/[many legged terrestrial arthropod] of species/variety $x2$</definition>
+      <definitionid>74412</definitionid>
+      <score>1</score>
+      <glossword word="centipede" />
+      <glossword word="isopod" />
+      <glossword word="millipede" />
 </valsi>
 <valsi word="mu'o" type="cmavo">
   <selmaho>COI</selmaho>
@@ -126610,6 +126782,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <keyword word="index finger" place="1" />
       <keyword word="hand" place="2" sense="body part" />
 </valsi>
+<valsi word="relmunpi" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a millipede of species/variety $x2$</definition>
+      <definitionid>74413</definitionid>
+      <score>1</score>
+      <notes>From {re}+{munpi}, since millipedes have two legs on each segment.</notes>
+      <glossword word="millipede" />
+</valsi>
 <valsi word="relnacmei" type="lujvo">
   <user>
     <username>xorxes</username>
@@ -133123,6 +133306,16 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="cinq-a-sept" />
       <glossword word="cinq-à-sept" />
       <glossword word="happy hour" />
+</valsi>
+<valsi unofficial="true" word="sai'o" type="experimental cmavo">
+  <selmaho>BY</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+      <definition>for letterals: &quot;etc.&quot;, &quot;...&quot;, letteral string omitted here</definition>
+      <definitionid>74435</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="sa'irbi'o" type="lujvo">
   <user>
@@ -144928,6 +145121,20 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="linear momentum" sense="physics" />
       <glossword word="momentum" sense="physics; linear" />
 </valsi>
+<valsi unofficial="true" word="sirmu" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is an emu/ostrich/cassowary/[ratite bird] of species/breed $x2$</definition>
+      <definitionid>74420</definitionid>
+      <score>1</score>
+      <glossword word="cassowary" sense="bird" />
+      <glossword word="emu" />
+      <glossword word="ostrich" />
+      <glossword word="ratite" sense="bird" />
+      <keyword word="emu" place="1" />
+</valsi>
 <valsi word="sirsunla" type="lujvo">
   <user>
     <username>Yanis</username>
@@ -145270,6 +145477,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>100001</score>
       <notes>A skirted garment may be full length ({pastu}), but must hang below the waist from support above or at the waist.  See also {taxfu}, {palku}.</notes>
       <glossword word="skirt" />
+</valsi>
+<valsi word="skacyjaktu" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a cuttlefish of species/type $x2$</definition>
+      <definitionid>74428</definitionid>
+      <score>1</score>
+      <notes>From {skaci} {jaktu}</notes>
+      <glossword word="cuttlefish" />
+      <keyword word="cuttlefish" place="1" />
 </valsi>
 <valsi word="skadu'i" type="lujvo">
   <user>
@@ -158814,6 +159033,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>A tile is a 3-dimensional object, relatively uniform and significant in the 3rd dimension, but thin enough that its shape in the the other two dimensions is a significant feature; &apos;city block&apos; is conceptually a tile; polygon (= {taplytai} or {kardytai} - shaped like an approximately-2-dimensional block, {lijyclupa} - a loop composed of lines).  (cf. {bliku}, {kubli}, {matci}; {karda}, for which the 3rd dimension is insignificant, {bliku}, {kurfa}, {matci}, {plita}, {tarmi})</notes>
       <glossword word="tile" />
 </valsi>
+<valsi word="taplylatci" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a lizard of species/breed $x2$</definition>
+      <definitionid>74427</definitionid>
+      <score>1</score>
+      <notes>From {tapla} (scaled) latci (lizard).  Note this is description of form, and may not match any phylogenetic category.  This is specifically scaled lizards, compared to latci which could include salamanders (see {xullylatci}).</notes>
+      <glossword word="lizard" sense="animal" />
+      <keyword word="lizard" place="1" sense="animal" />
+</valsi>
 <valsi word="tapsni" type="lujvo">
   <user>
     <username>totus</username>
@@ -159680,6 +159911,20 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>See: {tcadu}, {kamni}.</notes>
       <glossword word="city council" />
       <glossword word="town board" />
+</valsi>
+<valsi unofficial="true" word="tcame" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a clam/mussel/scallop/[bivalve] of species/variety $x2$</definition>
+      <definitionid>74419</definitionid>
+      <score>2</score>
+      <glossword word="bivalve" sense="animal" />
+      <glossword word="clam" />
+      <glossword word="mussel" />
+      <glossword word="scallop" />
+      <keyword word="clam" place="1" />
 </valsi>
 <valsi word="tcamoru" type="fu'ivla">
   <user>
@@ -187109,6 +187354,18 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <keyword word="smoother" place="1" sense="agent of smoothing" />
       <keyword word="smoothed" place="2" sense="object of smoothing" />
 </valsi>
+<valsi word="xulylatci" type="lujvo">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a salamander of species/variety $x2$</definition>
+      <definitionid>74425</definitionid>
+      <score>1</score>
+      <notes>From smooth lizard {xutla} {latci}.  Note that this is in form, and not necessarily phylogenetic.</notes>
+      <glossword word="salamander" sense="amphibian" />
+      <keyword word="salamander" place="1" sense="amphibian" />
+</valsi>
 <valsi unofficial="true" word="xumbe" type="experimental gismu">
   <user>
     <username>krtisfranks</username>
@@ -196152,6 +196409,10 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="ballpoint pen" valsi="bolji&apos;openbi" />
 <nlword word="biro" sense="ballpoint pen" valsi="boljipe" />
 <nlword word="play ball" valsi="bolkei" />
+<nlword word="isopod" valsi="bolmunpi" />
+<nlword word="roly-poly" sense="isopod" valsi="bolmunpi" />
+<nlword word="slater" sense="isopod" valsi="bolmunpi" />
+<nlword word="woodlouse" sense="isopod" valsi="bolmunpi" place="1" />
 <nlword word="basketball" sense="ball" valsi="bolrbasketo" place="1" />
 <nlword word="baseball" sense="ball" valsi="bolrbeiso" place="1" />
 <nlword word="billard ball" valsi="bolrbliiardo" place="1" />
@@ -197096,6 +197357,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="wake up" sense="cause to awaken" valsi="cikygau" />
 <nlword word="alarm clock" valsi="cikyjunla" />
 <nlword word="wild" valsi="cilce" />
+<nlword word="crayfish" valsi="cilga" />
+<nlword word="shrimp" sense="animal" valsi="cilga" place="1" />
 <nlword word="tie" sense="attach by string" valsi="ciljongau" />
 <nlword word="propane" valsi="cilkane" />
 <nlword word="moist" valsi="cilmo" />
@@ -203138,6 +203401,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="raptor" sense="bird of prey" valsi="katcpi" />
 <nlword word="predator" sense="biology" valsi="katcti" />
 <nlword word="katakana" valsi="katkana" />
+<nlword word="centipede" valsi="katmunpi" place="1" />
 <nlword word="cut" valsi="katna" />
 <nlword word="cathode" valsi="katxodi" />
 <nlword word="hound" valsi="katyge&apos;u" />
@@ -205539,6 +205803,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="doctor" valsi="mikce" />
 <nlword word="1E-6" valsi="mikri" />
 <nlword word="micro" sense="latin prefix" valsi="mikri" />
+<nlword word="chip" sense="microchip" valsi="miksampau" />
 <nlword word="duration" sense="quantity in microseconds" valsi="miksnidu" place="2" />
 <nlword word="microwave" sense="oven" valsi="mikybontoknu" />
 <nlword word="microday" sense="millionth of a day unit" valsi="mikydje" />
@@ -209081,6 +209346,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Captain" sense="army rank in USA India UK" valsi="relmoija&apos;a" />
 <nlword word="Flight Lieutenant" sense="air force rank in India UK" valsi="relmoija&apos;a" />
 <nlword word="Lieutenant" sense="naval rank in USA India UK" valsi="relmoija&apos;a" />
+<nlword word="millipede" valsi="relmunpi" />
 <nlword word="vector" sense="2-dimensional" valsi="relnacmei" />
 <nlword word="biromantic" valsi="relpamcinse" />
 <nlword word="welwitschia" valsi="relpezvi&apos;ospa" place="1" />
@@ -211207,6 +211473,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="pole of neusis" valsi="sirjrneuei" />
 <nlword word="linear momentum" sense="physics" valsi="sirmpetu" />
 <nlword word="momentum" sense="physics; linear" valsi="sirmpetu" />
+<nlword word="cassowary" sense="bird" valsi="sirmu" />
+<nlword word="ratite" sense="bird" valsi="sirmu" />
 <nlword word="fur" valsi="sirsunla" />
 <nlword word="sirtaki" sense="dance" valsi="sirtaki" />
 <nlword word="Syrian" valsi="sirxo" />
@@ -213032,6 +213300,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="jackal" valsi="tcakali" />
 <nlword word="city council" valsi="tcakamni" />
 <nlword word="town board" valsi="tcakamni" />
+<nlword word="bivalve" sense="animal" valsi="tcame" />
+<nlword word="scallop" valsi="tcame" />
 <nlword word="station" valsi="tcana" />
 <nlword word="forward in graph" valsi="tcanaba" />
 <nlword word="forward in network" valsi="tcanaba" />
