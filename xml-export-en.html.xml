@@ -13091,6 +13091,16 @@ ni&apos;o Recommended ways to explicitly declare the former (scope of permanent 
       <notes>from {ciblu} + {jisra}</notes>
       <glossword word="plasma" sense="blood" />
 </valsi>
+<valsi word="bluju'emi'i" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a dialysis machine for use/function $x_2$</definition>
+      <definitionid>74437</definitionid>
+      <score>1</score>
+      <notes>cf. {ciblu} {julne} {minji}</notes>
+</valsi>
 <valsi word="blupinxe" type="lujvo">
   <user>
     <username>rlpowell</username>
@@ -79778,6 +79788,15 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <score>1</score>
       <notes>Cf. {cecmu}, {kulnu}, {jikca}, {kulnu}.</notes>
       <glossword word="society" sense="group of people sharing culture" />
+</valsi>
+<valsi word="klugi'u" type="lujvo">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+      <definition>$x_1$ is a cultural gismu</definition>
+      <definitionid>74438</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="klulei" type="lujvo">
   <user>
@@ -161238,6 +161257,17 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>Tibetans had called Everest &quot;Chomolungma&quot; for centuries. A mountain peak may be preceded by the word {cman}(=mount): cman.tcomolunmas.</notes>
       <glossword word="Mount Everest" />
 </valsi>
+<valsi word="tcondari" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a skylark (Alauda arvensis) of variety $x_2$.</definition>
+      <definitionid>74436</definitionid>
+      <score>2</score>
+      <notes>From Korean 종다리 jongdari.</notes>
+      <glossword word="skylark" />
+</valsi>
 <valsi word="tcotu'a" type="lujvo">
   <user>
     <username>totus</username>
@@ -164505,7 +164535,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$n_3=c_1$ makes a reservation $n_2=c_2$ from service provider $n_1=c_3$ by means $c_4$.</definition>
       <definitionid>17396</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {nupre}, {cpedu}.</notes>
       <glossword word="book" sense="make a reservation" />
       <glossword word="hold" sense="reserve" />
@@ -213439,6 +213469,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="llama" valsi="tcokumte" />
 <nlword word="vicuña" valsi="tcokumte" />
 <nlword word="Mount Everest" valsi="tcomolunmas" />
+<nlword word="skylark" valsi="tcondari" />
 <nlword word="South America" valsi="tcotu&apos;a" />
 <nlword word="Chongqing" valsi="tcunCIN" />
 <nlword word="Chungking" valsi="tcunCIN" />
