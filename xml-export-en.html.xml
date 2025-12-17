@@ -21015,7 +21015,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
       <definition>$g_1$ is $g_2$ yard/yards (length unit).</definition>
       <definitionid>17954</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Cf. {ci}, {jamfu}, {gutci}, {degygutci}, {jmagutci}, {birgutci}, {minli}.</notes>
       <glossword word="yard" sense="unit of measurement" />
 </valsi>
@@ -32489,6 +32489,17 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="norm" sense="magnitude, size" />
       <glossword word="size" sense="norm" />
 </valsi>
+<valsi unofficial="true" word="cuspe" type="experimental gismu">
+  <user>
+    <username>dalgimbehe</username>
+    <realname>dalgimbehe mleselbau</realname>
+  </user>
+      <definition>$x1$ is a songbird (e.g. finch/wren/sparrow) of species/breed $x2$</definition>
+      <definitionid>74421</definitionid>
+      <score>1</score>
+      <glossword word="songbird" />
+      <keyword word="songbird" place="1" />
+</valsi>
 <valsi word="custerzi'e" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -35663,7 +35674,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ (event) is dated/pertaining to day/occurring on day $x_2$ of month $x_3$ of year $x_4$ in calendar $x_5$</definition>
       <definitionid>67194</definitionid>
-      <score>9</score>
+      <score>8</score>
       <notes>Moved from {datru} due to conflict with {tatru}. We felt that {detri} just didn&apos;t work as a culturally-independent date system. The use of {pi&apos;e} or {joi} as date mechanisms was insufficient and having the date components built into the place structure seems far more elegant. (Cf. {masti}, {djedi}, {nanca}, {nu}, {fasnu}, {purci}, {balvi}, {jeftu})</notes>
       <glossword word="date" />
       <glossword word="dated" />
@@ -36368,7 +36379,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$g_1$ is $g_2$ inch/inches (length unit).</definition>
       <definitionid>17955</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Cf. {degji}, {gutci}, {jmagutci}, {cibjmagutci}, {birgutci}, {minli}.</notes>
       <glossword word="inch" sense="unit of measurement" />
 </valsi>
@@ -69767,7 +69778,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$g_1$ is $g_2$ international foot/feet (length unit) in length.</definition>
       <definitionid>15583</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>Cf. {jamfu}, {gutci}, {degygutci}, {tapygutci}, {birgutci}, {cibjmagutci}, {minli}.</notes>
       <glossword word="feet" sense="international foot (unit of measurement)" />
       <glossword word="foot" sense="international foot (unit of measurement)" />
@@ -83979,7 +83990,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ is turmeric of species/variety $x_2$.</definition>
       <definitionid>14458</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="turmeric" />
 </valsi>
 <valsi word="kurkycakla" type="lujvo">
@@ -102756,7 +102767,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x1=p1$ transplants $x2=p2=m1$ to the new location $x3=p3=m2$ from origin $x4=m3$</definition>
       <definitionid>70507</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>from {muvdu} + {la&apos;arpu&apos;i}</notes>
       <glossword word="transplants" />
 </valsi>
@@ -133334,7 +133345,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>for letterals: &quot;etc.&quot;, &quot;...&quot;, letteral string omitted here</definition>
       <definitionid>74435</definitionid>
-      <score>1</score>
+      <score>2</score>
 </valsi>
 <valsi word="sa'irbi'o" type="lujvo">
   <user>
@@ -198619,6 +198630,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="norm" sense="magnitude, size" valsi="cusna" />
 <nlword word="size" sense="for/of vector" valsi="cusna" />
 <nlword word="size" sense="norm" valsi="cusna" />
+<nlword word="songbird" valsi="cuspe" place="1" />
 <nlword word="freedom of expression" valsi="custerzi&apos;e" />
 <nlword word="freedom of speech" valsi="custerzi&apos;e" />
 <nlword word="shoe" valsi="cutci" />
