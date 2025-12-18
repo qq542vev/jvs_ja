@@ -87400,6 +87400,20 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <notes>See also {lenku}, {tumla}</notes>
       <glossword word="tundra" />
 </valsi>
+<valsi unofficial="true" word="lelde" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is the particular/specific instance(s) of $x_2$ (ka) relevant to the discourse; $x_1$ is &quot;the&quot; $x_2$</definition>
+      <definitionid>74442</definitionid>
+      <score>1</score>
+      <notes>predicate version of {le}. intended as a possibly less malrarbau alternative to &quot;cu du le&quot; constructions</notes>
+      <glossword word="particular" sense="a specific instance" />
+      <glossword word="the" sense="the relevant instance" />
+      <keyword word="the" place="1" sense="the relevant instance" />
+      <keyword word="particular" place="2" sense="a specific instance" />
+</valsi>
 <valsi unofficial="true" word="lelxe" type="experimental gismu">
   <user>
     <username>VesRul</username>
@@ -96309,7 +96323,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>we; several people including one of the speakers; I (the speaker) and at least one another person (even if that person is one of the speakers too)</definition>
       <definitionid>41434</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>English &quot;we&quot;. {mi&apos;a}, {mi&apos;o} and {ma&apos;a} are more specific cases of {mi&apos;ai}.</notes>
       <glossword word="we" sense="inclusive or exclusive" />
 </valsi>
@@ -204669,6 +204683,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="lexical unit" valsi="leksikosle" />
 <nlword word="quantum state" sense="of electron" valsi="lektoni" place="2" />
 <nlword word="tundra" valsi="lektu&apos;a" />
+<nlword word="particular" sense="a specific instance" valsi="lelde" place="2" />
+<nlword word="the" sense="the relevant instance" valsi="lelde" place="1" />
 <nlword word="lily" sense="plant; genus Lilium" valsi="lelxe" />
 <nlword word="my described as" valsi="lemi" />
 <nlword word="stereotypical representative" valsi="lemkai" />
