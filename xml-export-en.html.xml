@@ -8513,7 +8513,9 @@
 
 ni&apos;o Scope is vague and unspecified without «fi» being declared, but generally by default, if {baunpli} stands out on its own, it means a permanent language switch / change for the remaining text, and if {baunpli} is attached / occurs right after a given cmavo (including «.i» for a single bridi, unless the bridi is on its own and only includes {baunpli} related functionality), it is limited to that cmavo&apos;s group much like the scope of UI attachment.
 
-ni&apos;o Recommended ways to explicitly declare the former (scope of permanent switch): «sei baunpli be fi lo vitno»; and the latter (scope as UI) «sei baunpli be fi lo ki&apos;irmapti be zo .ui».  «fi&apos;o te baunpli» may also be used, especially after cmavo aliases or contractions like {co&apos;i&apos;e} (e.g. «co&apos;i&apos;e fi&apos;o te baunpli lo vitno»), as well as similar, likely shorter constructs, including {ve&apos;u&apos;ai} (for permanent switch) and {ve&apos;i&apos;ai} (for UI scope).</notes>
+ni&apos;o Recommended ways to explicitly declare the former (scope of permanent switch): «sei baunpli be fi lo vitno»; and the latter (scope as UI) «sei baunpli be fi lo ki&apos;irmapti be zo .ui».  «fi&apos;o te baunpli» may also be used, especially after cmavo aliases or contractions like {co&apos;i&apos;e} (e.g. «co&apos;i&apos;e fi&apos;o te baunpli lo vitno»), as well as similar, likely shorter constructs, including {ve&apos;u&apos;ai} (for permanent switch) and {ve&apos;i&apos;ai} (for UI scope).
+
+ni&apos;o See also: {jo&apos;au}.</notes>
       <glossword word="language declaration" sense="specifying language" />
       <glossword word="using language" sense="language declaration" />
 </valsi>
@@ -70011,7 +70013,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>$x_1$ (du&apos;u: proposition or kau-question) can be assigned a definite truth-value or answer</definition>
       <definitionid>67778</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Brivla form of {jo&apos;a}. Note: doesn&apos;t imply truth, just {na&apos;e} {na&apos;itfa}.</notes>
       <glossword word="metalinguistically correct question or proposition" />
 </valsi>
@@ -70023,7 +70025,7 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
   </user>
       <definition>change version/dialect of parser</definition>
       <definitionid>63952</definitionid>
-      <score>8</score>
+      <score>9</score>
       <notes>{do&apos;u} is the elidable terminator. The morphology and the grammar of cmevla/sumti/selbri following {jo&apos;au} should conform to the version 134 of the page ``BPFK Section: PEG Morphology Algorithm&apos;&apos; on the website lojban.org and the official grammar so that a {jo&apos;au} clause forms a free modifier compatible with every version/dialect of lojban parser: for example, ``jo&apos;au jie bu&apos;&apos; and ``jo&apos;au xy xi xei&apos;&apos; are not meaningful clauses. As a standard usage, {jo&apos;au} clause appears at the very beginning of the whole text, just as the inverse of the usage of {fa&apos;o}. The scope of the meaning of {jo&apos;au} clause spans over the following part until the next {jo&apos;au} clause appears. Optionally, if the first {jo&apos;au} clause appears in the middle of a text, the meaning of it spans from the beginning of the text until the next {jo&apos;au} clause appears. Examples of meaning: jo&apos;au cylyly xi papipa (official yacc and jbofi&apos;e http://www.lojban.org/jboski/ ); jo&apos;au camxes (current peg http://camxes.lojban.org/ ); jo&apos;au iocixes (zasni gerna of la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ); jo&apos;au zantufa xi nopipapa (zantufa version 0.11 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ); jo&apos;au ilmentufa xi renopavopi&apos;epapapi&apos;erevo (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ); jo&apos;au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .); jo&apos;au gadganzu (gadri reinterpretation/reassignment proposal, http://mw.lojban.org/papri/zipcpi:_Yet_another_gadri_article ; no grammar changes, only semantic)</notes>
       <glossword word="Lojban parser dialect" />
       <glossword word="Lojban parser version" />
@@ -78051,7 +78053,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
     <username>bairyn</username>
     <realname>Byron Johnson</realname>
   </user>
-      <definition>$x_1=xu_1$ assigns / attributes $x_2=c_1$ to $x_3=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_3$ as $x_2$.</definition>
+      <definition>$x_1=xu_1$ assigns / attributes $x_3=c_1$ to $x_2=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_2$ as $x_3$.</definition>
       <definitionid>73985</definitionid>
       <score>1</score>
       <notes>See also: {smuki&apos;ixu&apos;a} (to define).</notes>
@@ -103528,6 +103530,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <score>3</score>
       <notes>The quantifier negation laws can be stated as: naku ro da zo&apos;u da broda .ijo [su&apos;o] da zo&apos;u da na&apos;ei broda, naku [su&apos;o] da zo&apos;u da broda .ijo ro da zo&apos;u da na&apos;ei broda.  </notes>
 </valsi>
+<valsi unofficial="true" word="na'e'o'e" type="experimental cmavo">
+  <selmaho>NAhE</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+      <definition>vague/elliptical truth value for sumti; whether {je&apos;a}, {na&apos;e}, etc. is applied is unspecified.</definition>
+      <definitionid>74444</definitionid>
+      <score>1</score>
+      <notes>See also: {je&apos;a}, {na&apos;e}, {na&apos;o&apos;e} (for {na}), {cau&apos;e} (alternative synonym), {cau&apos;o&apos;e} (alternative synonym).</notes>
+      <glossword word="vague truth value" sense="sumti" />
+</valsi>
 <valsi word="na'epu'i" type="cmavo-compound">
   <selmaho>CAhA*</selmaho>
   <user>
@@ -105506,6 +105520,18 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <definitionid>1867</definitionid>
       <score>100000</score>
       <glossword word="typically" />
+</valsi>
+<valsi unofficial="true" word="na'o'e" type="experimental cmavo">
+  <selmaho>NA</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+      <definition>vague/elliptical truth value for selbri; whether {ja&apos;a}, {na}, etc. is applied is unspecified.</definition>
+      <definitionid>74443</definitionid>
+      <score>1</score>
+      <notes>See also: {ja&apos;a}, {na}, {na&apos;e&apos;o&apos;e} (for {na&apos;e}), {cau&apos;a} (alternative synonym), {xu&apos;o&apos;e} (alternative synonym).</notes>
+      <glossword word="vague truth value" sense="selbri" />
 </valsi>
 <valsi unofficial="true" word="na'oi" type="experimental cmavo">
   <selmaho>CAI</selmaho>
@@ -147440,12 +147466,12 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
     <username>bairyn</username>
     <realname>Byron Johnson</realname>
   </user>
-      <definition>$x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_2=c_1=s_1$ to $x_3=c_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.</definition>
+      <definition>$x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_3=c_1=s_1$ to $x_2=c_2=s_2$; $x_1$ defines $x_3$ to be $x_2$.</definition>
       <definitionid>74029</definitionid>
       <score>1</score>
-      <notes>Synonym: {xu&apos;asmu}.  See also: {ki&apos;irxu&apos;a} (to assign / attribute).</notes>
-      <glossword word="assign meaning" sense="define" />
-      <glossword word="define" />
+      <notes>Synonym: te {xu&apos;asmu}.  See also: {ki&apos;irxu&apos;a} (to assign / attribute).</notes>
+      <glossword word="assign meaning" sense="assign definition" />
+      <glossword word="define" sense="assign meaning" />
       <keyword word="definition" place="2" sense="meaning" />
 </valsi>
 <valsi word="smuni" type="gismu">
@@ -187225,10 +187251,11 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
     <username>bairyn</username>
     <realname>Byron Johnson</realname>
   </user>
-      <definition>$x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_3$.</definition>
+      <definition>$x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_1$.</definition>
       <definitionid>74030</definitionid>
       <score>1</score>
-      <notes>Synonym: {smuki&apos;ixu&apos;a} (to define).</notes>
+      <notes>Synonym: te {smuki&apos;ixu&apos;a} (to define).</notes>
+      <glossword word="definition" sense="assigned meaning" />
       <glossword word="definition" sense="meaning" />
       <keyword word="definition" place="1" sense="meaning" />
 </valsi>
@@ -206703,6 +206730,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="scalar contrary" valsi="na&apos;e" />
 <nlword word="something other than" valsi="na&apos;ebo" />
 <nlword word="not towards point" valsi="na&apos;efa&apos;a" />
+<nlword word="vague truth value" sense="sumti" valsi="na&apos;e&apos;o&apos;e" />
 <nlword word="has never" valsi="na&apos;epu&apos;i" />
 <nlword word="counterexample" sense="of a property" valsi="nafmupli" />
 <nlword word="exception" sense="special case" valsi="nafselte&apos;i" place="1" />
@@ -206977,6 +207005,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="1E-9" valsi="nanvi" />
 <nlword word="nano" valsi="nanvi" />
 <nlword word="typically" valsi="na&apos;o" />
+<nlword word="vague truth value" sense="selbri" valsi="na&apos;o&apos;e" />
 <nlword word="moderate emotion" valsi="na&apos;oi" />
 <nlword word="atypically" valsi="na&apos;onai" />
 <nlword word="insufficient" valsi="narbanzu" />
@@ -211805,7 +211834,10 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="refer" sense="make a reference to" valsi="smugau" />
 <nlword word="close in meaning" valsi="smujbi" />
 <nlword word="understand" sense="meaning" valsi="smujmi" />
+<nlword word="assign meaning" sense="assign definition" valsi="smuki&apos;ixu&apos;a" />
 <nlword word="assign meaning" sense="define" valsi="smuki&apos;ixu&apos;a" />
+<nlword word="define" sense="assign meaning" valsi="smuki&apos;ixu&apos;a" />
+<nlword word="definition" sense="meaning" valsi="smuki&apos;ixu&apos;a" place="2" />
 <nlword word="meaning" valsi="smuni" />
 <nlword word="semantic" valsi="smuske" />
 <nlword word="semantics" valsi="smuske" />
@@ -216421,7 +216453,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="branch cut" sense="mathematics" valsi="xua&apos;ai" />
 <nlword word="principal branch" sense="mathematics" valsi="xua&apos;ai" />
 <nlword word="let" sense="let there be" valsi="xu&apos;ai" />
-<nlword word="definition" sense="meaning" valsi="xu&apos;asmu" place="1" />
+<nlword word="definition" sense="assigned meaning" valsi="xu&apos;asmu" />
 <nlword word="rhubarb" sense="genus Rheum" valsi="xubrnre&apos;u" />
 <nlword word="dock" sense="genus Rumex" valsi="xubrnrumeksa" />
 <nlword word="sorrel" sense="genus Rumex" valsi="xubrnrumeksa" />
