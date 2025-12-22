@@ -12663,7 +12663,7 @@ ni&apos;o See also: {jo&apos;au}.</notes>
   </user>
       <definition>$x_1=c_1$ is a dock located on / at $x_2=c_2$ connecting boat / vessel $x_3=c_3=b_1$ to $x_4=c_4$</definition>
       <definitionid>72558</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>x2 is probably a body of water, but not necessarily (consider air ships or space vessels).  A gangplank is a {zasyblocripu}.  See also: {bloti} {cripu}</notes>
       <glossword word="dock" sense="boat bridge" />
       <keyword word="dock" place="1" sense="boat bridge" />
@@ -12818,6 +12818,16 @@ ni&apos;o See also: {jo&apos;au}.</notes>
       <notes>Cf. {bloti}, {matra}, {grana}, {bloca&apos;ega&apos;a}, {blofanga&apos;a}, {blopinfanga&apos;a}, {blocpuga&apos;a}, {blofarga&apos;a}.</notes>
       <glossword word="driveshaft" sense="for boat propeller" />
       <glossword word="shaft" sense="for boat propeller" />
+</valsi>
+<valsi word="blomra" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$m_1$ is a harbor/harbour/port, protecting $m_2$ from danger/threat $m_3$</definition>
+      <definitionid>74445</definitionid>
+      <score>1</score>
+      <notes>cf. {bloti} {marbi}  See also {blocripu} for dock.</notes>
 </valsi>
 <valsi word="blomuvga'a" type="lujvo">
   <user>
