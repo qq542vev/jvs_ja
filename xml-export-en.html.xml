@@ -79329,6 +79329,17 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="member of category" />
       <glossword word="member of class" />
 </valsi>
+<valsi word="klegeni" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ has $x_2$ (ka) as their gender; $x_1$ identifies as gender $x_2$.</definition>
+      <definitionid>74447</definitionid>
+      <score>1</score>
+      <notes>From -kle- (&lt; {klesi}) and the ending of {trangeni}, {singeni}. The -geni ending is ultimately from Latin genus and its descendants (cf. English gender).</notes>
+      <glossword word="gender" />
+</valsi>
 <valsi word="kleide" type="fu'ivla">
   <user>
     <username>krtisfranks</username>
@@ -203859,6 +203870,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="nigella" valsi="klaunji" />
 <nlword word="piano" sense="narrow sense" valsi="klavile" />
 <nlword word="clavier" valsi="klavire" />
+<nlword word="gender" valsi="klegeni" />
 <nlword word="clade" sense="monophyletic class" valsi="kleide" />
 <nlword word="category" sense="of member" valsi="kleinzu" />
 <nlword word="class" sense="of member" valsi="kleinzu" />
