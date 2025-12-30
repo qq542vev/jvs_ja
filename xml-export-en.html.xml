@@ -2731,7 +2731,7 @@
   </user>
       <definition>$x_1$ is a quantity of aspirin (drug/medication)</definition>
       <definitionid>67651</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {crofanta}, {micyxu&apos;i}</notes>
       <glossword word="aspirin" />
 </valsi>
@@ -20808,6 +20808,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>Cf. {bijyjbu}.</notes>
       <glossword word="writing desk" />
 </valsi>
+<valsi word="ci'angu" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a shiitake/shitake mushroom (Lentinula edodes) of variety $x_2$.</definition>
+      <definitionid>74451</definitionid>
+      <score>2</score>
+      <notes>From Mandarin Chinese 香菇 xiānggū.</notes>
+      <glossword word="shiitake" />
+      <glossword word="shitake" />
+</valsi>
 <valsi word="ci'anti" type="fu'ivla">
   <user>
     <username>selpahi</username>
@@ -30690,7 +30702,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a painkiller for locus (body part) $x_2$</definition>
       <definitionid>67650</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {cortu}, {fanta}, {micyxu&apos;i}, {nircadyxu&apos;i}</notes>
       <glossword word="painkiller" />
 </valsi>
@@ -149467,17 +149479,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="International System of Units" />
       <glossword word="SI" sense="International System of Units" />
 </valsi>
-<valsi unofficial="true" word="sorni" type="experimental gismu">
-  <user>
-    <username>grimles</username>
-    <realname>Kyle Roucis</realname>
-  </user>
-      <definition> $x_1$ (ka) property of $x_2$ is metaphorically sufficient as to be equivalent to $x_3$ (ka).</definition>
-      <definitionid>57348</definitionid>
-      <score>1</score>
-      <notes>This bridges the gap for the English usage of &quot;so&quot; used in hyperbolic/metaphorical equivalence. For example &quot;My shadow is so small, it (virtually) doesn&apos;t exist.&quot;</notes>
-      <glossword word="so" sense="metaphorically equivalent" />
-</valsi>
 <valsi word="sorpa'a" type="lujvo">
   <user>
     <username>synp</username>
@@ -149556,6 +149557,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>Unlike {previnji}, explicitly excludes &quot;light aircraft&quot;. From {so&apos;i}, {prenu}, {vinji}. See {sorprekarce}, {sorpeka}.</notes>
       <glossword word="airliner" />
       <glossword word="large passenger aircraft" />
+</valsi>
+<valsi word="sorsabysai" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a potluck (meal) consisting of $x_2$ </definition>
+      <definitionid>74452</definitionid>
+      <score>2</score>
+      <notes>i.e. a meal consisting of dishes brought by various people</notes>
+      <glossword word="potluck" sense="meal" />
+      <keyword word="potluck" place="1" sense="meal" />
 </valsi>
 <valsi word="sorselcei" type="lujvo">
   <user>
@@ -197305,6 +197318,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="natural number interval" valsi="ci&apos;ai&apos;u" />
 <nlword word="n-set" valsi="ci&apos;ai&apos;u" />
 <nlword word="writing desk" valsi="ci&apos;ajbu" />
+<nlword word="shiitake" valsi="ci&apos;angu" />
+<nlword word="shitake" valsi="ci&apos;angu" />
 <nlword word="blank" sense="containing no writing" valsi="ci&apos;anti" />
 <nlword word="author" valsi="ci&apos;arfi&apos;i" />
 <nlword word="writer" sense="author" valsi="ci&apos;arfi&apos;i" />
@@ -212078,7 +212093,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="multinational" valsi="sornai" />
 <nlword word="International System of Units" valsi="sornai zei raurci&apos;e" />
 <nlword word="SI" sense="International System of Units" valsi="sornai zei raurci&apos;e" />
-<nlword word="so" sense="metaphorically equivalent" valsi="sorni" />
 <nlword word="hope" sense="medium probability" valsi="sorpa&apos;a" />
 <nlword word="loved" sense="set" valsi="sorpa&apos;i" place="2" />
 <nlword word="polyamorous" sense="person" valsi="sorpa&apos;i" place="1" />
@@ -212093,6 +212107,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="bus stop" valsi="sorprekarcytcana" />
 <nlword word="bus terminal" valsi="sorprekarcytcana" />
 <nlword word="large passenger aircraft" valsi="sorprevinji" />
+<nlword word="potluck" sense="meal" valsi="sorsabysai" place="1" />
 <nlword word="polytheist" valsi="sorselcei" />
 <nlword word="dormitory" valsi="sorsipydi&apos;u" />
 <nlword word="colorful" sense="to have many colors" valsi="sorska" />
