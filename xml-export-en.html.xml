@@ -18065,6 +18065,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>Cf. {vanju}, {fomvanju}, {risyvanju}, {xalka}, {koinka}.  For sparkling wines without an AOC designation, use {fomvanju}.</notes>
       <glossword word="champagne" sense="with AOC designation" />
 </valsi>
+<valsi word="campinoni" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a button mushroom/portobello/champignon de Paris of variety $x_2$.</definition>
+      <definitionid>74455</definitionid>
+      <score>1</score>
+      <notes>From French champignon, which just means &apos;mushroom&apos;, but is loaned as meaning specifically &apos;button mushroom&apos; in a few languages. See also {gumri}, {mledi}, {ci&apos;angu}.</notes>
+      <glossword word="button mushroom" />
+</valsi>
 <valsi word="camselci'i" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -38905,7 +38916,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a non-binary/intersexed (probably also can include: asexual, nongendered, indeterminately gendered, gender-fluid, transgendered, two-spirited, alternatively gendered, or affirmatively non-binarily gendered or nongendered/graygendered) individual of species $x_2$ evidencing non-binary gender trait(s) $x_3$ (ka); $x_1$ is characterized by not following or fitting into some gender-binary.</definition>
       <definitionid>56855</definitionid>
-      <score>3</score>
+      <score>2</score>
       <notes>Co-equal to &quot;{fetsi}&quot; and &quot;{nakni}&quot;. Proposed short rafsi: -dit-. See also &quot;{fetsi}&quot;, &quot;{nakni}&quot;, &quot;{nunmu}&quot;.</notes>
       <glossword word="intersex" />
       <glossword word="non-binary" />
@@ -60309,6 +60320,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <notes>See {odla}</notes>
       <glossword word="me" sense="the speaker" />
       <glossword word="the speaker" />
+</valsi>
+<valsi word="imli" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is tamarind of variety $x_2$.</definition>
+      <definitionid>74454</definitionid>
+      <score>1</score>
+      <notes>From Hindi इमली imlī.</notes>
+      <glossword word="tamarind" />
 </valsi>
 <valsi word="impera" type="fu'ivla">
   <user>
@@ -196997,6 +197019,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="romance" sense="intense love" valsi="campa&apos;i" />
 <nlword word="champagne" sense="INAO aprroved" valsi="campania" />
 <nlword word="champagne" sense="with AOC designation" valsi="campania" />
+<nlword word="button mushroom" valsi="campinoni" />
 <nlword word="aficionado" valsi="camselci&apos;i" />
 <nlword word="fan" sense="person" valsi="camselci&apos;i" />
 <nlword word="fan club" valsi="camselci&apos;igri" />
@@ -201828,6 +201851,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="dirk" valsi="ilpofu" />
 <nlword word="me" sense="the speaker" valsi="imla" />
 <nlword word="the speaker" valsi="imla" />
+<nlword word="tamarind" valsi="imli" />
 <nlword word="linear momentum" sense="physics; general" valsi="impetu" />
 <nlword word="momentum" sense="physics" valsi="impetu" />
 <nlword word="quantity of movement" sense="physics" valsi="impetu" />
