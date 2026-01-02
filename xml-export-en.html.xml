@@ -35592,6 +35592,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <keyword word="tape" place="1" sense="data storage" />
       <keyword word="cassette" place="2" sense="tape" />
 </valsi>
+<valsi word="datnysro" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a database of information $x_2$ located on $x_3$</definition>
+      <definitionid>74456</definitionid>
+      <score>1</score>
+      <notes>cf. {datni} {sorcu}</notes>
+</valsi>
 <valsi word="datnyvau" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -159616,7 +159626,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is the way or manner in which activity/event $x_2$ is done/happens</definition>
       <definitionid>38125</definitionid>
-      <score>6</score>
+      <score>7</score>
       <notes>Lojban has always been lacking a gismu for &quot;x1 is the manner of event x2&quot; or similar. Later, {tai} started to be used for it, and then, since a BAI needs a brivla (usually a gismu) to be based on, they invented tamsmi. So {tasmi} is a true brivla for {tai}, the BAI of {tasmi}. Cf. {tai}, {tamsmi}</notes>
       <glossword word="way" sense="manner" />
 </valsi>
