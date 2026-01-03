@@ -39398,6 +39398,17 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <notes>Possibly synonymous to {pagbu}, but may actually have a different nuance.</notes>
       <glossword word="involved" sense="in an event" />
 </valsi>
+<valsi word="djakaranda" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a jacaranda (genus Jacaranda) of species/variety $x_2$.</definition>
+      <definitionid>74458</definitionid>
+      <score>1</score>
+      <notes>From Portuguese jacarandá, with an affricated dj- at the beginning for proper morphology. (Alternatively this is from the Latin name, with an affricate pronunciation of the j.)</notes>
+      <glossword word="jacaranda" />
+</valsi>
 <valsi word="djakare" type="fu'ivla">
   <user>
     <username>phma</username>
@@ -61632,6 +61643,17 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <score>4</score>
       <notes>Synonym of {ca&apos;abna}. See also {izva}.</notes>
       <glossword word="now" />
+</valsi>
+<valsi word="itco" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a ginkgo (Ginkgo biloba) of variety $x_2$.</definition>
+      <definitionid>74457</definitionid>
+      <score>1</score>
+      <notes>From Japanese 銀杏 ichō, borrowed from Mandarin 鴨脚 yājiǎo, lit. &apos;duck&apos;s foot&apos;, in reference to the shape of the leaves.</notes>
+      <glossword word="ginkgo" />
 </valsi>
 <valsi word="itiiopiias" type="cmevla">
   <user>
@@ -99068,10 +99090,11 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
     <username>phma</username>
     <realname>Pierre Abbat</realname>
   </user>
-      <definition>$x_1$ is eggplant of variety $x_2$.</definition>
+      <definition>$x_1$ is an eggplant/aubergine/brinjal of variety $x_2$.</definition>
       <definitionid>15826</definitionid>
-      <score>2</score>
-      <notes>see also {patlu}, {tamca}, {kapsiku}, {labnyjba}</notes>
+      <score>3</score>
+      <notes>From Latin melongena (compare Italian melanzana), a distortion of Arabic bāðinjān. See also {patlu} &apos;potato&apos;, {tamca} &apos;tomato&apos;, {kapsiku} &apos;pepper&apos;, {labnyjba} &apos;wolfberry&apos;.</notes>
+      <glossword word="aubergine" />
       <glossword word="eggplant" />
 </valsi>
 <valsi word="mlopsita" type="fu'ivla">
@@ -199562,6 +199585,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="edible grain" valsi="djagru" />
 <nlword word="daikon" valsi="djaikoni" />
 <nlword word="involved" sense="in an event" valsi="djainu" />
+<nlword word="jacaranda" valsi="djakaranda" />
 <nlword word="curry" sense="food" valsi="djakari" />
 <nlword word="Djarkarta" valsi="djakartas" />
 <nlword word="Jakarta" valsi="djakartas" place="1" />
