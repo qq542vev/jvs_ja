@@ -32335,6 +32335,19 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>100000</score>
       <glossword word="probability selbri" />
 </valsi>
+<valsi unofficial="true" word="cu'oi" type="experimental cmavo">
+  <selmaho>CAhA</selmaho>
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>modal aspect: innate capability; possibly unrealized</definition>
+      <definitionid>74459</definitionid>
+      <score>1</score>
+      <notes>Intended as a replacement for {ka&apos;e} which more clearly demonstrates a link to its predicate godparent {cumki}. If adopted, {ka&apos;e} would remain in CAhA but would be formally defined as semantically equivalent to &quot;kakne co&quot; (as it is very often misinterpreted)</notes>
+      <glossword word="innate capability" sense="alternate" />
+      <keyword word="innate capability" place="1" sense="alternate" />
+</valsi>
 <valsi unofficial="true" word="cu'oi'e" type="experimental cmavo">
   <selmaho>MOI</selmaho>
   <user>
@@ -107651,6 +107664,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <definition>pabykanpystika modal, 1st place (evidence) evidenced by …</definition>
       <definitionid>73993</definitionid>
       <score>1</score>
+      <notes>See also: {ni&apos;i}.</notes>
       <glossword word="evidenced by" sense="scientific evidence" />
 </valsi>
 <valsi word="ni'i ma" type="cmavo-compound">
@@ -142119,6 +142133,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definition>pabykanpystika modal, 2nd place (evidence) evidencing …</definition>
       <definitionid>73994</definitionid>
       <score>1</score>
+      <notes>See also: {seni&apos;i}.</notes>
       <glossword word="evidencing" sense="scientific evidence" />
 </valsi>
 <valsi word="seni'inai" type="cmavo-compound">
@@ -198723,6 +198738,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="affair" valsi="cuntu" />
 <nlword word="random number" valsi="cunyna&apos;u" />
 <nlword word="probability selbri" valsi="cu&apos;o" />
+<nlword word="innate capability" sense="alternate" valsi="cu&apos;oi" place="1" />
 <nlword word="odds selbri" sense="statistical/probabilistic" valsi="cu&apos;oi&apos;e" />
 <nlword word="statistical odds selbri" valsi="cu&apos;oi&apos;e" />
 <nlword word="round trip" sense="travel" valsi="cupli&apos;u" />
