@@ -37145,6 +37145,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <notes>(for metaphor: see {dakfu}, {pagre}, {jgalu}); See also {moklu}, {dakfu}, {pagre}, {jgalu}, {batci}, {bongu}.</notes>
       <glossword word="tooth" />
 </valsi>
+<valsi word="dencilta" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is dental floss of material $x_2$</definition>
+      <definitionid>74474</definitionid>
+      <score>1</score>
+      <notes>cf. {denci} {cilta}</notes>
+</valsi>
 <valsi word="dencro" type="lujvo">
   <user>
     <username>arj</username>
@@ -87565,7 +87575,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <definition>$x_1$ is the particular/specific instance(s) of $x_2$ (ka) relevant to the discourse; $x_1$ is &quot;the&quot; $x_2$</definition>
       <definitionid>74442</definitionid>
       <score>1</score>
-      <notes>predicate version of {le}. intended as a possibly less malrarbau alternative to &quot;cu du le&quot; constructions</notes>
+      <notes>predicate version of {le}. intended as a possibly less malrarbau alternative to &quot;cu du le&quot; constructions. {poi&apos;i} or its common tcekitau {voi} are also an option for this, but lack the &quot;relevant instance&quot; semantic space.</notes>
       <glossword word="particular" sense="a specific instance" />
       <glossword word="the" sense="the relevant instance" />
       <keyword word="the" place="1" sense="the relevant instance" />
@@ -99163,7 +99173,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is an eggplant/aubergine/brinjal of variety $x_2$.</definition>
       <definitionid>15826</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>From Latin melongena (compare Italian melanzana), a distortion of Arabic bāðinjān. See also {patlu} &apos;potato&apos;, {tamca} &apos;tomato&apos;, {kapsiku} &apos;pepper&apos;, {labnyjba} &apos;wolfberry&apos;.</notes>
       <glossword word="aubergine" />
       <glossword word="eggplant" />
