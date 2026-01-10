@@ -71868,6 +71868,15 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <glossword word="reprimand" />
       <glossword word="reproach" />
 </valsi>
+<valsi word="jutcme" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a lifeform taxon (e.g. species…) name of $x_2$.</definition>
+      <definitionid>74476</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="jutcmi" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -92515,6 +92524,18 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <notes>See also {panci}, {nazbi}, {sumne}, {cpina}, {vrusi}.</notes>
       <glossword word="smell" sense="foul odor" />
       <glossword word="stink" sense="smells bad" />
+</valsi>
+<valsi word="malpasobivo" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is Orwellian/&quot;literally 1984&quot; in aspect $x_2$ (ka).</definition>
+      <definitionid>74475</definitionid>
+      <score>1</score>
+      <notes>From -mal- ({mabla} &apos;bad&apos;) + pa so bi vo &apos;1984&apos;.</notes>
+      <glossword word="literally 1984" />
+      <glossword word="Orwellian" />
 </valsi>
 <valsi word="malpli" type="lujvo">
   <user>
@@ -117302,6 +117323,19 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
       <keyword word="subject" place="1" sense="main topic" />
       <keyword word="number" place="2" sense="a quantity" />
       <keyword word="metrical foot" place="3" sense="poetry" />
+</valsi>
+<valsi word="pemvontau" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a pemvontau (quaternary rhyming tanru phrase) with components $x_2$ (set or ce&apos;o sequence)</definition>
+      <definitionid>74477</definitionid>
+      <score>1</score>
+      <notes>usually of form AABA e.g. &quot;cmana cpana galtu zgana&quot;; {ke} may be elided for rhythm</notes>
+      <glossword word="pemvontau" sense="quaternary rhyming tanru" />
+      <keyword word="pemvontau" place="1" sense="quaternary rhyming tanru" />
+      <keyword word="pemvontau elements" place="2" sense="elements of pemvontau phrase" />
 </valsi>
 <valsi word="pemxaiku" type="fu'ivla">
   <user>
@@ -205489,6 +205523,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Malmö" sense="swedish city" valsi="malmys" />
 <nlword word="smell" sense="foul odor" valsi="malpanci" />
 <nlword word="stink" sense="smells bad" valsi="malpanci" />
+<nlword word="literally 1984" valsi="malpasobivo" />
+<nlword word="Orwellian" valsi="malpasobivo" />
 <nlword word="abuse" sense="misuse" valsi="malpli" />
 <nlword word="misuse" valsi="malpli" />
 <nlword word="malicious software" valsi="malsamtci" />
@@ -208538,6 +208574,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="verse" sense="distinct section of poem" valsi="pempau" />
 <nlword word="meter" sense="poetry" valsi="pemsuua" />
 <nlword word="metrical foot" sense="poetry" valsi="pemsuua" place="3" />
+<nlword word="pemvontau" sense="quaternary rhyming tanru" valsi="pemvontau" place="1" />
+<nlword word="pemvontau elements" sense="elements of pemvontau phrase" valsi="pemvontau" place="2" />
 <nlword word="pen" valsi="penbi" />
 <nlword word="touch" valsi="pencu" />
 <nlword word="friend" valsi="pendo" />
